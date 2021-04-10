@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:06:22.953963+02:00",
+  "last_updated": "2021-04-10T19:10:42.078758+02:00",
   "centres_disponibles": [
     {
       "departement": "01",
@@ -49,34 +49,6 @@
       "appointment_count": 15,
       "internal_id": null,
       "gid": "7e4fc7e4"
-    },
-    {
-      "departement": "01",
-      "nom": "Centre de vaccination de Bourg-en-Bresse - Gymnase St Roch",
-      "url": "https://www.maiia.com/centre-de-vaccination/01000-bourg-en-bresse/centre-de-vaccination---gymnase-saint-roch--bourg-en-bresse",
-      "location": {
-        "longitude": 5.22865,
-        "latitude": 46.1944
-      },
-      "metadata": {
-        "address": "20 Rue Charles Demia, 01000 Bourg-en-Bresse",
-        "phone_number": "+33474454076",
-        "business_hours": {
-          "lundi": "09:00-19:00",
-          "mardi": "09:00-19:00",
-          "mercredi": "09:00-19:00",
-          "jeudi": "09:00-19:00",
-          "vendredi": "09:00-19:00",
-          "samedi": "Ferm\u00e9",
-          "dimanche": "Ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-12T18:20:00.000000Z",
-      "plateforme": "Maiia",
-      "type": "vaccination-center",
-      "appointment_count": 67,
-      "internal_id": null,
-      "gid": "78"
     },
     {
       "departement": "01",
@@ -147,6 +119,34 @@
     },
     {
       "departement": "01",
+      "nom": "Centre de vaccination de Bourg-en-Bresse - Gymnase St Roch",
+      "url": "https://www.maiia.com/centre-de-vaccination/01000-bourg-en-bresse/centre-de-vaccination---gymnase-saint-roch--bourg-en-bresse",
+      "location": {
+        "longitude": 5.22865,
+        "latitude": 46.1944
+      },
+      "metadata": {
+        "address": "20 Rue Charles Demia, 01000 Bourg-en-Bresse",
+        "phone_number": "+33474454076",
+        "business_hours": {
+          "lundi": "09:00-19:00",
+          "mardi": "09:00-19:00",
+          "mercredi": "09:00-19:00",
+          "jeudi": "09:00-19:00",
+          "vendredi": "09:00-19:00",
+          "samedi": "Ferm\u00e9",
+          "dimanche": "Ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-26T09:05:00.000000Z",
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 67,
+      "internal_id": null,
+      "gid": "78"
+    },
+    {
+      "departement": "01",
       "nom": "Centre de vaccination du CH d'Oyonnax - Centre hospitalier du Haut Bugey",
       "url": "https://partners.doctolib.fr/hopital-public/oyonnax/centre-de-vaccination-du-centre-hospitalier-du-haut-bugey",
       "location": {
@@ -175,33 +175,6 @@
     },
     {
       "departement": "01",
-      "nom": "Centre de vaccination de Villars-les-Dombes - Halle des Sports",
-      "url": "https://www.maiia.com/centre-de-vaccination/01330-villars-les-dombes/centre-de-vaccination-de-dombes",
-      "location": {
-        "longitude": 5.02565,
-        "latitude": 46.0003
-      },
-      "metadata": {
-        "address": " Rue de Dombes, 01330 Villars-les-Dombes",
-        "business_hours": {
-          "lundi": "09:00-13:00",
-          "mardi": "09:00-13:00",
-          "mercredi": "09:00-13:00",
-          "jeudi": "13:00-17:00",
-          "vendredi": "09:00-13:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-30T11:10:00.000000Z",
-      "plateforme": "Maiia",
-      "type": "vaccination-center",
-      "appointment_count": 19,
-      "internal_id": null,
-      "gid": "2399"
-    },
-    {
-      "departement": "01",
       "nom": "Centre de vaccination de la Plaine de l'Ain - Espace 1500",
       "url": "https://www.maiia.com/centre-de-vaccination/01500-amberieu-en-bugey/centre-de-vaccination-de-la-plaine-de-l-ain",
       "location": {
@@ -224,9 +197,36 @@
       "prochain_rdv": "2021-05-06T14:55:00.000000Z",
       "plateforme": "Maiia",
       "type": "vaccination-center",
-      "appointment_count": 206,
+      "appointment_count": 204,
       "internal_id": null,
       "gid": "1216"
+    },
+    {
+      "departement": "01",
+      "nom": "Centre de vaccination de Villars-les-Dombes - Halle des Sports",
+      "url": "https://www.maiia.com/centre-de-vaccination/01330-villars-les-dombes/centre-de-vaccination-de-dombes",
+      "location": {
+        "longitude": 5.02565,
+        "latitude": 46.0003
+      },
+      "metadata": {
+        "address": " Rue de Dombes, 01330 Villars-les-Dombes",
+        "business_hours": {
+          "lundi": "09:00-13:00",
+          "mardi": "09:00-13:00",
+          "mercredi": "09:00-13:00",
+          "jeudi": "13:00-17:00",
+          "vendredi": "09:00-13:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-07T11:40:00.000000Z",
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 18,
+      "internal_id": null,
+      "gid": "2399"
     }
   ],
   "centres_indisponibles": [

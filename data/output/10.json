@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:06:22.963032+02:00",
+  "last_updated": "2021-04-10T19:10:42.089247+02:00",
   "centres_disponibles": [
     {
       "departement": "10",
@@ -23,10 +23,10 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-18T12:00:00.000+02:00",
+      "prochain_rdv": "2021-04-18T12:06:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 55,
+      "appointment_count": 54,
       "internal_id": "243483[175998]",
       "gid": "2184"
     }
@@ -174,7 +174,7 @@
     },
     {
       "departement": "10",
-      "nom": "MA - US de TROYES / Maison d'Arr\u00eat de Troyes",
+      "nom": "CD - US DE VILLENAUXE LA GRANDE / Maison d'Arr\u00eat de Troyes",
       "url": "",
       "location": {
         "longitude": 4.07753,
@@ -197,7 +197,7 @@
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "1812"
+      "gid": "1810"
     },
     {
       "departement": "10",
@@ -228,7 +228,7 @@
     },
     {
       "departement": "10",
-      "nom": "CD - US DE VILLENAUXE LA GRANDE / Maison d'Arr\u00eat de Troyes",
+      "nom": "MA - US de TROYES / Maison d'Arr\u00eat de Troyes",
       "url": "",
       "location": {
         "longitude": 4.07753,
@@ -251,7 +251,7 @@
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "1810"
+      "gid": "1812"
     },
     {
       "departement": "10",

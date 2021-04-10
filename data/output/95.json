@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:06:23.072889+02:00",
+  "last_updated": "2021-04-10T19:10:42.189348+02:00",
   "centres_disponibles": [
     {
       "departement": "95",
@@ -51,12 +51,40 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-12T11:20:00.000000+0200",
+      "prochain_rdv": "2021-04-12T11:45:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 15,
+      "appointment_count": 13,
       "internal_id": null,
       "gid": "827"
+    },
+    {
+      "departement": "95",
+      "nom": "Centre de vaccination municipal d'Argenteuil",
+      "url": "https://partners.doctolib.fr/centre-de-sante/argenteuil/centre-de-vaccination-covid-ville-d-argenteuil?pid=practice-177958",
+      "location": {
+        "longitude": 2.2547,
+        "latitude": 48.943
+      },
+      "metadata": {
+        "address": "9 Boulevard Heloise, 95100 Argenteuil",
+        "phone_number": "0134234353",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": "2021-04-12T14:10:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "260111[177958]",
+      "gid": "2078"
     },
     {
       "departement": "95",
@@ -81,9 +109,37 @@
       "prochain_rdv": "2021-04-13T08:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 65,
+      "appointment_count": 66,
       "internal_id": "265979[]",
       "gid": "d265979"
+    },
+    {
+      "departement": "95",
+      "nom": "CENTRE DE VACCINATION TAVERNY",
+      "url": "https://partners.doctolib.fr/centre-de-sante/taverny/centre-de-vaccination-de-taverny",
+      "location": {
+        "longitude": 2.21317,
+        "latitude": 49.0147
+      },
+      "metadata": {
+        "address": " Gymnase Andre Messager, Voie des sports, 95150 Taverny",
+        "phone_number": "0185112450",
+        "business_hours": {
+          "lundi": "ouvert",
+          "mardi": "ouvert",
+          "mercredi": "ouvert",
+          "jeudi": "ouvert",
+          "vendredi": "ouvert",
+          "samedi": "ouvert",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-13T16:20:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "240284[]",
+      "gid": "516"
     },
     {
       "departement": "95",
@@ -304,33 +360,6 @@
     },
     {
       "departement": "95",
-      "nom": "Centre d\u00e9partemental de d\u00e9pistage et de soins - site d'Argenteuil",
-      "url": "",
-      "location": {
-        "longitude": 2.22773,
-        "latitude": 48.9523
-      },
-      "metadata": {
-        "address": "11 rue Jean Lurcat, 95100 Argenteuil",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1727"
-    },
-    {
-      "departement": "95",
       "nom": "EMV Domicile COORDINOV",
       "url": "",
       "location": {
@@ -355,6 +384,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1746"
+    },
+    {
+      "departement": "95",
+      "nom": "Centre d\u00e9partemental de d\u00e9pistage et de soins - site d'Argenteuil",
+      "url": "",
+      "location": {
+        "longitude": 2.22773,
+        "latitude": 48.9523
+      },
+      "metadata": {
+        "address": "11 rue Jean Lurcat, 95100 Argenteuil",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1727"
     },
     {
       "departement": "95",
@@ -412,6 +468,33 @@
     },
     {
       "departement": "95",
+      "nom": "Centre d\u00e9partemental de d\u00e9pistage et de soins - site de Garges-l\u00e8s-Gonesse",
+      "url": "",
+      "location": {
+        "longitude": 2.39201,
+        "latitude": 48.9766
+      },
+      "metadata": {
+        "address": "4 Avenue Anatole France, 95140 Garges-l\u00e8s-Gonesse",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1729"
+    },
+    {
+      "departement": "95",
       "nom": "Centre de vaccination territorial Centre Val d'Oise",
       "url": "https://vaccination-covid.keldoc.com/cabinet-medical/montmorency-95160/vaccination-plaine-vallee-montmorency-salle-des-fetes?category=-1&cabinet=16607&specialty=496",
       "location": {
@@ -437,33 +520,6 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "824"
-    },
-    {
-      "departement": "95",
-      "nom": "Centre d\u00e9partemental de d\u00e9pistage et de soins - site de Garges-l\u00e8s-Gonesse",
-      "url": "",
-      "location": {
-        "longitude": 2.39201,
-        "latitude": 48.9766
-      },
-      "metadata": {
-        "address": "4 Avenue Anatole France, 95140 Garges-l\u00e8s-Gonesse",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1729"
     },
     {
       "departement": "95",
@@ -709,34 +765,6 @@
       "appointment_count": 0,
       "internal_id": "259212[177442]",
       "gid": "2057"
-    },
-    {
-      "departement": "95",
-      "nom": "Centre de vaccination municipal d'Argenteuil",
-      "url": "https://partners.doctolib.fr/centre-de-sante/argenteuil/centre-de-vaccination-covid-ville-d-argenteuil?pid=practice-177958",
-      "location": {
-        "longitude": 2.2547,
-        "latitude": 48.943
-      },
-      "metadata": {
-        "address": "9 Boulevard Heloise, 95100 Argenteuil",
-        "phone_number": "0134234353",
-        "business_hours": {
-          "lundi": "",
-          "mardi": "",
-          "mercredi": "",
-          "jeudi": "",
-          "vendredi": "",
-          "samedi": "",
-          "dimanche": ""
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "260111[177958]",
-      "gid": "2078"
     },
     {
       "departement": "95",
@@ -1066,34 +1094,6 @@
       "appointment_count": 0,
       "internal_id": "242344[]",
       "gid": "635"
-    },
-    {
-      "departement": "95",
-      "nom": "CENTRE DE VACCINATION TAVERNY",
-      "url": "https://partners.doctolib.fr/centre-de-sante/taverny/centre-de-vaccination-de-taverny",
-      "location": {
-        "longitude": 2.21317,
-        "latitude": 49.0147
-      },
-      "metadata": {
-        "address": " Gymnase Andre Messager, Voie des sports, 95150 Taverny",
-        "phone_number": "0185112450",
-        "business_hours": {
-          "lundi": "ouvert",
-          "mardi": "ouvert",
-          "mercredi": "ouvert",
-          "jeudi": "ouvert",
-          "vendredi": "ouvert",
-          "samedi": "ouvert",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "240284[]",
-      "gid": "516"
     },
     {
       "departement": "95",

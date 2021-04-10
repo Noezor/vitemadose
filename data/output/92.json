@@ -1,7 +1,54 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:06:23.065541+02:00",
+  "last_updated": "2021-04-10T19:10:42.183539+02:00",
   "centres_disponibles": [
+    {
+      "departement": "92",
+      "nom": "Vaccination COVID 19 - Centre M\u00e9dico-dentaire du Nord-Ouest Parisien / CMDNOP",
+      "url": "https://partners.doctolib.fr/centre-de-sante/clichy/vaccination-centre-medico-dentaire-du-nord-ouest-parisien-cmdnop",
+      "location": {
+        "longitude": 2.3013727,
+        "latitude": 48.9008608
+      },
+      "metadata": {
+        "address": "39 Rue Casteres, 92110 Clichy",
+        "phone_number": "01 47 31 26 26",
+        "business_hours": null
+      },
+      "prochain_rdv": "2021-04-12T17:45:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "258202[]",
+      "gid": "d258202"
+    },
+    {
+      "departement": "92",
+      "nom": "Centre vaccination Covid-19 du CMS de Bagneux",
+      "url": "https://partners.doctolib.fr/centre-de-sante/bagneux/centre-vaccination-covid-19-du-cms-de-bagneux",
+      "location": {
+        "longitude": 2.3200487,
+        "latitude": 48.7972017
+      },
+      "metadata": {
+        "address": "15 Rue Charles Michels, 92220 Bagneux",
+        "business_hours": {
+          "lundi": "10:00-17:00",
+          "mardi": "10:00-17:00",
+          "mercredi": "10:00-17:00",
+          "jeudi": "10:00-17:00",
+          "vendredi": "10:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-13T11:20:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "258357[]",
+      "gid": "d258357"
+    },
     {
       "departement": "92",
       "nom": "Dr Dina OUZEN-RUDNIANSKI",
@@ -266,6 +313,34 @@
     },
     {
       "departement": "92",
+      "nom": "Centre de vaccination CASH de Nanterre",
+      "url": "https://partners.doctolib.fr/etablissement-de-prevention/nanterre/cash-nanterre-vaccination-covid19-professionnels-de-sante",
+      "location": {
+        "longitude": 2.22204,
+        "latitude": 48.9137
+      },
+      "metadata": {
+        "address": "403 Avenue de la R\u00e9publique, 92000 Nanterre",
+        "phone_number": "+33147697234",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-17T15:45:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 4,
+      "internal_id": "240783[]",
+      "gid": "278"
+    },
+    {
+      "departement": "92",
       "nom": "Pharmacie Trincal",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-trincal-vanves",
       "location": {
@@ -308,7 +383,7 @@
       "prochain_rdv": "2021-04-26T10:18:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "drugstore",
-      "appointment_count": 13,
+      "appointment_count": 14,
       "internal_id": "233610[]",
       "gid": "d233610"
     },
@@ -949,34 +1024,6 @@
     },
     {
       "departement": "92",
-      "nom": "Centre de vaccination CASH de Nanterre",
-      "url": "https://partners.doctolib.fr/etablissement-de-prevention/nanterre/cash-nanterre-vaccination-covid19-professionnels-de-sante",
-      "location": {
-        "longitude": 2.22204,
-        "latitude": 48.9137
-      },
-      "metadata": {
-        "address": "403 Avenue de la R\u00e9publique, 92000 Nanterre",
-        "phone_number": "+33147697234",
-        "business_hours": {
-          "lundi": "09:00-17:00",
-          "mardi": "09:00-17:00",
-          "mercredi": "09:00-17:00",
-          "jeudi": "09:00-17:00",
-          "vendredi": "09:00-17:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "240783[]",
-      "gid": "278"
-    },
-    {
-      "departement": "92",
       "nom": "CENTRE RUEIL-MALMAISON",
       "url": "https://partners.doctolib.fr/centre-de-sante/rueil-malmaison/centre-de-vaccination-covid-europe-rueil-malmaison",
       "location": {
@@ -1144,34 +1191,6 @@
     },
     {
       "departement": "92",
-      "nom": "Ville de Chatenay-Malabry",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/ch\u00e2tenay-malabry/centre-de-vaccination-de-chatenay-malabry?pid=practice-164883%3fspeciality_id%3d5494",
-      "location": {
-        "longitude": 2.27859,
-        "latitude": 48.7636
-      },
-      "metadata": {
-        "address": "160 Avenue de la Division Leclerc, 92290 Ch\u00e2tenay-Malabry",
-        "phone_number": "+33146834683",
-        "business_hours": {
-          "lundi": "08:00-19:30",
-          "mardi": "08:00-19:30",
-          "mercredi": "08:00-19:30",
-          "jeudi": "08:00-19:30",
-          "vendredi": "08:00-19:30",
-          "samedi": "08:00-19:30",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242912[164883]",
-      "gid": "464"
-    },
-    {
-      "departement": "92",
       "nom": "Ville de Courbevoie",
       "url": "https://partners.doctolib.fr/centre-de-sante/courbevoie/centre-de-vaccination-covid-19-de-courbevoie",
       "location": {
@@ -1197,6 +1216,34 @@
       "appointment_count": 0,
       "internal_id": "242674[]",
       "gid": "1014"
+    },
+    {
+      "departement": "92",
+      "nom": "Ville de Chatenay-Malabry",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/ch\u00e2tenay-malabry/centre-de-vaccination-de-chatenay-malabry?pid=practice-164883%3fspeciality_id%3d5494",
+      "location": {
+        "longitude": 2.27859,
+        "latitude": 48.7636
+      },
+      "metadata": {
+        "address": "160 Avenue de la Division Leclerc, 92290 Ch\u00e2tenay-Malabry",
+        "phone_number": "+33146834683",
+        "business_hours": {
+          "lundi": "08:00-19:30",
+          "mardi": "08:00-19:30",
+          "mercredi": "08:00-19:30",
+          "jeudi": "08:00-19:30",
+          "vendredi": "08:00-19:30",
+          "samedi": "08:00-19:30",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242912[164883]",
+      "gid": "464"
     },
     {
       "departement": "92",
@@ -1465,26 +1512,6 @@
     },
     {
       "departement": "92",
-      "nom": "Pharmacie Nouvelle",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-nouvelle-bois-colombes",
-      "location": {
-        "longitude": 2.2764167,
-        "latitude": 48.9160307
-      },
-      "metadata": {
-        "address": "81 RUE DES BOURGUIGNONS, 92279 BOIS COLOMBES",
-        "phone_number": "+33142421228",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "6a008e77"
-    },
-    {
-      "departement": "92",
       "nom": "Pharmacie Jean Jaures",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-jean-jaures-boulogne-billancourt",
       "location": {
@@ -1502,6 +1529,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "6ccd5f06"
+    },
+    {
+      "departement": "92",
+      "nom": "Pharmacie Nouvelle",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-nouvelle-bois-colombes",
+      "location": {
+        "longitude": 2.2764167,
+        "latitude": 48.9160307
+      },
+      "metadata": {
+        "address": "81 RUE DES BOURGUIGNONS, 92279 BOIS COLOMBES",
+        "phone_number": "+33142421228",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "6a008e77"
     },
     {
       "departement": "92",
@@ -1747,6 +1794,33 @@
     },
     {
       "departement": "92",
+      "nom": "Dr Oury  ESTEGASSY",
+      "url": "https://partners.doctolib.fr/medecin-generaliste/neuilly-sur-seine/oury-estegassy",
+      "location": {
+        "longitude": 2.27023780000002,
+        "latitude": 48.8820079
+      },
+      "metadata": {
+        "address": "88 bis Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine",
+        "business_hours": {
+          "lundi": "09:30-12:00, 14:30-20:00",
+          "mardi": "09:30-12:00, 14:30-20:00",
+          "mercredi": "09:30-12:00, 14:30-20:00",
+          "jeudi": "09:30-12:00, 14:30-20:00",
+          "vendredi": "09:00-14:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "general-practitioner",
+      "appointment_count": 0,
+      "internal_id": "20888[]",
+      "gid": "d20888"
+    },
+    {
+      "departement": "92",
       "nom": "Pharmacie de l'Observatoire",
       "url": "https://partners.doctolib.fr/pharmacie/meudon/pharmacie-de-l-observatoire",
       "location": {
@@ -1772,33 +1846,6 @@
       "appointment_count": 0,
       "internal_id": "257455[]",
       "gid": "d257455"
-    },
-    {
-      "departement": "92",
-      "nom": "Dr Oury  ESTEGASSY",
-      "url": "https://partners.doctolib.fr/medecin-generaliste/neuilly-sur-seine/oury-estegassy",
-      "location": {
-        "longitude": 2.27023780000002,
-        "latitude": 48.8820079
-      },
-      "metadata": {
-        "address": "88 bis Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine",
-        "business_hours": {
-          "lundi": "09:30-12:00, 14:30-20:00",
-          "mardi": "09:30-12:00, 14:30-20:00",
-          "mercredi": "09:30-12:00, 14:30-20:00",
-          "jeudi": "09:30-12:00, 14:30-20:00",
-          "vendredi": "09:00-14:00",
-          "samedi": null,
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "general-practitioner",
-      "appointment_count": 0,
-      "internal_id": "20888[]",
-      "gid": "d20888"
     },
     {
       "departement": "92",
@@ -1885,26 +1932,6 @@
     },
     {
       "departement": "92",
-      "nom": "Vaccination COVID 19 - Centre M\u00e9dico-dentaire du Nord-Ouest Parisien / CMDNOP",
-      "url": "https://partners.doctolib.fr/centre-de-sante/clichy/vaccination-centre-medico-dentaire-du-nord-ouest-parisien-cmdnop",
-      "location": {
-        "longitude": 2.3013727,
-        "latitude": 48.9008608
-      },
-      "metadata": {
-        "address": "39 Rue Casteres, 92110 Clichy",
-        "phone_number": "01 47 31 26 26",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "258202[]",
-      "gid": "d258202"
-    },
-    {
-      "departement": "92",
       "nom": "Centre de vaccination COVID-19 - Centre Municipal Nanterre Chevreul",
       "url": "https://partners.doctolib.fr/centre-de-sante/nanterre/centre-de-vaccination-covid-19-ville-de-nanterre-chevreul",
       "location": {
@@ -1958,33 +1985,6 @@
       "appointment_count": 0,
       "internal_id": "242912[]",
       "gid": "d242912"
-    },
-    {
-      "departement": "92",
-      "nom": "Centre vaccination Covid-19 du CMS de Bagneux",
-      "url": "https://partners.doctolib.fr/centre-de-sante/bagneux/centre-vaccination-covid-19-du-cms-de-bagneux",
-      "location": {
-        "longitude": 2.3200487,
-        "latitude": 48.7972017
-      },
-      "metadata": {
-        "address": "15 Rue Charles Michels, 92220 Bagneux",
-        "business_hours": {
-          "lundi": "10:00-17:00",
-          "mardi": "10:00-17:00",
-          "mercredi": "10:00-17:00",
-          "jeudi": "10:00-17:00",
-          "vendredi": "10:00-17:00",
-          "samedi": null,
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "258357[]",
-      "gid": "d258357"
     }
   ]
 }

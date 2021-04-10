@@ -1,34 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:06:22.989708+02:00",
+  "last_updated": "2021-04-10T19:10:42.114665+02:00",
   "centres_disponibles": [
-    {
-      "departement": "33",
-      "nom": "Centre de vaccination - CA du Libournais",
-      "url": "https://partners.doctolib.fr/centre-de-sante/libourne/centre-de-vaccination-du-libournais-libourne",
-      "location": {
-        "longitude": -0.24213,
-        "latitude": 44.9022
-      },
-      "metadata": {
-        "address": "14 Boulevard de Quinault, 33500 Libourne",
-        "business_hours": {
-          "lundi": "09:00-12:15/13:30-16:15",
-          "mardi": "09:00-12:15/13:30-16:15",
-          "mercredi": "09:00-12:15/13:30-16:15",
-          "jeudi": "09:00-12:15/13:30-16:15",
-          "vendredi": "09:00-12:15/13:30-16:15",
-          "samedi": "09:00-12:15/13:30-16:15",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-12T16:10:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 299,
-      "internal_id": "242928[]",
-      "gid": "992"
-    },
     {
       "departement": "33",
       "nom": "Dr Bertrand DISCAZEAUX",
@@ -56,6 +29,61 @@
       "appointment_count": 1,
       "internal_id": "237162[65917]",
       "gid": "d237162"
+    },
+    {
+      "departement": "33",
+      "nom": "Centre de vaccination - CA du Libournais",
+      "url": "https://partners.doctolib.fr/centre-de-sante/libourne/centre-de-vaccination-du-libournais-libourne",
+      "location": {
+        "longitude": -0.24213,
+        "latitude": 44.9022
+      },
+      "metadata": {
+        "address": "14 Boulevard de Quinault, 33500 Libourne",
+        "business_hours": {
+          "lundi": "09:00-12:15/13:30-16:15",
+          "mardi": "09:00-12:15/13:30-16:15",
+          "mercredi": "09:00-12:15/13:30-16:15",
+          "jeudi": "09:00-12:15/13:30-16:15",
+          "vendredi": "09:00-12:15/13:30-16:15",
+          "samedi": "09:00-12:15/13:30-16:15",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-12T17:40:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 298,
+      "internal_id": "242928[]",
+      "gid": "992"
+    },
+    {
+      "departement": "33",
+      "nom": "Dr Olivier Donnevide",
+      "url": "https://partners.doctolib.fr/medecin-generaliste/bordeaux/olivier-donnevide?pid=practice-65917",
+      "location": {
+        "longitude": -0.552707999999939,
+        "latitude": 44.8224204
+      },
+      "metadata": {
+        "address": "25 All\u00e9e Eug\u00e8ne Delacroix, 33800 Bordeaux",
+        "phone_number": "07 56 90 66 47",
+        "business_hours": {
+          "lundi": "09:00-12:00, 13:00-19:00",
+          "mardi": "08:00-12:00, 13:00-16:00",
+          "mercredi": "08:00-12:00, 13:00-19:00",
+          "jeudi": "08:00-12:30",
+          "vendredi": "08:00-12:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-12T17:44:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "general-practitioner",
+      "appointment_count": 1,
+      "internal_id": "39694[65917]",
+      "gid": "d39694"
     },
     {
       "departement": "33",
@@ -132,10 +160,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-15T12:20:00.000+02:00",
+      "prochain_rdv": "2021-04-15T12:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 45,
+      "appointment_count": 46,
       "internal_id": "263487[]",
       "gid": "d263487"
     },
@@ -197,34 +225,6 @@
     },
     {
       "departement": "33",
-      "nom": "Dr Olivier Donnevide",
-      "url": "https://partners.doctolib.fr/medecin-generaliste/bordeaux/olivier-donnevide?pid=practice-65917",
-      "location": {
-        "longitude": -0.552707999999939,
-        "latitude": 44.8224204
-      },
-      "metadata": {
-        "address": "25 All\u00e9e Eug\u00e8ne Delacroix, 33800 Bordeaux",
-        "phone_number": "07 56 90 66 47",
-        "business_hours": {
-          "lundi": "09:00-12:00, 13:00-19:00",
-          "mardi": "08:00-12:00, 13:00-16:00",
-          "mercredi": "08:00-12:00, 13:00-19:00",
-          "jeudi": "08:00-12:30",
-          "vendredi": "08:00-12:30",
-          "samedi": null,
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": "2021-04-19T16:12:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "general-practitioner",
-      "appointment_count": 16,
-      "internal_id": "39694[65917]",
-      "gid": "d39694"
-    },
-    {
-      "departement": "33",
       "nom": "Centre de vaccination COVID -  Salle Ermitage Compostelle - Le Bouscat",
       "url": "https://partners.doctolib.fr/centre-de-sante/le-bouscat/centre-de-vaccination-covid-ermitage",
       "location": {
@@ -247,36 +247,9 @@
       "prochain_rdv": "2021-04-22T13:12:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 456,
+      "appointment_count": 457,
       "internal_id": "262432[179472]",
       "gid": "d262432"
-    },
-    {
-      "departement": "33",
-      "nom": "Centre de vaccination - Domaine des Lug\u00e9es",
-      "url": "https://partners.doctolib.fr/centre-de-sante/ares/centre-de-vaccination-covid-19-nord-bassin-ville-d-ares?pid=practice-171900",
-      "location": {
-        "longitude": -1.12632,
-        "latitude": 44.7562
-      },
-      "metadata": {
-        "address": "34 Allee du Domaine des Lugees, 33740 Ar\u00e8s",
-        "business_hours": {
-          "lundi": "09:00-12:15/14:00-17:15",
-          "mardi": "09:00-12:15/14:00-17:15",
-          "mercredi": "09:00-12:15/14:00-17:15",
-          "jeudi": "09:00-12:15/14:00-17:15",
-          "vendredi": "09:00-12:15/14:00-17:15",
-          "samedi": "09:00-12:15/14:00-17:15",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-05-08T16:40:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "251731[171900]",
-      "gid": "1615"
     },
     {
       "departement": "33",
@@ -299,10 +272,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-12T10:50:00.000+02:00",
+      "prochain_rdv": "2021-05-12T11:05:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 175,
+      "appointment_count": 173,
       "internal_id": "243183[]",
       "gid": "146"
     }
@@ -504,6 +477,33 @@
     },
     {
       "departement": "33",
+      "nom": "Centre de vaccination Lormont Carriet",
+      "url": "",
+      "location": {
+        "longitude": -0.525227,
+        "latitude": 44.8819
+      },
+      "metadata": {
+        "address": "3 Place Fran\u00e7ois Magendie, 33310 Lormont",
+        "business_hours": {
+          "lundi": "08:00-12:00/14:00-18:00",
+          "mardi": "08:00-12:00/14:00-18:00",
+          "mercredi": "08:00-12:00/14:00-18:00",
+          "jeudi": "08:00-12:00/14:00-18:00",
+          "vendredi": "08:00-12:00/14:00-18:00",
+          "samedi": "08:00-12:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1637"
+    },
+    {
+      "departement": "33",
       "nom": "CENTRE DE VACCINATION DU GRAND CUBZAGUAIS",
       "url": "https://partners.doctolib.fr/centre-de-sante/saint-andre-de-cubzac/centre-de-vaccination-du-grand-cubzaguais?pid=practice-179089",
       "location": {
@@ -532,58 +532,30 @@
     },
     {
       "departement": "33",
-      "nom": "Centre de vaccination Lormont Carriet",
-      "url": "",
+      "nom": "Centre de vaccination - Domaine des Lug\u00e9es",
+      "url": "https://partners.doctolib.fr/centre-de-sante/ares/centre-de-vaccination-covid-19-nord-bassin-ville-d-ares?pid=practice-171900",
       "location": {
-        "longitude": -0.525227,
-        "latitude": 44.8819
+        "longitude": -1.12632,
+        "latitude": 44.7562
       },
       "metadata": {
-        "address": "3 Place Fran\u00e7ois Magendie, 33310 Lormont",
+        "address": "34 Allee du Domaine des Lugees, 33740 Ar\u00e8s",
         "business_hours": {
-          "lundi": "08:00-12:00/14:00-18:00",
-          "mardi": "08:00-12:00/14:00-18:00",
-          "mercredi": "08:00-12:00/14:00-18:00",
-          "jeudi": "08:00-12:00/14:00-18:00",
-          "vendredi": "08:00-12:00/14:00-18:00",
-          "samedi": "08:00-12:00",
+          "lundi": "09:00-12:15/14:00-17:15",
+          "mardi": "09:00-12:15/14:00-17:15",
+          "mercredi": "09:00-12:15/14:00-17:15",
+          "jeudi": "09:00-12:15/14:00-17:15",
+          "vendredi": "09:00-12:15/14:00-17:15",
+          "samedi": "09:00-12:15/14:00-17:15",
           "dimanche": "ferm\u00e9"
         }
       },
       "prochain_rdv": null,
-      "plateforme": "Autre",
+      "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1637"
-    },
-    {
-      "departement": "33",
-      "nom": "Centre de Vaccination - Salle Lucie Aubrac",
-      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/floirac-33270/salle-lucie-aubrac",
-      "location": {
-        "longitude": -0.530839,
-        "latitude": 44.8321
-      },
-      "metadata": {
-        "address": "35 Rue L\u00e9o Lagrange, 33270 Floirac",
-        "phone_number": "+33532923232",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "08:30-13:00",
-          "mercredi": "08:30-13:00",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": null,
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1721"
+      "internal_id": "251731[171900]",
+      "gid": "1615"
     },
     {
       "departement": "33",
@@ -611,6 +583,34 @@
       "appointment_count": 0,
       "internal_id": "249917[170371]",
       "gid": "1719"
+    },
+    {
+      "departement": "33",
+      "nom": "Centre de Vaccination - Salle Lucie Aubrac",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/floirac-33270/salle-lucie-aubrac",
+      "location": {
+        "longitude": -0.530839,
+        "latitude": 44.8321
+      },
+      "metadata": {
+        "address": "35 Rue L\u00e9o Lagrange, 33270 Floirac",
+        "phone_number": "+33532923232",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "08:30-13:00",
+          "mercredi": "08:30-13:00",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1721"
     },
     {
       "departement": "33",
@@ -998,26 +998,6 @@
     },
     {
       "departement": "33",
-      "nom": "Pharmacie De La Jalle",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-la-jalle-saint-medard-en-jalles",
-      "location": {
-        "longitude": -0.6973977,
-        "latitude": 44.8859084
-      },
-      "metadata": {
-        "address": "34 Avenue Descartes, 33160 Saint-M\u00e9dard-en-Jalles",
-        "phone_number": "+33556957030",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1112df05"
-    },
-    {
-      "departement": "33",
       "nom": "Lamothe-Landerron",
       "url": "https://app.ordoclic.fr/app/pharmacie/lamothe-landerron-lamothe-landerron",
       "location": {
@@ -1035,6 +1015,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "162a0c72"
+    },
+    {
+      "departement": "33",
+      "nom": "Pharmacie De La Jalle",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-la-jalle-saint-medard-en-jalles",
+      "location": {
+        "longitude": -0.6973977,
+        "latitude": 44.8859084
+      },
+      "metadata": {
+        "address": "34 Avenue Descartes, 33160 Saint-M\u00e9dard-en-Jalles",
+        "phone_number": "+33556957030",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1112df05"
     },
     {
       "departement": "33",

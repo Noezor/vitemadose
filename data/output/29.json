@@ -1,7 +1,63 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:06:22.982957+02:00",
+  "last_updated": "2021-04-10T19:10:42.108057+02:00",
   "centres_disponibles": [
+    {
+      "departement": "29",
+      "nom": "CH MORLAIX (anciens locaux EFS)",
+      "url": "https://partners.doctolib.fr/hopital-public/morlaix/ch-morlaix-centre-de-vaccination-covid-19-reserve-aux-professionnels-de-sante",
+      "location": {
+        "longitude": -3.83016,
+        "latitude": 48.5693
+      },
+      "metadata": {
+        "address": "15 Rue de Kersaint-gilly, 29600 Morlaix",
+        "phone_number": "+33257180061",
+        "business_hours": {
+          "lundi": "9h00-16h30",
+          "mardi": "9h00-16h30",
+          "mercredi": "9h00-16h30",
+          "jeudi": "9h00-16h30",
+          "vendredi": "9h00-16h30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-16T18:30:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 21,
+      "internal_id": "241076[]",
+      "gid": "256"
+    },
+    {
+      "departement": "29",
+      "nom": "MORLAIX - LANGOLVAS",
+      "url": "https://partners.doctolib.fr/maison-de-sante/morlaix/ch-morlaix-centre-de-vaccination-covid-19?pid=practice-163107",
+      "location": {
+        "longitude": -3.79181,
+        "latitude": 48.5869
+      },
+      "metadata": {
+        "address": " Langolvas, 29610 Garlan",
+        "phone_number": "+33257180061",
+        "business_hours": {
+          "lundi": "8h30-19h30",
+          "mardi": "8h30-19h30",
+          "mercredi": "8h30-19h30",
+          "jeudi": "8h30-19h30",
+          "vendredi": "8h30-19h30",
+          "samedi": "8h30-19h30",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-16T18:30:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 21,
+      "internal_id": "241076[171984]",
+      "gid": "1649"
+    },
     {
       "departement": "29",
       "nom": "CROZON_Maison du temps libre",
@@ -29,62 +85,6 @@
       "appointment_count": 1,
       "internal_id": "242649[164946]",
       "gid": "2393"
-    },
-    {
-      "departement": "29",
-      "nom": "CH MORLAIX (anciens locaux EFS)",
-      "url": "https://partners.doctolib.fr/hopital-public/morlaix/ch-morlaix-centre-de-vaccination-covid-19-reserve-aux-professionnels-de-sante",
-      "location": {
-        "longitude": -3.83016,
-        "latitude": 48.5693
-      },
-      "metadata": {
-        "address": "15 Rue de Kersaint-gilly, 29600 Morlaix",
-        "phone_number": "+33257180061",
-        "business_hours": {
-          "lundi": "9h00-16h30",
-          "mardi": "9h00-16h30",
-          "mercredi": "9h00-16h30",
-          "jeudi": "9h00-16h30",
-          "vendredi": "9h00-16h30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-17T19:15:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 2,
-      "internal_id": "241076[]",
-      "gid": "256"
-    },
-    {
-      "departement": "29",
-      "nom": "MORLAIX - LANGOLVAS",
-      "url": "https://partners.doctolib.fr/maison-de-sante/morlaix/ch-morlaix-centre-de-vaccination-covid-19?pid=practice-163107",
-      "location": {
-        "longitude": -3.79181,
-        "latitude": 48.5869
-      },
-      "metadata": {
-        "address": " Langolvas, 29610 Garlan",
-        "phone_number": "+33257180061",
-        "business_hours": {
-          "lundi": "8h30-19h30",
-          "mardi": "8h30-19h30",
-          "mercredi": "8h30-19h30",
-          "jeudi": "8h30-19h30",
-          "vendredi": "8h30-19h30",
-          "samedi": "8h30-19h30",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-17T19:15:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 2,
-      "internal_id": "241076[171984]",
-      "gid": "1649"
     },
     {
       "departement": "29",
@@ -135,7 +135,7 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-01T11:40:00.000000Z",
+      "prochain_rdv": "2021-05-01T11:35:00.000000Z",
       "plateforme": "Maiia",
       "type": "vaccination-center",
       "appointment_count": 1,
@@ -163,7 +163,7 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-01T11:40:00.000000Z",
+      "prochain_rdv": "2021-05-01T11:35:00.000000Z",
       "plateforme": "Maiia",
       "type": "vaccination-center",
       "appointment_count": 1,
@@ -172,34 +172,6 @@
     }
   ],
   "centres_indisponibles": [
-    {
-      "departement": "29",
-      "nom": "CHIC Site QUIMPER h\u00f4pital La\u00ebnnec",
-      "url": "https://partners.doctolib.fr/centre-depistage-covid/cornouaille/ch-cornouaille-vaccination-covid",
-      "location": {
-        "longitude": -4.09496,
-        "latitude": 47.9878
-      },
-      "metadata": {
-        "address": "14 Avenue Yves Thepot, 29000 Quimper",
-        "phone_number": "+33257180061",
-        "business_hours": {
-          "lundi": "10:00-17:00",
-          "mardi": "10:00-17:00",
-          "mercredi": "10:00-17:00",
-          "jeudi": "10:00-17:00",
-          "vendredi": "10:00-17:00",
-          "samedi": "14:00-17:00",
-          "dimanche": "Ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241737[]",
-      "gid": "261"
-    },
     {
       "departement": "29",
       "nom": "CH DOUARNENEZ (r\u00e9serv\u00e9 aux professionnels des domaines de la sant\u00e9 et du m\u00e9dico-social)",
@@ -227,6 +199,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1273"
+    },
+    {
+      "departement": "29",
+      "nom": "CHIC Site QUIMPER h\u00f4pital La\u00ebnnec",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/cornouaille/ch-cornouaille-vaccination-covid",
+      "location": {
+        "longitude": -4.09496,
+        "latitude": 47.9878
+      },
+      "metadata": {
+        "address": "14 Avenue Yves Thepot, 29000 Quimper",
+        "phone_number": "+33257180061",
+        "business_hours": {
+          "lundi": "10:00-17:00",
+          "mardi": "10:00-17:00",
+          "mercredi": "10:00-17:00",
+          "jeudi": "10:00-17:00",
+          "vendredi": "10:00-17:00",
+          "samedi": "14:00-17:00",
+          "dimanche": "Ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241737[]",
+      "gid": "261"
     },
     {
       "departement": "29",

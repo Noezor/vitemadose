@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:06:23.001406+02:00",
+  "last_updated": "2021-04-10T19:10:42.125455+02:00",
   "centres_disponibles": [
     {
       "departement": "42",
@@ -26,7 +26,7 @@
       "prochain_rdv": "2021-04-12T11:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 629,
+      "appointment_count": 627,
       "internal_id": "265342[181753]",
       "gid": "2224"
     },
@@ -54,7 +54,7 @@
       "prochain_rdv": "2021-04-12T13:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 289,
+      "appointment_count": 288,
       "internal_id": "251571[169578]",
       "gid": "1488"
     },
@@ -143,59 +143,31 @@
     },
     {
       "departement": "42",
-      "nom": "Centre de vaccination Covid 19 - CHU Saint Etienne",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/saint-priest-en-jarez/centre-de-vaccination-covid-19-chu-saint-etienne",
+      "nom": "Clinique du Parc",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-priest-en-jarez/centre-de-vaccination-covid-19-de-la-clinique-du-parc-de-st-priest-en-jarez?pid=practice-180664",
       "location": {
-        "longitude": 4.3678168,
-        "latitude": 45.4760329
+        "longitude": 4.36788,
+        "latitude": 45.4784
       },
       "metadata": {
-        "address": "Avenue Albert Raimond, 42270 Saint-Priest-en-Jarez",
-        "phone_number": "09 70 77 17 10",
+        "address": "9 bis Rue de la Piot, 42270 Saint-Priest-en-Jarez",
+        "phone_number": "+33477922275",
         "business_hours": {
-          "lundi": "09:00-17:00",
-          "mardi": "09:00-17:00",
-          "mercredi": "09:00-17:00",
-          "jeudi": "09:00-17:00",
-          "vendredi": "09:00-17:00",
-          "samedi": null,
-          "dimanche": null
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-20T11:00:00.000+02:00",
+      "prochain_rdv": "2021-04-17T12:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 33,
-      "internal_id": "249030[]",
-      "gid": "d249030"
-    },
-    {
-      "departement": "42",
-      "nom": "CMSI clinique Mutualiste",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saint-etienne/centre-de-vaccination-de-cmsi-42?pid=practice-179779",
-      "location": {
-        "longitude": 4.39407,
-        "latitude": 45.4146
-      },
-      "metadata": {
-        "address": "3 Rue le Verrier, 42100 Saint-\u00c9tienne",
-        "phone_number": "04 77 12 13 14",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-25T17:45:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 3,
-      "internal_id": "262833[179779]",
-      "gid": "2242"
+      "appointment_count": 1,
+      "internal_id": "263932[180664]",
+      "gid": "2292"
     },
     {
       "departement": "42",
@@ -218,12 +190,40 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-26T17:50:00.000+02:00",
+      "prochain_rdv": "2021-04-23T16:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 1,
+      "appointment_count": 32,
       "internal_id": "249030[168936]",
       "gid": "180"
+    },
+    {
+      "departement": "42",
+      "nom": "Centre de vaccination Covid 19 - CHU Saint Etienne",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/saint-priest-en-jarez/centre-de-vaccination-covid-19-chu-saint-etienne",
+      "location": {
+        "longitude": 4.3678168,
+        "latitude": 45.4760329
+      },
+      "metadata": {
+        "address": "Avenue Albert Raimond, 42270 Saint-Priest-en-Jarez",
+        "phone_number": "09 70 77 17 10",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-23T16:50:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 32,
+      "internal_id": "249030[]",
+      "gid": "d249030"
     },
     {
       "departement": "42",
@@ -249,37 +249,9 @@
       "prochain_rdv": "2021-04-27T09:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 275,
+      "appointment_count": 274,
       "internal_id": "241654[180917]",
       "gid": "823"
-    },
-    {
-      "departement": "42",
-      "nom": "Centre de vaccination - Centre de soins non programm\u00e9s - Ville d'Andr\u00e9zieux-Bouth\u00e9on",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/andrezieux-boutheon/centre-de-vaccination-covid-19-andrezieux-boutheon?pid=practice-165752",
-      "location": {
-        "longitude": 4.25364,
-        "latitude": 45.526
-      },
-      "metadata": {
-        "address": "14 Rue Claude Limousin, 42160 Andr\u00e9zieux-Bouth\u00e9on",
-        "phone_number": "+33477557093",
-        "business_hours": {
-          "lundi": "12:00-17:00",
-          "mardi": "12:00-17:00",
-          "mercredi": "12:00-17:00",
-          "jeudi": "12:00-17:00",
-          "vendredi": "12:00-17:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-29T19:00:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 3,
-      "internal_id": "243348[165752]",
-      "gid": "1220"
     },
     {
       "departement": "42",
@@ -308,37 +280,37 @@
       "appointment_count": 99,
       "internal_id": "264489[]",
       "gid": "d264489"
+    },
+    {
+      "departement": "42",
+      "nom": "Centre de vaccination - Centre de soins non programm\u00e9s - Ville d'Andr\u00e9zieux-Bouth\u00e9on",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/andrezieux-boutheon/centre-de-vaccination-covid-19-andrezieux-boutheon?pid=practice-165752",
+      "location": {
+        "longitude": 4.25364,
+        "latitude": 45.526
+      },
+      "metadata": {
+        "address": "14 Rue Claude Limousin, 42160 Andr\u00e9zieux-Bouth\u00e9on",
+        "phone_number": "+33477557093",
+        "business_hours": {
+          "lundi": "12:00-17:00",
+          "mardi": "12:00-17:00",
+          "mercredi": "12:00-17:00",
+          "jeudi": "12:00-17:00",
+          "vendredi": "12:00-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-02T17:45:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "243348[165752]",
+      "gid": "1220"
     }
   ],
   "centres_indisponibles": [
-    {
-      "departement": "42",
-      "nom": "Clinique du Parc",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saint-priest-en-jarez/centre-de-vaccination-covid-19-de-la-clinique-du-parc-de-st-priest-en-jarez?pid=practice-180664",
-      "location": {
-        "longitude": 4.36788,
-        "latitude": 45.4784
-      },
-      "metadata": {
-        "address": "9 bis Rue de la Piot, 42270 Saint-Priest-en-Jarez",
-        "phone_number": "+33477922275",
-        "business_hours": {
-          "lundi": "",
-          "mardi": "",
-          "mercredi": "",
-          "jeudi": "",
-          "vendredi": "",
-          "samedi": "",
-          "dimanche": ""
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "263932[180664]",
-      "gid": "2292"
-    },
     {
       "departement": "42",
       "nom": "CENTRE HOSPITALIER  DE ROANNE",
@@ -586,6 +558,34 @@
       "appointment_count": 0,
       "internal_id": "259507[177622]",
       "gid": "2107"
+    },
+    {
+      "departement": "42",
+      "nom": "CMSI clinique Mutualiste",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-etienne/centre-de-vaccination-de-cmsi-42?pid=practice-179779",
+      "location": {
+        "longitude": 4.39407,
+        "latitude": 45.4146
+      },
+      "metadata": {
+        "address": "3 Rue le Verrier, 42100 Saint-\u00c9tienne",
+        "phone_number": "04 77 12 13 14",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "262833[179779]",
+      "gid": "2242"
     },
     {
       "departement": "42",

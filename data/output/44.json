@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:06:23.002994+02:00",
+  "last_updated": "2021-04-10T19:10:42.128384+02:00",
   "centres_disponibles": [
     {
       "departement": "44",
@@ -49,10 +49,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-14T10:00:00.000+02:00",
+      "prochain_rdv": "2021-04-14T10:24:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 21,
+      "appointment_count": 20,
       "internal_id": "261154[]",
       "gid": "d261154"
     },
@@ -76,10 +76,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-19T09:20:00.000+02:00",
+      "prochain_rdv": "2021-04-19T09:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 118,
+      "appointment_count": 117,
       "internal_id": "258782[]",
       "gid": "d258782"
     },
@@ -104,10 +104,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-21T16:50:00.000+02:00",
+      "prochain_rdv": "2021-04-19T17:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 1,
+      "appointment_count": 2,
       "internal_id": "242644[]",
       "gid": "809"
     },
@@ -131,10 +131,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-21T16:50:00.000+02:00",
+      "prochain_rdv": "2021-04-19T17:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 1,
+      "appointment_count": 3,
       "internal_id": "242644[164268]",
       "gid": "2214"
     },
@@ -162,37 +162,9 @@
       "prochain_rdv": "2021-04-23T09:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 85,
+      "appointment_count": 87,
       "internal_id": "242265[]",
       "gid": "716"
-    },
-    {
-      "departement": "44",
-      "nom": "Centre de vaccination - ANCENIS - Salle de la Charbonni\u00e8re",
-      "url": "https://partners.doctolib.fr/centre-de-sante/ancenis/centre-de-vaccination-covid-ancenis-chel",
-      "location": {
-        "longitude": -1.18466,
-        "latitude": 47.3635
-      },
-      "metadata": {
-        "address": " Boulevard de Kirkham, 44150 Ancenis-Saint-G\u00e9r\u00e9on",
-        "phone_number": "+33806000344",
-        "business_hours": {
-          "lundi": "15h-19h",
-          "mardi": "9h30-17h",
-          "mercredi": "9h30-17h",
-          "jeudi": "9h30-17h",
-          "vendredi": "9h30-17h",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-05-04T14:40:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 2,
-      "internal_id": "242911[]",
-      "gid": "1007"
     }
   ],
   "centres_indisponibles": [
@@ -531,6 +503,34 @@
       "appointment_count": 0,
       "internal_id": "242264[]",
       "gid": "444"
+    },
+    {
+      "departement": "44",
+      "nom": "Centre de vaccination - ANCENIS - Salle de la Charbonni\u00e8re",
+      "url": "https://partners.doctolib.fr/centre-de-sante/ancenis/centre-de-vaccination-covid-ancenis-chel",
+      "location": {
+        "longitude": -1.18466,
+        "latitude": 47.3635
+      },
+      "metadata": {
+        "address": " Boulevard de Kirkham, 44150 Ancenis-Saint-G\u00e9r\u00e9on",
+        "phone_number": "+33806000344",
+        "business_hours": {
+          "lundi": "15h-19h",
+          "mardi": "9h30-17h",
+          "mercredi": "9h30-17h",
+          "jeudi": "9h30-17h",
+          "vendredi": "9h30-17h",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242911[]",
+      "gid": "1007"
     },
     {
       "departement": "44",

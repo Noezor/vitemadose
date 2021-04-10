@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:06:22.964866+02:00",
+  "last_updated": "2021-04-10T19:10:42.091498+02:00",
   "centres_disponibles": [
     {
       "departement": "13",
@@ -69,7 +69,7 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-13T10:15:00.000+02:00",
+      "prochain_rdv": "2021-04-13T09:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 58,
@@ -126,34 +126,6 @@
     },
     {
       "departement": "13",
-      "nom": "Conseil d\u00e9partemental centre de PMI",
-      "url": "https://partners.doctolib.fr/centre-de-sante/marseille/centre-de-vaccination-covid-mazenod",
-      "location": {
-        "longitude": 5.36535,
-        "latitude": 43.301
-      },
-      "metadata": {
-        "address": "2 Rue Mazenod, 13002 Marseille",
-        "phone_number": "04 13 31 38 00",
-        "business_hours": {
-          "lundi": "ouvert",
-          "mardi": "ouvert",
-          "mercredi": "ouvert",
-          "jeudi": "ouvert",
-          "vendredi": "ouvert",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-15T16:40:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "243169[165126]",
-      "gid": "456"
-    },
-    {
-      "departement": "13",
       "nom": "Pharmacie De L'Europe Fuveau",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-l'europe-fuveau-fuveau",
       "location": {
@@ -195,7 +167,7 @@
       "prochain_rdv": "2021-04-16T13:25:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 60,
+      "appointment_count": 59,
       "internal_id": "264490[]",
       "gid": "d264490"
     },
@@ -303,12 +275,40 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-21T15:50:00.000000Z",
+      "prochain_rdv": "2021-04-22T13:40:00.000000Z",
       "plateforme": "Maiia",
       "type": "vaccination-center",
-      "appointment_count": 45,
+      "appointment_count": 44,
       "internal_id": null,
       "gid": "1305"
+    },
+    {
+      "departement": "13",
+      "nom": "Conseil d\u00e9partemental centre de PMI",
+      "url": "https://partners.doctolib.fr/centre-de-sante/marseille/centre-de-vaccination-covid-mazenod",
+      "location": {
+        "longitude": 5.36535,
+        "latitude": 43.301
+      },
+      "metadata": {
+        "address": "2 Rue Mazenod, 13002 Marseille",
+        "phone_number": "04 13 31 38 00",
+        "business_hours": {
+          "lundi": "ouvert",
+          "mardi": "ouvert",
+          "mercredi": "ouvert",
+          "jeudi": "ouvert",
+          "vendredi": "ouvert",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-23T14:10:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "243169[165126]",
+      "gid": "456"
     },
     {
       "departement": "13",
@@ -359,10 +359,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-26T10:15:00.000+02:00",
+      "prochain_rdv": "2021-04-26T10:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 266,
+      "appointment_count": 265,
       "internal_id": "243091[165061]",
       "gid": "1202"
     },
@@ -387,10 +387,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-26T10:15:00.000+02:00",
+      "prochain_rdv": "2021-04-26T10:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 266,
+      "appointment_count": 264,
       "internal_id": "243091[]",
       "gid": "919"
     },
@@ -872,34 +872,6 @@
     },
     {
       "departement": "13",
-      "nom": "Centre de vaccination CPTS VAL DURANCE",
-      "url": "https://partners.doctolib.fr/centre-de-sante/senas/centre-de-vaccination-covid-cpts-val-durance",
-      "location": {
-        "longitude": 5.07678,
-        "latitude": 43.7481
-      },
-      "metadata": {
-        "address": " Avenue du 8 Mai 1945, 13560 S\u00e9nas",
-        "phone_number": "+33631225351",
-        "business_hours": {
-          "lundi": "8h00-12h00 / 14h00-18h00",
-          "mardi": "8h00-12h00 / 14h00-18h00",
-          "mercredi": "8h00-12h00 / 14h00-18h00",
-          "jeudi": "8h00-12h00 / 14h00-18h00",
-          "vendredi": "8h00-12h00 / 14h00-18h00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243963[]",
-      "gid": "1029"
-    },
-    {
-      "departement": "13",
       "nom": "P\u00f4le de sant\u00e9 Aubagne CD 13",
       "url": "https://partners.doctolib.fr/centre-de-sante/aubagne/centre-de-vaccination-covid-pole-de-sante-aubagne",
       "location": {
@@ -925,6 +897,34 @@
       "appointment_count": 0,
       "internal_id": "244059[]",
       "gid": "1141"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre de vaccination CPTS VAL DURANCE",
+      "url": "https://partners.doctolib.fr/centre-de-sante/senas/centre-de-vaccination-covid-cpts-val-durance",
+      "location": {
+        "longitude": 5.07678,
+        "latitude": 43.7481
+      },
+      "metadata": {
+        "address": " Avenue du 8 Mai 1945, 13560 S\u00e9nas",
+        "phone_number": "+33631225351",
+        "business_hours": {
+          "lundi": "8h00-12h00 / 14h00-18h00",
+          "mardi": "8h00-12h00 / 14h00-18h00",
+          "mercredi": "8h00-12h00 / 14h00-18h00",
+          "jeudi": "8h00-12h00 / 14h00-18h00",
+          "vendredi": "8h00-12h00 / 14h00-18h00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243963[]",
+      "gid": "1029"
     },
     {
       "departement": "13",
@@ -1176,30 +1176,30 @@
     },
     {
       "departement": "13",
-      "nom": "H\u00f4pital Conception (R\u00e9serv\u00e9 aux professionnels de sant\u00e9 lib\u00e9raux)",
-      "url": "https://partners.doctolib.fr/hopital-public/marseille/vaccination-covid-19-assistance-publique-hopitaux-de-marseille/?pid=practice-78743&enable_cookies_consent=1",
+      "nom": "Centre de vaccination de l'H\u00f4pital d'Instruction des Arm\u00e9es Laveran",
+      "url": "doctolib",
       "location": {
-        "longitude": 5.39612,
-        "latitude": 43.2892
+        "longitude": 5.41388,
+        "latitude": 43.3269
       },
       "metadata": {
-        "address": "147 Boulevard Baille, 13005 Marseille",
+        "address": "24 bouvelard Laveran, 13013 Marseille",
         "business_hours": {
-          "lundi": "17h-21h",
-          "mardi": "17h-21h",
-          "mercredi": "17h-21h",
-          "jeudi": "17h-21h",
-          "vendredi": "17h-21h",
-          "samedi": "9h-13h",
+          "lundi": "En attente pr\u00e9cision",
+          "mardi": "En attente pr\u00e9cision",
+          "mercredi": "En attente pr\u00e9cision",
+          "jeudi": "En attente pr\u00e9cision",
+          "vendredi": "En attente pr\u00e9cision",
+          "samedi": "ferm\u00e9",
           "dimanche": "ferm\u00e9"
         }
       },
       "prochain_rdv": null,
-      "plateforme": null,
+      "plateforme": "Autre",
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "983"
+      "gid": "2171"
     },
     {
       "departement": "13",
@@ -1230,30 +1230,30 @@
     },
     {
       "departement": "13",
-      "nom": "Centre de vaccination de l'H\u00f4pital d'Instruction des Arm\u00e9es Laveran",
-      "url": "doctolib",
+      "nom": "H\u00f4pital Conception (R\u00e9serv\u00e9 aux professionnels de sant\u00e9 lib\u00e9raux)",
+      "url": "https://partners.doctolib.fr/hopital-public/marseille/vaccination-covid-19-assistance-publique-hopitaux-de-marseille/?pid=practice-78743&enable_cookies_consent=1",
       "location": {
-        "longitude": 5.41388,
-        "latitude": 43.3269
+        "longitude": 5.39612,
+        "latitude": 43.2892
       },
       "metadata": {
-        "address": "24 bouvelard Laveran, 13013 Marseille",
+        "address": "147 Boulevard Baille, 13005 Marseille",
         "business_hours": {
-          "lundi": "En attente pr\u00e9cision",
-          "mardi": "En attente pr\u00e9cision",
-          "mercredi": "En attente pr\u00e9cision",
-          "jeudi": "En attente pr\u00e9cision",
-          "vendredi": "En attente pr\u00e9cision",
-          "samedi": "ferm\u00e9",
+          "lundi": "17h-21h",
+          "mardi": "17h-21h",
+          "mercredi": "17h-21h",
+          "jeudi": "17h-21h",
+          "vendredi": "17h-21h",
+          "samedi": "9h-13h",
           "dimanche": "ferm\u00e9"
         }
       },
       "prochain_rdv": null,
-      "plateforme": "Autre",
+      "plateforme": null,
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "2171"
+      "gid": "983"
     },
     {
       "departement": "13",
@@ -1312,14 +1312,14 @@
     },
     {
       "departement": "13",
-      "nom": "CD - US de Salon-de-Provence / Centre de D\u00e9tention de Salon-de-Provence",
+      "nom": "SAS - US SAS / Etablissement sp\u00e9cialis\u00e9 pour mineurs de Marseille",
       "url": "",
       "location": {
-        "longitude": 5.06226,
-        "latitude": 43.6401
+        "longitude": 5.48264,
+        "latitude": 43.2898
       },
       "metadata": {
-        "address": " Salon-de-Provence, 13300 Salon-de-Provence",
+        "address": " Mont\u00e9e Commandant de Robien, 13011 Marseille",
         "business_hours": {
           "lundi": "Ferm\u00e9 au public",
           "mardi": "Ferm\u00e9 au public",
@@ -1335,7 +1335,7 @@
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "1918"
+      "gid": "1921"
     },
     {
       "departement": "13",
@@ -1366,14 +1366,14 @@
     },
     {
       "departement": "13",
-      "nom": "SAS - US SAS / Etablissement sp\u00e9cialis\u00e9 pour mineurs de Marseille",
+      "nom": "CD - US de Salon-de-Provence / Centre de D\u00e9tention de Salon-de-Provence",
       "url": "",
       "location": {
-        "longitude": 5.48264,
-        "latitude": 43.2898
+        "longitude": 5.06226,
+        "latitude": 43.6401
       },
       "metadata": {
-        "address": " Mont\u00e9e Commandant de Robien, 13011 Marseille",
+        "address": " Salon-de-Provence, 13300 Salon-de-Provence",
         "business_hours": {
           "lundi": "Ferm\u00e9 au public",
           "mardi": "Ferm\u00e9 au public",
@@ -1389,34 +1389,7 @@
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "1921"
-    },
-    {
-      "departement": "13",
-      "nom": "MC - USMP MC Arles / Maison Centrale d'Arles",
-      "url": "",
-      "location": {
-        "longitude": 4.63679,
-        "latitude": 43.7091
-      },
-      "metadata": {
-        "address": "2 Rue Joseph Seguin, 13200 Arles",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1922"
+      "gid": "1918"
     },
     {
       "departement": "13",
@@ -1444,6 +1417,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1923"
+    },
+    {
+      "departement": "13",
+      "nom": "MC - USMP MC Arles / Maison Centrale d'Arles",
+      "url": "",
+      "location": {
+        "longitude": 4.63679,
+        "latitude": 43.7091
+      },
+      "metadata": {
+        "address": "2 Rue Joseph Seguin, 13200 Arles",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1922"
     },
     {
       "departement": "13",

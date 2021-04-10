@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:06:23.027594+02:00",
+  "last_updated": "2021-04-10T19:10:42.150618+02:00",
   "centres_disponibles": [
     {
       "departement": "63",
@@ -25,7 +25,7 @@
       "prochain_rdv": "2021-04-15T08:58:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 17,
+      "appointment_count": 16,
       "internal_id": "265511[]",
       "gid": "d265511"
     },
@@ -48,6 +48,34 @@
       "appointment_count": 10,
       "internal_id": null,
       "gid": "919a33ad"
+    },
+    {
+      "departement": "63",
+      "nom": "Centre de vaccination municipal de Clermont-Ferrand - Maison des Sports de Clermont-Ferrand",
+      "url": "https://partners.doctolib.fr/centre-de-sante/clermont-ferrand/centre-de-vaccination-municipal-clermont-ferrand?pid=practice-164799%3fspeciality_id%3d5494",
+      "location": {
+        "longitude": 3.08674,
+        "latitude": 45.7859
+      },
+      "metadata": {
+        "address": " Place des Bughes, 63000 Clermont-Ferrand",
+        "phone_number": "+33473403333",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-06T15:50:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "242810[164799]",
+      "gid": "989"
     },
     {
       "departement": "63",
@@ -358,34 +386,6 @@
       "appointment_count": 0,
       "internal_id": "244267[]",
       "gid": "1158"
-    },
-    {
-      "departement": "63",
-      "nom": "Centre de vaccination municipal de Clermont-Ferrand - Maison des Sports de Clermont-Ferrand",
-      "url": "https://partners.doctolib.fr/centre-de-sante/clermont-ferrand/centre-de-vaccination-municipal-clermont-ferrand?pid=practice-164799%3fspeciality_id%3d5494",
-      "location": {
-        "longitude": 3.08674,
-        "latitude": 45.7859
-      },
-      "metadata": {
-        "address": " Place des Bughes, 63000 Clermont-Ferrand",
-        "phone_number": "+33473403333",
-        "business_hours": {
-          "lundi": "09:00-17:00",
-          "mardi": "09:00-17:00",
-          "mercredi": "09:00-17:00",
-          "jeudi": "09:00-17:00",
-          "vendredi": "09:00-17:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242810[164799]",
-      "gid": "989"
     },
     {
       "departement": "63",

@@ -1,34 +1,34 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:06:23.058927+02:00",
+  "last_updated": "2021-04-10T19:10:42.177383+02:00",
   "centres_disponibles": [
     {
       "departement": "85",
-      "nom": "Centre de vaccination COVID - MONTAIGU - Salle Dolia",
-      "url": "https://partners.doctolib.fr/centre-de-sante/montaigu-vendee/centre-de-vaccination-terres-de-montaigu",
+      "nom": "Centre de vaccination COVID - FONTENAY LE COMTE - Espace culturel et de congr\u00e8s Ren\u00e9-Cassin",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/fontenay-le-comte/centre-vaccination-fontenay-le-comte",
       "location": {
-        "longitude": -1.30731,
-        "latitude": 46.9564
+        "longitude": -0.793822,
+        "latitude": 46.4621
       },
       "metadata": {
-        "address": " All\u00e9e des Cressonni\u00e8res, 85600 Montaigu-Vend\u00e9e",
-        "phone_number": "+33251482488",
+        "address": "5 Avenue de la Gare, 85200 Fontenay-le-Comte",
+        "phone_number": "+33256906412",
         "business_hours": {
-          "lundi": "9h30-13h30 / 14h30-18h30",
-          "mardi": "9h30-13h30 / 14h30-18h30",
-          "mercredi": "9h30-13h30 / 14h30-18h30",
-          "jeudi": "9h30-13h30 / 14h30-18h30",
-          "vendredi": "9h30-13h30 / 14h30-18h30",
-          "samedi": "9h30-13h30/14h30-18h30",
-          "dimanche": "Ferm\u00e9"
+          "lundi": "14h-18h",
+          "mardi": "14h-18h",
+          "mercredi": "14h-18h",
+          "jeudi": "14h-18h",
+          "vendredi": "14h-18h",
+          "samedi": "9h-18h",
+          "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-12T16:15:00.000+02:00",
+      "prochain_rdv": "2021-04-14T09:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 2,
-      "internal_id": "242806[]",
-      "gid": "842"
+      "appointment_count": 146,
+      "internal_id": "242652[]",
+      "gid": "817"
     },
     {
       "departement": "85",
@@ -115,34 +115,6 @@
       "appointment_count": 0,
       "internal_id": "243582[]",
       "gid": "844"
-    },
-    {
-      "departement": "85",
-      "nom": "Centre de vaccination COVID - FONTENAY LE COMTE - Espace culturel et de congr\u00e8s Ren\u00e9-Cassin",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/fontenay-le-comte/centre-vaccination-fontenay-le-comte",
-      "location": {
-        "longitude": -0.793822,
-        "latitude": 46.4621
-      },
-      "metadata": {
-        "address": "5 Avenue de la Gare, 85200 Fontenay-le-Comte",
-        "phone_number": "+33256906412",
-        "business_hours": {
-          "lundi": "14h-18h",
-          "mardi": "14h-18h",
-          "mercredi": "14h-18h",
-          "jeudi": "14h-18h",
-          "vendredi": "14h-18h",
-          "samedi": "9h-18h",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242652[]",
-      "gid": "817"
     },
     {
       "departement": "85",
@@ -255,6 +227,34 @@
       "appointment_count": 0,
       "internal_id": "243018[]",
       "gid": "843"
+    },
+    {
+      "departement": "85",
+      "nom": "Centre de vaccination COVID - MONTAIGU - Salle Dolia",
+      "url": "https://partners.doctolib.fr/centre-de-sante/montaigu-vendee/centre-de-vaccination-terres-de-montaigu",
+      "location": {
+        "longitude": -1.30731,
+        "latitude": 46.9564
+      },
+      "metadata": {
+        "address": " All\u00e9e des Cressonni\u00e8res, 85600 Montaigu-Vend\u00e9e",
+        "phone_number": "+33251482488",
+        "business_hours": {
+          "lundi": "9h30-13h30 / 14h30-18h30",
+          "mardi": "9h30-13h30 / 14h30-18h30",
+          "mercredi": "9h30-13h30 / 14h30-18h30",
+          "jeudi": "9h30-13h30 / 14h30-18h30",
+          "vendredi": "9h30-13h30 / 14h30-18h30",
+          "samedi": "9h30-13h30/14h30-18h30",
+          "dimanche": "Ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242806[]",
+      "gid": "842"
     },
     {
       "departement": "85",

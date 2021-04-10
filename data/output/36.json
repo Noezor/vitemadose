@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:06:22.994923+02:00",
+  "last_updated": "2021-04-10T19:10:42.120070+02:00",
   "centres_disponibles": [
     {
       "departement": "36",
@@ -364,33 +364,6 @@
     },
     {
       "departement": "36",
-      "nom": "P\u00f4le de sant\u00e9 de Valen\u00e7ay /CPTS Boischaut nord",
-      "url": "https://partners.doctolib.fr/centre-depistage-covid/valencay/centres-de-vaccination-covid-du-boischaut-nord",
-      "location": {
-        "longitude": 1.57349,
-        "latitude": 47.1625
-      },
-      "metadata": {
-        "address": "28 Rue des Princes, 36600 Valen\u00e7ay",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242919[164855]",
-      "gid": "1122"
-    },
-    {
-      "departement": "36",
       "nom": "B\u00e2timent communal \"La grange\" / CPTS Boischaut sud",
       "url": "https://partners.doctolib.fr/centre-depistage-covid/boischaut-sud/centre-de-vaccination-covid-du-boischaut-sud",
       "location": {
@@ -416,6 +389,33 @@
       "appointment_count": 0,
       "internal_id": "242920[164854]",
       "gid": "1121"
+    },
+    {
+      "departement": "36",
+      "nom": "P\u00f4le de sant\u00e9 de Valen\u00e7ay /CPTS Boischaut nord",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/valencay/centres-de-vaccination-covid-du-boischaut-nord",
+      "location": {
+        "longitude": 1.57349,
+        "latitude": 47.1625
+      },
+      "metadata": {
+        "address": "28 Rue des Princes, 36600 Valen\u00e7ay",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242919[164855]",
+      "gid": "1122"
     },
     {
       "departement": "36",
@@ -447,33 +447,6 @@
     },
     {
       "departement": "36",
-      "nom": "MC - Unit\u00e9 de soins somatiques et psychiatriques de la maison centrale de SAINT-MAUR / Maison Centrale de Saint-Maur",
-      "url": "",
-      "location": {
-        "longitude": 1.63118,
-        "latitude": 46.7995
-      },
-      "metadata": {
-        "address": " Bel Air, 36250 Saint-Maur",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1801"
-    },
-    {
-      "departement": "36",
       "nom": "CP - Unit\u00e9 de soins somatiques et psychiatriques du centre p\u00e9nitentiaire de CHATEAUROUX \"Le Craquelin\" / Maison Centrale de Saint-Maur",
       "url": "",
       "location": {
@@ -498,6 +471,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1802"
+    },
+    {
+      "departement": "36",
+      "nom": "MC - Unit\u00e9 de soins somatiques et psychiatriques de la maison centrale de SAINT-MAUR / Maison Centrale de Saint-Maur",
+      "url": "",
+      "location": {
+        "longitude": 1.63118,
+        "latitude": 46.7995
+      },
+      "metadata": {
+        "address": " Bel Air, 36250 Saint-Maur",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1801"
     }
   ]
 }

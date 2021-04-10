@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:06:22.991702+02:00",
+  "last_updated": "2021-04-10T19:10:42.117008+02:00",
   "centres_disponibles": [
     {
       "departement": "34",
@@ -23,12 +23,40 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-11T14:40:00.000+02:00",
+      "prochain_rdv": "2021-04-11T16:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 4,
+      "appointment_count": 1,
       "internal_id": "242471[]",
       "gid": "603"
+    },
+    {
+      "departement": "34",
+      "nom": "VAILHAUQUES Service de Sant\u00e9 SDIS 34",
+      "url": "https://partners.doctolib.fr/centre-de-sante/vailhauques/centre-de-vaccination-covid-de-vailhauques",
+      "location": {
+        "longitude": 3.73874,
+        "latitude": 43.6439
+      },
+      "metadata": {
+        "address": "150 Rue Super Nova, 34570 Vailhauqu\u00e8s",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "14:00-17:00",
+          "mardi": "14:00-17:00",
+          "mercredi": "14:00-17:00",
+          "jeudi": "14:00-17:00",
+          "vendredi": "14:00-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-14T17:15:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 5,
+      "internal_id": "243097[]",
+      "gid": "348"
     }
   ],
   "centres_indisponibles": [
@@ -230,34 +258,6 @@
     },
     {
       "departement": "34",
-      "nom": "S\u00e8te Centre de vaccination",
-      "url": "https://partners.doctolib.fr/centre-de-sante/sete/centre-de-vaccination-cpts-du-bassin-de-thau",
-      "location": {
-        "longitude": 3.69848,
-        "latitude": 43.4127
-      },
-      "metadata": {
-        "address": " Route de Cayenne (parking du Mas Coulet), 34200 S\u00e8te",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "12:00-18:00",
-          "mardi": "10:00-18:00",
-          "mercredi": "10:00-18:00",
-          "jeudi": "10:00-18:00",
-          "vendredi": "10:00-18:00",
-          "samedi": "10:00-18:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242290[]",
-      "gid": "531"
-    },
-    {
-      "departement": "34",
       "nom": "Centre de vaccination St Martin de Londres",
       "url": "https://partners.doctolib.fr/centre-de-sante/saint-martin-de-londres/centre-de-vaccination-covid-saint-martin-de-londres?pid=practice-165713",
       "location": {
@@ -286,22 +286,22 @@
     },
     {
       "departement": "34",
-      "nom": "MONTPELLIER Maison m\u00e9dicale de garde",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/montpellier/centre-de-vaccination-covid-19-maison-medicale-de-garde-jean-bouyer",
+      "nom": "S\u00e8te Centre de vaccination",
+      "url": "https://partners.doctolib.fr/centre-de-sante/sete/centre-de-vaccination-cpts-du-bassin-de-thau",
       "location": {
-        "longitude": 3.87944,
-        "latitude": 43.6264
+        "longitude": 3.69848,
+        "latitude": 43.4127
       },
       "metadata": {
-        "address": "2 Rue des Tourterelles, 34090 Montpellier",
+        "address": " Route de Cayenne (parking du Mas Coulet), 34200 S\u00e8te",
         "phone_number": "+33800541919",
         "business_hours": {
-          "lundi": "9:00-19:00",
-          "mardi": "9:00-19:00",
-          "mercredi": "9:00-19:00",
-          "jeudi": "9:00-19:00",
-          "vendredi": "9:00-19:00",
-          "samedi": "ferm\u00e9",
+          "lundi": "12:00-18:00",
+          "mardi": "10:00-18:00",
+          "mercredi": "10:00-18:00",
+          "jeudi": "10:00-18:00",
+          "vendredi": "10:00-18:00",
+          "samedi": "10:00-18:00",
           "dimanche": "ferm\u00e9"
         }
       },
@@ -309,8 +309,8 @@
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": "243478[]",
-      "gid": "343"
+      "internal_id": "242290[]",
+      "gid": "531"
     },
     {
       "departement": "34",
@@ -339,6 +339,34 @@
       "appointment_count": 0,
       "internal_id": "242189[]",
       "gid": "344"
+    },
+    {
+      "departement": "34",
+      "nom": "MONTPELLIER Maison m\u00e9dicale de garde",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/montpellier/centre-de-vaccination-covid-19-maison-medicale-de-garde-jean-bouyer",
+      "location": {
+        "longitude": 3.87944,
+        "latitude": 43.6264
+      },
+      "metadata": {
+        "address": "2 Rue des Tourterelles, 34090 Montpellier",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "9:00-19:00",
+          "mardi": "9:00-19:00",
+          "mercredi": "9:00-19:00",
+          "jeudi": "9:00-19:00",
+          "vendredi": "9:00-19:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243478[]",
+      "gid": "343"
     },
     {
       "departement": "34",
@@ -618,34 +646,6 @@
       "appointment_count": 0,
       "internal_id": "243465[165395]",
       "gid": "766"
-    },
-    {
-      "departement": "34",
-      "nom": "VAILHAUQUES Service de Sant\u00e9 SDIS 34",
-      "url": "https://partners.doctolib.fr/centre-de-sante/vailhauques/centre-de-vaccination-covid-de-vailhauques",
-      "location": {
-        "longitude": 3.73874,
-        "latitude": 43.6439
-      },
-      "metadata": {
-        "address": "150 Rue Super Nova, 34570 Vailhauqu\u00e8s",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "14:00-17:00",
-          "mardi": "14:00-17:00",
-          "mercredi": "14:00-17:00",
-          "jeudi": "14:00-17:00",
-          "vendredi": "14:00-17:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243097[]",
-      "gid": "348"
     },
     {
       "departement": "34",
@@ -931,26 +931,6 @@
     },
     {
       "departement": "34",
-      "nom": "Pharmacie Des Vignes",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-vignes-montpellier",
-      "location": {
-        "longitude": 3.8577281,
-        "latitude": 43.6143535
-      },
-      "metadata": {
-        "address": "31 avenue Ecole Agriculture G. Buchet, 34000 MONTPELLIER",
-        "phone_number": "+33467630785",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "b07ad721"
-    },
-    {
-      "departement": "34",
       "nom": "Pharmacie Des Lilas",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-lilas",
       "location": {
@@ -968,6 +948,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "bd4abada"
+    },
+    {
+      "departement": "34",
+      "nom": "Pharmacie Des Vignes",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-vignes-montpellier",
+      "location": {
+        "longitude": 3.8577281,
+        "latitude": 43.6143535
+      },
+      "metadata": {
+        "address": "31 avenue Ecole Agriculture G. Buchet, 34000 MONTPELLIER",
+        "phone_number": "+33467630785",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "b07ad721"
     },
     {
       "departement": "34",

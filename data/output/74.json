@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:06:23.040793+02:00",
+  "last_updated": "2021-04-10T19:10:42.162069+02:00",
   "centres_disponibles": [
     {
       "departement": "74",
@@ -29,33 +29,6 @@
       "appointment_count": 353,
       "internal_id": null,
       "gid": "2145"
-    },
-    {
-      "departement": "74",
-      "nom": "LA ROCHE SUR FORON - ROCHEXPO",
-      "url": "https://partners.doctolib.fr/centre-de-sante/la-roche-sur-foron/centre-departemental-de-vaccination-covid-19-rochexpo?pid=practice-179552",
-      "location": {
-        "longitude": 6.30773,
-        "latitude": 46.0734
-      },
-      "metadata": {
-        "address": "59 Rue des Centaures, 74800 La Roche-sur-Foron",
-        "business_hours": {
-          "lundi": "09:00-13:00/14:00-19:00",
-          "mardi": "09:00-13:00/14:00-19:00",
-          "mercredi": "09:00-13:00/14:00-19:00",
-          "jeudi": "09:00-13:00/14:00-19:00",
-          "vendredi": "09:00-13:00/14:00-19:00",
-          "samedi": "09:00-13:00/14:00-19:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-12T15:52:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 258,
-      "internal_id": "262536[179552]",
-      "gid": "2209"
     },
     {
       "departement": "74",
@@ -115,6 +88,33 @@
     },
     {
       "departement": "74",
+      "nom": "LA ROCHE SUR FORON - ROCHEXPO",
+      "url": "https://partners.doctolib.fr/centre-de-sante/la-roche-sur-foron/centre-departemental-de-vaccination-covid-19-rochexpo?pid=practice-179552",
+      "location": {
+        "longitude": 6.30773,
+        "latitude": 46.0734
+      },
+      "metadata": {
+        "address": "59 Rue des Centaures, 74800 La Roche-sur-Foron",
+        "business_hours": {
+          "lundi": "09:00-13:00/14:00-19:00",
+          "mardi": "09:00-13:00/14:00-19:00",
+          "mercredi": "09:00-13:00/14:00-19:00",
+          "jeudi": "09:00-13:00/14:00-19:00",
+          "vendredi": "09:00-13:00/14:00-19:00",
+          "samedi": "09:00-13:00/14:00-19:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-13T11:41:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 257,
+      "internal_id": "262536[179552]",
+      "gid": "2209"
+    },
+    {
+      "departement": "74",
       "nom": "Centre d'examens de sant\u00e9 - CPAM",
       "url": "https://www.doctolib.fr/centre-de-sante/annecy/centre-de-vaccination-covid-19-cpam-haute-savoie",
       "location": {
@@ -136,7 +136,7 @@
       "prochain_rdv": "2021-04-15T08:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 21,
+      "appointment_count": 20,
       "internal_id": "263085[]",
       "gid": "2147"
     },
@@ -226,34 +226,6 @@
     },
     {
       "departement": "74",
-      "nom": "Complexe Martin Luther King",
-      "url": "https://partners.doctolib.fr/centre-de-sante/annemasse/centre-de-vaccination-covid-annemasse-complexe-martin-luther-king",
-      "location": {
-        "longitude": 6.23831,
-        "latitude": 46.1985
-      },
-      "metadata": {
-        "address": " rue du Dr Francis Baud, 74100 Annemasse",
-        "phone_number": "+33450336233",
-        "business_hours": {
-          "lundi": "08:00-13:00/14:00-18:00",
-          "mardi": "08:00-13:00/14:00-18:00",
-          "mercredi": "08:00-13:00/14:00-18:00",
-          "jeudi": "08:00-13:00/14:00-18:00",
-          "vendredi": "08:00-13:00/14:00-18:00",
-          "samedi": "08:00-13:00/14:00-18:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-24T17:15:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "243203[]",
-      "gid": "761"
-    },
-    {
-      "departement": "74",
       "nom": "Centre de Vaccination COVID-19 du Genevois",
       "url": "https://partners.doctolib.fr/centre-de-sante/archamps/centre-de-vaccination-covid-19-du-genevois",
       "location": {
@@ -304,7 +276,7 @@
       "prochain_rdv": "2021-04-26T11:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 71,
+      "appointment_count": 72,
       "internal_id": "243248[]",
       "gid": "826"
     },
@@ -329,10 +301,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-26T16:10:00.000+02:00",
+      "prochain_rdv": "2021-04-26T16:35:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 257,
+      "appointment_count": 256,
       "internal_id": "243127[]",
       "gid": "757"
     },
@@ -388,7 +360,7 @@
       "prochain_rdv": "2021-04-28T13:42:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 8,
+      "appointment_count": 7,
       "internal_id": "241468[163436]",
       "gid": "235"
     },
@@ -447,6 +419,34 @@
       "appointment_count": 30,
       "internal_id": "243146[]",
       "gid": "743"
+    },
+    {
+      "departement": "74",
+      "nom": "Complexe Martin Luther King",
+      "url": "https://partners.doctolib.fr/centre-de-sante/annemasse/centre-de-vaccination-covid-annemasse-complexe-martin-luther-king",
+      "location": {
+        "longitude": 6.23831,
+        "latitude": 46.1985
+      },
+      "metadata": {
+        "address": " rue du Dr Francis Baud, 74100 Annemasse",
+        "phone_number": "+33450336233",
+        "business_hours": {
+          "lundi": "08:00-13:00/14:00-18:00",
+          "mardi": "08:00-13:00/14:00-18:00",
+          "mercredi": "08:00-13:00/14:00-18:00",
+          "jeudi": "08:00-13:00/14:00-18:00",
+          "vendredi": "08:00-13:00/14:00-18:00",
+          "samedi": "08:00-13:00/14:00-18:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-10T18:00:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 8,
+      "internal_id": "243203[]",
+      "gid": "761"
     },
     {
       "departement": "74",
@@ -638,34 +638,6 @@
     },
     {
       "departement": "74",
-      "nom": "Centre de vaccination de Rumilly Salle des f\u00eates municipale",
-      "url": "https://partners.doctolib.fr/hopital-public/rumilly/centre-de-vaccination-covid-ch-gabriel-deplante?pid=practice-164564",
-      "location": {
-        "longitude": 5.93889,
-        "latitude": 45.8634
-      },
-      "metadata": {
-        "address": "1 Rue du Sophora, 74150 Rumilly",
-        "phone_number": "+33450018399",
-        "business_hours": {
-          "lundi": "14:00-18:00",
-          "mardi": "08:30-12:30/14:00-18:00",
-          "mercredi": "08:30-12:30/14:00-18:00",
-          "jeudi": "08:30-12:30/14:00-18:00",
-          "vendredi": "08:30-12:30/14:00-18:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242593[164564]",
-      "gid": "1168"
-    },
-    {
-      "departement": "74",
       "nom": "H\u00f4pitaux du L\u00e9man - Espace g\u00e9riatrique",
       "url": "https://partners.doctolib.fr/etablissement-de-prevention/thonon-les-bains/centre-de-vaccination-covid19-hopitaux-du-leman?pid=practice-162698",
       "location": {
@@ -691,6 +663,34 @@
       "appointment_count": 0,
       "internal_id": "243729[162698]",
       "gid": "1331"
+    },
+    {
+      "departement": "74",
+      "nom": "Centre de vaccination de Rumilly Salle des f\u00eates municipale",
+      "url": "https://partners.doctolib.fr/hopital-public/rumilly/centre-de-vaccination-covid-ch-gabriel-deplante?pid=practice-164564",
+      "location": {
+        "longitude": 5.93889,
+        "latitude": 45.8634
+      },
+      "metadata": {
+        "address": "1 Rue du Sophora, 74150 Rumilly",
+        "phone_number": "+33450018399",
+        "business_hours": {
+          "lundi": "14:00-18:00",
+          "mardi": "08:30-12:30/14:00-18:00",
+          "mercredi": "08:30-12:30/14:00-18:00",
+          "jeudi": "08:30-12:30/14:00-18:00",
+          "vendredi": "08:30-12:30/14:00-18:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242593[164564]",
+      "gid": "1168"
     },
     {
       "departement": "74",

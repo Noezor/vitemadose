@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:06:22.977883+02:00",
+  "last_updated": "2021-04-10T19:10:42.103126+02:00",
   "centres_disponibles": [
     {
       "departement": "24",
@@ -51,10 +51,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-17T16:48:00.000+02:00",
+      "prochain_rdv": "2021-04-16T16:12:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 1,
+      "appointment_count": 3,
       "internal_id": "241906[]",
       "gid": "978"
     },
@@ -78,12 +78,39 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-27T15:45:00.000+02:00",
+      "prochain_rdv": "2021-04-27T16:05:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 46,
+      "appointment_count": 44,
       "internal_id": "264649[]",
       "gid": "d264649"
+    },
+    {
+      "departement": "24",
+      "nom": "Centre de Vaccination - CH Saint-Astier",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-astier/centre-de-vaccination-covid-19-ch-de-saint-astier?pid=practice-175745",
+      "location": {
+        "longitude": 0.514085,
+        "latitude": 45.1457
+      },
+      "metadata": {
+        "address": "97 Rue du Mar\u00e9chal Leclerc, 24110 Saint-Astier",
+        "business_hours": {
+          "lundi": "9:00-12:30/13:30-17:00",
+          "mardi": "9:00-12:30/13:30-17:00",
+          "mercredi": "9:00-12:30/13:30-17:00",
+          "jeudi": "9:00-12:30/13:30-17:00",
+          "vendredi": "9:00-12:30/13:30-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-06T11:00:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "257580[175745]",
+      "gid": "1697"
     }
   ],
   "centres_indisponibles": [
@@ -172,33 +199,6 @@
     },
     {
       "departement": "24",
-      "nom": "EHPAD La Madeleine",
-      "url": "https://partners.doctolib.fr/centre-de-sante/bergerac/centre-de-vaccination-covid-19-ehpad-la-madeleine?pid=practice-174840",
-      "location": {
-        "longitude": 0.478389,
-        "latitude": 44.8473
-      },
-      "metadata": {
-        "address": "40 Rue du Mar\u00e9chal Joffre, 24100 Bergerac",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "255520[174840]",
-      "gid": "1618"
-    },
-    {
-      "departement": "24",
       "nom": "EHPAD de La Madeleine",
       "url": "",
       "location": {
@@ -223,6 +223,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1619"
+    },
+    {
+      "departement": "24",
+      "nom": "EHPAD La Madeleine",
+      "url": "https://partners.doctolib.fr/centre-de-sante/bergerac/centre-de-vaccination-covid-19-ehpad-la-madeleine?pid=practice-174840",
+      "location": {
+        "longitude": 0.478389,
+        "latitude": 44.8473
+      },
+      "metadata": {
+        "address": "40 Rue du Mar\u00e9chal Joffre, 24100 Bergerac",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "255520[174840]",
+      "gid": "1618"
     },
     {
       "departement": "24",
@@ -307,60 +334,6 @@
     },
     {
       "departement": "24",
-      "nom": "Centre de Vaccination - CH Saint-Astier",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saint-astier/centre-de-vaccination-covid-19-ch-de-saint-astier?pid=practice-175745",
-      "location": {
-        "longitude": 0.514085,
-        "latitude": 45.1457
-      },
-      "metadata": {
-        "address": "97 Rue du Mar\u00e9chal Leclerc, 24110 Saint-Astier",
-        "business_hours": {
-          "lundi": "9:00-12:30/13:30-17:00",
-          "mardi": "9:00-12:30/13:30-17:00",
-          "mercredi": "9:00-12:30/13:30-17:00",
-          "jeudi": "9:00-12:30/13:30-17:00",
-          "vendredi": "9:00-12:30/13:30-17:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "257580[175745]",
-      "gid": "1697"
-    },
-    {
-      "departement": "24",
-      "nom": "Clinique Pasteur & CPTS",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/bergerac/centre-de-vaccination-covid-19-clinique-pasteur-bergerac-elsan?pid=practice-172067",
-      "location": {
-        "longitude": 0.489893,
-        "latitude": 44.8512
-      },
-      "metadata": {
-        "address": "54 Rue du Professeur Pozzi, 24100 Bergerac",
-        "business_hours": {
-          "lundi": "13:00-17:00",
-          "mardi": "13:00-17:00",
-          "mercredi": "13:00-17:00",
-          "jeudi": "13:00-17:00",
-          "vendredi": "13:00-17:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "251967[172067]",
-      "gid": "1433"
-    },
-    {
-      "departement": "24",
       "nom": "Maison de sant\u00e9 du Pays Montponnais",
       "url": "https://partners.doctolib.fr/centre-de-sante/montpon-menesterol/centre-de-vaccination-covid-19-montpon-menestrol?pid=practice-170938",
       "location": {
@@ -413,6 +386,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "2245"
+    },
+    {
+      "departement": "24",
+      "nom": "Clinique Pasteur & CPTS",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/bergerac/centre-de-vaccination-covid-19-clinique-pasteur-bergerac-elsan?pid=practice-172067",
+      "location": {
+        "longitude": 0.489893,
+        "latitude": 44.8512
+      },
+      "metadata": {
+        "address": "54 Rue du Professeur Pozzi, 24100 Bergerac",
+        "business_hours": {
+          "lundi": "13:00-17:00",
+          "mardi": "13:00-17:00",
+          "mercredi": "13:00-17:00",
+          "jeudi": "13:00-17:00",
+          "vendredi": "13:00-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "251967[172067]",
+      "gid": "1433"
     },
     {
       "departement": "24",
@@ -720,33 +720,6 @@
     },
     {
       "departement": "24",
-      "nom": "MA - US PERIGUEUX / Maison d'Arr\u00eat de P\u00e9rigueux",
-      "url": "",
-      "location": {
-        "longitude": 0.719136,
-        "latitude": 45.1886
-      },
-      "metadata": {
-        "address": "2 Place Beleyme, 24000 P\u00e9rigueux",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1886"
-    },
-    {
-      "departement": "24",
       "nom": "CD - US CD de NEUVIC / Maison d'Arr\u00eat de P\u00e9rigueux",
       "url": "",
       "location": {
@@ -771,6 +744,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1887"
+    },
+    {
+      "departement": "24",
+      "nom": "MA - US PERIGUEUX / Maison d'Arr\u00eat de P\u00e9rigueux",
+      "url": "",
+      "location": {
+        "longitude": 0.719136,
+        "latitude": 45.1886
+      },
+      "metadata": {
+        "address": "2 Place Beleyme, 24000 P\u00e9rigueux",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1886"
     },
     {
       "departement": "24",

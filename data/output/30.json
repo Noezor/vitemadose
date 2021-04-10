@@ -1,7 +1,35 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:06:22.985522+02:00",
+  "last_updated": "2021-04-10T19:10:42.110939+02:00",
   "centres_disponibles": [
+    {
+      "departement": "30",
+      "nom": "Dr Philippe SERAYET",
+      "url": "https://partners.doctolib.fr/medecin-generaliste/remoulins/phillipe-serayet",
+      "location": {
+        "longitude": 4.5637042,
+        "latitude": 43.9384217
+      },
+      "metadata": {
+        "address": "58 Avenue Geoffroy Perret, 30210 Remoulins",
+        "phone_number": "04 66 37 15 44",
+        "business_hours": {
+          "lundi": "08:00-12:00, 14:00-18:00",
+          "mardi": "08:00-12:00, 14:00-18:00",
+          "mercredi": "08:00-12:00, 14:00-18:00",
+          "jeudi": "08:00-12:00, 14:00-17:00",
+          "vendredi": "08:00-12:00, 14:00-18:00",
+          "samedi": "08:00-12:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-11T09:25:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "general-practitioner",
+      "appointment_count": 8,
+      "internal_id": "48746[]",
+      "gid": "d48746"
+    },
     {
       "departement": "30",
       "nom": "Dr Ghassan Fayad",
@@ -29,6 +57,34 @@
       "appointment_count": 20,
       "internal_id": "51379[]",
       "gid": "d51379"
+    },
+    {
+      "departement": "30",
+      "nom": "Centre de vaccination Espace D\u00e9sir\u00e9 Rousset",
+      "url": "https://www.doctolib.fr/centre-de-sante/quissac/centre-de-vaccination-covid-19-ville-de-quissac",
+      "location": {
+        "longitude": 4.00082,
+        "latitude": 43.9097
+      },
+      "metadata": {
+        "address": "19 Avenue du 11 Novembre, 30260 Quissac",
+        "phone_number": "0800541919",
+        "business_hours": {
+          "lundi": "13:30 - 17:30",
+          "mardi": "13:30 - 17:30",
+          "mercredi": "13:30 - 17:30",
+          "jeudi": "13:30 - 17:30",
+          "vendredi": "13:30 - 17:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-14T16:30:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "264364[]",
+      "gid": "2409"
     },
     {
       "departement": "30",
@@ -81,7 +137,7 @@
       "prochain_rdv": "2021-04-22T09:05:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 1140,
+      "appointment_count": 1139,
       "internal_id": "245424[166788]",
       "gid": "1503"
     },
@@ -115,34 +171,6 @@
     },
     {
       "departement": "30",
-      "nom": "Centre de vaccination Espace D\u00e9sir\u00e9 Rousset",
-      "url": "https://www.doctolib.fr/centre-de-sante/quissac/centre-de-vaccination-covid-19-ville-de-quissac",
-      "location": {
-        "longitude": 4.00082,
-        "latitude": 43.9097
-      },
-      "metadata": {
-        "address": "19 Avenue du 11 Novembre, 30260 Quissac",
-        "phone_number": "0800541919",
-        "business_hours": {
-          "lundi": "13:30 - 17:30",
-          "mardi": "13:30 - 17:30",
-          "mercredi": "13:30 - 17:30",
-          "jeudi": "13:30 - 17:30",
-          "vendredi": "13:30 - 17:30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-28T16:50:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 59,
-      "internal_id": "264364[]",
-      "gid": "2409"
-    },
-    {
-      "departement": "30",
       "nom": "Centre de vaccination COVID BELLEGARDE - TERRE D'ARGENCE",
       "url": "https://partners.doctolib.fr/centre-de-sante/bellegarde/centre-de-vaccination-de-bellegarde-les-cigales?pid=practice-177312",
       "location": {
@@ -165,7 +193,7 @@
       "prochain_rdv": "2021-05-11T16:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 59,
+      "appointment_count": 58,
       "internal_id": "259081[177312]",
       "gid": "2034"
     },
@@ -310,33 +338,6 @@
     },
     {
       "departement": "30",
-      "nom": "Centre MSP Petite Camargue",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/vauvert/msp-de-la-petite-camargue-vaccination-covid?pid=practice-171380",
-      "location": {
-        "longitude": 4.27161,
-        "latitude": 43.6945
-      },
-      "metadata": {
-        "address": "406 Rue Emile Zola, 30600 Vauvert",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "09:00 - 13:00",
-          "jeudi": "09:00 - 13:00",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "251130[171380]",
-      "gid": "1507"
-    },
-    {
-      "departement": "30",
       "nom": "Centre Al\u00e8s Fil",
       "url": "https://partners.doctolib.fr/centre-de-sante/ales/centre-de-vaccination-covid-19-ales?pid=practice-165321",
       "location": {
@@ -361,6 +362,33 @@
       "appointment_count": 0,
       "internal_id": "244706[165321]",
       "gid": "1505"
+    },
+    {
+      "departement": "30",
+      "nom": "Centre MSP Petite Camargue",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/vauvert/msp-de-la-petite-camargue-vaccination-covid?pid=practice-171380",
+      "location": {
+        "longitude": 4.27161,
+        "latitude": 43.6945
+      },
+      "metadata": {
+        "address": "406 Rue Emile Zola, 30600 Vauvert",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "09:00 - 13:00",
+          "jeudi": "09:00 - 13:00",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "251130[171380]",
+      "gid": "1507"
     },
     {
       "departement": "30",
@@ -748,34 +776,6 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "26bd52fd"
-    },
-    {
-      "departement": "30",
-      "nom": "Dr Philippe SERAYET",
-      "url": "https://partners.doctolib.fr/medecin-generaliste/remoulins/phillipe-serayet",
-      "location": {
-        "longitude": 4.5637042,
-        "latitude": 43.9384217
-      },
-      "metadata": {
-        "address": "58 Avenue Geoffroy Perret, 30210 Remoulins",
-        "phone_number": "04 66 37 15 44",
-        "business_hours": {
-          "lundi": "08:00-12:00, 14:00-18:00",
-          "mardi": "08:00-12:00, 14:00-18:00",
-          "mercredi": "08:00-12:00, 14:00-18:00",
-          "jeudi": "08:00-12:00, 14:00-17:00",
-          "vendredi": "08:00-12:00, 14:00-18:00",
-          "samedi": "08:00-12:00",
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "general-practitioner",
-      "appointment_count": 0,
-      "internal_id": "48746[]",
-      "gid": "d48746"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:06:23.055813+02:00",
+  "last_updated": "2021-04-10T19:10:42.174461+02:00",
   "centres_disponibles": [
     {
       "departement": "83",
@@ -106,10 +106,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-11T15:35:00.000+02:00",
+      "prochain_rdv": "2021-04-13T09:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 847,
+      "appointment_count": 845,
       "internal_id": "251058[179632]",
       "gid": "1518"
     },
@@ -133,67 +133,12 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-13T15:35:00.000+02:00",
+      "prochain_rdv": "2021-04-13T15:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 16,
+      "appointment_count": 14,
       "internal_id": "249196[162560]",
       "gid": "2200"
-    },
-    {
-      "departement": "83",
-      "nom": "Centre Vaccination Salle Yann Piat",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-174190",
-      "location": {
-        "longitude": 6.23435,
-        "latitude": 43.1416
-      },
-      "metadata": {
-        "address": " Rue de la Salle des F\u00eates, 83250 La Londe-les-Maures",
-        "business_hours": {
-          "lundi": "9h-17h",
-          "mardi": "9h-17h",
-          "mercredi": "9h-17h",
-          "jeudi": "9h-17h",
-          "vendredi": "9h-17h",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-16T09:10:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "243226[174190]",
-      "gid": "1566"
-    },
-    {
-      "departement": "83",
-      "nom": "Centre de Tir \u00e0 l\u2019Arc",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-165073%3fspeciality_id%3d5494",
-      "location": {
-        "longitude": 6.06498,
-        "latitude": 43.4139
-      },
-      "metadata": {
-        "address": " Chemin des Archets, 83170 Brignoles",
-        "phone_number": "+33494861595",
-        "business_hours": {
-          "lundi": "9h/17h",
-          "mardi": "9h/17h",
-          "mercredi": "9h/17h",
-          "jeudi": "9h/17h",
-          "vendredi": "9h/17h",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-16T16:10:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "243226[165073]",
-      "gid": "832"
     },
     {
       "departement": "83",
@@ -219,7 +164,7 @@
       "prochain_rdv": "2021-04-16T16:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 22,
+      "appointment_count": 21,
       "internal_id": "240834[]",
       "gid": "147"
     },
@@ -243,10 +188,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-23T10:20:00.000+02:00",
+      "prochain_rdv": "2021-04-22T10:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 228,
+      "appointment_count": 251,
       "internal_id": "243226[176700]",
       "gid": "1999"
     },
@@ -389,6 +334,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "2403"
+    },
+    {
+      "departement": "83",
+      "nom": "Centre Vaccination Salle Yann Piat",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-174190",
+      "location": {
+        "longitude": 6.23435,
+        "latitude": 43.1416
+      },
+      "metadata": {
+        "address": " Rue de la Salle des F\u00eates, 83250 La Londe-les-Maures",
+        "business_hours": {
+          "lundi": "9h-17h",
+          "mardi": "9h-17h",
+          "mercredi": "9h-17h",
+          "jeudi": "9h-17h",
+          "vendredi": "9h-17h",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243226[174190]",
+      "gid": "1566"
     },
     {
       "departement": "83",
@@ -665,6 +637,34 @@
     },
     {
       "departement": "83",
+      "nom": "Centre de Tir \u00e0 l\u2019Arc",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-165073%3fspeciality_id%3d5494",
+      "location": {
+        "longitude": 6.06498,
+        "latitude": 43.4139
+      },
+      "metadata": {
+        "address": " Chemin des Archets, 83170 Brignoles",
+        "phone_number": "+33494861595",
+        "business_hours": {
+          "lundi": "9h/17h",
+          "mardi": "9h/17h",
+          "mercredi": "9h/17h",
+          "jeudi": "9h/17h",
+          "vendredi": "9h/17h",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243226[165073]",
+      "gid": "832"
+    },
+    {
+      "departement": "83",
       "nom": "Centre Vaccination La Roquebrussanne",
       "url": "",
       "location": {
@@ -689,6 +689,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "2303"
+    },
+    {
+      "departement": "83",
+      "nom": "Centre Vaccination Sollies Pont",
+      "url": "",
+      "location": {
+        "longitude": 6.04199,
+        "latitude": 43.1912
+      },
+      "metadata": {
+        "address": "21 Rue Georges Cisson, 83210 Solli\u00e8s-Pont",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "2304"
     },
     {
       "departement": "83",
@@ -720,30 +747,30 @@
     },
     {
       "departement": "83",
-      "nom": "Centre Vaccination Sollies Pont",
-      "url": "",
+      "nom": "Espace Culturel J.L.DIEUX",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-164120&enable_cookies_consent=1",
       "location": {
-        "longitude": 6.04199,
-        "latitude": 43.1912
+        "longitude": 6.31299,
+        "latitude": 43.3937
       },
       "metadata": {
-        "address": "21 Rue Georges Cisson, 83210 Solli\u00e8s-Pont",
+        "address": " Avenue Pierre Gaudin, 83340 Le Luc",
         "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
+          "lundi": "Ouvert",
+          "mardi": "Ouvert",
+          "mercredi": "Ouvert",
+          "jeudi": "Ouvert",
+          "vendredi": "Ouvert",
           "samedi": "ferm\u00e9",
           "dimanche": "ferm\u00e9"
         }
       },
       "prochain_rdv": null,
-      "plateforme": "Autre",
+      "plateforme": null,
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "2304"
+      "gid": "1401"
     },
     {
       "departement": "83",
@@ -771,33 +798,6 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "2305"
-    },
-    {
-      "departement": "83",
-      "nom": "Espace Culturel J.L.DIEUX",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-164120&enable_cookies_consent=1",
-      "location": {
-        "longitude": 6.31299,
-        "latitude": 43.3937
-      },
-      "metadata": {
-        "address": " Avenue Pierre Gaudin, 83340 Le Luc",
-        "business_hours": {
-          "lundi": "Ouvert",
-          "mardi": "Ouvert",
-          "mercredi": "Ouvert",
-          "jeudi": "Ouvert",
-          "vendredi": "Ouvert",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": null,
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1401"
     },
     {
       "departement": "83",
@@ -855,34 +855,6 @@
     },
     {
       "departement": "83",
-      "nom": "Complexe Saint-Exup\u00e9ry Gymnase Coubertin",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/draguignan/centre-de-vaccination-covid-19-de-draguignan",
-      "location": {
-        "longitude": 6.47115,
-        "latitude": 43.5353
-      },
-      "metadata": {
-        "address": " Place de la Paix, 83300 Draguignan",
-        "phone_number": "+33483083085",
-        "business_hours": {
-          "lundi": "9h/17h",
-          "mardi": "9h/17h",
-          "mercredi": "9h/17h",
-          "jeudi": "9h/17h",
-          "vendredi": "9h/17h",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243235[]",
-      "gid": "833"
-    },
-    {
-      "departement": "83",
       "nom": "Complexe sportif des Blaqui\u00e8res",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-165071%3fspeciality_id%3d5494",
       "location": {
@@ -908,6 +880,34 @@
       "appointment_count": 0,
       "internal_id": "243226[165071]",
       "gid": "838"
+    },
+    {
+      "departement": "83",
+      "nom": "Complexe Saint-Exup\u00e9ry Gymnase Coubertin",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/draguignan/centre-de-vaccination-covid-19-de-draguignan",
+      "location": {
+        "longitude": 6.47115,
+        "latitude": 43.5353
+      },
+      "metadata": {
+        "address": " Place de la Paix, 83300 Draguignan",
+        "phone_number": "+33483083085",
+        "business_hours": {
+          "lundi": "9h/17h",
+          "mardi": "9h/17h",
+          "mercredi": "9h/17h",
+          "jeudi": "9h/17h",
+          "vendredi": "9h/17h",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243235[]",
+      "gid": "833"
     },
     {
       "departement": "83",

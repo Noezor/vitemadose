@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:06:23.024923+02:00",
+  "last_updated": "2021-04-10T19:10:42.148467+02:00",
   "centres_disponibles": [
     {
       "departement": "62",
@@ -25,7 +25,7 @@
       "prochain_rdv": "2021-04-11T08:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 72,
+      "appointment_count": 71,
       "internal_id": "258354[176735]",
       "gid": "1952"
     },
@@ -49,10 +49,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-11T08:20:00.000+02:00",
+      "prochain_rdv": "2021-04-11T08:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 52,
+      "appointment_count": 53,
       "internal_id": "242237[176607]",
       "gid": "1956"
     },
@@ -135,7 +135,7 @@
       "prochain_rdv": "2021-04-11T09:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 11,
+      "appointment_count": 10,
       "internal_id": "259287[177337]",
       "gid": "1969"
     },
@@ -163,7 +163,7 @@
       "prochain_rdv": "2021-04-11T12:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 7,
+      "appointment_count": 5,
       "internal_id": "241235[162482]",
       "gid": "329"
     },
@@ -190,7 +190,7 @@
       "prochain_rdv": "2021-04-11T12:55:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 160,
+      "appointment_count": 159,
       "internal_id": "258280[]",
       "gid": "d258280"
     },
@@ -214,10 +214,10 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-12T11:55:00.000+02:00",
+      "prochain_rdv": "2021-04-12T11:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 184,
+      "appointment_count": 185,
       "internal_id": "258424[176804]",
       "gid": "1970"
     },
@@ -242,10 +242,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-12T12:30:00.000+02:00",
+      "prochain_rdv": "2021-04-12T12:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 319,
+      "appointment_count": 315,
       "internal_id": "242884[180561]",
       "gid": "1115"
     },
@@ -273,7 +273,7 @@
       "prochain_rdv": "2021-04-13T09:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 90,
+      "appointment_count": 91,
       "internal_id": "243031[]",
       "gid": "1110"
     },
@@ -1238,33 +1238,6 @@
     },
     {
       "departement": "62",
-      "nom": "MA - US DE BETHUNE / Maison d'Arr\u00eat de B\u00e9thune",
-      "url": "",
-      "location": {
-        "longitude": 2.63691,
-        "latitude": 50.5365
-      },
-      "metadata": {
-        "address": "106 Rue d?Aire, 62400 B\u00e9thune",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1844"
-    },
-    {
-      "departement": "62",
       "nom": "MA - US ARRAS / Maison d'Arr\u00eat d'Arras",
       "url": "",
       "location": {
@@ -1316,6 +1289,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1845"
+    },
+    {
+      "departement": "62",
+      "nom": "MA - US DE BETHUNE / Maison d'Arr\u00eat de B\u00e9thune",
+      "url": "",
+      "location": {
+        "longitude": 2.63691,
+        "latitude": 50.5365
+      },
+      "metadata": {
+        "address": "106 Rue d?Aire, 62400 B\u00e9thune",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1844"
     },
     {
       "departement": "62",

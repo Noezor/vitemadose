@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:06:23.071105+02:00",
+  "last_updated": "2021-04-10T19:10:42.187908+02:00",
   "centres_disponibles": [
     {
       "departement": "94",
@@ -32,6 +32,34 @@
     },
     {
       "departement": "94",
+      "nom": "Centre de Vaccination Marie-Th\u00e9r\u00e8se EYQUEM Cr\u00e9teil",
+      "url": "https://partners.doctolib.fr/centre-de-sante/creteil/centre-de-vaccination-covid-ville-de-creteil",
+      "location": {
+        "longitude": 2.44597,
+        "latitude": 48.7967
+      },
+      "metadata": {
+        "address": "6 Rue Thomas Edison, 94000 Cr\u00e9teil",
+        "phone_number": "+33800089250",
+        "business_hours": {
+          "lundi": "9h-12h et 13h-19h",
+          "mardi": "9h-12h et 13h-19h",
+          "mercredi": "9h-12h et 13h-19h",
+          "jeudi": "9h-12h et 13h-19h",
+          "vendredi": "9h-12h et 13h-19h",
+          "samedi": "9h-12h et 13h-19h",
+          "dimanche": "9h-12h et 13h-19h"
+        }
+      },
+      "prochain_rdv": "2021-04-12T16:36:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "243482[]",
+      "gid": "1219"
+    },
+    {
+      "departement": "94",
       "nom": "CENTRE NOGENT SUR MARNE",
       "url": "https://partners.doctolib.fr/centre-de-sante/nogent-sur-marne/accueil-ambulatoire-de-recours-ville-de-nogent-sur-marne-adp94?pid=practice-123104",
       "location": {
@@ -51,40 +79,12 @@
           "dimanche": "08:00-20:00"
         }
       },
-      "prochain_rdv": "2021-04-12T14:20:00.000+02:00",
+      "prochain_rdv": "2021-04-12T18:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 71,
+      "appointment_count": 67,
       "internal_id": "186028[123104-180909-182271-168315]",
       "gid": "328"
-    },
-    {
-      "departement": "94",
-      "nom": "Centre de Vaccination d'Ivry sur Seine",
-      "url": "https://partners.doctolib.fr/centre-de-sante/ivry-sur-seine/centre-de-vaccination-covid-19-ivry-sur-seine?pid=practice-176560",
-      "location": {
-        "longitude": 2.38364,
-        "latitude": 48.8109
-      },
-      "metadata": {
-        "address": "2 Rue Robespierre, 94200 Ivry-sur-Seine",
-        "phone_number": "+33172046499 ",
-        "business_hours": {
-          "lundi": "9h-17h",
-          "mardi": "9h-17h",
-          "mercredi": "9h-17h",
-          "jeudi": "9h-17h",
-          "vendredi": "9h-17h",
-          "samedi": "9h-17h",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-15T11:45:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "258144[176560]",
-      "gid": "1940"
     },
     {
       "departement": "94",
@@ -219,10 +219,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-18T12:00:00.000+02:00",
+      "prochain_rdv": "2021-05-18T11:15:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 24,
+      "appointment_count": 23,
       "internal_id": "242887[]",
       "gid": "324"
     }
@@ -591,6 +591,34 @@
     },
     {
       "departement": "94",
+      "nom": "Centre de Vaccination d'Ivry sur Seine",
+      "url": "https://partners.doctolib.fr/centre-de-sante/ivry-sur-seine/centre-de-vaccination-covid-19-ivry-sur-seine?pid=practice-176560",
+      "location": {
+        "longitude": 2.38364,
+        "latitude": 48.8109
+      },
+      "metadata": {
+        "address": "2 Rue Robespierre, 94200 Ivry-sur-Seine",
+        "phone_number": "+33172046499 ",
+        "business_hours": {
+          "lundi": "9h-17h",
+          "mardi": "9h-17h",
+          "mercredi": "9h-17h",
+          "jeudi": "9h-17h",
+          "vendredi": "9h-17h",
+          "samedi": "9h-17h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "258144[176560]",
+      "gid": "1940"
+    },
+    {
+      "departement": "94",
       "nom": "UHSA - VILLEJUIF",
       "url": "",
       "location": {
@@ -754,34 +782,6 @@
       "appointment_count": 0,
       "internal_id": "246207[167416]",
       "gid": "484"
-    },
-    {
-      "departement": "94",
-      "nom": "Centre de Vaccination Marie-Th\u00e9r\u00e8se EYQUEM Cr\u00e9teil",
-      "url": "https://partners.doctolib.fr/centre-de-sante/creteil/centre-de-vaccination-covid-ville-de-creteil",
-      "location": {
-        "longitude": 2.44597,
-        "latitude": 48.7967
-      },
-      "metadata": {
-        "address": "6 Rue Thomas Edison, 94000 Cr\u00e9teil",
-        "phone_number": "+33800089250",
-        "business_hours": {
-          "lundi": "9h-12h et 13h-19h",
-          "mardi": "9h-12h et 13h-19h",
-          "mercredi": "9h-12h et 13h-19h",
-          "jeudi": "9h-12h et 13h-19h",
-          "vendredi": "9h-12h et 13h-19h",
-          "samedi": "9h-12h et 13h-19h",
-          "dimanche": "9h-12h et 13h-19h"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243482[]",
-      "gid": "1219"
     },
     {
       "departement": "94",

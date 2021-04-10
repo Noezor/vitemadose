@@ -1,7 +1,35 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:06:23.015381+02:00",
+  "last_updated": "2021-04-10T19:10:42.140154+02:00",
   "centres_disponibles": [
+    {
+      "departement": "57",
+      "nom": "Centre de vaccination de Metz - HIA LEGOUEST - 2",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/metz/centre-de-vaccination-n-2-hia-legouest?pid=practice-172148",
+      "location": {
+        "longitude": 6.18639,
+        "latitude": 49.1133
+      },
+      "metadata": {
+        "address": " Rue des Fr\u00e8res Lacretelle, 57070 Metz",
+        "phone_number": "+33387345345",
+        "business_hours": {
+          "lundi": "9:00-17:00",
+          "mardi": "9:00-17:00",
+          "mercredi": "9:00-17:00",
+          "jeudi": "9:00-17:00",
+          "vendredi": "9:00-17:00",
+          "samedi": "9:00-17:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-15T10:55:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "252128[172148]",
+      "gid": "1513"
+    },
     {
       "departement": "57",
       "nom": "Centre de vaccination de Saint-Avold - SOS Sant\u00e9",
@@ -26,37 +54,9 @@
       "prochain_rdv": "2021-04-16T14:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 2,
+      "appointment_count": 1,
       "internal_id": "242615[]",
       "gid": "1114"
-    },
-    {
-      "departement": "57",
-      "nom": "Centre de vaccination de Mercy - MHRMT Maison des usagers (niveau 2 zone A)",
-      "url": "https://partners.doctolib.fr/hopital-public/metz/chr-de-metz-vaccination-covid?pid=practice-163721",
-      "location": {
-        "longitude": 6.24146,
-        "latitude": 49.0832
-      },
-      "metadata": {
-        "address": "1 all\u00e9e du Ch\u00e2teau, 57530 Ars-Laquenexy",
-        "phone_number": "+33387345345",
-        "business_hours": {
-          "lundi": "09:00-17:00",
-          "mardi": "09:00-17:00",
-          "mercredi": "09:00-17:00",
-          "jeudi": "09:00-17:00",
-          "vendredi": "09:00-17:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-21T11:30:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "241685[163721]",
-      "gid": "980"
     },
     {
       "departement": "57",
@@ -79,10 +79,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-28T15:45:00.000+02:00",
+      "prochain_rdv": "2021-04-28T12:15:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 139,
+      "appointment_count": 137,
       "internal_id": "254139[173661]",
       "gid": "1752"
     },
@@ -116,34 +116,6 @@
     }
   ],
   "centres_indisponibles": [
-    {
-      "departement": "57",
-      "nom": "Centre de vaccination de Metz - HIA LEGOUEST - 2",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/metz/centre-de-vaccination-n-2-hia-legouest?pid=practice-172148",
-      "location": {
-        "longitude": 6.18639,
-        "latitude": 49.1133
-      },
-      "metadata": {
-        "address": " Rue des Fr\u00e8res Lacretelle, 57070 Metz",
-        "phone_number": "+33387345345",
-        "business_hours": {
-          "lundi": "9:00-17:00",
-          "mardi": "9:00-17:00",
-          "mercredi": "9:00-17:00",
-          "jeudi": "9:00-17:00",
-          "vendredi": "9:00-17:00",
-          "samedi": "9:00-17:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "252128[172148]",
-      "gid": "1513"
-    },
     {
       "departement": "57",
       "nom": "Centre de vaccination de Metz - UNEOS - Site Belle Isle",
@@ -650,6 +622,34 @@
     },
     {
       "departement": "57",
+      "nom": "Centre de vaccination de Mercy - MHRMT Maison des usagers (niveau 2 zone A)",
+      "url": "https://partners.doctolib.fr/hopital-public/metz/chr-de-metz-vaccination-covid?pid=practice-163721",
+      "location": {
+        "longitude": 6.24146,
+        "latitude": 49.0832
+      },
+      "metadata": {
+        "address": "1 all\u00e9e du Ch\u00e2teau, 57530 Ars-Laquenexy",
+        "phone_number": "+33387345345",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241685[163721]",
+      "gid": "980"
+    },
+    {
+      "departement": "57",
       "nom": "Centre de vaccination de Thionville - CHRMT Bel Air (salle polyvalente \u00e0 l\u2019entr\u00e9e de l\u2019h\u00f4pital)",
       "url": "https://partners.doctolib.fr/hopital-public/metz/chr-de-metz-vaccination-covid?pid=practice-163720",
       "location": {
@@ -817,33 +817,6 @@
     },
     {
       "departement": "57",
-      "nom": "MA - US DE SARREGUEMINES / Maison d'Arr\u00eat de Sarreguemines",
-      "url": "",
-      "location": {
-        "longitude": 7.05806,
-        "latitude": 49.1062
-      },
-      "metadata": {
-        "address": "9 Rue Victor Hugo, 57200 Sarreguemines",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1823"
-    },
-    {
-      "departement": "57",
       "nom": "CP - US / Centre P\u00e9nitentiaire de Metz",
       "url": "",
       "location": {
@@ -868,6 +841,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1824"
+    },
+    {
+      "departement": "57",
+      "nom": "MA - US DE SARREGUEMINES / Maison d'Arr\u00eat de Sarreguemines",
+      "url": "",
+      "location": {
+        "longitude": 7.05806,
+        "latitude": 49.1062
+      },
+      "metadata": {
+        "address": "9 Rue Victor Hugo, 57200 Sarreguemines",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1823"
     },
     {
       "departement": "57",

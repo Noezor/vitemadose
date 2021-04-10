@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:06:22.967817+02:00",
+  "last_updated": "2021-04-10T19:10:42.094011+02:00",
   "centres_disponibles": [
     {
       "departement": "14",
@@ -26,7 +26,7 @@
       "prochain_rdv": "2021-04-13T17:30:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 63,
+      "appointment_count": 62,
       "internal_id": null,
       "gid": "501"
     },
@@ -79,10 +79,10 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-17T17:30:00.000+02:00",
+      "prochain_rdv": "2021-04-17T14:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 30,
+      "appointment_count": 31,
       "internal_id": "241850[]",
       "gid": "159"
     },
@@ -107,10 +107,10 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-19T11:40:00.000+02:00",
+      "prochain_rdv": "2021-04-20T13:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 107,
+      "appointment_count": 106,
       "internal_id": "242029[]",
       "gid": "17"
     },
@@ -453,33 +453,6 @@
     },
     {
       "departement": "14",
-      "nom": "MA - US de la maison d'arr\u00eat de Caen / Maison d'Arr\u00eat de Caen",
-      "url": "",
-      "location": {
-        "longitude": -0.391071,
-        "latitude": 49.1833
-      },
-      "metadata": {
-        "address": "10 Rue General Duparge, 14000 Caen",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1868"
-    },
-    {
-      "departement": "14",
       "nom": "CP - US de Caen / Maison d'Arr\u00eat de Caen",
       "url": "",
       "location": {
@@ -504,6 +477,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1867"
+    },
+    {
+      "departement": "14",
+      "nom": "MA - US de la maison d'arr\u00eat de Caen / Maison d'Arr\u00eat de Caen",
+      "url": "",
+      "location": {
+        "longitude": -0.391071,
+        "latitude": 49.1833
+      },
+      "metadata": {
+        "address": "10 Rue General Duparge, 14000 Caen",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1868"
     },
     {
       "departement": "14",

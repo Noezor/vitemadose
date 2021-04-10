@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:06:22.980053+02:00",
+  "last_updated": "2021-04-10T19:10:42.105553+02:00",
   "centres_disponibles": [
     {
       "departement": "26",
@@ -54,37 +54,9 @@
       "prochain_rdv": "2021-04-13T19:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 80,
+      "appointment_count": 79,
       "internal_id": "253213[173051]",
       "gid": "2265"
-    },
-    {
-      "departement": "26",
-      "nom": "Centre de vaccination du centre hospitalier de Valence",
-      "url": "https://partners.doctolib.fr/hopital-public/valence/centre-de-vaccination-du-centre-hospitalier-de-valence",
-      "location": {
-        "longitude": 4.90593,
-        "latitude": 44.9119
-      },
-      "metadata": {
-        "address": "179 a Boulevard Mar\u00e9chal Juin, 26000 Valence",
-        "phone_number": "+33475757700",
-        "business_hours": {
-          "lundi": "08:00-20:00",
-          "mardi": "08:00-20:00",
-          "mercredi": "08:00-20:00",
-          "jeudi": "08:00-20:00",
-          "vendredi": "08:00-20:00",
-          "samedi": "08:00-17:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-26T19:25:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 535,
-      "internal_id": "242529[]",
-      "gid": "142"
     },
     {
       "departement": "26",
@@ -113,6 +85,34 @@
       "appointment_count": 39,
       "internal_id": "253091[172946]",
       "gid": "1568"
+    },
+    {
+      "departement": "26",
+      "nom": "Centre de vaccination du centre hospitalier de Valence",
+      "url": "https://partners.doctolib.fr/hopital-public/valence/centre-de-vaccination-du-centre-hospitalier-de-valence",
+      "location": {
+        "longitude": 4.90593,
+        "latitude": 44.9119
+      },
+      "metadata": {
+        "address": "179 a Boulevard Mar\u00e9chal Juin, 26000 Valence",
+        "phone_number": "+33475757700",
+        "business_hours": {
+          "lundi": "08:00-20:00",
+          "mardi": "08:00-20:00",
+          "mercredi": "08:00-20:00",
+          "jeudi": "08:00-20:00",
+          "vendredi": "08:00-20:00",
+          "samedi": "08:00-17:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-27T16:35:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 531,
+      "internal_id": "242529[]",
+      "gid": "142"
     }
   ],
   "centres_indisponibles": [

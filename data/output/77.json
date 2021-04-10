@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:06:23.047755+02:00",
+  "last_updated": "2021-04-10T19:10:42.168376+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -387,33 +387,6 @@
     },
     {
       "departement": "77",
-      "nom": "EMV Torcy",
-      "url": "https://partners.doctolib.fr/centre-de-sante/torcy/point-de-vaccination-avance-de-torcy?pid=practice-173895",
-      "location": {
-        "longitude": 2.65243,
-        "latitude": 48.8497
-      },
-      "metadata": {
-        "address": "5 Place de l\u2019Appel du 18 Juin 1940, 77200 Torcy",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "254257[173895]",
-      "gid": "1560"
-    },
-    {
-      "departement": "77",
       "nom": "EMV Thomery",
       "url": "",
       "location": {
@@ -438,6 +411,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1561"
+    },
+    {
+      "departement": "77",
+      "nom": "EMV Torcy",
+      "url": "https://partners.doctolib.fr/centre-de-sante/torcy/point-de-vaccination-avance-de-torcy?pid=practice-173895",
+      "location": {
+        "longitude": 2.65243,
+        "latitude": 48.8497
+      },
+      "metadata": {
+        "address": "5 Place de l\u2019Appel du 18 Juin 1940, 77200 Torcy",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "254257[173895]",
+      "gid": "1560"
     },
     {
       "departement": "77",

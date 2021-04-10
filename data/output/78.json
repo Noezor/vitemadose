@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:06:23.049523+02:00",
+  "last_updated": "2021-04-10T19:10:42.169771+02:00",
   "centres_disponibles": [
     {
       "departement": "78",
@@ -23,12 +23,68 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-12T09:40:00.000+02:00",
+      "prochain_rdv": "2021-04-12T09:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 327,
+      "appointment_count": 321,
       "internal_id": "243464[]",
       "gid": "966"
+    },
+    {
+      "departement": "78",
+      "nom": "Communaut\u00e9 de communes Haute Vall\u00e9e de Chevreuse",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-remy-les-chevreuse/centre-de-vaccination-de-saint-remy-les-chevreuse",
+      "location": {
+        "longitude": 2.07253,
+        "latitude": 48.7034
+      },
+      "metadata": {
+        "address": "15 Rue Ditte, 78470 Saint-R\u00e9my-l\u00e8s-Chevreuse",
+        "phone_number": "+33645796334",
+        "business_hours": {
+          "lundi": "9:00-17:00",
+          "mardi": "9:00-17:00",
+          "mercredi": "9:00-17:00",
+          "jeudi": "9:00-17:00",
+          "vendredi": "9:00-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-12T11:10:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "242653[]",
+      "gid": "431"
+    },
+    {
+      "departement": "78",
+      "nom": "Centre de vaccination de V\u00e9lizy-Villacoublay",
+      "url": "https://www.doctolib.fr/centre-de-vaccinations-internationales/velizy-villacoublay/apta-78-vaccination-covid-19-velizy-villacoublay",
+      "location": {
+        "longitude": 2.18342,
+        "latitude": 48.7813
+      },
+      "metadata": {
+        "address": "25 Avenue Louis Br\u00e9guet, 78140 V\u00e9lizy-Villacoublay",
+        "phone_number": "+3313452345",
+        "business_hours": {
+          "lundi": "8:30-17:00",
+          "mardi": "8:30-17:00",
+          "mercredi": "8:30-17:00",
+          "jeudi": "8:30-17:00",
+          "vendredi": "8:30-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-12T13:55:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 4,
+      "internal_id": "261304[]",
+      "gid": "2072"
     },
     {
       "departement": "78",
@@ -54,7 +110,7 @@
       "prochain_rdv": "2021-04-12T16:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "drugstore",
-      "appointment_count": 9,
+      "appointment_count": 8,
       "internal_id": "264976[]",
       "gid": "d264976"
     },
@@ -82,37 +138,9 @@
       "prochain_rdv": "2021-04-14T10:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 18,
+      "appointment_count": 19,
       "internal_id": "255947[175159]",
       "gid": "1678"
-    },
-    {
-      "departement": "78",
-      "nom": "Communaut\u00e9 d'agglom\u00e9ration Versailles Grand Parc",
-      "url": "https://partners.doctolib.fr/centre-de-sante/versailles/centre-de-vaccination-covid-de-versailles",
-      "location": {
-        "longitude": 2.14325,
-        "latitude": 48.8115
-      },
-      "metadata": {
-        "address": "7 bis Rue Pierre Lescot, 78000 Versailles",
-        "phone_number": "+33130972930",
-        "business_hours": {
-          "lundi": "14:00-17:00",
-          "mardi": "14:00-17:00",
-          "mercredi": "14:00-17:00",
-          "jeudi": "14:00-17:00",
-          "vendredi": "14:00-17:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-16T10:40:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "242655[]",
-      "gid": "429"
     },
     {
       "departement": "78",
@@ -138,7 +166,7 @@
       "prochain_rdv": "2021-04-16T17:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 68,
+      "appointment_count": 70,
       "internal_id": "241073[162774-163036-162755-162588-162589-162590-162621-162600-162486-165171-165172-166972]",
       "gid": "426"
     },
@@ -201,21 +229,21 @@
     },
     {
       "departement": "78",
-      "nom": "Communaut\u00e9 de communes Haute Vall\u00e9e de Chevreuse",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saint-remy-les-chevreuse/centre-de-vaccination-de-saint-remy-les-chevreuse",
+      "nom": "Communaut\u00e9 d'agglom\u00e9ration Versailles Grand Parc",
+      "url": "https://partners.doctolib.fr/centre-de-sante/versailles/centre-de-vaccination-covid-de-versailles",
       "location": {
-        "longitude": 2.07253,
-        "latitude": 48.7034
+        "longitude": 2.14325,
+        "latitude": 48.8115
       },
       "metadata": {
-        "address": "15 Rue Ditte, 78470 Saint-R\u00e9my-l\u00e8s-Chevreuse",
-        "phone_number": "+33645796334",
+        "address": "7 bis Rue Pierre Lescot, 78000 Versailles",
+        "phone_number": "+33130972930",
         "business_hours": {
-          "lundi": "9:00-17:00",
-          "mardi": "9:00-17:00",
-          "mercredi": "9:00-17:00",
-          "jeudi": "9:00-17:00",
-          "vendredi": "9:00-17:00",
+          "lundi": "14:00-17:00",
+          "mardi": "14:00-17:00",
+          "mercredi": "14:00-17:00",
+          "jeudi": "14:00-17:00",
+          "vendredi": "14:00-17:00",
           "samedi": "ferm\u00e9",
           "dimanche": "ferm\u00e9"
         }
@@ -224,8 +252,8 @@
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": "242653[]",
-      "gid": "431"
+      "internal_id": "242655[]",
+      "gid": "429"
     },
     {
       "departement": "78",
@@ -478,6 +506,33 @@
     },
     {
       "departement": "78",
+      "nom": "MC - USMP de Poissy / Maison Centrale de Poissy",
+      "url": "",
+      "location": {
+        "longitude": 2.03857,
+        "latitude": 48.9287
+      },
+      "metadata": {
+        "address": "17 Rue de l?Abbaye, 78300 Poissy",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1852"
+    },
+    {
+      "departement": "78",
       "nom": "EPM - US de Porcheville / Etablissement sp\u00e9cialis\u00e9 pour mineurs de Porcheville",
       "url": "",
       "location": {
@@ -529,33 +584,6 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1854"
-    },
-    {
-      "departement": "78",
-      "nom": "MC - USMP de Poissy / Maison Centrale de Poissy",
-      "url": "",
-      "location": {
-        "longitude": 2.03857,
-        "latitude": 48.9287
-      },
-      "metadata": {
-        "address": "17 Rue de l?Abbaye, 78300 Poissy",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1852"
     },
     {
       "departement": "78",
@@ -666,34 +694,6 @@
       "appointment_count": 0,
       "internal_id": "243204[165170]",
       "gid": "1651"
-    },
-    {
-      "departement": "78",
-      "nom": "Centre de vaccination de V\u00e9lizy-Villacoublay",
-      "url": "https://www.doctolib.fr/centre-de-vaccinations-internationales/velizy-villacoublay/apta-78-vaccination-covid-19-velizy-villacoublay",
-      "location": {
-        "longitude": 2.18342,
-        "latitude": 48.7813
-      },
-      "metadata": {
-        "address": "25 Avenue Louis Br\u00e9guet, 78140 V\u00e9lizy-Villacoublay",
-        "phone_number": "+3313452345",
-        "business_hours": {
-          "lundi": "8:30-17:00",
-          "mardi": "8:30-17:00",
-          "mercredi": "8:30-17:00",
-          "jeudi": "8:30-17:00",
-          "vendredi": "8:30-17:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "261304[]",
-      "gid": "2072"
     },
     {
       "departement": "78",

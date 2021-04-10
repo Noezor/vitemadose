@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:06:23.068423+02:00",
+  "last_updated": "2021-04-10T19:10:42.185972+02:00",
   "centres_disponibles": [
     {
       "departement": "93",
@@ -115,34 +115,6 @@
     },
     {
       "departement": "93",
-      "nom": "Tr\u00e8s grand centre du Stade de France",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saint-denis/centre-de-vaccination-covid-19-stade-de-france?pid=practice-179894",
-      "location": {
-        "longitude": 2.36014,
-        "latitude": 48.9244
-      },
-      "metadata": {
-        "address": "6 Avenue du Stade de France, porte E, 93210 Saint-Denis",
-        "phone_number": "01 43 93 78 77",
-        "business_hours": {
-          "lundi": "ouvert",
-          "mardi": "ouvert",
-          "mercredi": "ouvert",
-          "jeudi": "ouvert",
-          "vendredi": "ouvert",
-          "samedi": "ouvert",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-15T09:20:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 88,
-      "internal_id": "263051[179894]",
-      "gid": "2141"
-    },
-    {
-      "departement": "93",
       "nom": "CHI Robert Ballanger",
       "url": "https://partners.doctolib.fr/centre-depistage-covid/ile-de-france/ars-ile-de-france-vaccination-des-professionnels-de-sante?pid=practice-162590&%3fspeciality_id=5494",
       "location": {
@@ -229,6 +201,33 @@
     },
     {
       "departement": "93",
+      "nom": "EMV CH Andr\u00e9 Gr\u00e9goire",
+      "url": "",
+      "location": {
+        "longitude": 2.45328,
+        "latitude": 48.8784
+      },
+      "metadata": {
+        "address": "56 Boulevard de la Boissi\u00e8re, 93100 Montreuil",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1572"
+    },
+    {
+      "departement": "93",
       "nom": "AVICENNE",
       "url": "https://partners.doctolib.fr/hopital-public/paris/centres-de-vaccination-covid-19-ap-hp-hors-professionnels-de-sante",
       "location": {
@@ -254,33 +253,6 @@
       "appointment_count": 0,
       "internal_id": "242101[18499]",
       "gid": "303"
-    },
-    {
-      "departement": "93",
-      "nom": "EMV CH Andr\u00e9 Gr\u00e9goire",
-      "url": "",
-      "location": {
-        "longitude": 2.45328,
-        "latitude": 48.8784
-      },
-      "metadata": {
-        "address": "56 Boulevard de la Boissi\u00e8re, 93100 Montreuil",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1572"
     },
     {
       "departement": "93",
@@ -446,33 +418,6 @@
     },
     {
       "departement": "93",
-      "nom": "EMV Noisy-le-Grand (CD)",
-      "url": "",
-      "location": {
-        "longitude": 2.53958,
-        "latitude": 48.8418
-      },
-      "metadata": {
-        "address": "9 Allee Charles de Foucauld, 93160 Noisy-le-Grand",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1579"
-    },
-    {
-      "departement": "93",
       "nom": "Salle des f\u00eates Marcel Pagnol",
       "url": "https://partners.doctolib.fr/centre-de-sante/neuilly-sur-marne/centre-de-vaccination-covid-marne-plaisance",
       "location": {
@@ -498,6 +443,33 @@
       "appointment_count": 0,
       "internal_id": "242794[163853]",
       "gid": "608"
+    },
+    {
+      "departement": "93",
+      "nom": "EMV Noisy-le-Grand (CD)",
+      "url": "",
+      "location": {
+        "longitude": 2.53958,
+        "latitude": 48.8418
+      },
+      "metadata": {
+        "address": "9 Allee Charles de Foucauld, 93160 Noisy-le-Grand",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1579"
     },
     {
       "departement": "93",
@@ -696,6 +668,33 @@
     },
     {
       "departement": "93",
+      "nom": "EMV Avicennes",
+      "url": "",
+      "location": {
+        "longitude": 2.42826,
+        "latitude": 48.9151
+      },
+      "metadata": {
+        "address": "34 Rue Jean Gr\u00e9millon, 93000 Bobigny",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1760"
+    },
+    {
+      "departement": "93",
       "nom": "Centre de vaccination - B\u00e2timent Charlotte Petit",
       "url": "https://partners.doctolib.fr/centre-de-sante/clichy-sous-bois/centre-municipal-de-vaccination-covid-charlotte-petit?pid=practice-165986",
       "location": {
@@ -721,33 +720,6 @@
       "appointment_count": 0,
       "internal_id": "244262[165986]",
       "gid": "1658"
-    },
-    {
-      "departement": "93",
-      "nom": "EMV Avicennes",
-      "url": "",
-      "location": {
-        "longitude": 2.42826,
-        "latitude": 48.9151
-      },
-      "metadata": {
-        "address": "34 Rue Jean Gr\u00e9millon, 93000 Bobigny",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1760"
     },
     {
       "departement": "93",
@@ -859,33 +831,6 @@
     },
     {
       "departement": "93",
-      "nom": "EMV Ballanger",
-      "url": "",
-      "location": {
-        "longitude": 2.52567,
-        "latitude": 48.954
-      },
-      "metadata": {
-        "address": "99 Boulevard Robert Ballanger, 93420 Villepinte",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1763"
-    },
-    {
-      "departement": "93",
       "nom": "Centre de vaccination - H\u00f4tel de ville",
       "url": "https://partners.doctolib.fr/centre-de-sante/montreuil/centre-de-vaccination-de-la-ville-de-montreuil?pid=practice-175106",
       "location": {
@@ -911,6 +856,33 @@
       "appointment_count": 0,
       "internal_id": "255882[175106]",
       "gid": "1659"
+    },
+    {
+      "departement": "93",
+      "nom": "EMV Ballanger",
+      "url": "",
+      "location": {
+        "longitude": 2.52567,
+        "latitude": 48.954
+      },
+      "metadata": {
+        "address": "99 Boulevard Robert Ballanger, 93420 Villepinte",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1763"
     },
     {
       "departement": "93",
@@ -1275,6 +1247,34 @@
     },
     {
       "departement": "93",
+      "nom": "Tr\u00e8s grand centre du Stade de France",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-denis/centre-de-vaccination-covid-19-stade-de-france?pid=practice-179894",
+      "location": {
+        "longitude": 2.36014,
+        "latitude": 48.9244
+      },
+      "metadata": {
+        "address": "6 Avenue du Stade de France, porte E, 93210 Saint-Denis",
+        "phone_number": "01 43 93 78 77",
+        "business_hours": {
+          "lundi": "ouvert",
+          "mardi": "ouvert",
+          "mercredi": "ouvert",
+          "jeudi": "ouvert",
+          "vendredi": "ouvert",
+          "samedi": "ouvert",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "263051[179894]",
+      "gid": "2141"
+    },
+    {
+      "departement": "93",
       "nom": "Pharmacie de l'Esplanade",
       "url": "https://partners.doctolib.fr/pharmacie/saint-denis/pharmacie-de-l-esplanade-saint-denis",
       "location": {
@@ -1467,34 +1467,6 @@
     },
     {
       "departement": "93",
-      "nom": "Centres Municipaux de Sant\u00e9 de la Mairie de Saint-Ouen",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saint-ouen/cms-saint-ouen?pid=practice-163685",
-      "location": {
-        "longitude": 2.3463794,
-        "latitude": 48.9039925
-      },
-      "metadata": {
-        "address": "147 Rue du Docteur Bauer, 93400 Saint-Ouen",
-        "phone_number": "01 49 45 69 53",
-        "business_hours": {
-          "lundi": "08:00-12:00, 13:30-19:00",
-          "mardi": "08:00-12:00, 13:30-19:00",
-          "mercredi": "08:00-12:00, 13:30-19:00",
-          "jeudi": "08:00-12:00, 13:30-19:00",
-          "vendredi": "08:00-12:00, 13:30-19:00",
-          "samedi": "08:00-12:00",
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "247961[163685]",
-      "gid": "d247961"
-    },
-    {
-      "departement": "93",
       "nom": "Centre de vaccination h\u00f4pital Jean Verdier - AP-HP",
       "url": "https://partners.doctolib.fr/hopital-public/bondy/centre-de-vaccination-hopital-jean-verdier",
       "location": {
@@ -1547,6 +1519,34 @@
       "appointment_count": 0,
       "internal_id": "163294[]",
       "gid": "d163294"
+    },
+    {
+      "departement": "93",
+      "nom": "Centres Municipaux de Sant\u00e9 de la Mairie de Saint-Ouen",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-ouen/cms-saint-ouen?pid=practice-163685",
+      "location": {
+        "longitude": 2.3463794,
+        "latitude": 48.9039925
+      },
+      "metadata": {
+        "address": "147 Rue du Docteur Bauer, 93400 Saint-Ouen",
+        "phone_number": "01 49 45 69 53",
+        "business_hours": {
+          "lundi": "08:00-12:00, 13:30-19:00",
+          "mardi": "08:00-12:00, 13:30-19:00",
+          "mercredi": "08:00-12:00, 13:30-19:00",
+          "jeudi": "08:00-12:00, 13:30-19:00",
+          "vendredi": "08:00-12:00, 13:30-19:00",
+          "samedi": "08:00-12:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "247961[163685]",
+      "gid": "d247961"
     }
   ]
 }

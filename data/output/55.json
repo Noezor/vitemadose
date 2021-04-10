@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:06:23.013198+02:00",
+  "last_updated": "2021-04-10T19:10:42.138173+02:00",
   "centres_disponibles": [
     {
       "departement": "55",
@@ -110,7 +110,7 @@
       "prochain_rdv": "2021-04-15T14:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 41,
+      "appointment_count": 40,
       "internal_id": "242245[181352-164170]",
       "gid": "d242245"
     },
@@ -138,40 +138,12 @@
       "prochain_rdv": "2021-04-28T17:05:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 134,
+      "appointment_count": 135,
       "internal_id": "242246[]",
       "gid": "105"
     }
   ],
   "centres_indisponibles": [
-    {
-      "departement": "55",
-      "nom": "Lieu de vaccination de SPINCOURT - MSP",
-      "url": "",
-      "location": {
-        "longitude": 5.66268,
-        "latitude": 49.3323
-      },
-      "metadata": {
-        "address": "9 Chemin du Mont, 55230 Spincourt",
-        "phone_number": "+33329859732",
-        "business_hours": {
-          "lundi": "A pr\u00e9ciser",
-          "mardi": "A pr\u00e9ciser",
-          "mercredi": "A pr\u00e9ciser",
-          "jeudi": "A pr\u00e9ciser",
-          "vendredi": "A pr\u00e9ciser",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1286"
-    },
     {
       "departement": "55",
       "nom": "Lieu de vaccination de CLERMONT EN ARGONNE",
@@ -202,34 +174,6 @@
     },
     {
       "departement": "55",
-      "nom": "Lieu de vaccination FRESNES EN WOEVRE - MSP",
-      "url": "https://www.maiia.com/centre-de-vaccination/55160-fresnes-en-woevre/centre-de-vaccination---fresnes-en-woevre",
-      "location": {
-        "longitude": 5.62516,
-        "latitude": 49.0945
-      },
-      "metadata": {
-        "address": "16 bis Rue des Eparges, 55160 Fresnes-en-Wo\u00ebvre",
-        "phone_number": "+33372850117",
-        "business_hours": {
-          "lundi": "A pr\u00e9ciser",
-          "mardi": "A pr\u00e9ciser",
-          "mercredi": "A pr\u00e9ciser",
-          "jeudi": "A pr\u00e9ciser",
-          "vendredi": "A pr\u00e9ciser",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Maiia",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1284"
-    },
-    {
-      "departement": "55",
       "nom": "Lieu de vaccination de MONTMEDY (salle des f\u00eates)",
       "url": "https://www.maiia.com/centre-de-vaccination/55600-montmedy/centre-de-vaccination---montmedy-et-marville",
       "location": {
@@ -255,6 +199,62 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1285"
+    },
+    {
+      "departement": "55",
+      "nom": "Lieu de vaccination de SPINCOURT - MSP",
+      "url": "",
+      "location": {
+        "longitude": 5.66268,
+        "latitude": 49.3323
+      },
+      "metadata": {
+        "address": "9 Chemin du Mont, 55230 Spincourt",
+        "phone_number": "+33329859732",
+        "business_hours": {
+          "lundi": "A pr\u00e9ciser",
+          "mardi": "A pr\u00e9ciser",
+          "mercredi": "A pr\u00e9ciser",
+          "jeudi": "A pr\u00e9ciser",
+          "vendredi": "A pr\u00e9ciser",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1286"
+    },
+    {
+      "departement": "55",
+      "nom": "Lieu de vaccination FRESNES EN WOEVRE - MSP",
+      "url": "https://www.maiia.com/centre-de-vaccination/55160-fresnes-en-woevre/centre-de-vaccination---fresnes-en-woevre",
+      "location": {
+        "longitude": 5.62516,
+        "latitude": 49.0945
+      },
+      "metadata": {
+        "address": "16 bis Rue des Eparges, 55160 Fresnes-en-Wo\u00ebvre",
+        "phone_number": "+33372850117",
+        "business_hours": {
+          "lundi": "A pr\u00e9ciser",
+          "mardi": "A pr\u00e9ciser",
+          "mercredi": "A pr\u00e9ciser",
+          "jeudi": "A pr\u00e9ciser",
+          "vendredi": "A pr\u00e9ciser",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1284"
     },
     {
       "departement": "55",
@@ -566,33 +566,6 @@
     },
     {
       "departement": "55",
-      "nom": "MA - US Bar le Duc / Maison d'Arr\u00eat de Bar-le-Duc",
-      "url": "",
-      "location": {
-        "longitude": 5.1595,
-        "latitude": 48.7686
-      },
-      "metadata": {
-        "address": "24 Place Saint-Pierre, 55000 Bar-le-Duc",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1819"
-    },
-    {
-      "departement": "55",
       "nom": "CD - US SAINT MIHIEL / Centre de D\u00e9tention de Montm\u00e9dy",
       "url": "",
       "location": {
@@ -617,6 +590,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1820"
+    },
+    {
+      "departement": "55",
+      "nom": "MA - US Bar le Duc / Maison d'Arr\u00eat de Bar-le-Duc",
+      "url": "",
+      "location": {
+        "longitude": 5.1595,
+        "latitude": 48.7686
+      },
+      "metadata": {
+        "address": "24 Place Saint-Pierre, 55000 Bar-le-Duc",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1819"
     },
     {
       "departement": "55",

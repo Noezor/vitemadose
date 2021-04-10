@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:06:22.970214+02:00",
+  "last_updated": "2021-04-10T19:10:42.096463+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -33,33 +33,6 @@
     },
     {
       "departement": "17",
-      "nom": "CH ROCHEFORT(r\u00e9serv\u00e9 aux professionnels de sant\u00e9)",
-      "url": "https://partners.doctolib.fr/hopital-public/rochefort/centre-hospitalier-de-rochefort-vaccination-covid",
-      "location": {
-        "longitude": -0.963273,
-        "latitude": 45.9671
-      },
-      "metadata": {
-        "address": "1 Avenue de Beligon, 17300 Rochefort",
-        "business_hours": {
-          "lundi": "09:00-12:30/13:30-16:50",
-          "mardi": "09:00-12:30/13:30-16:50",
-          "mercredi": "09:00-12:30/13:30-16:50",
-          "jeudi": "09:00-12:30/13:30-16:50",
-          "vendredi": "09:00-12:30/13:30-16:50",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241589[]",
-      "gid": "73"
-    },
-    {
-      "departement": "17",
       "nom": "CENTRE CLINIQUE PASTEUR ROYAN",
       "url": "https://partners.doctolib.fr/clinique-privee/royan/clinique-pasteur-vaccination-covid-19?pid=practice-165101",
       "location": {
@@ -85,6 +58,33 @@
       "appointment_count": 0,
       "internal_id": "243959[165101]",
       "gid": "921"
+    },
+    {
+      "departement": "17",
+      "nom": "CH ROCHEFORT(r\u00e9serv\u00e9 aux professionnels de sant\u00e9)",
+      "url": "https://partners.doctolib.fr/hopital-public/rochefort/centre-hospitalier-de-rochefort-vaccination-covid",
+      "location": {
+        "longitude": -0.963273,
+        "latitude": 45.9671
+      },
+      "metadata": {
+        "address": "1 Avenue de Beligon, 17300 Rochefort",
+        "business_hours": {
+          "lundi": "09:00-12:30/13:30-16:50",
+          "mardi": "09:00-12:30/13:30-16:50",
+          "mercredi": "09:00-12:30/13:30-16:50",
+          "jeudi": "09:00-12:30/13:30-16:50",
+          "vendredi": "09:00-12:30/13:30-16:50",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241589[]",
+      "gid": "73"
     },
     {
       "departement": "17",
@@ -283,34 +283,6 @@
     },
     {
       "departement": "17",
-      "nom": "CENTRE MONTLIEU LA GARDE",
-      "url": "https://partners.doctolib.fr/hopital-public/haute-saintonge/centre-de-vaccination-covid-19-haute-saintonge?pid=practice-164897",
-      "location": {
-        "longitude": -0.252095,
-        "latitude": 45.244
-      },
-      "metadata": {
-        "address": "2 Rue du Coll\u00e8ge, 17210 Montlieu-la-Garde",
-        "phone_number": "+33 5 17 24 03 48",
-        "business_hours": {
-          "lundi": "ouvert",
-          "mardi": "ouvert",
-          "mercredi": "ouvert",
-          "jeudi": "ouvert",
-          "vendredi": "ouvert",
-          "samedi": "ouvert",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242640[164897]",
-      "gid": "915"
-    },
-    {
-      "departement": "17",
       "nom": "centre de vaccination Nieul sur Mer",
       "url": "https://partners.doctolib.fr/centre-de-sante/la-rochelle/centre-de-vaccination-covid-19-ville-de-la-rochelle-la-rochelle?pid=practice-173645",
       "location": {
@@ -336,6 +308,34 @@
       "appointment_count": 0,
       "internal_id": "243501[173645]",
       "gid": "1726"
+    },
+    {
+      "departement": "17",
+      "nom": "CENTRE MONTLIEU LA GARDE",
+      "url": "https://partners.doctolib.fr/hopital-public/haute-saintonge/centre-de-vaccination-covid-19-haute-saintonge?pid=practice-164897",
+      "location": {
+        "longitude": -0.252095,
+        "latitude": 45.244
+      },
+      "metadata": {
+        "address": "2 Rue du Coll\u00e8ge, 17210 Montlieu-la-Garde",
+        "phone_number": "+33 5 17 24 03 48",
+        "business_hours": {
+          "lundi": "ouvert",
+          "mardi": "ouvert",
+          "mercredi": "ouvert",
+          "jeudi": "ouvert",
+          "vendredi": "ouvert",
+          "samedi": "ouvert",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242640[164897]",
+      "gid": "915"
     },
     {
       "departement": "17",
@@ -367,34 +367,6 @@
     },
     {
       "departement": "17",
-      "nom": "CENTRE DE VACCINATION ROYAN",
-      "url": "https://partners.doctolib.fr/centre-de-sante/centre-de-vaccination-covid-royan-atlantique/centre-de-vaccination-covid-royan-atlantique?pid=practice-179312",
-      "location": {
-        "longitude": -1.00158,
-        "latitude": 45.6205
-      },
-      "metadata": {
-        "address": "24 Rue Henry Dunant, 17200 Royan",
-        "phone_number": "+33546396439",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "262232[179312]",
-      "gid": "2186"
-    },
-    {
-      "departement": "17",
       "nom": "Centre de Vaccination Saint Jean d'Ang\u00e9ly",
       "url": "https://partners.doctolib.fr/hopital-public/saint-jean-d-angely/centre-de-vaccination-covid-19-saint-jean-d-angely",
       "location": {
@@ -420,6 +392,34 @@
       "appointment_count": 0,
       "internal_id": "242637[]",
       "gid": "922"
+    },
+    {
+      "departement": "17",
+      "nom": "CENTRE DE VACCINATION ROYAN",
+      "url": "https://partners.doctolib.fr/centre-de-sante/centre-de-vaccination-covid-royan-atlantique/centre-de-vaccination-covid-royan-atlantique?pid=practice-179312",
+      "location": {
+        "longitude": -1.00158,
+        "latitude": 45.6205
+      },
+      "metadata": {
+        "address": "24 Rue Henry Dunant, 17200 Royan",
+        "phone_number": "+33546396439",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "262232[179312]",
+      "gid": "2186"
     },
     {
       "departement": "17",

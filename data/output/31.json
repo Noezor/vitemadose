@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:06:22.986740+02:00",
+  "last_updated": "2021-04-10T19:10:42.112240+02:00",
   "centres_disponibles": [
     {
       "departement": "31",
@@ -54,7 +54,7 @@
       "prochain_rdv": "2021-04-12T18:00:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 244,
+      "appointment_count": 243,
       "internal_id": null,
       "gid": "654"
     },
@@ -222,7 +222,7 @@
       "prochain_rdv": "2021-04-15T15:05:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 156,
+      "appointment_count": 155,
       "internal_id": null,
       "gid": "622"
     },
@@ -253,34 +253,6 @@
       "appointment_count": 22,
       "internal_id": null,
       "gid": "657"
-    },
-    {
-      "departement": "31",
-      "nom": "CDV31 Saint Jory",
-      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/st-jory-31790/saint-jory/centre-de-vaccination-de-saint-jory",
-      "location": {
-        "longitude": 1.37877,
-        "latitude": 43.7437
-      },
-      "metadata": {
-        "address": "2 Chemin de Bougeng, 31790 Saint-Jory",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "09:00-13:00",
-          "mardi": "09:00-13:00",
-          "mercredi": "09:00-13:00",
-          "jeudi": "09:00-13:00",
-          "vendredi": "09:00-13:00",
-          "samedi": "09:00-13:00",
-          "dimanche": "Ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-17T16:20:00.000000+0200",
-      "plateforme": "Keldoc",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": null,
-      "gid": "339"
     },
     {
       "departement": "31",
@@ -443,10 +415,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-10T11:50:00.000000+0200",
+      "prochain_rdv": "2021-05-07T14:45:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 18,
+      "appointment_count": 20,
       "internal_id": null,
       "gid": "675"
     },
@@ -566,6 +538,62 @@
     },
     {
       "departement": "31",
+      "nom": "CDV31 Saint Jory",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/st-jory-31790/saint-jory/centre-de-vaccination-de-saint-jory",
+      "location": {
+        "longitude": 1.37877,
+        "latitude": 43.7437
+      },
+      "metadata": {
+        "address": "2 Chemin de Bougeng, 31790 Saint-Jory",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "09:00-13:00",
+          "mardi": "09:00-13:00",
+          "mercredi": "09:00-13:00",
+          "jeudi": "09:00-13:00",
+          "vendredi": "09:00-13:00",
+          "samedi": "09:00-13:00",
+          "dimanche": "Ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "339"
+    },
+    {
+      "departement": "31",
+      "nom": "CDV31 CHU Toulouse Rangueil",
+      "url": "",
+      "location": {
+        "longitude": 1.45377,
+        "latitude": 43.5586
+      },
+      "metadata": {
+        "address": "1 Avenue du Professeur Jean Poulhes, 31400 Toulouse",
+        "phone_number": "0800541919",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "674"
+    },
+    {
+      "departement": "31",
       "nom": "CDV31 Carbonne",
       "url": "https://vaccination-covid.keldoc.com/cabinet-medical/carbonne-31390/carbonne/centre-de-vaccination-de-carbonne",
       "location": {
@@ -619,34 +647,6 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "544"
-    },
-    {
-      "departement": "31",
-      "nom": "CDV31 CHU Toulouse Rangueil",
-      "url": "",
-      "location": {
-        "longitude": 1.45377,
-        "latitude": 43.5586
-      },
-      "metadata": {
-        "address": "1 Avenue du Professeur Jean Poulhes, 31400 Toulouse",
-        "phone_number": "0800541919",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "674"
     },
     {
       "departement": "31",

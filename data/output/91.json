@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:06:23.063552+02:00",
+  "last_updated": "2021-04-10T19:10:42.181791+02:00",
   "centres_disponibles": [
     {
       "departement": "91",
@@ -23,10 +23,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-13T15:42:00.000+02:00",
+      "prochain_rdv": "2021-04-13T16:42:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 283,
+      "appointment_count": 276,
       "internal_id": "242814[]",
       "gid": "749"
     },
@@ -57,6 +57,61 @@
       "appointment_count": 1,
       "internal_id": "201639[]",
       "gid": "d201639"
+    },
+    {
+      "departement": "91",
+      "nom": "Espace du Val de Gif",
+      "url": "https://partners.doctolib.fr/cabinet-medical/gif-sur-yvette/centre-de-vaccination-covid-19-gif-sur-yvette?pid=practice-165182%3fspeciality_id%3d5494",
+      "location": {
+        "longitude": 2.13326,
+        "latitude": 48.6977
+      },
+      "metadata": {
+        "address": "1 Place du chapitre, 91190 Gif-sur-Yvette",
+        "phone_number": "0170565286",
+        "business_hours": {
+          "lundi": "14h-18h",
+          "mardi": "14h-18h",
+          "mercredi": "14h-18h",
+          "jeudi": "14h-18h",
+          "vendredi": "14h-18h",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-29T14:15:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 13,
+      "internal_id": "243246[165182]",
+      "gid": "791"
+    },
+    {
+      "departement": "91",
+      "nom": "Centre de vaccination Covid-19 Gif sur Yvette",
+      "url": "https://partners.doctolib.fr/centre-de-sante/gif-sur-yvette/centre-de-vaccination-covid-19-gif-sur-yvette-gif-sur-yvette",
+      "location": {
+        "longitude": 2.1301529,
+        "latitude": 48.6971854
+      },
+      "metadata": {
+        "address": "Place du Chapitre, 91190 Gif-sur-Yvette",
+        "business_hours": {
+          "lundi": "08:45-12:00, 13:30-17:30",
+          "mardi": "08:45-12:00, 13:30-17:30",
+          "mercredi": "08:45-12:00, 13:30-17:30",
+          "jeudi": "08:45-12:00, 13:30-17:30",
+          "vendredi": "08:45-12:00, 13:30-17:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-29T14:15:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 12,
+      "internal_id": "243294[]",
+      "gid": "d243294"
     }
   ],
   "centres_indisponibles": [
@@ -145,6 +200,33 @@
     },
     {
       "departement": "91",
+      "nom": "Centre de Boutigny - Salle Saint-Roch",
+      "url": "https://partners.doctolib.fr/centre-de-sante/montgeron/centre-de-vaccination-covid-conseil-departemental-de-l-essonne-cd91?pid=practice-179101",
+      "location": {
+        "longitude": 2.37585,
+        "latitude": 48.4357
+      },
+      "metadata": {
+        "address": " rue des cordeliers, 91820 Boutigny-sur-Essonne",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242631[179101]",
+      "gid": "2197"
+    },
+    {
+      "departement": "91",
       "nom": "Site de \"La Croix Louis\"",
       "url": "https://vaccination-covid.keldoc.com/cabinet-medical/bretigny-sur-orge-91220/centre-de-vaccination-covid19-bretigny?agenda=48971&motive=81790&category=-1&cabinet=16650&specialty=496",
       "location": {
@@ -170,33 +252,6 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "745"
-    },
-    {
-      "departement": "91",
-      "nom": "Centre de Boutigny - Salle Saint-Roch",
-      "url": "https://partners.doctolib.fr/centre-de-sante/montgeron/centre-de-vaccination-covid-conseil-departemental-de-l-essonne-cd91?pid=practice-179101",
-      "location": {
-        "longitude": 2.37585,
-        "latitude": 48.4357
-      },
-      "metadata": {
-        "address": " rue des cordeliers, 91820 Boutigny-sur-Essonne",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242631[179101]",
-      "gid": "2197"
     },
     {
       "departement": "91",
@@ -725,34 +780,6 @@
     },
     {
       "departement": "91",
-      "nom": "Salle Claude Nougaro",
-      "url": "https://partners.doctolib.fr/centre-de-sante/evry-courcouronnes/centre-de-vaccination-covid-salle-claude-nougaro-reserve-aux-personnes-de-plus-de-75-ans",
-      "location": {
-        "longitude": 2.41903,
-        "latitude": 48.6277
-      },
-      "metadata": {
-        "address": "10 Rue du marquis de Raies, 91080 \u00c9vry-Courcouronnes",
-        "phone_number": "01 64 97 49 79",
-        "business_hours": {
-          "lundi": "9:00-13:00 / 14:00-18:00",
-          "mardi": "9:00-13:00 / 14:00-18:00",
-          "mercredi": "9:00-13:00 / 14:00-18:00",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242763[164604]",
-      "gid": "767"
-    },
-    {
-      "departement": "91",
       "nom": "Espace Ren\u00e9 L'HELGUEN",
       "url": "https://partners.doctolib.fr/centre-de-sante/athis-mons/centre-de-vaccination-covid-mairie-athis-mons?pid=practice-164918%3fspeciality_id%3d5494",
       "location": {
@@ -781,6 +808,34 @@
     },
     {
       "departement": "91",
+      "nom": "Salle Claude Nougaro",
+      "url": "https://partners.doctolib.fr/centre-de-sante/evry-courcouronnes/centre-de-vaccination-covid-salle-claude-nougaro-reserve-aux-personnes-de-plus-de-75-ans",
+      "location": {
+        "longitude": 2.41903,
+        "latitude": 48.6277
+      },
+      "metadata": {
+        "address": "10 Rue du marquis de Raies, 91080 \u00c9vry-Courcouronnes",
+        "phone_number": "01 64 97 49 79",
+        "business_hours": {
+          "lundi": "9:00-13:00 / 14:00-18:00",
+          "mardi": "9:00-13:00 / 14:00-18:00",
+          "mercredi": "9:00-13:00 / 14:00-18:00",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242763[164604]",
+      "gid": "767"
+    },
+    {
+      "departement": "91",
       "nom": "Annexe Gymnase St Exup\u00e9ry",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/igny/centre-de-vaccination-covid-commune-d-igny",
       "location": {
@@ -806,34 +861,6 @@
       "appointment_count": 0,
       "internal_id": "243093[]",
       "gid": "751"
-    },
-    {
-      "departement": "91",
-      "nom": "Espace du Val de Gif",
-      "url": "https://partners.doctolib.fr/cabinet-medical/gif-sur-yvette/centre-de-vaccination-covid-19-gif-sur-yvette?pid=practice-165182%3fspeciality_id%3d5494",
-      "location": {
-        "longitude": 2.13326,
-        "latitude": 48.6977
-      },
-      "metadata": {
-        "address": "1 Place du chapitre, 91190 Gif-sur-Yvette",
-        "phone_number": "0170565286",
-        "business_hours": {
-          "lundi": "14h-18h",
-          "mardi": "14h-18h",
-          "mercredi": "14h-18h",
-          "jeudi": "14h-18h",
-          "vendredi": "14h-18h",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243246[165182]",
-      "gid": "791"
     },
     {
       "departement": "91",
@@ -1233,33 +1260,6 @@
       "appointment_count": 0,
       "internal_id": "242763[164605]",
       "gid": "d242763"
-    },
-    {
-      "departement": "91",
-      "nom": "Centre de vaccination Covid-19 Gif sur Yvette",
-      "url": "https://partners.doctolib.fr/centre-de-sante/gif-sur-yvette/centre-de-vaccination-covid-19-gif-sur-yvette-gif-sur-yvette",
-      "location": {
-        "longitude": 2.1301529,
-        "latitude": 48.6971854
-      },
-      "metadata": {
-        "address": "Place du Chapitre, 91190 Gif-sur-Yvette",
-        "business_hours": {
-          "lundi": "08:45-12:00, 13:30-17:30",
-          "mardi": "08:45-12:00, 13:30-17:30",
-          "mercredi": "08:45-12:00, 13:30-17:30",
-          "jeudi": "08:45-12:00, 13:30-17:30",
-          "vendredi": "08:45-12:00, 13:30-17:30",
-          "samedi": null,
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243294[]",
-      "gid": "d243294"
     },
     {
       "departement": "91",

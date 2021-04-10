@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:06:23.039426+02:00",
+  "last_updated": "2021-04-10T19:10:42.161051+02:00",
   "centres_disponibles": [
     {
       "departement": "73",
@@ -130,10 +130,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-19T11:20:00.000+02:00",
+      "prochain_rdv": "2021-04-19T11:34:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 424,
+      "appointment_count": 423,
       "internal_id": "264576[]",
       "gid": "d264576"
     },
@@ -161,7 +161,7 @@
       "prochain_rdv": "2021-04-20T13:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 47,
+      "appointment_count": 50,
       "internal_id": "242539[]",
       "gid": "673"
     },
@@ -189,7 +189,7 @@
       "prochain_rdv": "2021-04-21T11:15:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 67,
+      "appointment_count": 66,
       "internal_id": "245207[]",
       "gid": "708"
     },
@@ -217,7 +217,7 @@
       "prochain_rdv": "2021-04-21T11:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 135,
+      "appointment_count": 136,
       "internal_id": "242315[176677]",
       "gid": "700"
     },
@@ -241,10 +241,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-21T11:40:00.000+02:00",
+      "prochain_rdv": "2021-04-21T11:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 135,
+      "appointment_count": 136,
       "internal_id": "242315[]",
       "gid": "d242315"
     },
@@ -269,10 +269,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-26T10:30:00.000+02:00",
+      "prochain_rdv": "2021-04-27T11:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 80,
+      "appointment_count": 79,
       "internal_id": "243111[]",
       "gid": "703"
     }
@@ -579,18 +579,18 @@
     },
     {
       "departement": "73",
-      "nom": "Centre de vaccination COVID Ad Hoc de Saint Alban Leysse",
-      "url": "https://partners.doctolib.fr/centre-de-sante/chambery/centre-de-vaccination-grand-chambery?pid=practice-178866",
+      "nom": "Centre de vaccination COVID Ad Hoc de COGNIN",
+      "url": "https://partners.doctolib.fr/centre-de-sante/chambery/centre-de-vaccination-grand-chambery?pid=practice-178865",
       "location": {
-        "longitude": 5.95943,
-        "latitude": 45.5788
+        "longitude": 5.89493,
+        "latitude": 45.5605
       },
       "metadata": {
-        "address": "6500 Av de la Mairie, 73230 Saint-Alban-Leysse",
+        "address": "16 R de la Forgerie, 73160 Cognin",
         "business_hours": {
-          "lundi": "OUVERT",
+          "lundi": "ferm\u00e9",
           "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
+          "mercredi": "08:45-12:05/13:45-17:05",
           "jeudi": "ferm\u00e9",
           "vendredi": "ferm\u00e9",
           "samedi": "ferm\u00e9",
@@ -602,7 +602,7 @@
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": "260816[178078-178862]",
-      "gid": "2128"
+      "gid": "2127"
     },
     {
       "departement": "73",
@@ -660,33 +660,6 @@
     },
     {
       "departement": "73",
-      "nom": "CP - US AITON / Maison d'Arr\u00eat de Chamb\u00e9ry",
-      "url": "",
-      "location": {
-        "longitude": 6.23114,
-        "latitude": 45.5648
-      },
-      "metadata": {
-        "address": " , 73000 CHAMBERY",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1780"
-    },
-    {
-      "departement": "73",
       "nom": "MA - US Maison d'Arr\u00eat de Chamb\u00e9ry / Maison d'Arr\u00eat de Chamb\u00e9ry",
       "url": "",
       "location": {
@@ -711,6 +684,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1779"
+    },
+    {
+      "departement": "73",
+      "nom": "CP - US AITON / Maison d'Arr\u00eat de Chamb\u00e9ry",
+      "url": "",
+      "location": {
+        "longitude": 6.23114,
+        "latitude": 45.5648
+      },
+      "metadata": {
+        "address": " , 73000 CHAMBERY",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1780"
     },
     {
       "departement": "73",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:06:22.974304+02:00",
+  "last_updated": "2021-04-10T19:10:42.100764+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -589,34 +589,6 @@
     },
     {
       "departement": "21",
-      "nom": "CHU Dijon (B\u00e2timent Courtois)",
-      "url": "https://partners.doctolib.fr/hopital-public/dijon/centre-de-vaccination-covid-chu-dijon?pid=practice-169594",
-      "location": {
-        "longitude": 5.07015,
-        "latitude": 47.3222
-      },
-      "metadata": {
-        "address": "10 Bd Mal de Lattre de Tassigny, 21000 Dijon",
-        "phone_number": "+33345810421",
-        "business_hours": {
-          "lundi": "09:00-11:45/13:00-16:45",
-          "mardi": "09:00-11:45/13:00-16:45",
-          "mercredi": "09:00-11:45/13:00-16:45",
-          "jeudi": "09:00-11:45/13:00-16:45",
-          "vendredi": "09:00-11:45/13:00-16:45",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "245256[166717-181084]",
-      "gid": "398"
-    },
-    {
-      "departement": "21",
       "nom": "BRAZEY-EN-PLAINE Salle polyvalente Georges Balme",
       "url": "https://partners.doctolib.fr/centre-de-sante/brazey-en-plaine/cpts-pays-d-or-vaccination-covid",
       "location": {
@@ -642,6 +614,34 @@
       "appointment_count": 0,
       "internal_id": "242460[]",
       "gid": "395"
+    },
+    {
+      "departement": "21",
+      "nom": "CHU Dijon (B\u00e2timent Courtois)",
+      "url": "https://partners.doctolib.fr/hopital-public/dijon/centre-de-vaccination-covid-chu-dijon?pid=practice-169594",
+      "location": {
+        "longitude": 5.07015,
+        "latitude": 47.3222
+      },
+      "metadata": {
+        "address": "10 Bd Mal de Lattre de Tassigny, 21000 Dijon",
+        "phone_number": "+33345810421",
+        "business_hours": {
+          "lundi": "09:00-11:45/13:00-16:45",
+          "mardi": "09:00-11:45/13:00-16:45",
+          "mercredi": "09:00-11:45/13:00-16:45",
+          "jeudi": "09:00-11:45/13:00-16:45",
+          "vendredi": "09:00-11:45/13:00-16:45",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "245256[166717-181084]",
+      "gid": "398"
     },
     {
       "departement": "21",

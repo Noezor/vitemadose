@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:06:23.054103+02:00",
+  "last_updated": "2021-04-10T19:10:42.173324+02:00",
   "centres_disponibles": [
     {
       "departement": "81",
@@ -26,7 +26,7 @@
       "prochain_rdv": "2021-04-12T11:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 236,
+      "appointment_count": 237,
       "internal_id": "242019[164139]",
       "gid": "369"
     },
@@ -79,10 +79,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-13T13:10:00.000+02:00",
+      "prochain_rdv": "2021-04-13T13:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 201,
+      "appointment_count": 199,
       "internal_id": "242019[164002]",
       "gid": "370"
     },
@@ -341,33 +341,6 @@
     },
     {
       "departement": "81",
-      "nom": "EPM - US EPM LAVAUR / Centre de D\u00e9tention de Saint-Sulpice-la-Pointe",
-      "url": "",
-      "location": {
-        "longitude": 1.69325,
-        "latitude": 43.7762
-      },
-      "metadata": {
-        "address": "17 Chemin des Pescayres, 81370 Saint-Sulpice-la-Pointe",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1910"
-    },
-    {
-      "departement": "81",
       "nom": "CD - US SAINT SULPICE / Centre de D\u00e9tention de Saint-Sulpice-la-Pointe",
       "url": "",
       "location": {
@@ -392,6 +365,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1911"
+    },
+    {
+      "departement": "81",
+      "nom": "EPM - US EPM LAVAUR / Centre de D\u00e9tention de Saint-Sulpice-la-Pointe",
+      "url": "",
+      "location": {
+        "longitude": 1.69325,
+        "latitude": 43.7762
+      },
+      "metadata": {
+        "address": "17 Chemin des Pescayres, 81370 Saint-Sulpice-la-Pointe",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1910"
     },
     {
       "departement": "81",

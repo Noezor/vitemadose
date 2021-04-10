@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:06:23.033917+02:00",
+  "last_updated": "2021-04-10T19:10:42.156364+02:00",
   "centres_disponibles": [
     {
       "departement": "69",
@@ -23,40 +23,12 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-12T10:30:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 4,
-      "internal_id": "241965[163661]",
-      "gid": "688"
-    },
-    {
-      "departement": "69",
-      "nom": "Centre de vaccination -H\u00f4pital Edouard Herriot-HCL",
-      "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-edouard-herriot-hcl-vaccination-covid?pid=practice-163794",
-      "location": {
-        "longitude": 4.88009,
-        "latitude": 45.7433
-      },
-      "metadata": {
-        "address": "5 Place d'Arsonval, 69003 Lyon",
-        "phone_number": "+33423101010",
-        "business_hours": {
-          "lundi": "08:00-20:00",
-          "mardi": "08:00-20:00",
-          "mercredi": "08:00-20:00",
-          "jeudi": "08:00-20:00",
-          "vendredi": "08:00-20:00",
-          "samedi": "08:30-17:30",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-17T16:30:00.000+02:00",
+      "prochain_rdv": "2021-04-13T17:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 1,
-      "internal_id": "241950[163794]",
-      "gid": "222"
+      "internal_id": "241965[163661]",
+      "gid": "688"
     },
     {
       "departement": "69",
@@ -79,12 +51,68 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-18T16:50:00.000+02:00",
+      "prochain_rdv": "2021-04-15T18:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 10,
       "internal_id": "263389[180202]",
       "gid": "2136"
+    },
+    {
+      "departement": "69",
+      "nom": "Centre de vaccination de la communaut\u00e9 professionnelle territoriale de sant\u00e9  -  Salle Mosa\u00efque de Saint-Priest",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-priest/centre-de-vaccination-covid-19-st-priest-mions-saint-priest",
+      "location": {
+        "longitude": 4.92883,
+        "latitude": 45.6944
+      },
+      "metadata": {
+        "address": "47 Rue Aristide Briand, 69800 Saint-Priest",
+        "phone_number": "+33423101010",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "09:00-17:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-22T16:30:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "243790[]",
+      "gid": "1157"
+    },
+    {
+      "departement": "69",
+      "nom": "Centre de vaccination Covid-19 - St Priest Mions",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-priest/centre-de-vaccination-covid-19-st-priest-mions",
+      "location": {
+        "longitude": 4.928993,
+        "latitude": 45.6944789
+      },
+      "metadata": {
+        "address": "47 Rue Aristide Briand, 69800 Saint-Priest",
+        "phone_number": "04 23 10 10 10",
+        "business_hours": {
+          "lundi": "09:00-13:00, 13:00-17:00",
+          "mardi": "09:00-13:00, 13:00-17:00",
+          "mercredi": "09:00-13:00, 13:00-17:00",
+          "jeudi": "09:00-13:00, 13:00-17:00",
+          "vendredi": "09:00-13:00, 13:00-17:00",
+          "samedi": "09:00-13:00, 13:00-17:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-22T16:30:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "243468[]",
+      "gid": "d243468"
     },
     {
       "departement": "69",
@@ -135,10 +163,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-28T13:30:00.000+02:00",
+      "prochain_rdv": "2021-04-28T12:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 72,
+      "appointment_count": 71,
       "internal_id": "258785[176810]",
       "gid": "1693"
     },
@@ -673,6 +701,34 @@
     },
     {
       "departement": "69",
+      "nom": "Centre de vaccination -H\u00f4pital Edouard Herriot-HCL",
+      "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-edouard-herriot-hcl-vaccination-covid?pid=practice-163794",
+      "location": {
+        "longitude": 4.88009,
+        "latitude": 45.7433
+      },
+      "metadata": {
+        "address": "5 Place d'Arsonval, 69003 Lyon",
+        "phone_number": "+33423101010",
+        "business_hours": {
+          "lundi": "08:00-20:00",
+          "mardi": "08:00-20:00",
+          "mercredi": "08:00-20:00",
+          "jeudi": "08:00-20:00",
+          "vendredi": "08:00-20:00",
+          "samedi": "08:30-17:30",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241950[163794]",
+      "gid": "222"
+    },
+    {
+      "departement": "69",
       "nom": "Grand centre de Lyon - Eurexpo (en cours de d\u00e9claration)",
       "url": "",
       "location": {
@@ -868,34 +924,6 @@
     },
     {
       "departement": "69",
-      "nom": "Centre de vaccination de la communaut\u00e9 professionnelle territoriale de sant\u00e9  -  Salle Mosa\u00efque de Saint-Priest",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saint-priest/centre-de-vaccination-covid-19-st-priest-mions-saint-priest",
-      "location": {
-        "longitude": 4.92883,
-        "latitude": 45.6944
-      },
-      "metadata": {
-        "address": "47 Rue Aristide Briand, 69800 Saint-Priest",
-        "phone_number": "+33423101010",
-        "business_hours": {
-          "lundi": "09:00-17:00",
-          "mardi": "09:00-17:00",
-          "mercredi": "09:00-17:00",
-          "jeudi": "09:00-17:00",
-          "vendredi": "09:00-17:00",
-          "samedi": "09:00-17:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243790[]",
-      "gid": "1157"
-    },
-    {
-      "departement": "69",
       "nom": "Centre de vaccination international de Villeurbanne",
       "url": "https://partners.doctolib.fr/centre-de-sante/villeurbanne/centre-de-vaccinations-internationales-villeurbanne-miit?pid=practice-165173%3fspeciality_id%3d5494",
       "location": {
@@ -1007,33 +1035,6 @@
     },
     {
       "departement": "69",
-      "nom": "EPM - US/SMPR EPM du Rhone / Etablissement sp\u00e9cialis\u00e9 pour mineursdu Rh\u00f4ne",
-      "url": "",
-      "location": {
-        "longitude": 4.99769,
-        "latitude": 45.7605
-      },
-      "metadata": {
-        "address": " Rue du Rambion, 69330 Meyzieu",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1777"
-    },
-    {
-      "departement": "69",
       "nom": "CP - VILLEFRANCHE SUR SAONE / Maison d'Arr\u00eat de Villefranche-sur-Sa\u00f4ne",
       "url": "",
       "location": {
@@ -1058,6 +1059,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1778"
+    },
+    {
+      "departement": "69",
+      "nom": "EPM - US/SMPR EPM du Rhone / Etablissement sp\u00e9cialis\u00e9 pour mineursdu Rh\u00f4ne",
+      "url": "",
+      "location": {
+        "longitude": 4.99769,
+        "latitude": 45.7605
+      },
+      "metadata": {
+        "address": " Rue du Rambion, 69330 Meyzieu",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1777"
     },
     {
       "departement": "69",
@@ -1340,34 +1368,6 @@
       "appointment_count": 0,
       "internal_id": "243285[]",
       "gid": "d243285"
-    },
-    {
-      "departement": "69",
-      "nom": "Centre de vaccination Covid-19 - St Priest Mions",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saint-priest/centre-de-vaccination-covid-19-st-priest-mions",
-      "location": {
-        "longitude": 4.928993,
-        "latitude": 45.6944789
-      },
-      "metadata": {
-        "address": "47 Rue Aristide Briand, 69800 Saint-Priest",
-        "phone_number": "04 23 10 10 10",
-        "business_hours": {
-          "lundi": "09:00-13:00, 13:00-17:00",
-          "mardi": "09:00-13:00, 13:00-17:00",
-          "mercredi": "09:00-13:00, 13:00-17:00",
-          "jeudi": "09:00-13:00, 13:00-17:00",
-          "vendredi": "09:00-13:00, 13:00-17:00",
-          "samedi": "09:00-13:00, 13:00-17:00",
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243468[]",
-      "gid": "d243468"
     },
     {
       "departement": "69",

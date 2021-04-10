@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:06:23.046180+02:00",
+  "last_updated": "2021-04-10T19:10:42.166931+02:00",
   "centres_disponibles": [
     {
       "departement": "76",
@@ -82,7 +82,7 @@
       "prochain_rdv": "2021-04-13T16:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 2,
+      "appointment_count": 3,
       "internal_id": "242321[]",
       "gid": "801"
     },
@@ -110,7 +110,7 @@
       "prochain_rdv": "2021-04-14T12:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 158,
+      "appointment_count": 156,
       "internal_id": "241044[164222]",
       "gid": "786"
     },
@@ -135,10 +135,10 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-14T13:55:00.000+02:00",
+      "prochain_rdv": "2021-04-14T14:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 256,
+      "appointment_count": 254,
       "internal_id": "242080[181348]",
       "gid": "2360"
     },
@@ -200,34 +200,6 @@
     },
     {
       "departement": "76",
-      "nom": "CHI Caux Vall\u00e9e de Seine  - Lillebonne",
-      "url": "https://partners.doctolib.fr/hopital-public/lillebonne/centre-de-vaccination-caux-vallee-de-seine",
-      "location": {
-        "longitude": 0.542715,
-        "latitude": 49.5186
-      },
-      "metadata": {
-        "address": "19 Avenue Rene Coty, 76170 Lillebonne",
-        "phone_number": "+33279461156",
-        "business_hours": {
-          "lundi": "",
-          "mardi": "",
-          "mercredi": "",
-          "jeudi": "",
-          "vendredi": "",
-          "samedi": "",
-          "dimanche": ""
-        }
-      },
-      "prochain_rdv": "2021-04-28T13:15:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 2,
-      "internal_id": "242477[]",
-      "gid": "796"
-    },
-    {
-      "departement": "76",
       "nom": "VaccinAr\u00e9na",
       "url": "https://partners.doctolib.fr/centre-de-sante/rouen/centre-de-vaccination-covid-vaccinarena-rouen?pid=practice-181232",
       "location": {
@@ -250,7 +222,7 @@
       "prochain_rdv": "2021-04-28T16:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 22,
+      "appointment_count": 25,
       "internal_id": "264690[181232]",
       "gid": "2359"
     },
@@ -336,6 +308,34 @@
       "appointment_count": 2,
       "internal_id": "242477[164430]",
       "gid": "1025"
+    },
+    {
+      "departement": "76",
+      "nom": "CHI Caux Vall\u00e9e de Seine  - Lillebonne",
+      "url": "https://partners.doctolib.fr/hopital-public/lillebonne/centre-de-vaccination-caux-vallee-de-seine",
+      "location": {
+        "longitude": 0.542715,
+        "latitude": 49.5186
+      },
+      "metadata": {
+        "address": "19 Avenue Rene Coty, 76170 Lillebonne",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": "2021-05-10T12:15:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 2,
+      "internal_id": "242477[]",
+      "gid": "796"
     }
   ],
   "centres_indisponibles": [
@@ -880,34 +880,6 @@
     },
     {
       "departement": "76",
-      "nom": "Pharmacie de Caudebec en Caux",
-      "url": "https://partners.doctolib.fr/pharmacie/rives-en-seine/pharmacie-de-caudebec",
-      "location": {
-        "longitude": 0.7272467,
-        "latitude": 49.5246268
-      },
-      "metadata": {
-        "address": "7 Quai Guilbaud, 76490 Rives-en-Seine",
-        "phone_number": "02 35 96 34 44",
-        "business_hours": {
-          "lundi": "09:00-12:30, 14:00-19:30",
-          "mardi": "09:00-12:30, 14:00-19:30",
-          "mercredi": "09:00-12:30, 14:00-19:30",
-          "jeudi": "09:00-12:30, 14:00-19:30",
-          "vendredi": "09:00-12:30, 14:00-19:30",
-          "samedi": "09:00-12:30, 14:00-17:00",
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": "262421[]",
-      "gid": "d262421"
-    },
-    {
-      "departement": "76",
       "nom": "Pharmacie de la Mairie",
       "url": "https://partners.doctolib.fr/pharmacie/le-houlme/pharmacie-de-la-mairie-le-houlme",
       "location": {
@@ -933,6 +905,34 @@
       "appointment_count": 0,
       "internal_id": "257756[]",
       "gid": "d257756"
+    },
+    {
+      "departement": "76",
+      "nom": "Pharmacie de Caudebec en Caux",
+      "url": "https://partners.doctolib.fr/pharmacie/rives-en-seine/pharmacie-de-caudebec",
+      "location": {
+        "longitude": 0.7272467,
+        "latitude": 49.5246268
+      },
+      "metadata": {
+        "address": "7 Quai Guilbaud, 76490 Rives-en-Seine",
+        "phone_number": "02 35 96 34 44",
+        "business_hours": {
+          "lundi": "09:00-12:30, 14:00-19:30",
+          "mardi": "09:00-12:30, 14:00-19:30",
+          "mercredi": "09:00-12:30, 14:00-19:30",
+          "jeudi": "09:00-12:30, 14:00-19:30",
+          "vendredi": "09:00-12:30, 14:00-19:30",
+          "samedi": "09:00-12:30, 14:00-17:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "262421[]",
+      "gid": "d262421"
     },
     {
       "departement": "76",
