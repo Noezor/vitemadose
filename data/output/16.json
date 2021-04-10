@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:59:31.764702+02:00",
+  "last_updated": "2021-04-10T19:02:41.469439+02:00",
   "centres_disponibles": [
     {
       "departement": "16",
@@ -29,34 +29,6 @@
       "appointment_count": 86,
       "internal_id": "242372[]",
       "gid": "49"
-    },
-    {
-      "departement": "16",
-      "nom": "Centre de vaccination Montmoreau St Cybard/Chalais",
-      "url": "https://partners.doctolib.fr/centre-de-sante/montmoreau-saint-cybard/centre-de-vaccination-montmoreau?pid=practice-166024",
-      "location": {
-        "longitude": 0.128916,
-        "latitude": 45.3974
-      },
-      "metadata": {
-        "address": " rue Henri Dunant, 16190 Montmoreau",
-        "phone_number": "+33952452416",
-        "business_hours": {
-          "lundi": "14:00-17:OO",
-          "mardi": "09:00-12:00",
-          "mercredi": "09:00-12:00/14:00-17:00",
-          "jeudi": "09:00-12:00/14:00-17:00",
-          "vendredi": "14:00-17:00",
-          "samedi": "09:00-12:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-23T10:10:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 2,
-      "internal_id": "244304[166024]",
-      "gid": "1165"
     },
     {
       "departement": "16",
@@ -283,6 +255,34 @@
       "appointment_count": 0,
       "internal_id": "243528[]",
       "gid": "946"
+    },
+    {
+      "departement": "16",
+      "nom": "Centre de vaccination Montmoreau St Cybard/Chalais",
+      "url": "https://partners.doctolib.fr/centre-de-sante/montmoreau-saint-cybard/centre-de-vaccination-montmoreau?pid=practice-166024",
+      "location": {
+        "longitude": 0.128916,
+        "latitude": 45.3974
+      },
+      "metadata": {
+        "address": " rue Henri Dunant, 16190 Montmoreau",
+        "phone_number": "+33952452416",
+        "business_hours": {
+          "lundi": "14:00-17:OO",
+          "mardi": "09:00-12:00",
+          "mercredi": "09:00-12:00/14:00-17:00",
+          "jeudi": "09:00-12:00/14:00-17:00",
+          "vendredi": "14:00-17:00",
+          "samedi": "09:00-12:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244304[166024]",
+      "gid": "1165"
     },
     {
       "departement": "16",

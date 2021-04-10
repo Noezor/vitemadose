@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:59:31.798941+02:00",
+  "last_updated": "2021-04-10T19:02:41.502220+02:00",
   "centres_disponibles": [
     {
       "departement": "45",
@@ -53,7 +53,7 @@
       "prochain_rdv": "2021-04-15T09:25:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 8,
+      "appointment_count": 9,
       "internal_id": "242169[]",
       "gid": "1360"
     },
@@ -78,10 +78,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-27T16:10:00.000+02:00",
+      "prochain_rdv": "2021-04-27T15:25:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 197,
+      "appointment_count": 199,
       "internal_id": "264587[181158]",
       "gid": "2152"
     }
@@ -310,16 +310,17 @@
     },
     {
       "departement": "45",
-      "nom": "Dispensaire Porte Madeleine - r\u00e9serv\u00e9 aux professionnels de sant\u00e9",
-      "url": "https://partners.doctolib.fr/hopital-public/orleans/centre-de-vaccination-covid-chr-orleans-porte-madeleine",
+      "nom": "Centre hospitalier de Beaugency - centre de vaccination public",
+      "url": "https://partners.doctolib.fr/hopital-public/beaugency/centre-de-vaccination-covid-hopital-de-beaugency",
       "location": {
-        "longitude": 1.89693,
-        "latitude": 47.9017
+        "longitude": 1.62009,
+        "latitude": 47.7819
       },
       "metadata": {
-        "address": "1 Rue Porte Madeleine, 45000 Orl\u00e9ans",
+        "address": "48 Avenue de Vend\u00f4me, 45190 Beaugency",
+        "phone_number": "08 05 02 14 00",
         "business_hours": {
-          "lundi": "ouvert",
+          "lundi": "Ouvert",
           "mardi": "ouvert",
           "mercredi": "ouvert",
           "jeudi": "ouvert",
@@ -332,8 +333,8 @@
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": "242009[]",
-      "gid": "1356"
+      "internal_id": "242167[]",
+      "gid": "1353"
     },
     {
       "departement": "45",
@@ -364,17 +365,16 @@
     },
     {
       "departement": "45",
-      "nom": "Centre hospitalier de Beaugency - centre de vaccination public",
-      "url": "https://partners.doctolib.fr/hopital-public/beaugency/centre-de-vaccination-covid-hopital-de-beaugency",
+      "nom": "Dispensaire Porte Madeleine - r\u00e9serv\u00e9 aux professionnels de sant\u00e9",
+      "url": "https://partners.doctolib.fr/hopital-public/orleans/centre-de-vaccination-covid-chr-orleans-porte-madeleine",
       "location": {
-        "longitude": 1.62009,
-        "latitude": 47.7819
+        "longitude": 1.89693,
+        "latitude": 47.9017
       },
       "metadata": {
-        "address": "48 Avenue de Vend\u00f4me, 45190 Beaugency",
-        "phone_number": "08 05 02 14 00",
+        "address": "1 Rue Porte Madeleine, 45000 Orl\u00e9ans",
         "business_hours": {
-          "lundi": "Ouvert",
+          "lundi": "ouvert",
           "mardi": "ouvert",
           "mercredi": "ouvert",
           "jeudi": "ouvert",
@@ -387,8 +387,8 @@
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": "242167[]",
-      "gid": "1353"
+      "internal_id": "242009[]",
+      "gid": "1356"
     },
     {
       "departement": "45",

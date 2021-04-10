@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:59:31.845929+02:00",
+  "last_updated": "2021-04-10T19:02:41.546746+02:00",
   "centres_disponibles": [
     {
       "departement": "81",
@@ -26,37 +26,9 @@
       "prochain_rdv": "2021-04-12T11:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 239,
+      "appointment_count": 238,
       "internal_id": "242019[164139]",
       "gid": "369"
-    },
-    {
-      "departement": "81",
-      "nom": "CH Castres",
-      "url": "https://partners.doctolib.fr/hopital-public/castres/chic-castres-mazamet-centre-de-vaccination?pid=practice-164002",
-      "location": {
-        "longitude": 2.26272,
-        "latitude": 43.5657
-      },
-      "metadata": {
-        "address": "6 Avenue de la Montagne Noire, 81100 Castres",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "08:30-20:30",
-          "mardi": "08:30-20:30",
-          "mercredi": "08:30-20:30",
-          "jeudi": "08:30-20:30",
-          "vendredi": "08:30-20:30",
-          "samedi": "10:00-18:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-13T12:40:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 204,
-      "internal_id": "242019[164002]",
-      "gid": "370"
     },
     {
       "departement": "81",
@@ -82,9 +54,37 @@
       "prochain_rdv": "2021-04-13T12:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 232,
+      "appointment_count": 233,
       "internal_id": "242019[164315]",
       "gid": "1186"
+    },
+    {
+      "departement": "81",
+      "nom": "CH Castres",
+      "url": "https://partners.doctolib.fr/hopital-public/castres/chic-castres-mazamet-centre-de-vaccination?pid=practice-164002",
+      "location": {
+        "longitude": 2.26272,
+        "latitude": 43.5657
+      },
+      "metadata": {
+        "address": "6 Avenue de la Montagne Noire, 81100 Castres",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "08:30-20:30",
+          "mardi": "08:30-20:30",
+          "mercredi": "08:30-20:30",
+          "jeudi": "08:30-20:30",
+          "vendredi": "08:30-20:30",
+          "samedi": "10:00-18:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-13T13:10:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 201,
+      "internal_id": "242019[164002]",
+      "gid": "370"
     },
     {
       "departement": "81",

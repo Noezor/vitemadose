@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:59:31.817961+02:00",
+  "last_updated": "2021-04-10T19:02:41.520246+02:00",
   "centres_disponibles": [
     {
       "departement": "62",
@@ -22,10 +22,10 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-11T08:15:00.000+02:00",
+      "prochain_rdv": "2021-04-11T08:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 71,
+      "appointment_count": 72,
       "internal_id": "258354[176735]",
       "gid": "1952"
     },
@@ -242,10 +242,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-12T12:20:00.000+02:00",
+      "prochain_rdv": "2021-04-12T12:25:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 327,
+      "appointment_count": 323,
       "internal_id": "242884[180561]",
       "gid": "1115"
     },
@@ -276,34 +276,6 @@
       "appointment_count": 89,
       "internal_id": "243031[]",
       "gid": "1110"
-    },
-    {
-      "departement": "62",
-      "nom": "Centre Hospitalier de B\u00e9thune Beuvry - Vaccination COVID-19",
-      "url": "https://partners.doctolib.fr/hopital-public/bethune-beuvry/centre-hospitalier-de-bethune-beuvry-vaccination-covid-bethune-beuvry",
-      "location": {
-        "longitude": 2.6693601,
-        "latitude": 50.5152244
-      },
-      "metadata": {
-        "address": "27 Rue Delbecque, 62660 Beuvry",
-        "phone_number": "03 21 64 41 55",
-        "business_hours": {
-          "lundi": "09:00-13:00, 13:45-17:00",
-          "mardi": "09:00-13:00, 13:45-17:00",
-          "mercredi": "09:00-13:00, 13:45-17:00",
-          "jeudi": "09:00-13:00, 13:45-17:00",
-          "vendredi": "09:00-13:00, 13:45-17:00",
-          "samedi": null,
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": "2021-04-13T12:35:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "242468[]",
-      "gid": "d242468"
     },
     {
       "departement": "62",
@@ -848,34 +820,6 @@
     },
     {
       "departement": "62",
-      "nom": "Centre de vaccination - Centre SDIS Lumbres, Salle Leio Lagrang",
-      "url": "https://partners.doctolib.fr/centre-de-sante/bruay-la-buissiere/centre-de-vaccination-covid-pas-de-calais?pid=practice-164610",
-      "location": {
-        "longitude": 2.12533,
-        "latitude": 50.7048
-      },
-      "metadata": {
-        "address": " Rue de l'Isle, 62380 Lumbres",
-        "phone_number": "+33392043471",
-        "business_hours": {
-          "lundi": "09:00-12:30/13:30-18:00",
-          "mardi": "09:00-12:30/13:30-18:00",
-          "mercredi": "09:00-12:30/13:30-18:00",
-          "jeudi": "09:00-12:30/13:30-18:00",
-          "vendredi": "09:00-12:30/13:30-18:00",
-          "samedi": "09:00-12:30/13:30-18:00",
-          "dimanche": "09:00-12:30/13:30-18:00"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242643[164610]",
-      "gid": "1104"
-    },
-    {
-      "departement": "62",
       "nom": "Centre de vaccination - Centre SDIS Avesnes Le Comte, Salle Jacques Nirdol",
       "url": "https://partners.doctolib.fr/centre-de-sante/bruay-la-buissiere/centre-de-vaccination-covid-pas-de-calais?pid=practice-164609",
       "location": {
@@ -901,6 +845,34 @@
       "appointment_count": 0,
       "internal_id": "242643[164609]",
       "gid": "970"
+    },
+    {
+      "departement": "62",
+      "nom": "Centre de vaccination - Centre SDIS Lumbres, Salle Leio Lagrang",
+      "url": "https://partners.doctolib.fr/centre-de-sante/bruay-la-buissiere/centre-de-vaccination-covid-pas-de-calais?pid=practice-164610",
+      "location": {
+        "longitude": 2.12533,
+        "latitude": 50.7048
+      },
+      "metadata": {
+        "address": " Rue de l'Isle, 62380 Lumbres",
+        "phone_number": "+33392043471",
+        "business_hours": {
+          "lundi": "09:00-12:30/13:30-18:00",
+          "mardi": "09:00-12:30/13:30-18:00",
+          "mercredi": "09:00-12:30/13:30-18:00",
+          "jeudi": "09:00-12:30/13:30-18:00",
+          "vendredi": "09:00-12:30/13:30-18:00",
+          "samedi": "09:00-12:30/13:30-18:00",
+          "dimanche": "09:00-12:30/13:30-18:00"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242643[164610]",
+      "gid": "1104"
     },
     {
       "departement": "62",
@@ -1239,33 +1211,6 @@
     },
     {
       "departement": "62",
-      "nom": "MA - US ARRAS / Maison d'Arr\u00eat d'Arras",
-      "url": "",
-      "location": {
-        "longitude": 2.76048,
-        "latitude": 50.293
-      },
-      "metadata": {
-        "address": "12 Rue des Carabiniers d?Artois, 62000 Arras",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1843"
-    },
-    {
-      "departement": "62",
       "nom": "CD - US BAPAUME / Maison d'Arr\u00eat d'Arras",
       "url": "",
       "location": {
@@ -1293,14 +1238,14 @@
     },
     {
       "departement": "62",
-      "nom": "CP - US du centre hospitalier de la R\u00e9gion de Saint-Omer / Centre P\u00e9nitentiaire de Longuenesse",
+      "nom": "MA - US ARRAS / Maison d'Arr\u00eat d'Arras",
       "url": "",
       "location": {
-        "longitude": 2.23624,
-        "latitude": 50.7305
+        "longitude": 2.76048,
+        "latitude": 50.293
       },
       "metadata": {
-        "address": " Chemin du Plateau des Bruy\u00e8res, 62219 Longuenesse",
+        "address": "12 Rue des Carabiniers d?Artois, 62000 Arras",
         "business_hours": {
           "lundi": "Ferm\u00e9 au public",
           "mardi": "Ferm\u00e9 au public",
@@ -1316,7 +1261,7 @@
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "1845"
+      "gid": "1843"
     },
     {
       "departement": "62",
@@ -1344,6 +1289,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1844"
+    },
+    {
+      "departement": "62",
+      "nom": "CP - US du centre hospitalier de la R\u00e9gion de Saint-Omer / Centre P\u00e9nitentiaire de Longuenesse",
+      "url": "",
+      "location": {
+        "longitude": 2.23624,
+        "latitude": 50.7305
+      },
+      "metadata": {
+        "address": " Chemin du Plateau des Bruy\u00e8res, 62219 Longuenesse",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1845"
     },
     {
       "departement": "62",
@@ -1639,6 +1611,34 @@
       "appointment_count": 0,
       "internal_id": "259245[]",
       "gid": "d259245"
+    },
+    {
+      "departement": "62",
+      "nom": "Centre Hospitalier de B\u00e9thune Beuvry - Vaccination COVID-19",
+      "url": "https://partners.doctolib.fr/hopital-public/bethune-beuvry/centre-hospitalier-de-bethune-beuvry-vaccination-covid-bethune-beuvry",
+      "location": {
+        "longitude": 2.6693601,
+        "latitude": 50.5152244
+      },
+      "metadata": {
+        "address": "27 Rue Delbecque, 62660 Beuvry",
+        "phone_number": "03 21 64 41 55",
+        "business_hours": {
+          "lundi": "09:00-13:00, 13:45-17:00",
+          "mardi": "09:00-13:00, 13:45-17:00",
+          "mercredi": "09:00-13:00, 13:45-17:00",
+          "jeudi": "09:00-13:00, 13:45-17:00",
+          "vendredi": "09:00-13:00, 13:45-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242468[]",
+      "gid": "d242468"
     }
   ]
 }

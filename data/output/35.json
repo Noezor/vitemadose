@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:59:31.788254+02:00",
+  "last_updated": "2021-04-10T19:02:41.491854+02:00",
   "centres_disponibles": [
     {
       "departement": "35",
@@ -22,10 +22,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-12T13:48:00.000+02:00",
+      "prochain_rdv": "2021-04-12T13:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 236,
+      "appointment_count": 238,
       "internal_id": "265186[181675]",
       "gid": "2397"
     },
@@ -134,7 +134,7 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-27T12:50:00.000+02:00",
+      "prochain_rdv": "2021-04-27T12:25:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 352,
@@ -165,7 +165,7 @@
       "prochain_rdv": "2021-04-29T16:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 6,
+      "appointment_count": 5,
       "internal_id": "241899[]",
       "gid": "422"
     },
@@ -593,33 +593,6 @@
     },
     {
       "departement": "35",
-      "nom": "CP - UCSA - Centre p\u00e9nitentiaire des Hommes Rennes-Vezin / Centre p\u00e9nitentiaire de Rennes-V\u00e9zin le Coquet",
-      "url": "",
-      "location": {
-        "longitude": -1.73923,
-        "latitude": 48.1074
-      },
-      "metadata": {
-        "address": " Rue du Petit Pr\u00e9, 35132 Vezin-le-Coquet",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1795"
-    },
-    {
-      "departement": "35",
       "nom": "MA - USPN MAISON D'ARRET DE SAINT MALO / Maison d'Arr\u00eat de Saint-Malo",
       "url": "",
       "location": {
@@ -671,6 +644,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1796"
+    },
+    {
+      "departement": "35",
+      "nom": "CP - UCSA - Centre p\u00e9nitentiaire des Hommes Rennes-Vezin / Centre p\u00e9nitentiaire de Rennes-V\u00e9zin le Coquet",
+      "url": "",
+      "location": {
+        "longitude": -1.73923,
+        "latitude": 48.1074
+      },
+      "metadata": {
+        "address": " Rue du Petit Pr\u00e9, 35132 Vezin-le-Coquet",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1795"
     },
     {
       "departement": "35",

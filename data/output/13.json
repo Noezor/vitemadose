@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:59:31.760087+02:00",
+  "last_updated": "2021-04-10T19:02:41.465182+02:00",
   "centres_disponibles": [
     {
       "departement": "13",
@@ -28,34 +28,6 @@
       "appointment_count": 252,
       "internal_id": null,
       "gid": "2004"
-    },
-    {
-      "departement": "13",
-      "nom": "Centre de vaccination de la CPTS Vignes et Calanques pour les communes de La Ciotat, Ceyreste, Cassis, Roquefort la B\u00e9doule, Carnoux en Provence.",
-      "url": "https://partners.doctolib.fr/centre-de-sante/la-ciotat/centre-de-vaccination-covid-paul-eluard?pid=practice-165767",
-      "location": {
-        "longitude": 5.60028,
-        "latitude": 43.1837
-      },
-      "metadata": {
-        "address": " Complexe Paul ELUARD - Avenue Jules Ferry, 13600 La Ciotat",
-        "phone_number": "04 42 83 89 68",
-        "business_hours": {
-          "lundi": "En cours de pr\u00e9cision",
-          "mardi": "En cours de pr\u00e9cision",
-          "mercredi": "En cours de pr\u00e9cision",
-          "jeudi": "En cours de pr\u00e9cision",
-          "vendredi": "En cours de pr\u00e9cision",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-12T10:00:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 21,
-      "internal_id": "244160[165767]",
-      "gid": "1295"
     },
     {
       "departement": "13",
@@ -97,12 +69,40 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-13T09:55:00.000+02:00",
+      "prochain_rdv": "2021-04-13T09:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 66,
+      "appointment_count": 65,
       "internal_id": "243317[]",
       "gid": "1205"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre de vaccination de la CPTS Vignes et Calanques pour les communes de La Ciotat, Ceyreste, Cassis, Roquefort la B\u00e9doule, Carnoux en Provence.",
+      "url": "https://partners.doctolib.fr/centre-de-sante/la-ciotat/centre-de-vaccination-covid-paul-eluard?pid=practice-165767",
+      "location": {
+        "longitude": 5.60028,
+        "latitude": 43.1837
+      },
+      "metadata": {
+        "address": " Complexe Paul ELUARD - Avenue Jules Ferry, 13600 La Ciotat",
+        "phone_number": "04 42 83 89 68",
+        "business_hours": {
+          "lundi": "En cours de pr\u00e9cision",
+          "mardi": "En cours de pr\u00e9cision",
+          "mercredi": "En cours de pr\u00e9cision",
+          "jeudi": "En cours de pr\u00e9cision",
+          "vendredi": "En cours de pr\u00e9cision",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-13T11:45:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 19,
+      "internal_id": "244160[165767]",
+      "gid": "1295"
     },
     {
       "departement": "13",
@@ -192,7 +192,7 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-16T13:40:00.000+02:00",
+      "prochain_rdv": "2021-04-16T13:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 59,
@@ -872,34 +872,6 @@
     },
     {
       "departement": "13",
-      "nom": "Centre de vaccination CPTS VAL DURANCE",
-      "url": "https://partners.doctolib.fr/centre-de-sante/senas/centre-de-vaccination-covid-cpts-val-durance",
-      "location": {
-        "longitude": 5.07678,
-        "latitude": 43.7481
-      },
-      "metadata": {
-        "address": " Avenue du 8 Mai 1945, 13560 S\u00e9nas",
-        "phone_number": "+33631225351",
-        "business_hours": {
-          "lundi": "8h00-12h00 / 14h00-18h00",
-          "mardi": "8h00-12h00 / 14h00-18h00",
-          "mercredi": "8h00-12h00 / 14h00-18h00",
-          "jeudi": "8h00-12h00 / 14h00-18h00",
-          "vendredi": "8h00-12h00 / 14h00-18h00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243963[]",
-      "gid": "1029"
-    },
-    {
-      "departement": "13",
       "nom": "P\u00f4le de sant\u00e9 Aubagne CD 13",
       "url": "https://partners.doctolib.fr/centre-de-sante/aubagne/centre-de-vaccination-covid-pole-de-sante-aubagne",
       "location": {
@@ -925,6 +897,34 @@
       "appointment_count": 0,
       "internal_id": "244059[]",
       "gid": "1141"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre de vaccination CPTS VAL DURANCE",
+      "url": "https://partners.doctolib.fr/centre-de-sante/senas/centre-de-vaccination-covid-cpts-val-durance",
+      "location": {
+        "longitude": 5.07678,
+        "latitude": 43.7481
+      },
+      "metadata": {
+        "address": " Avenue du 8 Mai 1945, 13560 S\u00e9nas",
+        "phone_number": "+33631225351",
+        "business_hours": {
+          "lundi": "8h00-12h00 / 14h00-18h00",
+          "mardi": "8h00-12h00 / 14h00-18h00",
+          "mercredi": "8h00-12h00 / 14h00-18h00",
+          "jeudi": "8h00-12h00 / 14h00-18h00",
+          "vendredi": "8h00-12h00 / 14h00-18h00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243963[]",
+      "gid": "1029"
     },
     {
       "departement": "13",
@@ -1149,33 +1149,6 @@
     },
     {
       "departement": "13",
-      "nom": "Clinique g\u00e9n\u00e9rale de Marignane",
-      "url": "https://partners.doctolib.fr/clinique-privee/marignane/centre-de-vaccination-covid-19-clinique-generale-de-marignane",
-      "location": {
-        "longitude": 5.21518,
-        "latitude": 43.4091
-      },
-      "metadata": {
-        "address": " Avenue du G\u00e9n\u00e9ral Raoul Salan, 13700 Marignane",
-        "business_hours": {
-          "lundi": "13h-17h",
-          "mardi": "13h-17h",
-          "mercredi": "13h-17h",
-          "jeudi": "13h-17h",
-          "vendredi": "13h-17h",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243757[]",
-      "gid": "453"
-    },
-    {
-      "departement": "13",
       "nom": "Centre de vaccination de l'H\u00f4pital d'Instruction des Arm\u00e9es Laveran",
       "url": "doctolib",
       "location": {
@@ -1203,30 +1176,30 @@
     },
     {
       "departement": "13",
-      "nom": "H\u00f4pital Conception (R\u00e9serv\u00e9 aux professionnels de sant\u00e9 lib\u00e9raux)",
-      "url": "https://partners.doctolib.fr/hopital-public/marseille/vaccination-covid-19-assistance-publique-hopitaux-de-marseille/?pid=practice-78743&enable_cookies_consent=1",
+      "nom": "Clinique g\u00e9n\u00e9rale de Marignane",
+      "url": "https://partners.doctolib.fr/clinique-privee/marignane/centre-de-vaccination-covid-19-clinique-generale-de-marignane",
       "location": {
-        "longitude": 5.39612,
-        "latitude": 43.2892
+        "longitude": 5.21518,
+        "latitude": 43.4091
       },
       "metadata": {
-        "address": "147 Boulevard Baille, 13005 Marseille",
+        "address": " Avenue du G\u00e9n\u00e9ral Raoul Salan, 13700 Marignane",
         "business_hours": {
-          "lundi": "17h-21h",
-          "mardi": "17h-21h",
-          "mercredi": "17h-21h",
-          "jeudi": "17h-21h",
-          "vendredi": "17h-21h",
-          "samedi": "9h-13h",
+          "lundi": "13h-17h",
+          "mardi": "13h-17h",
+          "mercredi": "13h-17h",
+          "jeudi": "13h-17h",
+          "vendredi": "13h-17h",
+          "samedi": "ferm\u00e9",
           "dimanche": "ferm\u00e9"
         }
       },
       "prochain_rdv": null,
-      "plateforme": null,
+      "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": null,
-      "gid": "983"
+      "internal_id": "243757[]",
+      "gid": "453"
     },
     {
       "departement": "13",
@@ -1254,6 +1227,33 @@
       "appointment_count": 0,
       "internal_id": "243142[]",
       "gid": "455"
+    },
+    {
+      "departement": "13",
+      "nom": "H\u00f4pital Conception (R\u00e9serv\u00e9 aux professionnels de sant\u00e9 lib\u00e9raux)",
+      "url": "https://partners.doctolib.fr/hopital-public/marseille/vaccination-covid-19-assistance-publique-hopitaux-de-marseille/?pid=practice-78743&enable_cookies_consent=1",
+      "location": {
+        "longitude": 5.39612,
+        "latitude": 43.2892
+      },
+      "metadata": {
+        "address": "147 Boulevard Baille, 13005 Marseille",
+        "business_hours": {
+          "lundi": "17h-21h",
+          "mardi": "17h-21h",
+          "mercredi": "17h-21h",
+          "jeudi": "17h-21h",
+          "vendredi": "17h-21h",
+          "samedi": "9h-13h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": null,
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "983"
     },
     {
       "departement": "13",
@@ -1312,33 +1312,6 @@
     },
     {
       "departement": "13",
-      "nom": "CD - US de Salon-de-Provence / Centre de D\u00e9tention de Salon-de-Provence",
-      "url": "",
-      "location": {
-        "longitude": 5.06226,
-        "latitude": 43.6401
-      },
-      "metadata": {
-        "address": " Salon-de-Provence, 13300 Salon-de-Provence",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1918"
-    },
-    {
-      "departement": "13",
       "nom": "EPM - US US-SMPR-CSAPA Etablissement p\u00e9nitentiaire pour Mineur de la Valentine / Etablissement sp\u00e9cialis\u00e9 pour mineurs de Marseille",
       "url": "",
       "location": {
@@ -1393,14 +1366,14 @@
     },
     {
       "departement": "13",
-      "nom": "CD - USMP CD TARASCON / Maison Centrale d'Arles",
+      "nom": "CD - US de Salon-de-Provence / Centre de D\u00e9tention de Salon-de-Provence",
       "url": "",
       "location": {
-        "longitude": 4.63679,
-        "latitude": 43.7091
+        "longitude": 5.06226,
+        "latitude": 43.6401
       },
       "metadata": {
-        "address": "2 Rue Joseph Seguin, 13200 Arles",
+        "address": " Salon-de-Provence, 13300 Salon-de-Provence",
         "business_hours": {
           "lundi": "Ferm\u00e9 au public",
           "mardi": "Ferm\u00e9 au public",
@@ -1416,7 +1389,7 @@
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "1923"
+      "gid": "1918"
     },
     {
       "departement": "13",
@@ -1444,6 +1417,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1922"
+    },
+    {
+      "departement": "13",
+      "nom": "CD - USMP CD TARASCON / Maison Centrale d'Arles",
+      "url": "",
+      "location": {
+        "longitude": 4.63679,
+        "latitude": 43.7091
+      },
+      "metadata": {
+        "address": "2 Rue Joseph Seguin, 13200 Arles",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1923"
     },
     {
       "departement": "13",

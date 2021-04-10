@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:59:31.856872+02:00",
+  "last_updated": "2021-04-10T19:02:41.557298+02:00",
   "centres_disponibles": [
     {
       "departement": "92",
@@ -125,10 +125,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-14T16:20:00.000+02:00",
+      "prochain_rdv": "2021-04-14T17:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "general-practitioner",
-      "appointment_count": 4,
+      "appointment_count": 3,
       "internal_id": "100285[67632]",
       "gid": "d100285"
     },
@@ -286,34 +286,6 @@
     },
     {
       "departement": "92",
-      "nom": "Pharmacie de l'Observatoire",
-      "url": "https://partners.doctolib.fr/pharmacie/meudon/pharmacie-de-l-observatoire",
-      "location": {
-        "longitude": 2.2356115,
-        "latitude": 48.8071428
-      },
-      "metadata": {
-        "address": "38 Rue de la R\u00e9publique, 92190 Meudon",
-        "phone_number": "01 45 34 12 45",
-        "business_hours": {
-          "lundi": "09:00-20:00",
-          "mardi": "08:30-20:00",
-          "mercredi": "08:30-20:00",
-          "jeudi": "08:30-20:00",
-          "vendredi": "08:30-20:00",
-          "samedi": "09:00-20:00",
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": "2021-04-23T18:36:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "drugstore",
-      "appointment_count": 1,
-      "internal_id": "257455[]",
-      "gid": "d257455"
-    },
-    {
-      "departement": "92",
       "nom": "Pharmacie centrale - Leadersant\u00e9 - Boulogne-Billancourt",
       "url": "https://partners.doctolib.fr/pharmacie/boulogne-billancourt/pharmacie-centrale-boulogne-billancourt",
       "location": {
@@ -333,10 +305,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-26T10:36:00.000+02:00",
+      "prochain_rdv": "2021-04-26T10:18:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "drugstore",
-      "appointment_count": 11,
+      "appointment_count": 13,
       "internal_id": "233610[]",
       "gid": "d233610"
     },
@@ -1172,34 +1144,6 @@
     },
     {
       "departement": "92",
-      "nom": "Ville de Courbevoie",
-      "url": "https://partners.doctolib.fr/centre-de-sante/courbevoie/centre-de-vaccination-covid-19-de-courbevoie",
-      "location": {
-        "longitude": 2.25936,
-        "latitude": 48.9018
-      },
-      "metadata": {
-        "address": "91 Boulevard de Verdun, 92400 Courbevoie",
-        "phone_number": "01 71 05 73 58",
-        "business_hours": {
-          "lundi": "9h \u00e0 18h",
-          "mardi": "9h \u00e0 18h",
-          "mercredi": "9h \u00e0 18h",
-          "jeudi": "9h \u00e0 18h",
-          "vendredi": "9h \u00e0 18h",
-          "samedi": "9h \u00e0 18h",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242674[]",
-      "gid": "1014"
-    },
-    {
-      "departement": "92",
       "nom": "Ville de Chatenay-Malabry",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/ch\u00e2tenay-malabry/centre-de-vaccination-de-chatenay-malabry?pid=practice-164883%3fspeciality_id%3d5494",
       "location": {
@@ -1225,6 +1169,34 @@
       "appointment_count": 0,
       "internal_id": "242912[164883]",
       "gid": "464"
+    },
+    {
+      "departement": "92",
+      "nom": "Ville de Courbevoie",
+      "url": "https://partners.doctolib.fr/centre-de-sante/courbevoie/centre-de-vaccination-covid-19-de-courbevoie",
+      "location": {
+        "longitude": 2.25936,
+        "latitude": 48.9018
+      },
+      "metadata": {
+        "address": "91 Boulevard de Verdun, 92400 Courbevoie",
+        "phone_number": "01 71 05 73 58",
+        "business_hours": {
+          "lundi": "9h \u00e0 18h",
+          "mardi": "9h \u00e0 18h",
+          "mercredi": "9h \u00e0 18h",
+          "jeudi": "9h \u00e0 18h",
+          "vendredi": "9h \u00e0 18h",
+          "samedi": "9h \u00e0 18h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242674[]",
+      "gid": "1014"
     },
     {
       "departement": "92",
@@ -1433,26 +1405,6 @@
     },
     {
       "departement": "92",
-      "nom": "Pharmacie Des Jardins Suresnes",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-jardins-suresnes-suresnes",
-      "location": {
-        "longitude": 2.2115501,
-        "latitude": 48.8631131
-      },
-      "metadata": {
-        "address": "28 avenue Edouard Vaillant, 92150 Suresnes",
-        "phone_number": "+33145061174",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "310b5967"
-    },
-    {
-      "departement": "92",
       "nom": "Pharmacie Des 3 Moulins",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-3-moulins-issy-les-moulineaux",
       "location": {
@@ -1470,6 +1422,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "230b9d18"
+    },
+    {
+      "departement": "92",
+      "nom": "Pharmacie Des Jardins Suresnes",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-jardins-suresnes-suresnes",
+      "location": {
+        "longitude": 2.2115501,
+        "latitude": 48.8631131
+      },
+      "metadata": {
+        "address": "28 avenue Edouard Vaillant, 92150 Suresnes",
+        "phone_number": "+33145061174",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "310b5967"
     },
     {
       "departement": "92",
@@ -1799,6 +1771,34 @@
       "appointment_count": 0,
       "internal_id": "20888[]",
       "gid": "d20888"
+    },
+    {
+      "departement": "92",
+      "nom": "Pharmacie de l'Observatoire",
+      "url": "https://partners.doctolib.fr/pharmacie/meudon/pharmacie-de-l-observatoire",
+      "location": {
+        "longitude": 2.2356115,
+        "latitude": 48.8071428
+      },
+      "metadata": {
+        "address": "38 Rue de la R\u00e9publique, 92190 Meudon",
+        "phone_number": "01 45 34 12 45",
+        "business_hours": {
+          "lundi": "09:00-20:00",
+          "mardi": "08:30-20:00",
+          "mercredi": "08:30-20:00",
+          "jeudi": "08:30-20:00",
+          "vendredi": "08:30-20:00",
+          "samedi": "09:00-20:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "257455[]",
+      "gid": "d257455"
     },
     {
       "departement": "92",

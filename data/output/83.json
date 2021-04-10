@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:59:31.847295+02:00",
+  "last_updated": "2021-04-10T19:02:41.548081+02:00",
   "centres_disponibles": [
     {
       "departement": "83",
@@ -106,10 +106,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-13T09:10:00.000+02:00",
+      "prochain_rdv": "2021-04-11T15:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 845,
+      "appointment_count": 847,
       "internal_id": "251058[179632]",
       "gid": "1518"
     },
@@ -133,10 +133,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-13T15:25:00.000+02:00",
+      "prochain_rdv": "2021-04-13T15:35:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 18,
+      "appointment_count": 16,
       "internal_id": "249196[162560]",
       "gid": "2200"
     },
@@ -188,10 +188,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-22T12:40:00.000+02:00",
+      "prochain_rdv": "2021-04-23T09:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 254,
+      "appointment_count": 234,
       "internal_id": "243226[176700]",
       "gid": "1999"
     },
@@ -219,7 +219,7 @@
       "prochain_rdv": "2021-04-27T09:15:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 105,
+      "appointment_count": 104,
       "internal_id": "243507[164118]",
       "gid": "190"
     }
@@ -911,33 +911,6 @@
     },
     {
       "departement": "83",
-      "nom": "Centre de Vaccination Sainte Musse",
-      "url": "https://partners.doctolib.fr/hopital-public/toulon/centre-de-vaccination-covid-19-du-chits-toulon?pid=practice-169719",
-      "location": {
-        "longitude": 5.97545,
-        "latitude": 43.1252
-      },
-      "metadata": {
-        "address": "54 Rue Henri Sainte-Claire Deville, 83100 Toulon",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ouvert",
-          "dimanche": "ouvert"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "249196[169719]",
-      "gid": "2157"
-    },
-    {
-      "departement": "83",
       "nom": "Centre de Vaccination de SIX FOURS",
       "url": "",
       "location": {
@@ -962,6 +935,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "2160"
+    },
+    {
+      "departement": "83",
+      "nom": "Centre de Vaccination Sainte Musse",
+      "url": "https://partners.doctolib.fr/hopital-public/toulon/centre-de-vaccination-covid-19-du-chits-toulon?pid=practice-169719",
+      "location": {
+        "longitude": 5.97545,
+        "latitude": 43.1252
+      },
+      "metadata": {
+        "address": "54 Rue Henri Sainte-Claire Deville, 83100 Toulon",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ouvert",
+          "dimanche": "ouvert"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "249196[169719]",
+      "gid": "2157"
     },
     {
       "departement": "83",
@@ -992,33 +992,6 @@
     },
     {
       "departement": "83",
-      "nom": "Centre de Vaccination de CUERS",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-179187",
-      "location": {
-        "longitude": 6.07221,
-        "latitude": 43.2379
-      },
-      "metadata": {
-        "address": "13 Avenue Marechal Foch, 83390 Cuers",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243226[179187]",
-      "gid": "2162"
-    },
-    {
-      "departement": "83",
       "nom": "Centre de vaccination du Lavandou",
       "url": "",
       "location": {
@@ -1043,6 +1016,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "2163"
+    },
+    {
+      "departement": "83",
+      "nom": "Centre de Vaccination de CUERS",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-179187",
+      "location": {
+        "longitude": 6.07221,
+        "latitude": 43.2379
+      },
+      "metadata": {
+        "address": "13 Avenue Marechal Foch, 83390 Cuers",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243226[179187]",
+      "gid": "2162"
     },
     {
       "departement": "83",
@@ -1130,33 +1130,6 @@
     },
     {
       "departement": "83",
-      "nom": "CP - USP- Centre Hospitalier Intercommunal de Toulon La Seyne sur Mer (CHITS) / Centre P\u00e9nitentiaire de Toulon-La Farl\u00e8de",
-      "url": "",
-      "location": {
-        "longitude": 6.06482,
-        "latitude": 43.1587
-      },
-      "metadata": {
-        "address": " Route de la Crau, 83210 La Farl\u00e8de",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1924"
-    },
-    {
-      "departement": "83",
       "nom": "MA - US Draguignan / Maison d'arr\u00eat de Draguignan",
       "url": "",
       "location": {
@@ -1181,6 +1154,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1925"
+    },
+    {
+      "departement": "83",
+      "nom": "CP - USP- Centre Hospitalier Intercommunal de Toulon La Seyne sur Mer (CHITS) / Centre P\u00e9nitentiaire de Toulon-La Farl\u00e8de",
+      "url": "",
+      "location": {
+        "longitude": 6.06482,
+        "latitude": 43.1587
+      },
+      "metadata": {
+        "address": " Route de la Crau, 83210 La Farl\u00e8de",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1924"
     },
     {
       "departement": "83",

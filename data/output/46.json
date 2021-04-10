@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:59:31.799830+02:00",
+  "last_updated": "2021-04-10T19:02:41.503115+02:00",
   "centres_disponibles": [
     {
       "departement": "46",
@@ -397,33 +397,6 @@
     },
     {
       "departement": "46",
-      "nom": "Cressesac",
-      "url": "",
-      "location": {
-        "longitude": 1.51701,
-        "latitude": 45.0198
-      },
-      "metadata": {
-        "address": " combe de la sal\u00e9, 46600 Cressensac-Sarrazac",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "2055"
-    },
-    {
-      "departement": "46",
       "nom": "MSP Lalbenque",
       "url": "",
       "location": {
@@ -449,6 +422,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "2030"
+    },
+    {
+      "departement": "46",
+      "nom": "Cressesac",
+      "url": "",
+      "location": {
+        "longitude": 1.51701,
+        "latitude": 45.0198
+      },
+      "metadata": {
+        "address": " combe de la sal\u00e9, 46600 Cressensac-Sarrazac",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "2055"
     },
     {
       "departement": "46",

@@ -1,35 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:59:31.826981+02:00",
+  "last_updated": "2021-04-10T19:02:41.528744+02:00",
   "centres_disponibles": [
-    {
-      "departement": "69",
-      "nom": "Centre de vaccination d'Arnas - Espace sportif de l'Escale",
-      "url": "https://partners.doctolib.fr/centre-de-sante/arnas/centre-de-vaccination-covid-19-l-escale-arnas?pid=practice-180202",
-      "location": {
-        "longitude": 4.69674,
-        "latitude": 46.0283
-      },
-      "metadata": {
-        "address": "2726 Route de Longsard, 69400 Arnas",
-        "phone_number": "33423101010",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-14T11:30:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 10,
-      "internal_id": "263389[180202]",
-      "gid": "2136"
-    },
     {
       "departement": "69",
       "nom": "Centre de vaccination de l\u2019Ouest Lyonnais - B\u00e2timent Le Trait d\u2019Union",
@@ -51,12 +23,40 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-14T13:00:00.000+02:00",
+      "prochain_rdv": "2021-04-15T11:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 17,
+      "appointment_count": 15,
       "internal_id": "258785[176810]",
       "gid": "1693"
+    },
+    {
+      "departement": "69",
+      "nom": "Centre de vaccination d'Arnas - Espace sportif de l'Escale",
+      "url": "https://partners.doctolib.fr/centre-de-sante/arnas/centre-de-vaccination-covid-19-l-escale-arnas?pid=practice-180202",
+      "location": {
+        "longitude": 4.69674,
+        "latitude": 46.0283
+      },
+      "metadata": {
+        "address": "2726 Route de Longsard, 69400 Arnas",
+        "phone_number": "33423101010",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-18T16:40:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 11,
+      "internal_id": "263389[180202]",
+      "gid": "2136"
     },
     {
       "departement": "69",
@@ -896,34 +896,6 @@
     },
     {
       "departement": "69",
-      "nom": "Centre de vaccination -H\u00f4pital Pierre Wertheimer - HCL",
-      "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-pierre-wertheimer-hcl-vaccination-covid?pid=practice-163796",
-      "location": {
-        "longitude": 4.89827,
-        "latitude": 45.7493
-      },
-      "metadata": {
-        "address": "55 Boulevard PINEL, 69500 Bron",
-        "phone_number": "+33423101010",
-        "business_hours": {
-          "lundi": "09:00-20:00",
-          "mardi": "09:00-20:00",
-          "mercredi": "09:00-20:00",
-          "jeudi": "09:00-20:00",
-          "vendredi": "09:00-20:00",
-          "samedi": "09:00-17:00",
-          "dimanche": "09:00-17:00"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241952[163796]",
-      "gid": "1181"
-    },
-    {
-      "departement": "69",
       "nom": "Centre de vaccination -H\u00f4pital Lyon sud - HCL",
       "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-lyon-sud-hcl-vaccination-covid?pid=practice-163795",
       "location": {
@@ -952,30 +924,31 @@
     },
     {
       "departement": "69",
-      "nom": "EPM - US/SMPR EPM du Rhone / Etablissement sp\u00e9cialis\u00e9 pour mineursdu Rh\u00f4ne",
-      "url": "",
+      "nom": "Centre de vaccination -H\u00f4pital Pierre Wertheimer - HCL",
+      "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-pierre-wertheimer-hcl-vaccination-covid?pid=practice-163796",
       "location": {
-        "longitude": 4.99769,
-        "latitude": 45.7605
+        "longitude": 4.89827,
+        "latitude": 45.7493
       },
       "metadata": {
-        "address": " Rue du Rambion, 69330 Meyzieu",
+        "address": "55 Boulevard PINEL, 69500 Bron",
+        "phone_number": "+33423101010",
         "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
+          "lundi": "09:00-20:00",
+          "mardi": "09:00-20:00",
+          "mercredi": "09:00-20:00",
+          "jeudi": "09:00-20:00",
+          "vendredi": "09:00-20:00",
+          "samedi": "09:00-17:00",
+          "dimanche": "09:00-17:00"
         }
       },
       "prochain_rdv": null,
-      "plateforme": "Autre",
+      "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1777"
+      "internal_id": "241952[163796]",
+      "gid": "1181"
     },
     {
       "departement": "69",
@@ -1030,6 +1003,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1778"
+    },
+    {
+      "departement": "69",
+      "nom": "EPM - US/SMPR EPM du Rhone / Etablissement sp\u00e9cialis\u00e9 pour mineursdu Rh\u00f4ne",
+      "url": "",
+      "location": {
+        "longitude": 4.99769,
+        "latitude": 45.7605
+      },
+      "metadata": {
+        "address": " Rue du Rambion, 69330 Meyzieu",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1777"
     },
     {
       "departement": "69",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:59:31.777710+02:00",
+  "last_updated": "2021-04-10T19:02:41.481933+02:00",
   "centres_disponibles": [
     {
       "departement": "29",
@@ -51,7 +51,7 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-01T09:45:00.000000Z",
+      "prochain_rdv": "2021-05-01T10:45:00.000000Z",
       "plateforme": "Maiia",
       "type": "vaccination-center",
       "appointment_count": 1,
@@ -79,7 +79,7 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-01T09:45:00.000000Z",
+      "prochain_rdv": "2021-05-01T10:45:00.000000Z",
       "plateforme": "Maiia",
       "type": "vaccination-center",
       "appointment_count": 1,
@@ -88,34 +88,6 @@
     }
   ],
   "centres_indisponibles": [
-    {
-      "departement": "29",
-      "nom": "CHIC Site QUIMPER h\u00f4pital La\u00ebnnec",
-      "url": "https://partners.doctolib.fr/centre-depistage-covid/cornouaille/ch-cornouaille-vaccination-covid",
-      "location": {
-        "longitude": -4.09496,
-        "latitude": 47.9878
-      },
-      "metadata": {
-        "address": "14 Avenue Yves Thepot, 29000 Quimper",
-        "phone_number": "+33257180061",
-        "business_hours": {
-          "lundi": "10:00-17:00",
-          "mardi": "10:00-17:00",
-          "mercredi": "10:00-17:00",
-          "jeudi": "10:00-17:00",
-          "vendredi": "10:00-17:00",
-          "samedi": "14:00-17:00",
-          "dimanche": "Ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241737[]",
-      "gid": "261"
-    },
     {
       "departement": "29",
       "nom": "CH DOUARNENEZ (r\u00e9serv\u00e9 aux professionnels des domaines de la sant\u00e9 et du m\u00e9dico-social)",
@@ -143,6 +115,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1273"
+    },
+    {
+      "departement": "29",
+      "nom": "CHIC Site QUIMPER h\u00f4pital La\u00ebnnec",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/cornouaille/ch-cornouaille-vaccination-covid",
+      "location": {
+        "longitude": -4.09496,
+        "latitude": 47.9878
+      },
+      "metadata": {
+        "address": "14 Avenue Yves Thepot, 29000 Quimper",
+        "phone_number": "+33257180061",
+        "business_hours": {
+          "lundi": "10:00-17:00",
+          "mardi": "10:00-17:00",
+          "mercredi": "10:00-17:00",
+          "jeudi": "10:00-17:00",
+          "vendredi": "10:00-17:00",
+          "samedi": "14:00-17:00",
+          "dimanche": "Ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241737[]",
+      "gid": "261"
     },
     {
       "departement": "29",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:59:31.844811+02:00",
+  "last_updated": "2021-04-10T19:02:41.545665+02:00",
   "centres_disponibles": [
     {
       "departement": "80",
@@ -79,7 +79,7 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-14T13:40:00.000+02:00",
+      "prochain_rdv": "2021-04-14T13:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 42,
@@ -107,7 +107,7 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-14T13:40:00.000+02:00",
+      "prochain_rdv": "2021-04-14T13:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 42,
@@ -367,33 +367,6 @@
     },
     {
       "departement": "80",
-      "nom": "Centre de Vaccination - Ville de Saint-Val\u00e9ry-Sur-Somme, Entrep\u00f4t des sel",
-      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/st-valery-sur-somme-80230/st-valery-sur-somme/centre-de-vaccination-du-st-valery-sur-somme",
-      "location": {
-        "longitude": 1.64405,
-        "latitude": 50.1809
-      },
-      "metadata": {
-        "address": "2 Quai Lejoille, 80230 Saint-Valery-sur-Somme",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Keldoc",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1395"
-    },
-    {
-      "departement": "80",
       "nom": "Centre de vaccination - Ville de Poix-de-Picardie, SALLE DES F\u00caTES",
       "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/poix-de-picardie-80290/poix-de-picardie/centre-de-vaccination-de-poix-de-picardie",
       "location": {
@@ -419,6 +392,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1393"
+    },
+    {
+      "departement": "80",
+      "nom": "Centre de Vaccination - Ville de Saint-Val\u00e9ry-Sur-Somme, Entrep\u00f4t des sel",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/st-valery-sur-somme-80230/st-valery-sur-somme/centre-de-vaccination-du-st-valery-sur-somme",
+      "location": {
+        "longitude": 1.64405,
+        "latitude": 50.1809
+      },
+      "metadata": {
+        "address": "2 Quai Lejoille, 80230 Saint-Valery-sur-Somme",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1395"
     },
     {
       "departement": "80",

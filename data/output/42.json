@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:59:31.796107+02:00",
+  "last_updated": "2021-04-10T19:02:41.499462+02:00",
   "centres_disponibles": [
     {
       "departement": "42",
@@ -23,10 +23,10 @@
           "dimanche": "09:00-18:00"
         }
       },
-      "prochain_rdv": "2021-04-12T11:35:00.000+02:00",
+      "prochain_rdv": "2021-04-12T11:15:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 629,
+      "appointment_count": 632,
       "internal_id": "265342[181753]",
       "gid": "2224"
     },
@@ -54,7 +54,7 @@
       "prochain_rdv": "2021-04-12T13:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 288,
+      "appointment_count": 289,
       "internal_id": "251571[169578]",
       "gid": "1488"
     },
@@ -81,7 +81,7 @@
       "prochain_rdv": "2021-04-12T13:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 288,
+      "appointment_count": 289,
       "internal_id": "251571[]",
       "gid": "d251571"
     },
@@ -162,40 +162,68 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-25T15:15:00.000+02:00",
+      "prochain_rdv": "2021-04-25T15:25:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 5,
+      "appointment_count": 4,
       "internal_id": "262833[179779]",
       "gid": "2242"
     },
     {
       "departement": "42",
-      "nom": "Centre de vaccination - Centre de soins non programm\u00e9s - Ville d'Andr\u00e9zieux-Bouth\u00e9on",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/andrezieux-boutheon/centre-de-vaccination-covid-19-andrezieux-boutheon?pid=practice-165752",
+      "nom": "Centre de vaccination au  CHU DE SAINT-ETIENNE - H\u00f4pital Nord - Salle de Conf\u00e9rence - Hall AB",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/saint-priest-en-jarez/centre-de-vaccination-covid-19-chu-saint-etienne?pid=practice-168936",
       "location": {
-        "longitude": 4.25364,
-        "latitude": 45.526
+        "longitude": 4.36293,
+        "latitude": 45.4817
       },
       "metadata": {
-        "address": "14 Rue Claude Limousin, 42160 Andr\u00e9zieux-Bouth\u00e9on",
-        "phone_number": "+33477557093",
+        "address": "108 bis Avenue Albert Raimond, 42270 Saint-Priest-en-Jarez",
+        "phone_number": "+33970771710",
         "business_hours": {
-          "lundi": "12:00-17:00",
-          "mardi": "12:00-17:00",
-          "mercredi": "12:00-17:00",
-          "jeudi": "12:00-17:00",
-          "vendredi": "12:00-17:00",
-          "samedi": "ferm\u00e9",
+          "lundi": "09:00-18:00",
+          "mardi": "09:00-18:00",
+          "mercredi": "09:00-18:00",
+          "jeudi": "09:00-18:00",
+          "vendredi": "09:00-18:00",
+          "samedi": "09:00-18:00",
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-26T12:10:00.000+02:00",
+      "prochain_rdv": "2021-04-26T17:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 4,
-      "internal_id": "243348[165752]",
-      "gid": "1220"
+      "appointment_count": 1,
+      "internal_id": "249030[168936]",
+      "gid": "180"
+    },
+    {
+      "departement": "42",
+      "nom": "Centre de vaccination Covid 19 - CHU Saint Etienne",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/saint-priest-en-jarez/centre-de-vaccination-covid-19-chu-saint-etienne",
+      "location": {
+        "longitude": 4.3678168,
+        "latitude": 45.4760329
+      },
+      "metadata": {
+        "address": "Avenue Albert Raimond, 42270 Saint-Priest-en-Jarez",
+        "phone_number": "09 70 77 17 10",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-26T17:50:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "249030[]",
+      "gid": "d249030"
     },
     {
       "departement": "42",
@@ -227,31 +255,31 @@
     },
     {
       "departement": "42",
-      "nom": "Ville de Montbrison - salle de l'Orangerie - Jardin d'Allard",
-      "url": "https://partners.doctolib.fr/centre-de-sante/montbrison/centre-de-vaccination-covid-ville-de-montbrison?pid=practice-166002",
+      "nom": "Centre de vaccination - Centre de soins non programm\u00e9s - Ville d'Andr\u00e9zieux-Bouth\u00e9on",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/andrezieux-boutheon/centre-de-vaccination-covid-19-andrezieux-boutheon?pid=practice-165752",
       "location": {
-        "longitude": 4.05847,
-        "latitude": 45.6074
+        "longitude": 4.25364,
+        "latitude": 45.526
       },
       "metadata": {
-        "address": " Avenue d'Allard, 42600 Montbrison",
-        "phone_number": "+33477962000",
+        "address": "14 Rue Claude Limousin, 42160 Andr\u00e9zieux-Bouth\u00e9on",
+        "phone_number": "+33477557093",
         "business_hours": {
-          "lundi": "09:00-17:00",
-          "mardi": "09:00-17:00",
-          "mercredi": "09:00-17:00",
-          "jeudi": "09:00-17:00",
-          "vendredi": "09:00-17:00",
-          "samedi": "09:00-17:00",
+          "lundi": "12:00-17:00",
+          "mardi": "12:00-17:00",
+          "mercredi": "12:00-17:00",
+          "jeudi": "12:00-17:00",
+          "vendredi": "12:00-17:00",
+          "samedi": "ferm\u00e9",
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-27T14:50:00.000+02:00",
+      "prochain_rdv": "2021-04-29T19:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 2,
-      "internal_id": "244292[166002]",
-      "gid": "1222"
+      "appointment_count": 3,
+      "internal_id": "243348[165752]",
+      "gid": "1220"
     },
     {
       "departement": "42",
@@ -274,40 +302,12 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-30T16:55:00.000+02:00",
+      "prochain_rdv": "2021-04-30T18:55:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 100,
+      "appointment_count": 98,
       "internal_id": "264489[]",
       "gid": "d264489"
-    },
-    {
-      "departement": "42",
-      "nom": "Centre de vaccination Covid 19 - CHU Saint Etienne",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/saint-priest-en-jarez/centre-de-vaccination-covid-19-chu-saint-etienne",
-      "location": {
-        "longitude": 4.3678168,
-        "latitude": 45.4760329
-      },
-      "metadata": {
-        "address": "Avenue Albert Raimond, 42270 Saint-Priest-en-Jarez",
-        "phone_number": "09 70 77 17 10",
-        "business_hours": {
-          "lundi": "09:00-17:00",
-          "mardi": "09:00-17:00",
-          "mercredi": "09:00-17:00",
-          "jeudi": "09:00-17:00",
-          "vendredi": "09:00-17:00",
-          "samedi": null,
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": "2021-05-03T14:50:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "249030[]",
-      "gid": "d249030"
     }
   ],
   "centres_indisponibles": [
@@ -338,34 +338,6 @@
       "appointment_count": 0,
       "internal_id": "263932[180664]",
       "gid": "2292"
-    },
-    {
-      "departement": "42",
-      "nom": "Centre de vaccination au  CHU DE SAINT-ETIENNE - H\u00f4pital Nord - Salle de Conf\u00e9rence - Hall AB",
-      "url": "https://partners.doctolib.fr/centre-depistage-covid/saint-priest-en-jarez/centre-de-vaccination-covid-19-chu-saint-etienne?pid=practice-168936",
-      "location": {
-        "longitude": 4.36293,
-        "latitude": 45.4817
-      },
-      "metadata": {
-        "address": "108 bis Avenue Albert Raimond, 42270 Saint-Priest-en-Jarez",
-        "phone_number": "+33970771710",
-        "business_hours": {
-          "lundi": "09:00-18:00",
-          "mardi": "09:00-18:00",
-          "mercredi": "09:00-18:00",
-          "jeudi": "09:00-18:00",
-          "vendredi": "09:00-18:00",
-          "samedi": "09:00-18:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "249030[168936]",
-      "gid": "180"
     },
     {
       "departement": "42",
@@ -614,6 +586,34 @@
       "appointment_count": 0,
       "internal_id": "259507[177622]",
       "gid": "2107"
+    },
+    {
+      "departement": "42",
+      "nom": "Ville de Montbrison - salle de l'Orangerie - Jardin d'Allard",
+      "url": "https://partners.doctolib.fr/centre-de-sante/montbrison/centre-de-vaccination-covid-ville-de-montbrison?pid=practice-166002",
+      "location": {
+        "longitude": 4.05847,
+        "latitude": 45.6074
+      },
+      "metadata": {
+        "address": " Avenue d'Allard, 42600 Montbrison",
+        "phone_number": "+33477962000",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "09:00-17:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244292[166002]",
+      "gid": "1222"
     },
     {
       "departement": "42",

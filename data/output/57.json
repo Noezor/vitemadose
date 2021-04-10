@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:59:31.808914+02:00",
+  "last_updated": "2021-04-10T19:02:41.511864+02:00",
   "centres_disponibles": [
     {
       "departement": "57",
@@ -23,10 +23,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-28T13:45:00.000+02:00",
+      "prochain_rdv": "2021-04-22T09:05:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 139,
+      "appointment_count": 2,
       "internal_id": "254139[173661]",
       "gid": "1752"
     },
@@ -454,34 +454,6 @@
     },
     {
       "departement": "57",
-      "nom": "Centre de vaccination de Metz - Clinique Claude Bernard (Entr\u00e9e B)",
-      "url": "https://partners.doctolib.fr/clinique-privee/metz/centre-de-vaccination-metz-elsan",
-      "location": {
-        "longitude": 6.21111,
-        "latitude": 49.1148
-      },
-      "metadata": {
-        "address": "97 Rue Claude Bernard, 57070 Metz",
-        "phone_number": "+33387345345",
-        "business_hours": {
-          "lundi": "8:00-17:00",
-          "mardi": "8:00-17:00",
-          "mercredi": "8:00-17:00",
-          "jeudi": "8:00-17:00",
-          "vendredi": "8:00-17:00",
-          "samedi": "8:00-12:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242931[]",
-      "gid": "1230"
-    },
-    {
-      "departement": "57",
       "nom": "Centre de vaccination d'Hettange-Grande - Hall omnisport",
       "url": "https://partners.doctolib.fr/centre-de-sante/hettange-grande/centre-de-vaccination-d-hettange-grande?pid=practice-177585",
       "location": {
@@ -507,6 +479,34 @@
       "appointment_count": 0,
       "internal_id": "259475[177585]",
       "gid": "2088"
+    },
+    {
+      "departement": "57",
+      "nom": "Centre de vaccination de Metz - Clinique Claude Bernard (Entr\u00e9e B)",
+      "url": "https://partners.doctolib.fr/clinique-privee/metz/centre-de-vaccination-metz-elsan",
+      "location": {
+        "longitude": 6.21111,
+        "latitude": 49.1148
+      },
+      "metadata": {
+        "address": "97 Rue Claude Bernard, 57070 Metz",
+        "phone_number": "+33387345345",
+        "business_hours": {
+          "lundi": "8:00-17:00",
+          "mardi": "8:00-17:00",
+          "mercredi": "8:00-17:00",
+          "jeudi": "8:00-17:00",
+          "vendredi": "8:00-17:00",
+          "samedi": "8:00-12:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242931[]",
+      "gid": "1230"
     },
     {
       "departement": "57",

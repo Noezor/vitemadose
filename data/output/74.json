@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:59:31.833069+02:00",
+  "last_updated": "2021-04-10T19:02:41.534580+02:00",
   "centres_disponibles": [
     {
       "departement": "74",
@@ -60,34 +60,6 @@
     },
     {
       "departement": "74",
-      "nom": "CHAL vaccin Covid (R\u00e9serv\u00e9 aux m\u00e9decins hospitaliers CHAL)",
-      "url": "https://partners.doctolib.fr/hopital-public/contamine-sur-arve/chal-vaccin-covid-reserve-aux-medecins-hospitaliers-chal",
-      "location": {
-        "longitude": 6.3202342,
-        "latitude": 46.1409287
-      },
-      "metadata": {
-        "address": "558 Route de Findrol, 74130 Contamine-sur-Arve",
-        "phone_number": "04 50 82 31 90",
-        "business_hours": {
-          "lundi": "10:00-18:00",
-          "mardi": "10:00-18:00",
-          "mercredi": "10:00-18:00",
-          "jeudi": "10:00-18:00",
-          "vendredi": "10:00-18:00",
-          "samedi": "10:00-14:00",
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": "2021-04-12T17:45:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 7,
-      "internal_id": "262099[]",
-      "gid": "d262099"
-    },
-    {
-      "departement": "74",
       "nom": "LA ROCHE SUR FORON - ROCHEXPO",
       "url": "https://partners.doctolib.fr/centre-de-sante/la-roche-sur-foron/centre-departemental-de-vaccination-covid-19-rochexpo?pid=practice-179552",
       "location": {
@@ -115,6 +87,34 @@
     },
     {
       "departement": "74",
+      "nom": "CHAL vaccin Covid (R\u00e9serv\u00e9 aux m\u00e9decins hospitaliers CHAL)",
+      "url": "https://partners.doctolib.fr/hopital-public/contamine-sur-arve/chal-vaccin-covid-reserve-aux-medecins-hospitaliers-chal",
+      "location": {
+        "longitude": 6.3202342,
+        "latitude": 46.1409287
+      },
+      "metadata": {
+        "address": "558 Route de Findrol, 74130 Contamine-sur-Arve",
+        "phone_number": "04 50 82 31 90",
+        "business_hours": {
+          "lundi": "10:00-18:00",
+          "mardi": "10:00-18:00",
+          "mercredi": "10:00-18:00",
+          "jeudi": "10:00-18:00",
+          "vendredi": "10:00-18:00",
+          "samedi": "10:00-14:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-13T12:15:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 6,
+      "internal_id": "262099[]",
+      "gid": "d262099"
+    },
+    {
+      "departement": "74",
       "nom": "Centre d'examens de sant\u00e9 - CPAM",
       "url": "https://www.doctolib.fr/centre-de-sante/annecy/centre-de-vaccination-covid-19-cpam-haute-savoie",
       "location": {
@@ -133,10 +133,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-15T09:20:00.000+02:00",
+      "prochain_rdv": "2021-04-15T08:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 20,
+      "appointment_count": 21,
       "internal_id": "263085[]",
       "gid": "2147"
     },
@@ -276,7 +276,7 @@
       "prochain_rdv": "2021-04-26T11:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 72,
+      "appointment_count": 71,
       "internal_id": "243248[]",
       "gid": "826"
     },
@@ -301,10 +301,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-26T15:55:00.000+02:00",
+      "prochain_rdv": "2021-04-26T16:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 260,
+      "appointment_count": 257,
       "internal_id": "243127[]",
       "gid": "757"
     },
@@ -338,34 +338,6 @@
     },
     {
       "departement": "74",
-      "nom": "CENTRE HOSPITALIER  ANNECY GENEVOIS",
-      "url": "https://partners.doctolib.fr/hopital-public/annecy/centre-hospitalier-annecy-genevois-centre-de-depistage-et-de-vaccination-covid-19?pid=practice-163436%3fspeciality_id%3d5494",
-      "location": {
-        "longitude": 6.11774,
-        "latitude": 45.9342
-      },
-      "metadata": {
-        "address": "1  avenue de l'h\u00f4pital, 74370 Epagny Metz-Tessy",
-        "phone_number": "+33456497427",
-        "business_hours": {
-          "lundi": "08:00-18:00",
-          "mardi": "08:00-18:00",
-          "mercredi": "08:00-18:00",
-          "jeudi": "08:00-18:00",
-          "vendredi": "08:00-18:00",
-          "samedi": "08:00-12:00",
-          "dimanche": "Ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-28T13:42:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 8,
-      "internal_id": "241468[163436]",
-      "gid": "235"
-    },
-    {
-      "departement": "74",
       "nom": "Bonneville - AGORA",
       "url": "https://partners.doctolib.fr/centre-de-sante/bonneville/centre-de-vaccination-agora-bonneville",
       "location": {
@@ -385,12 +357,40 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-29T17:00:00.000+02:00",
+      "prochain_rdv": "2021-04-29T11:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 19,
+      "appointment_count": 20,
       "internal_id": "243621[]",
       "gid": "960"
+    },
+    {
+      "departement": "74",
+      "nom": "CENTRE HOSPITALIER  ANNECY GENEVOIS",
+      "url": "https://partners.doctolib.fr/hopital-public/annecy/centre-hospitalier-annecy-genevois-centre-de-depistage-et-de-vaccination-covid-19?pid=practice-163436%3fspeciality_id%3d5494",
+      "location": {
+        "longitude": 6.11774,
+        "latitude": 45.9342
+      },
+      "metadata": {
+        "address": "1  avenue de l'h\u00f4pital, 74370 Epagny Metz-Tessy",
+        "phone_number": "+33456497427",
+        "business_hours": {
+          "lundi": "08:00-18:00",
+          "mardi": "08:00-18:00",
+          "mercredi": "08:00-18:00",
+          "jeudi": "08:00-18:00",
+          "vendredi": "08:00-18:00",
+          "samedi": "08:00-12:00",
+          "dimanche": "Ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-30T16:54:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 7,
+      "internal_id": "241468[163436]",
+      "gid": "235"
     },
     {
       "departement": "74",
@@ -444,7 +444,7 @@
       "prochain_rdv": "2021-05-06T12:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 1,
+      "appointment_count": 2,
       "internal_id": "243203[]",
       "gid": "761"
     },

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:59:31.756351+02:00",
+  "last_updated": "2021-04-10T19:02:41.461524+02:00",
   "centres_disponibles": [
     {
       "departement": "08",
@@ -23,7 +23,7 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-17T16:50:00.000+02:00",
+      "prochain_rdv": "2021-04-17T14:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 8,
@@ -32,6 +32,33 @@
     }
   ],
   "centres_indisponibles": [
+    {
+      "departement": "08",
+      "nom": "Centre de vaccination COSEC Roger Marche VILLERS-SEMEUSE",
+      "url": "https://partners.doctolib.fr/centre-de-sante/sedan/centre-de-vaccination-covid-ars-ardennes?pid=practice-165006",
+      "location": {
+        "longitude": 4.73896,
+        "latitude": 49.7427
+      },
+      "metadata": {
+        "address": " Route Nationale, 08000 Villers-Semeuse",
+        "business_hours": {
+          "lundi": "A pr\u00e9ciser",
+          "mardi": "A pr\u00e9ciser",
+          "mercredi": "A pr\u00e9ciser",
+          "jeudi": "A pr\u00e9ciser",
+          "vendredi": "A pr\u00e9ciser",
+          "samedi": "A pr\u00e9ciser",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243002[165006]",
+      "gid": "1289"
+    },
     {
       "departement": "08",
       "nom": "MSP CARIGNAN",
@@ -59,33 +86,6 @@
       "appointment_count": 0,
       "internal_id": "243002[173870]",
       "gid": "1588"
-    },
-    {
-      "departement": "08",
-      "nom": "Centre de vaccination COSEC Roger Marche VILLERS-SEMEUSE",
-      "url": "https://partners.doctolib.fr/centre-de-sante/sedan/centre-de-vaccination-covid-ars-ardennes?pid=practice-165006",
-      "location": {
-        "longitude": 4.73896,
-        "latitude": 49.7427
-      },
-      "metadata": {
-        "address": " Route Nationale, 08000 Villers-Semeuse",
-        "business_hours": {
-          "lundi": "A pr\u00e9ciser",
-          "mardi": "A pr\u00e9ciser",
-          "mercredi": "A pr\u00e9ciser",
-          "jeudi": "A pr\u00e9ciser",
-          "vendredi": "A pr\u00e9ciser",
-          "samedi": "A pr\u00e9ciser",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243002[165006]",
-      "gid": "1289"
     },
     {
       "departement": "08",

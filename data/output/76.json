@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:59:31.838563+02:00",
+  "last_updated": "2021-04-10T19:02:41.539684+02:00",
   "centres_disponibles": [
     {
       "departement": "76",
@@ -26,20 +26,20 @@
       "prochain_rdv": "2021-04-12T10:55:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 143,
+      "appointment_count": 142,
       "internal_id": "263803[180035]",
       "gid": "2363"
     },
     {
       "departement": "76",
-      "nom": "Centre de vaccination de Dieppe- MDS (Maison des sports)",
-      "url": "https://partners.doctolib.fr/hopital-public/dieppe/centre-de-vaccination-covid-public?pid=practice-181348",
+      "nom": "VaccinAr\u00e9na",
+      "url": "https://partners.doctolib.fr/centre-de-sante/rouen/centre-de-vaccination-covid-vaccinarena-rouen?pid=practice-181232",
       "location": {
-        "longitude": 1.07189,
-        "latitude": 49.922
+        "longitude": 1.06327,
+        "latitude": 49.4477
       },
       "metadata": {
-        "address": "17 Rue Montigny, 76200 Dieppe",
+        "address": "40 Rue de Lillebonne - KINDARENA, 76000 Rouen",
         "phone_number": "+33279461156",
         "business_hours": {
           "lundi": "",
@@ -51,12 +51,12 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-13T10:25:00.000+02:00",
+      "prochain_rdv": "2021-04-12T13:55:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 256,
-      "internal_id": "242080[181348]",
-      "gid": "2360"
+      "appointment_count": 2,
+      "internal_id": "264690[181232]",
+      "gid": "2359"
     },
     {
       "departement": "76",
@@ -79,10 +79,10 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-13T15:35:00.000+02:00",
+      "prochain_rdv": "2021-04-13T15:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 51,
+      "appointment_count": 50,
       "internal_id": "241044[163096]",
       "gid": "154"
     },
@@ -138,9 +138,37 @@
       "prochain_rdv": "2021-04-14T12:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 157,
+      "appointment_count": 158,
       "internal_id": "241044[164222]",
       "gid": "786"
+    },
+    {
+      "departement": "76",
+      "nom": "Centre de vaccination de Dieppe- MDS (Maison des sports)",
+      "url": "https://partners.doctolib.fr/hopital-public/dieppe/centre-de-vaccination-covid-public?pid=practice-181348",
+      "location": {
+        "longitude": 1.07189,
+        "latitude": 49.922
+      },
+      "metadata": {
+        "address": "17 Rue Montigny, 76200 Dieppe",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": "2021-04-14T13:55:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 256,
+      "internal_id": "242080[181348]",
+      "gid": "2360"
     },
     {
       "departement": "76",
@@ -169,34 +197,6 @@
       "appointment_count": 15,
       "internal_id": "242706[164306]",
       "gid": "1031"
-    },
-    {
-      "departement": "76",
-      "nom": "VaccinAr\u00e9na",
-      "url": "https://partners.doctolib.fr/centre-de-sante/rouen/centre-de-vaccination-covid-vaccinarena-rouen?pid=practice-181232",
-      "location": {
-        "longitude": 1.06327,
-        "latitude": 49.4477
-      },
-      "metadata": {
-        "address": "40 Rue de Lillebonne - KINDARENA, 76000 Rouen",
-        "phone_number": "+33279461156",
-        "business_hours": {
-          "lundi": "",
-          "mardi": "",
-          "mercredi": "",
-          "jeudi": "",
-          "vendredi": "",
-          "samedi": "",
-          "dimanche": ""
-        }
-      },
-      "prochain_rdv": "2021-04-21T10:25:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "264690[181232]",
-      "gid": "2359"
     },
     {
       "departement": "76",
@@ -278,7 +278,7 @@
       "prochain_rdv": "2021-04-28T13:15:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 3,
+      "appointment_count": 2,
       "internal_id": "242477[]",
       "gid": "796"
     },
@@ -305,7 +305,7 @@
       "prochain_rdv": "2021-04-29T08:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 114,
+      "appointment_count": 115,
       "internal_id": "259512[]",
       "gid": "d259512"
     },

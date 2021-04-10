@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:59:31.849238+02:00",
+  "last_updated": "2021-04-10T19:02:41.549903+02:00",
   "centres_disponibles": [
     {
       "departement": "84",
@@ -172,33 +172,6 @@
     },
     {
       "departement": "84",
-      "nom": "Centre de vaccination de Boll\u00e8ne",
-      "url": "https://www.maiia.com/centre-de-vaccination/84500-bollene/centre-intercommunal-de-vaccination-de-bollene",
-      "location": {
-        "longitude": 4.75344,
-        "latitude": 44.2916
-      },
-      "metadata": {
-        "address": "2483 Avenue Jean Moulin, 84500 Boll\u00e8ne",
-        "business_hours": {
-          "lundi": "14h - 17h",
-          "mardi": "9h - 12h",
-          "mercredi": "9h - 12h",
-          "jeudi": "9h - 12h",
-          "vendredi": "9h - 12h",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Maiia",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1138"
-    },
-    {
-      "departement": "84",
       "nom": "Centre de vaccination CH Avignon",
       "url": "https://partners.doctolib.fr/hopital-public/avignon/centre-hospitalier-d-avignon-vaccination-covid-avignon?pid=practice-162807",
       "location": {
@@ -224,6 +197,33 @@
       "appointment_count": 0,
       "internal_id": "244363[162807]",
       "gid": "195"
+    },
+    {
+      "departement": "84",
+      "nom": "Centre de vaccination de Boll\u00e8ne",
+      "url": "https://www.maiia.com/centre-de-vaccination/84500-bollene/centre-intercommunal-de-vaccination-de-bollene",
+      "location": {
+        "longitude": 4.75344,
+        "latitude": 44.2916
+      },
+      "metadata": {
+        "address": "2483 Avenue Jean Moulin, 84500 Boll\u00e8ne",
+        "business_hours": {
+          "lundi": "14h - 17h",
+          "mardi": "9h - 12h",
+          "mercredi": "9h - 12h",
+          "jeudi": "9h - 12h",
+          "vendredi": "9h - 12h",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1138"
     },
     {
       "departement": "84",
@@ -506,34 +506,6 @@
     },
     {
       "departement": "84",
-      "nom": "MSP - SORGUES - salle Ren\u00e9 Varoqui",
-      "url": "https://partners.doctolib.fr/maison-de-sante/sorgues/centre-de-vaccination-covid-maison-de-sante-francois-rabelais",
-      "location": {
-        "longitude": 4.87966,
-        "latitude": 43.9974
-      },
-      "metadata": {
-        "address": " Chemin de Lucette, 84700 Sorgues",
-        "phone_number": "+33423100690",
-        "business_hours": {
-          "lundi": "9h-13h",
-          "mardi": "9h-13h",
-          "mercredi": "9h-13h",
-          "jeudi": "9h-13h",
-          "vendredi": "9h-13h ",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242388[]",
-      "gid": "527"
-    },
-    {
-      "departement": "84",
       "nom": "Centre de  vaccination CH de Cavaillon",
       "url": "https://partners.doctolib.fr/centre-de-sante/cavaillon/centre-hospitalier-intercommunal-cavaillon-lauris-vaccination-covid-19?pid=practice-167685",
       "location": {
@@ -559,6 +531,34 @@
       "appointment_count": 0,
       "internal_id": "244062[165842]",
       "gid": "1582"
+    },
+    {
+      "departement": "84",
+      "nom": "MSP - SORGUES - salle Ren\u00e9 Varoqui",
+      "url": "https://partners.doctolib.fr/maison-de-sante/sorgues/centre-de-vaccination-covid-maison-de-sante-francois-rabelais",
+      "location": {
+        "longitude": 4.87966,
+        "latitude": 43.9974
+      },
+      "metadata": {
+        "address": " Chemin de Lucette, 84700 Sorgues",
+        "phone_number": "+33423100690",
+        "business_hours": {
+          "lundi": "9h-13h",
+          "mardi": "9h-13h",
+          "mercredi": "9h-13h",
+          "jeudi": "9h-13h",
+          "vendredi": "9h-13h ",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242388[]",
+      "gid": "527"
     },
     {
       "departement": "84",

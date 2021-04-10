@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:59:31.753587+02:00",
+  "last_updated": "2021-04-10T19:02:41.458815+02:00",
   "centres_disponibles": [
     {
       "departement": "06",
@@ -105,7 +105,7 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-14T08:55:00.000+02:00",
+      "prochain_rdv": "2021-04-13T16:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 66,
@@ -136,7 +136,7 @@
       "prochain_rdv": "2021-04-14T11:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 208,
+      "appointment_count": 207,
       "internal_id": "262234[179292]",
       "gid": "2125"
     },
@@ -867,33 +867,6 @@
     },
     {
       "departement": "06",
-      "nom": "MA - Nice / Maison d'Arr\u00eat de Nice",
-      "url": "",
-      "location": {
-        "longitude": 7.28011,
-        "latitude": 43.7114
-      },
-      "metadata": {
-        "address": "12 Rue de la Gendarmerie, 06000 Nice",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1916"
-    },
-    {
-      "departement": "06",
       "nom": "MA - US GRASSE / Maison d'Arr\u00eat de Grasse",
       "url": "",
       "location": {
@@ -921,22 +894,22 @@
     },
     {
       "departement": "06",
-      "nom": "Palais des expositions",
+      "nom": "MA - Nice / Maison d'Arr\u00eat de Nice",
       "url": "",
       "location": {
-        "longitude": 7.27928,
-        "latitude": 43.7026
+        "longitude": 7.28011,
+        "latitude": 43.7114
       },
       "metadata": {
-        "address": " Esplanade de Lattre de Tassigny, 06200 Nice",
+        "address": "12 Rue de la Gendarmerie, 06000 Nice",
         "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ouvert",
-          "dimanche": "ouvert"
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
         }
       },
       "prochain_rdv": null,
@@ -944,7 +917,7 @@
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "1947"
+      "gid": "1916"
     },
     {
       "departement": "06",
@@ -973,6 +946,33 @@
       "appointment_count": 0,
       "internal_id": "250405[170734]",
       "gid": "1112"
+    },
+    {
+      "departement": "06",
+      "nom": "Palais des expositions",
+      "url": "",
+      "location": {
+        "longitude": 7.27928,
+        "latitude": 43.7026
+      },
+      "metadata": {
+        "address": " Esplanade de Lattre de Tassigny, 06200 Nice",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ouvert",
+          "dimanche": "ouvert"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1947"
     },
     {
       "departement": "06",
@@ -1084,26 +1084,6 @@
     },
     {
       "departement": "06",
-      "nom": "Pharmacie De L'Horloge",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-l'horloge-nice",
-      "location": {
-        "longitude": 7.2526853,
-        "latitude": 43.7185431
-      },
-      "metadata": {
-        "address": "98 Boulevard DE CESSOLE, 06100 NICE",
-        "phone_number": "+33493844886",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "769ad31e"
-    },
-    {
-      "departement": "06",
       "nom": "Pharmacie Du Port",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-du-port-nice",
       "location": {
@@ -1121,6 +1101,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "74786377"
+    },
+    {
+      "departement": "06",
+      "nom": "Pharmacie De L'Horloge",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-l'horloge-nice",
+      "location": {
+        "longitude": 7.2526853,
+        "latitude": 43.7185431
+      },
+      "metadata": {
+        "address": "98 Boulevard DE CESSOLE, 06100 NICE",
+        "phone_number": "+33493844886",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "769ad31e"
     },
     {
       "departement": "06",

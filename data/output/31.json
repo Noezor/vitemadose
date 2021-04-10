@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:59:31.781431+02:00",
+  "last_updated": "2021-04-10T19:02:41.485420+02:00",
   "centres_disponibles": [
     {
       "departement": "31",
@@ -334,7 +334,7 @@
       "prochain_rdv": "2021-04-19T16:55:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 327,
+      "appointment_count": 326,
       "internal_id": null,
       "gid": "599"
     },
@@ -443,10 +443,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-10T11:40:00.000000+0200",
+      "prochain_rdv": "2021-05-10T11:50:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 19,
+      "appointment_count": 18,
       "internal_id": null,
       "gid": "675"
     },
@@ -566,34 +566,6 @@
     },
     {
       "departement": "31",
-      "nom": "CDV31 CHU Toulouse Rangueil",
-      "url": "",
-      "location": {
-        "longitude": 1.45377,
-        "latitude": 43.5586
-      },
-      "metadata": {
-        "address": "1 Avenue du Professeur Jean Poulhes, 31400 Toulouse",
-        "phone_number": "0800541919",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "674"
-    },
-    {
-      "departement": "31",
       "nom": "CDV31 Carbonne",
       "url": "https://vaccination-covid.keldoc.com/cabinet-medical/carbonne-31390/carbonne/centre-de-vaccination-de-carbonne",
       "location": {
@@ -619,6 +591,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "851"
+    },
+    {
+      "departement": "31",
+      "nom": "CDV31 CHU Toulouse Rangueil",
+      "url": "",
+      "location": {
+        "longitude": 1.45377,
+        "latitude": 43.5586
+      },
+      "metadata": {
+        "address": "1 Avenue du Professeur Jean Poulhes, 31400 Toulouse",
+        "phone_number": "0800541919",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "674"
     },
     {
       "departement": "31",
@@ -650,34 +650,6 @@
     },
     {
       "departement": "31",
-      "nom": "CDV31 Toulouse Pierre Baudis",
-      "url": "https://vaccination-covid.keldoc.com/maladies-infectieuses/toulouse-31000/centre-de-vaccination-departemental-toulouse-pierre-baudis",
-      "location": {
-        "longitude": 1.43638,
-        "latitude": 43.6109
-      },
-      "metadata": {
-        "address": "11 Esplanade Compans Caffarelli, 31000 Toulouse",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "12:30-18:30",
-          "mardi": "7:30-18:00",
-          "mercredi": "9:00-18:30",
-          "jeudi": "7:30-18:00",
-          "vendredi": "10:00-17:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": null,
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "245"
-    },
-    {
-      "departement": "31",
       "nom": "CDV31 Saint Gaudens",
       "url": "https://vaccination-covid.keldoc.com/cabinet-medical/saint-gaudens-31800/saint-gaudens/centre-de-vaccination-de-saint-gaudens",
       "location": {
@@ -706,31 +678,31 @@
     },
     {
       "departement": "31",
-      "nom": "CDV31 Saint B\u00e9at",
-      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/st-beat-31440/saint-beat/centre-de-vaccination-de-saint-beat",
+      "nom": "CDV31 Toulouse Pierre Baudis",
+      "url": "https://vaccination-covid.keldoc.com/maladies-infectieuses/toulouse-31000/centre-de-vaccination-departemental-toulouse-pierre-baudis",
       "location": {
-        "longitude": 0.692278,
-        "latitude": 42.9128
+        "longitude": 1.43638,
+        "latitude": 43.6109
       },
       "metadata": {
-        "address": "319 Avenue Gallieni, 31440 Saint-B\u00e9at-Lez",
+        "address": "11 Esplanade Compans Caffarelli, 31000 Toulouse",
         "phone_number": "+33800541919",
         "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "14:30-18:00",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "14:30-18:00",
-          "vendredi": "ferm\u00e9",
+          "lundi": "12:30-18:30",
+          "mardi": "7:30-18:00",
+          "mercredi": "9:00-18:30",
+          "jeudi": "7:30-18:00",
+          "vendredi": "10:00-17:00",
           "samedi": "ferm\u00e9",
           "dimanche": "ferm\u00e9"
         }
       },
       "prochain_rdv": null,
-      "plateforme": "Keldoc",
+      "plateforme": null,
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "732"
+      "gid": "245"
     },
     {
       "departement": "31",
@@ -759,6 +731,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "784"
+    },
+    {
+      "departement": "31",
+      "nom": "CDV31 Saint B\u00e9at",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/st-beat-31440/saint-beat/centre-de-vaccination-de-saint-beat",
+      "location": {
+        "longitude": 0.692278,
+        "latitude": 42.9128
+      },
+      "metadata": {
+        "address": "319 Avenue Gallieni, 31440 Saint-B\u00e9at-Lez",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "14:30-18:00",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "14:30-18:00",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "732"
     },
     {
       "departement": "31",

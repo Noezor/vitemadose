@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:59:31.768679+02:00",
+  "last_updated": "2021-04-10T19:02:41.473253+02:00",
   "centres_disponibles": [
     {
       "departement": "19",
@@ -26,7 +26,7 @@
       "prochain_rdv": "2021-04-11T08:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 7,
+      "appointment_count": 6,
       "internal_id": "265691[182014]",
       "gid": "d265691"
     }

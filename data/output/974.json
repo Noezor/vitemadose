@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:59:31.867467+02:00",
+  "last_updated": "2021-04-10T19:02:41.567479+02:00",
   "centres_disponibles": [
     {
       "departement": "974",
@@ -390,7 +390,7 @@
         }
       },
       "prochain_rdv": null,
-      "plateforme": "Keldoc",
+      "plateforme": null,
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": null,

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:59:31.805433+02:00",
+  "last_updated": "2021-04-10T19:02:41.508595+02:00",
   "centres_disponibles": [
     {
       "departement": "54",
@@ -26,7 +26,7 @@
       "prochain_rdv": "2021-04-12T09:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 115,
+      "appointment_count": 114,
       "internal_id": "241211[163347-163348-163350-163351-163443-163349-163352-163827-163828-165715-165708-165799-167645-167648-167649-167650-173391-173392-173394-175255-175229-175513-175228-176288-169974-163781-179400-167641-181849-178399-181845-181848-181673-165822]",
       "gid": "89"
     },
@@ -51,10 +51,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-14T16:40:00.000+02:00",
+      "prochain_rdv": "2021-04-15T12:16:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 23,
+      "appointment_count": 22,
       "internal_id": "241211[167645]",
       "gid": "2011"
     },
@@ -258,34 +258,6 @@
     },
     {
       "departement": "54",
-      "nom": "Centre de vaccination de Jarny - Salle Jean Lur\u00e7at",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-175228",
-      "location": {
-        "longitude": 5.88272,
-        "latitude": 49.1581
-      },
-      "metadata": {
-        "address": "7 Rue Cl\u00e9ment Humbert, 54800 Jarny",
-        "phone_number": "+33383851300",
-        "business_hours": {
-          "lundi": "En attente de pr\u00e9cisions",
-          "mardi": "En attente de pr\u00e9cisions",
-          "mercredi": "En attente de pr\u00e9cisions",
-          "jeudi": "En attente de pr\u00e9cisions",
-          "vendredi": "En attente de pr\u00e9cisions",
-          "samedi": "En attente de pr\u00e9cisions",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241211[175228]",
-      "gid": "2021"
-    },
-    {
-      "departement": "54",
       "nom": "Centre de vaccination de Dombasle - Salle polyvalente",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-173392",
       "location": {
@@ -311,6 +283,34 @@
       "appointment_count": 0,
       "internal_id": "241211[173392]",
       "gid": "2017"
+    },
+    {
+      "departement": "54",
+      "nom": "Centre de vaccination de Jarny - Salle Jean Lur\u00e7at",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-175228",
+      "location": {
+        "longitude": 5.88272,
+        "latitude": 49.1581
+      },
+      "metadata": {
+        "address": "7 Rue Cl\u00e9ment Humbert, 54800 Jarny",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "En attente de pr\u00e9cisions",
+          "mardi": "En attente de pr\u00e9cisions",
+          "mercredi": "En attente de pr\u00e9cisions",
+          "jeudi": "En attente de pr\u00e9cisions",
+          "vendredi": "En attente de pr\u00e9cisions",
+          "samedi": "En attente de pr\u00e9cisions",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[175228]",
+      "gid": "2021"
     },
     {
       "departement": "54",
@@ -538,34 +538,6 @@
     },
     {
       "departement": "54",
-      "nom": "CHI de Pompey",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-163828",
-      "location": {
-        "longitude": 6.1201,
-        "latitude": 48.7648
-      },
-      "metadata": {
-        "address": "3 Rue de l'Avant-garde, 54340 Pompey",
-        "phone_number": "+33383851300",
-        "business_hours": {
-          "lundi": "non renseign\u00e9",
-          "mardi": "non renseign\u00e9",
-          "mercredi": "non renseign\u00e9",
-          "jeudi": "non renseign\u00e9",
-          "vendredi": "non renseign\u00e9",
-          "samedi": "non renseign\u00e9",
-          "dimanche": "non renseign\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241211[163828]",
-      "gid": "1156"
-    },
-    {
-      "departement": "54",
       "nom": "CH de Pont-\u00e0-Mousson",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-163827",
       "location": {
@@ -591,6 +563,34 @@
       "appointment_count": 0,
       "internal_id": "241211[163827]",
       "gid": "1155"
+    },
+    {
+      "departement": "54",
+      "nom": "CHI de Pompey",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-163828",
+      "location": {
+        "longitude": 6.1201,
+        "latitude": 48.7648
+      },
+      "metadata": {
+        "address": "3 Rue de l'Avant-garde, 54340 Pompey",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "non renseign\u00e9",
+          "mardi": "non renseign\u00e9",
+          "mercredi": "non renseign\u00e9",
+          "jeudi": "non renseign\u00e9",
+          "vendredi": "non renseign\u00e9",
+          "samedi": "non renseign\u00e9",
+          "dimanche": "non renseign\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[163828]",
+      "gid": "1156"
     },
     {
       "departement": "54",
@@ -622,34 +622,6 @@
     },
     {
       "departement": "54",
-      "nom": "Saint-Max - Ch\u00e2teau du Pont de la Meurthe",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-163349",
-      "location": {
-        "longitude": 6.20408,
-        "latitude": 48.6995
-      },
-      "metadata": {
-        "address": "2 Av Carnot, 54130 Saint-Max",
-        "phone_number": "+33383851300",
-        "business_hours": {
-          "lundi": "09:00-13:00/14:00-17:30",
-          "mardi": "09:00-13:00/14:00-17:30",
-          "mercredi": "09:00-13:00/14:00-17:30",
-          "jeudi": "09:00-13:00/14:00-17:30",
-          "vendredi": "09:00-13:00/14:00-17:30",
-          "samedi": "non pr\u00e9cis\u00e9",
-          "dimanche": "non pr\u00e9cis\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241211[163349]",
-      "gid": "880"
-    },
-    {
-      "departement": "54",
       "nom": "Villers - Centre du Placieux",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-163348",
       "location": {
@@ -675,6 +647,34 @@
       "appointment_count": 0,
       "internal_id": "241211[163348]",
       "gid": "876"
+    },
+    {
+      "departement": "54",
+      "nom": "Saint-Max - Ch\u00e2teau du Pont de la Meurthe",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-163349",
+      "location": {
+        "longitude": 6.20408,
+        "latitude": 48.6995
+      },
+      "metadata": {
+        "address": "2 Av Carnot, 54130 Saint-Max",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "09:00-13:00/14:00-17:30",
+          "mardi": "09:00-13:00/14:00-17:30",
+          "mercredi": "09:00-13:00/14:00-17:30",
+          "jeudi": "09:00-13:00/14:00-17:30",
+          "vendredi": "09:00-13:00/14:00-17:30",
+          "samedi": "non pr\u00e9cis\u00e9",
+          "dimanche": "non pr\u00e9cis\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[163349]",
+      "gid": "880"
     },
     {
       "departement": "54",
@@ -817,33 +817,6 @@
     },
     {
       "departement": "54",
-      "nom": "CP - US Nancy / Centre p\u00e9nitentiaire de Nancy-Max\u00e9ville",
-      "url": "",
-      "location": {
-        "longitude": 6.17156,
-        "latitude": 48.6882
-      },
-      "metadata": {
-        "address": " Nancy, 54100 Nancy",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1818"
-    },
-    {
-      "departement": "54",
       "nom": "CD - US du CD de TOUL / Centre de D\u00e9tention d'Ecrouves",
       "url": "",
       "location": {
@@ -868,6 +841,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1817"
+    },
+    {
+      "departement": "54",
+      "nom": "CP - US Nancy / Centre p\u00e9nitentiaire de Nancy-Max\u00e9ville",
+      "url": "",
+      "location": {
+        "longitude": 6.17156,
+        "latitude": 48.6882
+      },
+      "metadata": {
+        "address": " Nancy, 54100 Nancy",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1818"
     },
     {
       "departement": "54",

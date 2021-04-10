@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:59:31.863973+02:00",
+  "last_updated": "2021-04-10T19:02:41.564163+02:00",
   "centres_disponibles": [
     {
       "departement": "95",
@@ -26,7 +26,7 @@
       "prochain_rdv": "2021-04-11T09:25:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 156,
+      "appointment_count": 158,
       "internal_id": "240550[162701]",
       "gid": "512"
     },
@@ -51,10 +51,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-12T11:15:00.000000+0200",
+      "prochain_rdv": "2021-04-12T11:20:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 16,
+      "appointment_count": 15,
       "internal_id": null,
       "gid": "827"
     },
@@ -84,54 +84,6 @@
       "appointment_count": 66,
       "internal_id": "265979[]",
       "gid": "d265979"
-    },
-    {
-      "departement": "95",
-      "nom": "Olivier Sanchez",
-      "url": "https://app.ordoclic.fr/app/pharmacie/olivier-sanchez-la-frette-sur-seine",
-      "location": {
-        "longitude": 2.1826285,
-        "latitude": 48.980173
-      },
-      "metadata": {
-        "address": "123 TER BD DE PONTOISE, 95530 LA FRETTE SUR SEINE",
-        "phone_number": "+33134508844",
-        "business_hours": null
-      },
-      "prochain_rdv": "2021-04-13T09:40:00+00:00",
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 26,
-      "internal_id": null,
-      "gid": "91dc764f"
-    },
-    {
-      "departement": "95",
-      "nom": "CENTRE DE VACCINATION TAVERNY",
-      "url": "https://partners.doctolib.fr/centre-de-sante/taverny/centre-de-vaccination-de-taverny",
-      "location": {
-        "longitude": 2.21317,
-        "latitude": 49.0147
-      },
-      "metadata": {
-        "address": " Gymnase Andre Messager, Voie des sports, 95150 Taverny",
-        "phone_number": "0185112450",
-        "business_hours": {
-          "lundi": "ouvert",
-          "mardi": "ouvert",
-          "mercredi": "ouvert",
-          "jeudi": "ouvert",
-          "vendredi": "ouvert",
-          "samedi": "ouvert",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-13T16:00:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 4,
-      "internal_id": "240284[]",
-      "gid": "516"
     },
     {
       "departement": "95",
@@ -433,6 +385,34 @@
     },
     {
       "departement": "95",
+      "nom": "Centre de vaccination territorial Centre Val d'Oise",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/montmorency-95160/vaccination-plaine-vallee-montmorency-salle-des-fetes?category=-1&cabinet=16607&specialty=496",
+      "location": {
+        "longitude": 2.32059,
+        "latitude": 48.9893
+      },
+      "metadata": {
+        "address": "3 Avenue Foch, 95160 Montmorency",
+        "phone_number": "0130103980",
+        "business_hours": {
+          "lundi": "14h-17h",
+          "mardi": "14h-17h",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "14h-17h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "824"
+    },
+    {
+      "departement": "95",
       "nom": "Centre d\u00e9partemental de d\u00e9pistage et de soins - site de Cergy",
       "url": "",
       "location": {
@@ -484,34 +464,6 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1729"
-    },
-    {
-      "departement": "95",
-      "nom": "Centre de vaccination territorial Centre Val d'Oise",
-      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/montmorency-95160/vaccination-plaine-vallee-montmorency-salle-des-fetes?category=-1&cabinet=16607&specialty=496",
-      "location": {
-        "longitude": 2.32059,
-        "latitude": 48.9893
-      },
-      "metadata": {
-        "address": "3 Avenue Foch, 95160 Montmorency",
-        "phone_number": "0130103980",
-        "business_hours": {
-          "lundi": "14h-17h",
-          "mardi": "14h-17h",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "14h-17h",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Keldoc",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "824"
     },
     {
       "departement": "95",
@@ -1117,6 +1069,34 @@
     },
     {
       "departement": "95",
+      "nom": "CENTRE DE VACCINATION TAVERNY",
+      "url": "https://partners.doctolib.fr/centre-de-sante/taverny/centre-de-vaccination-de-taverny",
+      "location": {
+        "longitude": 2.21317,
+        "latitude": 49.0147
+      },
+      "metadata": {
+        "address": " Gymnase Andre Messager, Voie des sports, 95150 Taverny",
+        "phone_number": "0185112450",
+        "business_hours": {
+          "lundi": "ouvert",
+          "mardi": "ouvert",
+          "mercredi": "ouvert",
+          "jeudi": "ouvert",
+          "vendredi": "ouvert",
+          "samedi": "ouvert",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240284[]",
+      "gid": "516"
+    },
+    {
+      "departement": "95",
       "nom": "VICTOR DUPOUY",
       "url": "https://partners.doctolib.fr/hopital-public/argenteuil/centre-de-vaccination-covid-ch-victor-dupouy-d-argenteuil",
       "location": {
@@ -1279,6 +1259,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "2417"
+    },
+    {
+      "departement": "95",
+      "nom": "Olivier Sanchez",
+      "url": "https://app.ordoclic.fr/app/pharmacie/olivier-sanchez-la-frette-sur-seine",
+      "location": {
+        "longitude": 2.1826285,
+        "latitude": 48.980173
+      },
+      "metadata": {
+        "address": "123 TER BD DE PONTOISE, 95530 LA FRETTE SUR SEINE",
+        "phone_number": "+33134508844",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "91dc764f"
     },
     {
       "departement": "95",

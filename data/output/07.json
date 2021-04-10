@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:59:31.755616+02:00",
+  "last_updated": "2021-04-10T19:02:41.460811+02:00",
   "centres_disponibles": [
     {
       "departement": "07",
@@ -54,7 +54,7 @@
       "prochain_rdv": "2021-05-03T16:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 426,
+      "appointment_count": 425,
       "internal_id": "241919[]",
       "gid": "240"
     },
@@ -82,7 +82,7 @@
       "prochain_rdv": "2021-05-17T16:35:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 7,
+      "appointment_count": 8,
       "internal_id": "246862[167899]",
       "gid": "1412"
     }
@@ -115,6 +115,34 @@
       "appointment_count": 0,
       "internal_id": "245141[166627]",
       "gid": "1336"
+    },
+    {
+      "departement": "07",
+      "nom": "CENTRE HOSPITALIER D'ARDECHE NORD (Professionnels de sant\u00e9 uniquement)",
+      "url": "https://www.maiia.com/centre-hospitalier-(ch)/07100-annonay/centre-hospitalier-d-ardeche-nord-",
+      "location": {
+        "longitude": 4.66582,
+        "latitude": 45.2419
+      },
+      "metadata": {
+        "address": "1 rue du Bon Pasteur, 07100 Annonay",
+        "phone_number": "+33475673927",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "09:00-12:30/13:00-16:30",
+          "mercredi": "09:00-12:30/13:00-16:30",
+          "jeudi": "09:00-12:30/13:00-16:30",
+          "vendredi": "09:00-12:30/13:00-16:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "237"
     },
     {
       "departement": "07",
@@ -197,34 +225,6 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1624"
-    },
-    {
-      "departement": "07",
-      "nom": "CENTRE HOSPITALIER D'ARDECHE NORD (Professionnels de sant\u00e9 uniquement)",
-      "url": "https://www.maiia.com/centre-hospitalier-(ch)/07100-annonay/centre-hospitalier-d-ardeche-nord-",
-      "location": {
-        "longitude": 4.66582,
-        "latitude": 45.2419
-      },
-      "metadata": {
-        "address": "1 rue du Bon Pasteur, 07100 Annonay",
-        "phone_number": "+33475673927",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "09:00-12:30/13:00-16:30",
-          "mercredi": "09:00-12:30/13:00-16:30",
-          "jeudi": "09:00-12:30/13:00-16:30",
-          "vendredi": "09:00-12:30/13:00-16:30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Maiia",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "237"
     },
     {
       "departement": "07",

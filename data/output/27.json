@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:59:31.775559+02:00",
+  "last_updated": "2021-04-10T19:02:41.479876+02:00",
   "centres_disponibles": [
     {
       "departement": "27",
@@ -25,7 +25,7 @@
       "prochain_rdv": "2021-04-12T12:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 85,
+      "appointment_count": 86,
       "internal_id": "240902[162965-162966-162968-162969-162970-164880-171237-171255-164976-171246-174767-177715-180558-164913]",
       "gid": "1345"
     },
@@ -78,7 +78,7 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-05-09T14:10:00.000+02:00",
+      "prochain_rdv": "2021-05-05T15:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 1,
@@ -340,34 +340,6 @@
     },
     {
       "departement": "27",
-      "nom": "CH Eure-seine Vernon",
-      "url": "https://partners.doctolib.fr/hopital-public/evreux/ch-eure-seine-centre-de-vaccination-covid-vacci-covid-27?pid=practice-162966&%3fspeciality_id=5494",
-      "location": {
-        "longitude": 1.4878,
-        "latitude": 49.0919
-      },
-      "metadata": {
-        "address": "5 rue du docteur Jules Burnet, 27200 Vernon",
-        "phone_number": "+33279461156",
-        "business_hours": {
-          "lundi": "",
-          "mardi": "",
-          "mercredi": "",
-          "jeudi": "",
-          "vendredi": "",
-          "samedi": "",
-          "dimanche": ""
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "240902[162966]",
-      "gid": "85"
-    },
-    {
-      "departement": "27",
       "nom": "CH Bernay",
       "url": "https://partners.doctolib.fr/hopital-public/evreux/ch-eure-seine-centre-de-vaccination-covid-vacci-covid-27?pid=practice-162968&%3fspeciality_id=5494",
       "location": {
@@ -393,6 +365,34 @@
       "appointment_count": 0,
       "internal_id": "240902[162968]",
       "gid": "128"
+    },
+    {
+      "departement": "27",
+      "nom": "CH Eure-seine Vernon",
+      "url": "https://partners.doctolib.fr/hopital-public/evreux/ch-eure-seine-centre-de-vaccination-covid-vacci-covid-27?pid=practice-162966&%3fspeciality_id=5494",
+      "location": {
+        "longitude": 1.4878,
+        "latitude": 49.0919
+      },
+      "metadata": {
+        "address": "5 rue du docteur Jules Burnet, 27200 Vernon",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240902[162966]",
+      "gid": "85"
     },
     {
       "departement": "27",

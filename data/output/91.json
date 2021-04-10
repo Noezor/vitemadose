@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:59:31.854885+02:00",
+  "last_updated": "2021-04-10T19:02:41.555318+02:00",
   "centres_disponibles": [
     {
       "departement": "91",
@@ -23,10 +23,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-13T15:48:00.000+02:00",
+      "prochain_rdv": "2021-04-13T15:42:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 285,
+      "appointment_count": 286,
       "internal_id": "242814[]",
       "gid": "749"
     },
@@ -809,34 +809,6 @@
     },
     {
       "departement": "91",
-      "nom": "Salle des F\u00eates",
-      "url": "https://partners.doctolib.fr/centre-depistage-covid/brunoy/centre-de-vaccination-covid-brunoy",
-      "location": {
-        "longitude": 2.50444,
-        "latitude": 48.6978
-      },
-      "metadata": {
-        "address": "1 Impasse de la Mairie, 91800 Brunoy",
-        "phone_number": "01 69 39 89 92",
-        "business_hours": {
-          "lundi": "9h - 13h / 14h - 18h",
-          "mardi": "9h - 13h / 14h - 18h",
-          "mercredi": "9h - 13h / 14h - 18h",
-          "jeudi": "9h - 13h / 14h - 18h",
-          "vendredi": "9h - 13h / 14h - 18h",
-          "samedi": "9h - 13h / 14h - 18h",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242524[]",
-      "gid": "780"
-    },
-    {
-      "departement": "91",
       "nom": "Espace du Val de Gif",
       "url": "https://partners.doctolib.fr/cabinet-medical/gif-sur-yvette/centre-de-vaccination-covid-19-gif-sur-yvette?pid=practice-165182%3fspeciality_id%3d5494",
       "location": {
@@ -862,6 +834,34 @@
       "appointment_count": 0,
       "internal_id": "243246[165182]",
       "gid": "791"
+    },
+    {
+      "departement": "91",
+      "nom": "Salle des F\u00eates",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/brunoy/centre-de-vaccination-covid-brunoy",
+      "location": {
+        "longitude": 2.50444,
+        "latitude": 48.6978
+      },
+      "metadata": {
+        "address": "1 Impasse de la Mairie, 91800 Brunoy",
+        "phone_number": "01 69 39 89 92",
+        "business_hours": {
+          "lundi": "9h - 13h / 14h - 18h",
+          "mardi": "9h - 13h / 14h - 18h",
+          "mercredi": "9h - 13h / 14h - 18h",
+          "jeudi": "9h - 13h / 14h - 18h",
+          "vendredi": "9h - 13h / 14h - 18h",
+          "samedi": "9h - 13h / 14h - 18h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242524[]",
+      "gid": "780"
     },
     {
       "departement": "91",
@@ -921,34 +921,6 @@
     },
     {
       "departement": "91",
-      "nom": "Maison de sant\u00e9",
-      "url": "https://partners.doctolib.fr/centre-de-sante/dourdan/centre-de-vaccination-covid-19-maison-de-sante-dourdan?pid=practice-165040%3fspeciality_id%3d5494",
-      "location": {
-        "longitude": 2.01054,
-        "latitude": 48.5268
-      },
-      "metadata": {
-        "address": " Place Bad Wiessee, 91410 Dourdan",
-        "phone_number": "0623919933",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243059[165040]",
-      "gid": "1034"
-    },
-    {
-      "departement": "91",
       "nom": "Complexe sportif - Jean Segalard",
       "url": "https://partners.doctolib.fr/centre-de-sante/cerny/centre-de-vaccination-covid-19-cerny?pid=practice-165742",
       "location": {
@@ -974,6 +946,34 @@
       "appointment_count": 0,
       "internal_id": "244294[165742]",
       "gid": "1170"
+    },
+    {
+      "departement": "91",
+      "nom": "Maison de sant\u00e9",
+      "url": "https://partners.doctolib.fr/centre-de-sante/dourdan/centre-de-vaccination-covid-19-maison-de-sante-dourdan?pid=practice-165040%3fspeciality_id%3d5494",
+      "location": {
+        "longitude": 2.01054,
+        "latitude": 48.5268
+      },
+      "metadata": {
+        "address": " Place Bad Wiessee, 91410 Dourdan",
+        "phone_number": "0623919933",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243059[165040]",
+      "gid": "1034"
     },
     {
       "departement": "91",

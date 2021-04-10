@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:59:31.811191+02:00",
+  "last_updated": "2021-04-10T19:02:41.513978+02:00",
   "centres_disponibles": [
     {
       "departement": "59",
@@ -104,10 +104,10 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-11T09:20:00.000+02:00",
+      "prochain_rdv": "2021-04-11T09:15:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 57,
+      "appointment_count": 58,
       "internal_id": "258774[177052]",
       "gid": "2181"
     },
@@ -1197,33 +1197,6 @@
     },
     {
       "departement": "59",
-      "nom": "Centre de vaccination - KURSAAL",
-      "url": "https://partners.doctolib.fr/centre-de-sante/dunkerque/centre-de-vaccination-covid-19-kursaal-dunkerque?pid=practice-175344",
-      "location": {
-        "longitude": 2.39022,
-        "latitude": 51.0483
-      },
-      "metadata": {
-        "address": "7 bis Place du Casino, 59240 Dunkerque",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "09:00-17:30",
-          "dimanche": "09:00-17:30"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "256175[175344]",
-      "gid": "1682"
-    },
-    {
-      "departement": "59",
       "nom": "Centre de vaccination - Ville de Bourbourg, Espace Pierre de Coubertin",
       "url": "https://partners.doctolib.fr/centre-de-sante/bourbourg/centre-de-vaccination-covid-19-bourbourg?pid=practice-175280",
       "location": {
@@ -1248,6 +1221,33 @@
       "appointment_count": 0,
       "internal_id": "256844[175280]",
       "gid": "1654"
+    },
+    {
+      "departement": "59",
+      "nom": "Centre de vaccination - KURSAAL",
+      "url": "https://partners.doctolib.fr/centre-de-sante/dunkerque/centre-de-vaccination-covid-19-kursaal-dunkerque?pid=practice-175344",
+      "location": {
+        "longitude": 2.39022,
+        "latitude": 51.0483
+      },
+      "metadata": {
+        "address": "7 bis Place du Casino, 59240 Dunkerque",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "09:00-17:30",
+          "dimanche": "09:00-17:30"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "256175[175344]",
+      "gid": "1682"
     },
     {
       "departement": "59",
@@ -1552,33 +1552,6 @@
     },
     {
       "departement": "59",
-      "nom": "Centre de vaccination - CH Seclin (SALLE ROSENBERG)",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/haut-de-france/vaccination-gh-seclin-carvin?pid=practice-163841",
-      "location": {
-        "longitude": 3.02431,
-        "latitude": 50.5497
-      },
-      "metadata": {
-        "address": "77 b Rue Marx Dormoy, 59113 Seclin",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "09:00-13:00",
-          "mercredi": "09:00-13:00",
-          "jeudi": "09:00-13:00",
-          "vendredi": "09:00-13:00",
-          "samedi": "09:00-13:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241878[163841]",
-      "gid": "1088"
-    },
-    {
-      "departement": "59",
       "nom": "Centre de vaccination - HOPITAL PRIV\u00c9 LE BOIS",
       "url": "https://partners.doctolib.fr/centre-de-sante/villeneuve-d-ascq/vaccination-covid-19-hopital-prive-le-bois-et-villeneuve-d-ascq?pid=practice-163992",
       "location": {
@@ -1604,6 +1577,33 @@
       "appointment_count": 0,
       "internal_id": "242648[163992]",
       "gid": "267"
+    },
+    {
+      "departement": "59",
+      "nom": "Centre de vaccination - CH Seclin (SALLE ROSENBERG)",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/haut-de-france/vaccination-gh-seclin-carvin?pid=practice-163841",
+      "location": {
+        "longitude": 3.02431,
+        "latitude": 50.5497
+      },
+      "metadata": {
+        "address": "77 b Rue Marx Dormoy, 59113 Seclin",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "09:00-13:00",
+          "mercredi": "09:00-13:00",
+          "jeudi": "09:00-13:00",
+          "vendredi": "09:00-13:00",
+          "samedi": "09:00-13:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241878[163841]",
+      "gid": "1088"
     },
     {
       "departement": "59",
@@ -2247,33 +2247,6 @@
     },
     {
       "departement": "59",
-      "nom": "CP - MAUBEUGE / Centre P\u00e9nitentiaire de Maubeuge",
-      "url": "",
-      "location": {
-        "longitude": 3.99663,
-        "latitude": 50.2855
-      },
-      "metadata": {
-        "address": " Route d?Assevent, 59600 Maubeuge",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1835"
-    },
-    {
-      "departement": "59",
       "nom": "CP - US Maison d'arr\u00eat de Sequedin / Centre P\u00e9nitentiaire de Lille-Loos-Sequedin",
       "url": "",
       "location": {
@@ -2298,6 +2271,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1832"
+    },
+    {
+      "departement": "59",
+      "nom": "CP - MAUBEUGE / Centre P\u00e9nitentiaire de Maubeuge",
+      "url": "",
+      "location": {
+        "longitude": 3.99663,
+        "latitude": 50.2855
+      },
+      "metadata": {
+        "address": " Route d?Assevent, 59600 Maubeuge",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1835"
     },
     {
       "departement": "59",
@@ -2462,26 +2462,6 @@
     },
     {
       "departement": "59",
-      "nom": "Pharmacie De La Madeleine",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-la-madeleine-la-madeleine",
-      "location": {
-        "longitude": 3.0740603,
-        "latitude": 50.6576514
-      },
-      "metadata": {
-        "address": "226 bis rue du g\u00e9n\u00e9ral de gaulle, 59110 La Madeleine",
-        "phone_number": "+33320555089",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1fc8a123"
-    },
-    {
-      "departement": "59",
       "nom": "Grande Pharmacie Jaures",
       "url": "https://app.ordoclic.fr/app/pharmacie/grande-pharmacie-jaures-coudekerque-branche",
       "location": {
@@ -2499,6 +2479,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "26ef416f"
+    },
+    {
+      "departement": "59",
+      "nom": "Pharmacie De La Madeleine",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-la-madeleine-la-madeleine",
+      "location": {
+        "longitude": 3.0740603,
+        "latitude": 50.6576514
+      },
+      "metadata": {
+        "address": "226 bis rue du g\u00e9n\u00e9ral de gaulle, 59110 La Madeleine",
+        "phone_number": "+33320555089",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1fc8a123"
     },
     {
       "departement": "59",

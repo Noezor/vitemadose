@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:59:31.825879+02:00",
+  "last_updated": "2021-04-10T19:02:41.527699+02:00",
   "centres_disponibles": [
     {
       "departement": "68",
@@ -26,7 +26,7 @@
       "prochain_rdv": "2021-04-13T11:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 23,
+      "appointment_count": 21,
       "internal_id": "244266[]",
       "gid": "1206"
     },
@@ -51,10 +51,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-16T16:30:00.000+02:00",
+      "prochain_rdv": "2021-04-17T14:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 17,
+      "appointment_count": 16,
       "internal_id": "262621[179615]",
       "gid": "2343"
     },
@@ -135,10 +135,10 @@
           "dimanche": "non pr\u00e9cis\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-30T14:15:00.000+02:00",
+      "prochain_rdv": "2021-04-30T14:25:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 24,
+      "appointment_count": 23,
       "internal_id": "243424[]",
       "gid": "1010"
     },
@@ -166,9 +166,37 @@
       "prochain_rdv": "2021-05-05T12:12:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 25,
+      "appointment_count": 26,
       "internal_id": "261851[178928]",
       "gid": "2342"
+    },
+    {
+      "departement": "68",
+      "nom": "Centre de vaccination de Ribeauvill\u00e9 - Gymnase",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/ribeauville/centre-de-vaccination-covid-19-ribeauville?pid=practice-176685",
+      "location": {
+        "longitude": 7.33594,
+        "latitude": 48.1933
+      },
+      "metadata": {
+        "address": " Rue Pierre de Coubertin, 68150 Ribeauvill\u00e9",
+        "phone_number": "+33970818161",
+        "business_hours": {
+          "lundi": "8:30-12:00",
+          "mardi": "8:30-12:00",
+          "mercredi": "8:30-12:00",
+          "jeudi": "8:30-12:00",
+          "vendredi": "8:30-12:00",
+          "samedi": "8:30-12:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-11T09:15:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 60,
+      "internal_id": "258288[176685]",
+      "gid": "1996"
     },
     {
       "departement": "68",
@@ -193,37 +221,37 @@
       "prochain_rdv": "2021-05-11T09:15:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 61,
+      "appointment_count": 60,
       "internal_id": "258288[]",
       "gid": "d258288"
     },
     {
       "departement": "68",
-      "nom": "Centre de vaccination de Ribeauvill\u00e9 - Gymnase",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/ribeauville/centre-de-vaccination-covid-19-ribeauville?pid=practice-176685",
+      "nom": "Centre de vaccination de Colmar",
+      "url": "https://partners.doctolib.fr/centre-de-sante/colmar/centre-de-vaccination-covid-19-de-colmar",
       "location": {
-        "longitude": 7.33594,
-        "latitude": 48.1933
+        "longitude": 7.36005,
+        "latitude": 48.0986
       },
       "metadata": {
-        "address": " Rue Pierre de Coubertin, 68150 Ribeauvill\u00e9",
+        "address": " Avenue de la Foire aux Vins, 68000 Colmar",
         "phone_number": "+33970818161",
         "business_hours": {
-          "lundi": "8:30-12:00",
-          "mardi": "8:30-12:00",
-          "mercredi": "8:30-12:00",
-          "jeudi": "8:30-12:00",
-          "vendredi": "8:30-12:00",
-          "samedi": "8:30-12:00",
-          "dimanche": "ferm\u00e9"
+          "lundi": "non pr\u00e9cis\u00e9",
+          "mardi": "non pr\u00e9cis\u00e9",
+          "mercredi": "non pr\u00e9cis\u00e9",
+          "jeudi": "non pr\u00e9cis\u00e9",
+          "vendredi": "non pr\u00e9cis\u00e9",
+          "samedi": "non pr\u00e9cis\u00e9",
+          "dimanche": "non pr\u00e9cis\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-11T09:25:00.000+02:00",
+      "prochain_rdv": "2021-05-12T13:25:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 60,
-      "internal_id": "258288[176685]",
-      "gid": "1996"
+      "appointment_count": 31,
+      "internal_id": "242936[]",
+      "gid": "1012"
     }
   ],
   "centres_indisponibles": [
@@ -366,34 +394,6 @@
       "appointment_count": 0,
       "internal_id": "244647[166316]",
       "gid": "1250"
-    },
-    {
-      "departement": "68",
-      "nom": "Centre de vaccination de Colmar",
-      "url": "https://partners.doctolib.fr/centre-de-sante/colmar/centre-de-vaccination-covid-19-de-colmar?speciality_id=5494&enable_cookies_consent=1",
-      "location": {
-        "longitude": 7.36005,
-        "latitude": 48.0986
-      },
-      "metadata": {
-        "address": " Avenue de la Foire aux Vins, 68000 Colmar",
-        "phone_number": "+33970818161",
-        "business_hours": {
-          "lundi": "non pr\u00e9cis\u00e9",
-          "mardi": "non pr\u00e9cis\u00e9",
-          "mercredi": "non pr\u00e9cis\u00e9",
-          "jeudi": "non pr\u00e9cis\u00e9",
-          "vendredi": "non pr\u00e9cis\u00e9",
-          "samedi": "non pr\u00e9cis\u00e9",
-          "dimanche": "non pr\u00e9cis\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": null,
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1012"
     },
     {
       "departement": "68",

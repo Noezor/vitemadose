@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:59:31.751839+02:00",
+  "last_updated": "2021-04-10T19:02:41.456922+02:00",
   "centres_disponibles": [
     {
       "departement": "03",
@@ -23,10 +23,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-11T08:55:00.000+02:00",
+      "prochain_rdv": "2021-04-11T12:25:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 7,
+      "appointment_count": 6,
       "internal_id": "244788[166171]",
       "gid": "d244788"
     }
@@ -202,33 +202,6 @@
     },
     {
       "departement": "03",
-      "nom": "MA - US   MONTLUCON / Maison d'Arr\u00eat de Montlu\u00e7on",
-      "url": "",
-      "location": {
-        "longitude": 2.60421,
-        "latitude": 46.3403
-      },
-      "metadata": {
-        "address": "3 Rue du Chateau, 03100 Montlu\u00e7on",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1766"
-    },
-    {
-      "departement": "03",
       "nom": "CP - US du Centre Hospitalier de Moulins-Yzeure / Centre P\u00e9nitentiaire de Moulins-Yzeure",
       "url": "",
       "location": {
@@ -253,6 +226,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1765"
+    },
+    {
+      "departement": "03",
+      "nom": "MA - US   MONTLUCON / Maison d'Arr\u00eat de Montlu\u00e7on",
+      "url": "",
+      "location": {
+        "longitude": 2.60421,
+        "latitude": 46.3403
+      },
+      "metadata": {
+        "address": "3 Rue du Chateau, 03100 Montlu\u00e7on",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1766"
     },
     {
       "departement": "03",

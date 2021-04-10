@@ -1,35 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:59:31.780180+02:00",
+  "last_updated": "2021-04-10T19:02:41.484261+02:00",
   "centres_disponibles": [
-    {
-      "departement": "30",
-      "nom": "Dr Philippe SERAYET",
-      "url": "https://partners.doctolib.fr/medecin-generaliste/remoulins/phillipe-serayet",
-      "location": {
-        "longitude": 4.5637042,
-        "latitude": 43.9384217
-      },
-      "metadata": {
-        "address": "58 Avenue Geoffroy Perret, 30210 Remoulins",
-        "phone_number": "04 66 37 15 44",
-        "business_hours": {
-          "lundi": "08:00-12:00, 14:00-18:00",
-          "mardi": "08:00-12:00, 14:00-18:00",
-          "mercredi": "08:00-12:00, 14:00-18:00",
-          "jeudi": "08:00-12:00, 14:00-17:00",
-          "vendredi": "08:00-12:00, 14:00-18:00",
-          "samedi": "08:00-12:00",
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": "2021-04-11T09:25:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "general-practitioner",
-      "appointment_count": 8,
-      "internal_id": "48746[]",
-      "gid": "d48746"
-    },
     {
       "departement": "30",
       "nom": "Dr Ghassan Fayad",
@@ -109,7 +81,7 @@
       "prochain_rdv": "2021-04-22T09:05:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 1144,
+      "appointment_count": 1142,
       "internal_id": "245424[166788]",
       "gid": "1503"
     },
@@ -137,7 +109,7 @@
       "prochain_rdv": "2021-04-23T08:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 17,
+      "appointment_count": 16,
       "internal_id": "241964[163873]",
       "gid": "215"
     },
@@ -776,6 +748,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "26bd52fd"
+    },
+    {
+      "departement": "30",
+      "nom": "Dr Philippe SERAYET",
+      "url": "https://partners.doctolib.fr/medecin-generaliste/remoulins/phillipe-serayet",
+      "location": {
+        "longitude": 4.5637042,
+        "latitude": 43.9384217
+      },
+      "metadata": {
+        "address": "58 Avenue Geoffroy Perret, 30210 Remoulins",
+        "phone_number": "04 66 37 15 44",
+        "business_hours": {
+          "lundi": "08:00-12:00, 14:00-18:00",
+          "mardi": "08:00-12:00, 14:00-18:00",
+          "mercredi": "08:00-12:00, 14:00-18:00",
+          "jeudi": "08:00-12:00, 14:00-17:00",
+          "vendredi": "08:00-12:00, 14:00-18:00",
+          "samedi": "08:00-12:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "general-practitioner",
+      "appointment_count": 0,
+      "internal_id": "48746[]",
+      "gid": "d48746"
     }
   ]
 }

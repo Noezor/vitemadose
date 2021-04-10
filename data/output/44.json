@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:59:31.797664+02:00",
+  "last_updated": "2021-04-10T19:02:41.501007+02:00",
   "centres_disponibles": [
     {
       "departement": "44",
@@ -22,10 +22,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-13T11:12:00.000+02:00",
+      "prochain_rdv": "2021-04-13T11:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "drugstore",
-      "appointment_count": 110,
+      "appointment_count": 112,
       "internal_id": "226834[151568]",
       "gid": "d226834"
     },
@@ -79,7 +79,7 @@
       "prochain_rdv": "2021-04-19T09:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 119,
+      "appointment_count": 118,
       "internal_id": "258782[]",
       "gid": "d258782"
     },
@@ -107,7 +107,7 @@
       "prochain_rdv": "2021-04-23T09:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 86,
+      "appointment_count": 87,
       "internal_id": "242265[]",
       "gid": "716"
     },
@@ -135,37 +135,9 @@
       "prochain_rdv": "2021-05-04T14:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 2,
+      "appointment_count": 3,
       "internal_id": "242911[]",
       "gid": "1007"
-    },
-    {
-      "departement": "44",
-      "nom": "Centre de Vaccination - BLAIN - Salle des f\u00eates",
-      "url": "https://partners.doctolib.fr/centre-depistage-covid/blain/centre-de-vaccination-de-la-salle-des-fetes-de-blain",
-      "location": {
-        "longitude": -1.76531,
-        "latitude": 47.4736
-      },
-      "metadata": {
-        "address": "6b Rue Pierre Morin, 44130 Blain",
-        "phone_number": "+33806000344",
-        "business_hours": {
-          "lundi": "9h-12h / 14h-17h",
-          "mardi": "9h-12h / 14h-17h",
-          "mercredi": "9h-12h / 14h-17h",
-          "jeudi": "9h-12h / 14h-17h",
-          "vendredi": "9h-12h / 14h-17h",
-          "samedi": "9h-12h",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-05-05T15:12:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 3,
-      "internal_id": "242017[]",
-      "gid": "500"
     }
   ],
   "centres_indisponibles": [
@@ -392,6 +364,34 @@
       "appointment_count": 0,
       "internal_id": "259530[177634]",
       "gid": "2052"
+    },
+    {
+      "departement": "44",
+      "nom": "Centre de Vaccination - BLAIN - Salle des f\u00eates",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/blain/centre-de-vaccination-de-la-salle-des-fetes-de-blain",
+      "location": {
+        "longitude": -1.76531,
+        "latitude": 47.4736
+      },
+      "metadata": {
+        "address": "6b Rue Pierre Morin, 44130 Blain",
+        "phone_number": "+33806000344",
+        "business_hours": {
+          "lundi": "9h-12h / 14h-17h",
+          "mardi": "9h-12h / 14h-17h",
+          "mercredi": "9h-12h / 14h-17h",
+          "jeudi": "9h-12h / 14h-17h",
+          "vendredi": "9h-12h / 14h-17h",
+          "samedi": "9h-12h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242017[]",
+      "gid": "500"
     },
     {
       "departement": "44",

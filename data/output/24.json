@@ -1,7 +1,35 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:59:31.772504+02:00",
+  "last_updated": "2021-04-10T19:02:41.476913+02:00",
   "centres_disponibles": [
+    {
+      "departement": "24",
+      "nom": "Centre de Vaccination CH Rib\u00e9rac",
+      "url": "https://partners.doctolib.fr/hopital-public/riberac/centre-vaccination-ch-riberac-chicrdd",
+      "location": {
+        "longitude": 0.340622,
+        "latitude": 45.2452
+      },
+      "metadata": {
+        "address": "23 Rue Jean Moulin, 24600 Rib\u00e9rac",
+        "phone_number": "+33553926203 ",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "09:00-12:00/14:00-17:00",
+          "mercredi": "09:00-12:00/14:00-17:00",
+          "jeudi": "09:00-12:00/14:00-17:00",
+          "vendredi": "09:00-12:00/14:00-17:00",
+          "samedi": "09:00-12:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-12T14:36:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 5,
+      "internal_id": "241906[]",
+      "gid": "978"
+    },
     {
       "departement": "24",
       "nom": "Filature de l'Isle",
@@ -23,10 +51,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-12T16:12:00.000+02:00",
+      "prochain_rdv": "2021-04-12T16:06:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 2,
+      "appointment_count": 4,
       "internal_id": "240691[]",
       "gid": "119"
     },
@@ -60,34 +88,6 @@
     },
     {
       "departement": "24",
-      "nom": "Centre de Vaccination CH Rib\u00e9rac",
-      "url": "https://partners.doctolib.fr/hopital-public/riberac/centre-vaccination-ch-riberac-chicrdd",
-      "location": {
-        "longitude": 0.340622,
-        "latitude": 45.2452
-      },
-      "metadata": {
-        "address": "23 Rue Jean Moulin, 24600 Rib\u00e9rac",
-        "phone_number": "+33553926203 ",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "09:00-12:00/14:00-17:00",
-          "mercredi": "09:00-12:00/14:00-17:00",
-          "jeudi": "09:00-12:00/14:00-17:00",
-          "vendredi": "09:00-12:00/14:00-17:00",
-          "samedi": "09:00-12:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-17T16:48:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "241906[]",
-      "gid": "978"
-    },
-    {
-      "departement": "24",
       "nom": "Centre de vaccination COVID-19 Eymet",
       "url": "https://partners.doctolib.fr/centre-de-sante/eymet/centre-de-vaccination-covid-19-eymet",
       "location": {
@@ -106,10 +106,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-27T16:05:00.000+02:00",
+      "prochain_rdv": "2021-04-27T15:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 44,
+      "appointment_count": 45,
       "internal_id": "264649[]",
       "gid": "d264649"
     }

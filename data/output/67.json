@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:59:31.824190+02:00",
+  "last_updated": "2021-04-10T19:02:41.526074+02:00",
   "centres_disponibles": [
     {
       "departement": "67",
@@ -53,7 +53,7 @@
       "prochain_rdv": "2021-04-13T12:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 15,
+      "appointment_count": 13,
       "internal_id": "243081[]",
       "gid": "1225"
     },
@@ -78,12 +78,40 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-13T13:50:00.000+02:00",
+      "prochain_rdv": "2021-04-13T15:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 9,
+      "appointment_count": 8,
       "internal_id": "243060[164920]",
       "gid": "1226"
+    },
+    {
+      "departement": "67",
+      "nom": "Centre de vaccination Reichstett",
+      "url": "https://partners.doctolib.fr/centre-de-sante/reichstett/centre-de-vaccination-covid-19-ville-de-reichstett?pid=practice-180903",
+      "location": {
+        "longitude": 7.75065,
+        "latitude": 48.6468
+      },
+      "metadata": {
+        "address": " , 67116 Reichstett",
+        "phone_number": "09.70.81.81.61 ",
+        "business_hours": {
+          "lundi": "17h30 \u00e0 20h30",
+          "mardi": "17h30 \u00e0 20h30",
+          "mercredi": "17h30 \u00e0 20h30",
+          "jeudi": "17h30 \u00e0 20h30",
+          "vendredi": "17h30 \u00e0 20h30",
+          "samedi": "9h00 \u00e0 12h30",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-14T08:50:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 4,
+      "internal_id": "264255[180903]",
+      "gid": "2375"
     },
     {
       "departement": "67",
@@ -154,40 +182,12 @@
           "dimanche": "9:00-12:30/13:00-17:00"
         }
       },
-      "prochain_rdv": "2021-04-21T18:30:00.000+02:00",
+      "prochain_rdv": "2021-04-22T08:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 68,
+      "appointment_count": 67,
       "internal_id": "242678[163151]",
       "gid": "935"
-    },
-    {
-      "departement": "67",
-      "nom": "Centre de vaccination Reichstett",
-      "url": "https://partners.doctolib.fr/centre-de-sante/reichstett/centre-de-vaccination-covid-19-ville-de-reichstett?pid=practice-180903",
-      "location": {
-        "longitude": 7.75065,
-        "latitude": 48.6468
-      },
-      "metadata": {
-        "address": " , 67116 Reichstett",
-        "phone_number": "09.70.81.81.61 ",
-        "business_hours": {
-          "lundi": "17h30 \u00e0 20h30",
-          "mardi": "17h30 \u00e0 20h30",
-          "mercredi": "17h30 \u00e0 20h30",
-          "jeudi": "17h30 \u00e0 20h30",
-          "vendredi": "17h30 \u00e0 20h30",
-          "samedi": "9h00 \u00e0 12h30",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-23T08:50:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 8,
-      "internal_id": "264255[180903]",
-      "gid": "2375"
     },
     {
       "departement": "67",
@@ -213,7 +213,7 @@
       "prochain_rdv": "2021-04-26T16:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 210,
+      "appointment_count": 212,
       "internal_id": "262495[179527]",
       "gid": "2372"
     },
@@ -879,34 +879,6 @@
     },
     {
       "departement": "67",
-      "nom": "Pharmacie de la Fleur",
-      "url": "https://partners.doctolib.fr/pharmacie/strasbourg/pharmacie-de-la-fleur",
-      "location": {
-        "longitude": 7.7469756,
-        "latitude": 48.5858656
-      },
-      "metadata": {
-        "address": "8 Rue de la Nu\u00e9e-Bleue, 67000 Strasbourg",
-        "phone_number": "03 88 32 39 54",
-        "business_hours": {
-          "lundi": "08:00-19:30",
-          "mardi": "08:00-19:30",
-          "mercredi": "08:00-19:30",
-          "jeudi": "08:00-19:30",
-          "vendredi": "08:00-19:30",
-          "samedi": "08:00-19:30",
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": "256278[]",
-      "gid": "d256278"
-    },
-    {
-      "departement": "67",
       "nom": "Pharmacie Centrale de Bischwiller",
       "url": "https://partners.doctolib.fr/pharmacie/bischwiller/pharmacie-centrale-de-bischwiller",
       "location": {
@@ -959,6 +931,34 @@
       "appointment_count": 0,
       "internal_id": "141200[]",
       "gid": "d141200"
+    },
+    {
+      "departement": "67",
+      "nom": "Pharmacie de la Fleur",
+      "url": "https://partners.doctolib.fr/pharmacie/strasbourg/pharmacie-de-la-fleur",
+      "location": {
+        "longitude": 7.7469756,
+        "latitude": 48.5858656
+      },
+      "metadata": {
+        "address": "8 Rue de la Nu\u00e9e-Bleue, 67000 Strasbourg",
+        "phone_number": "03 88 32 39 54",
+        "business_hours": {
+          "lundi": "08:00-19:30",
+          "mardi": "08:00-19:30",
+          "mercredi": "08:00-19:30",
+          "jeudi": "08:00-19:30",
+          "vendredi": "08:00-19:30",
+          "samedi": "08:00-19:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "256278[]",
+      "gid": "d256278"
     },
     {
       "departement": "67",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:59:31.763190+02:00",
+  "last_updated": "2021-04-10T19:02:41.467967+02:00",
   "centres_disponibles": [
     {
       "departement": "14",
@@ -54,7 +54,7 @@
       "prochain_rdv": "2021-04-13T17:30:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 64,
+      "appointment_count": 63,
       "internal_id": null,
       "gid": "501"
     },
@@ -79,7 +79,7 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-15T15:44:00.000+02:00",
+      "prochain_rdv": "2021-04-15T09:48:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 14,
@@ -107,10 +107,10 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-17T17:30:00.000+02:00",
+      "prochain_rdv": "2021-04-17T14:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 30,
+      "appointment_count": 31,
       "internal_id": "241850[]",
       "gid": "159"
     },
@@ -527,26 +527,6 @@
     },
     {
       "departement": "14",
-      "nom": "Pharmacie Mozart",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-mozart-lisieux",
-      "location": {
-        "longitude": 0.2545302,
-        "latitude": 49.143775
-      },
-      "metadata": {
-        "address": "13 Place Mozart, 14100 Lisieux",
-        "phone_number": "+33231310756",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "67814501"
-    },
-    {
-      "departement": "14",
       "nom": "Pharmacie Ferran",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-ferran-mondeville",
       "location": {
@@ -564,6 +544,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "66e3681c"
+    },
+    {
+      "departement": "14",
+      "nom": "Pharmacie Mozart",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-mozart-lisieux",
+      "location": {
+        "longitude": 0.2545302,
+        "latitude": 49.143775
+      },
+      "metadata": {
+        "address": "13 Place Mozart, 14100 Lisieux",
+        "phone_number": "+33231310756",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "67814501"
     },
     {
       "departement": "14",
