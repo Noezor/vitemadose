@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:13:51.432943+02:00",
+  "last_updated": "2021-04-10T19:17:25.982444+02:00",
   "centres_disponibles": [
     {
       "departement": "73",
@@ -25,7 +25,7 @@
       "prochain_rdv": "2021-04-12T08:54:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 129,
+      "appointment_count": 128,
       "internal_id": "249709[]",
       "gid": "d249709"
     },
@@ -52,7 +52,7 @@
       "prochain_rdv": "2021-04-12T08:54:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 129,
+      "appointment_count": 128,
       "internal_id": "249710[]",
       "gid": "d249710"
     },
@@ -133,7 +133,7 @@
       "prochain_rdv": "2021-04-19T11:48:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 422,
+      "appointment_count": 423,
       "internal_id": "264576[]",
       "gid": "d264576"
     },
@@ -167,6 +167,34 @@
     },
     {
       "departement": "73",
+      "nom": "Centre de vaccination COVID Albertville-Salle Pierre du Roy",
+      "url": "https://partners.doctolib.fr/centre-de-sante/albertville/centre-de-vaccination-covid-maison-de-sante-d-albertville",
+      "location": {
+        "longitude": 6.3697,
+        "latitude": 45.6677
+      },
+      "metadata": {
+        "address": "23 Chemin de la Pierre du Roy, 73200 Albertville",
+        "phone_number": "+33479104343",
+        "business_hours": {
+          "lundi": "08:00-12:00/14:00-18:00",
+          "mardi": "08:00-12:00/14:00-18:00",
+          "mercredi": "08:00-12:00/14:00-18:00",
+          "jeudi": "08:00-12:00/14:00-18:00",
+          "vendredi": "08:00-12:00/14:00-18:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-21T10:10:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "243111[]",
+      "gid": "703"
+    },
+    {
+      "departement": "73",
       "nom": "Centre de vaccination COVID - MOUTIERS",
       "url": "https://partners.doctolib.fr/hopital-public/moutiers/centre-de-vaccination-covid-de-moutiers",
       "location": {
@@ -189,7 +217,7 @@
       "prochain_rdv": "2021-04-21T11:15:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 67,
+      "appointment_count": 66,
       "internal_id": "245207[]",
       "gid": "708"
     },
@@ -247,34 +275,6 @@
       "appointment_count": 136,
       "internal_id": "242315[]",
       "gid": "d242315"
-    },
-    {
-      "departement": "73",
-      "nom": "Centre de vaccination COVID Albertville-Salle Pierre du Roy",
-      "url": "https://partners.doctolib.fr/centre-de-sante/albertville/centre-de-vaccination-covid-maison-de-sante-d-albertville",
-      "location": {
-        "longitude": 6.3697,
-        "latitude": 45.6677
-      },
-      "metadata": {
-        "address": "23 Chemin de la Pierre du Roy, 73200 Albertville",
-        "phone_number": "+33479104343",
-        "business_hours": {
-          "lundi": "08:00-12:00/14:00-18:00",
-          "mardi": "08:00-12:00/14:00-18:00",
-          "mercredi": "08:00-12:00/14:00-18:00",
-          "jeudi": "08:00-12:00/14:00-18:00",
-          "vendredi": "08:00-12:00/14:00-18:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-27T15:30:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 78,
-      "internal_id": "243111[]",
-      "gid": "703"
     }
   ],
   "centres_indisponibles": [
@@ -660,33 +660,6 @@
     },
     {
       "departement": "73",
-      "nom": "MA - US Maison d'Arr\u00eat de Chamb\u00e9ry / Maison d'Arr\u00eat de Chamb\u00e9ry",
-      "url": "",
-      "location": {
-        "longitude": 5.90585,
-        "latitude": 45.5751
-      },
-      "metadata": {
-        "address": "151 R de Belledonne, 73000 Chamb\u00e9ry",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1779"
-    },
-    {
-      "departement": "73",
       "nom": "CP - US AITON / Maison d'Arr\u00eat de Chamb\u00e9ry",
       "url": "",
       "location": {
@@ -711,6 +684,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1780"
+    },
+    {
+      "departement": "73",
+      "nom": "MA - US Maison d'Arr\u00eat de Chamb\u00e9ry / Maison d'Arr\u00eat de Chamb\u00e9ry",
+      "url": "",
+      "location": {
+        "longitude": 5.90585,
+        "latitude": 45.5751
+      },
+      "metadata": {
+        "address": "151 R de Belledonne, 73000 Chamb\u00e9ry",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1779"
     },
     {
       "departement": "73",

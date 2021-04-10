@@ -1,7 +1,35 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:13:51.406175+02:00",
+  "last_updated": "2021-04-10T19:17:25.950846+02:00",
   "centres_disponibles": [
+    {
+      "departement": "45",
+      "nom": "Salle Fernand Pellicer - Orl\u00e9ans La Source",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/orleans/centre-de-vaccination-covid-fernand-pellicer-d-orleans",
+      "location": {
+        "longitude": 1.93344,
+        "latitude": 47.8343
+      },
+      "metadata": {
+        "address": " Rue Edouard Branly, 45100 Orl\u00e9ans",
+        "phone_number": "+33805021400",
+        "business_hours": {
+          "lundi": "14h-17h",
+          "mardi": "9h-17h",
+          "mercredi": "9h-17h",
+          "jeudi": "9h-17h",
+          "vendredi": "9h-17h",
+          "samedi": "en cours de d\u00e9finition",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-13T09:30:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 2,
+      "internal_id": "243107[]",
+      "gid": "609"
+    },
     {
       "departement": "45",
       "nom": "Salle polyvalente Cuiry de Gien",
@@ -53,37 +81,9 @@
       "prochain_rdv": "2021-04-15T09:25:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 10,
+      "appointment_count": 11,
       "internal_id": "242169[]",
       "gid": "1360"
-    },
-    {
-      "departement": "45",
-      "nom": "Salle Fernand Pellicer - Orl\u00e9ans La Source",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/orleans/centre-de-vaccination-covid-fernand-pellicer-d-orleans",
-      "location": {
-        "longitude": 1.93344,
-        "latitude": 47.8343
-      },
-      "metadata": {
-        "address": " Rue Edouard Branly, 45100 Orl\u00e9ans",
-        "phone_number": "+33805021400",
-        "business_hours": {
-          "lundi": "14h-17h",
-          "mardi": "9h-17h",
-          "mercredi": "9h-17h",
-          "jeudi": "9h-17h",
-          "vendredi": "9h-17h",
-          "samedi": "en cours de d\u00e9finition",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-26T10:00:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 52,
-      "internal_id": "243107[]",
-      "gid": "609"
     },
     {
       "departement": "45",
@@ -283,6 +283,33 @@
     },
     {
       "departement": "45",
+      "nom": "CH de Beaugency - r\u00e9serv\u00e9 aux professionnels en exercice",
+      "url": "https://partners.doctolib.fr/hopital-public/beaugency/centre-de-vaccination-covid-hopital-de-beaugency?pid=practice-163901",
+      "location": {
+        "longitude": 1.62008,
+        "latitude": 47.7819
+      },
+      "metadata": {
+        "address": "48 Avenue de Vend\u00f4me, 45190 Beaugency",
+        "business_hours": {
+          "lundi": "ouvert",
+          "mardi": "ouverte",
+          "mercredi": "ouvert",
+          "jeudi": "ouvert",
+          "vendredi": "ouvert",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242167[163901]",
+      "gid": "1359"
+    },
+    {
+      "departement": "45",
       "nom": "Centre hospitalier de Beaugency - centre de vaccination public",
       "url": "https://partners.doctolib.fr/hopital-public/beaugency/centre-de-vaccination-covid-hopital-de-beaugency",
       "location": {
@@ -308,33 +335,6 @@
       "appointment_count": 0,
       "internal_id": "242167[]",
       "gid": "1353"
-    },
-    {
-      "departement": "45",
-      "nom": "CH de Beaugency - r\u00e9serv\u00e9 aux professionnels en exercice",
-      "url": "https://partners.doctolib.fr/hopital-public/beaugency/centre-de-vaccination-covid-hopital-de-beaugency?pid=practice-163901",
-      "location": {
-        "longitude": 1.62008,
-        "latitude": 47.7819
-      },
-      "metadata": {
-        "address": "48 Avenue de Vend\u00f4me, 45190 Beaugency",
-        "business_hours": {
-          "lundi": "ouvert",
-          "mardi": "ouverte",
-          "mercredi": "ouvert",
-          "jeudi": "ouvert",
-          "vendredi": "ouvert",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242167[163901]",
-      "gid": "1359"
     },
     {
       "departement": "45",

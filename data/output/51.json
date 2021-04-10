@@ -1,7 +1,64 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:13:51.409796+02:00",
-  "centres_disponibles": [],
+  "last_updated": "2021-04-10T19:17:25.955351+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "51",
+      "nom": "Centre de vaccination de Fismes - Salle des f\u00eates",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/reims/centres-de-vaccination-grand-reims?pid=practice-164789",
+      "location": {
+        "longitude": 3.6815,
+        "latitude": 49.3069
+      },
+      "metadata": {
+        "address": "28 Rue de la Huchette, 51170 Fismes",
+        "phone_number": "+33326777879",
+        "business_hours": {
+          "lundi": "09:00-13:00/14:00-18:00",
+          "mardi": "09:00-13:00/14:00-18:00",
+          "mercredi": "09:00-13:00/14:00-18:00",
+          "jeudi": "09:00-13:00/14:00-18:00",
+          "vendredi": "09:00-13:00/14:00-18:00",
+          "samedi": "09:00-13:00/14:00-18:00",
+          "dimanche": "09:00-13:00/14:00-18:00"
+        }
+      },
+      "prochain_rdv": "2021-04-13T16:41:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "242954[164789]",
+      "gid": "932"
+    },
+    {
+      "departement": "51",
+      "nom": "Centre de vaccination de Cernay-les-Reims - Salle de La Marelle",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/reims/centres-de-vaccination-grand-reims?pid=practice-164806",
+      "location": {
+        "longitude": 4.10425,
+        "latitude": 49.264
+      },
+      "metadata": {
+        "address": "1 Place de la Republique, 51420 Cernay-l\u00e8s-Reims",
+        "phone_number": "+33326777879",
+        "business_hours": {
+          "lundi": "09:00-13:00/14:00-18:00",
+          "mardi": "09:00-13:00/14:00-18:00",
+          "mercredi": "09:00-13:00/14:00-18:00",
+          "jeudi": "09:00-13:00/14:00-18:00",
+          "vendredi": "09:00-13:00/14:00-18:00",
+          "samedi": "09:00-13:00/14:00-18:00",
+          "dimanche": "09:00-13:00/14:00-18:00"
+        }
+      },
+      "prochain_rdv": "2021-04-14T12:30:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "242954[164806]",
+      "gid": "933"
+    }
+  ],
   "centres_indisponibles": [
     {
       "departement": "51",
@@ -113,34 +170,6 @@
       "appointment_count": 0,
       "internal_id": "257371[176121]",
       "gid": "1521"
-    },
-    {
-      "departement": "51",
-      "nom": "Centre de vaccination de Fismes - Salle des f\u00eates",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/reims/centres-de-vaccination-grand-reims?pid=practice-164789",
-      "location": {
-        "longitude": 3.6815,
-        "latitude": 49.3069
-      },
-      "metadata": {
-        "address": "28 Rue de la Huchette, 51170 Fismes",
-        "phone_number": "+33326777879",
-        "business_hours": {
-          "lundi": "09:00-13:00/14:00-18:00",
-          "mardi": "09:00-13:00/14:00-18:00",
-          "mercredi": "09:00-13:00/14:00-18:00",
-          "jeudi": "09:00-13:00/14:00-18:00",
-          "vendredi": "09:00-13:00/14:00-18:00",
-          "samedi": "09:00-13:00/14:00-18:00",
-          "dimanche": "09:00-13:00/14:00-18:00"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242954[164789]",
-      "gid": "932"
     },
     {
       "departement": "51",
@@ -396,34 +425,6 @@
     },
     {
       "departement": "51",
-      "nom": "Centre de vaccination de Cernay-les-Reims - Salle de La Marelle",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/reims/centres-de-vaccination-grand-reims?pid=practice-164806",
-      "location": {
-        "longitude": 4.10425,
-        "latitude": 49.264
-      },
-      "metadata": {
-        "address": "1 Place de la Republique, 51420 Cernay-l\u00e8s-Reims",
-        "phone_number": "+33326777879",
-        "business_hours": {
-          "lundi": "09:00-13:00/14:00-18:00",
-          "mardi": "09:00-13:00/14:00-18:00",
-          "mercredi": "09:00-13:00/14:00-18:00",
-          "jeudi": "09:00-13:00/14:00-18:00",
-          "vendredi": "09:00-13:00/14:00-18:00",
-          "samedi": "09:00-13:00/14:00-18:00",
-          "dimanche": "09:00-13:00/14:00-18:00"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242954[164806]",
-      "gid": "933"
-    },
-    {
-      "departement": "51",
       "nom": "Centre de vaccination de Sainte Menehould, salle polyvalente communale",
       "url": "https://partners.doctolib.fr/hopital-public/sainte-menehould/centre-de-vaccination-argonne-marne",
       "location": {
@@ -590,26 +591,6 @@
     },
     {
       "departement": "51",
-      "nom": "Pharmacie Talleyrand",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-talleyrand-reims",
-      "location": {
-        "longitude": 4.029668,
-        "latitude": 49.2547207
-      },
-      "metadata": {
-        "address": "13 rue Talleyrand, 51100 Reims",
-        "phone_number": "+33326473232",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "9022c2dc"
-    },
-    {
-      "departement": "51",
       "nom": "Pharmacie Croix Dampierre",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-croix-dampierre-chalons-en-champagne",
       "location": {
@@ -627,6 +608,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "51142bd5"
+    },
+    {
+      "departement": "51",
+      "nom": "Pharmacie Talleyrand",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-talleyrand-reims",
+      "location": {
+        "longitude": 4.029668,
+        "latitude": 49.2547207
+      },
+      "metadata": {
+        "address": "13 rue Talleyrand, 51100 Reims",
+        "phone_number": "+33326473232",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "9022c2dc"
     },
     {
       "departement": "51",

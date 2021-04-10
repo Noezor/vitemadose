@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:13:51.390898+02:00",
+  "last_updated": "2021-04-10T19:17:25.933257+02:00",
   "centres_disponibles": [
     {
       "departement": "30",
@@ -162,10 +162,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-28T16:50:00.000+02:00",
+      "prochain_rdv": "2021-04-28T17:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 59,
+      "appointment_count": 57,
       "internal_id": "264364[]",
       "gid": "2409"
     },
@@ -338,33 +338,6 @@
     },
     {
       "departement": "30",
-      "nom": "Centre Al\u00e8s Fil",
-      "url": "https://partners.doctolib.fr/centre-de-sante/ales/centre-de-vaccination-covid-19-ales?pid=practice-165321",
-      "location": {
-        "longitude": 4.08864,
-        "latitude": 44.1189
-      },
-      "metadata": {
-        "address": "177 Chemin des Sports, 30100 Al\u00e8s",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "13:30 - 17:00",
-          "jeudi": "13:30 - 17:00",
-          "vendredi": "13:30 - 17:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "244706[165321]",
-      "gid": "1505"
-    },
-    {
-      "departement": "30",
       "nom": "Centre MSP Petite Camargue",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/vauvert/msp-de-la-petite-camargue-vaccination-covid?pid=practice-171380",
       "location": {
@@ -389,6 +362,33 @@
       "appointment_count": 0,
       "internal_id": "251130[171380]",
       "gid": "1507"
+    },
+    {
+      "departement": "30",
+      "nom": "Centre Al\u00e8s Fil",
+      "url": "https://partners.doctolib.fr/centre-de-sante/ales/centre-de-vaccination-covid-19-ales?pid=practice-165321",
+      "location": {
+        "longitude": 4.08864,
+        "latitude": 44.1189
+      },
+      "metadata": {
+        "address": "177 Chemin des Sports, 30100 Al\u00e8s",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "13:30 - 17:00",
+          "jeudi": "13:30 - 17:00",
+          "vendredi": "13:30 - 17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244706[165321]",
+      "gid": "1505"
     },
     {
       "departement": "30",
@@ -448,34 +448,6 @@
     },
     {
       "departement": "30",
-      "nom": "Centre de vaccination Grand Public",
-      "url": "https://partners.doctolib.fr/centre-de-sante/bagnols-sur-ceze/centre-de-vaccination-covid-19-grand-public-bagnols-sur-ceze",
-      "location": {
-        "longitude": 4.62071,
-        "latitude": 44.159
-      },
-      "metadata": {
-        "address": " Centre culturel L\u00e9o Lagrange - salle D - Place Flora Tristan, 30200 Bagnols-sur-C\u00e8ze",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "08:00-16:00",
-          "mardi": "08:00-16:00",
-          "mercredi": "08:00-16:00",
-          "jeudi": "08:00-16:00",
-          "vendredi": "08:00-16:00",
-          "samedi": "",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243170[]",
-      "gid": "117"
-    },
-    {
-      "departement": "30",
       "nom": "CH Al\u00e8s",
       "url": "https://partners.doctolib.fr/hopital-public/al\u00e8s/centre-de-vaccination-du-centre-hospitalier-d-ales",
       "location": {
@@ -501,6 +473,34 @@
       "appointment_count": 0,
       "internal_id": "242193[]",
       "gid": "221"
+    },
+    {
+      "departement": "30",
+      "nom": "Centre de vaccination Grand Public",
+      "url": "https://partners.doctolib.fr/centre-de-sante/bagnols-sur-ceze/centre-de-vaccination-covid-19-grand-public-bagnols-sur-ceze",
+      "location": {
+        "longitude": 4.62071,
+        "latitude": 44.159
+      },
+      "metadata": {
+        "address": " Centre culturel L\u00e9o Lagrange - salle D - Place Flora Tristan, 30200 Bagnols-sur-C\u00e8ze",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "08:00-16:00",
+          "mardi": "08:00-16:00",
+          "mercredi": "08:00-16:00",
+          "jeudi": "08:00-16:00",
+          "vendredi": "08:00-16:00",
+          "samedi": "",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243170[]",
+      "gid": "117"
     },
     {
       "departement": "30",

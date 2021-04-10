@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:13:51.443415+02:00",
+  "last_updated": "2021-04-10T19:17:25.994723+02:00",
   "centres_disponibles": [
     {
       "departement": "80",
@@ -60,6 +60,34 @@
     },
     {
       "departement": "80",
+      "nom": "Centre de vaccination Covid-19 de Saleux",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saleux/centre-de-vaccination-covid-19-de-saleux",
+      "location": {
+        "longitude": 2.2386104,
+        "latitude": 49.8608525
+      },
+      "metadata": {
+        "address": "Place Numa Buignet, 80480 Saleux",
+        "phone_number": "06 01 56 77 22",
+        "business_hours": {
+          "lundi": "09:00-19:00",
+          "mardi": "09:00-19:00",
+          "mercredi": "09:00-19:00",
+          "jeudi": "09:00-19:00",
+          "vendredi": "09:00-19:00",
+          "samedi": "09:00-18:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-13T15:20:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 43,
+      "internal_id": "242925[]",
+      "gid": "d242925"
+    },
+    {
+      "departement": "80",
       "nom": "Centre de vaccination - CPTS Espace Eug\u00e8ne Viandier",
       "url": "https://partners.doctolib.fr/etablissement-de-prevention/saleux/centre-de-vaccination-covid-19-de-saleux?pid=practice-164882%3fspeciality_id%3d5494",
       "location": {
@@ -82,37 +110,9 @@
       "prochain_rdv": "2021-04-14T13:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 43,
+      "appointment_count": 42,
       "internal_id": "242925[164882]",
       "gid": "1102"
-    },
-    {
-      "departement": "80",
-      "nom": "Centre de vaccination Covid-19 de Saleux",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saleux/centre-de-vaccination-covid-19-de-saleux",
-      "location": {
-        "longitude": 2.2386104,
-        "latitude": 49.8608525
-      },
-      "metadata": {
-        "address": "Place Numa Buignet, 80480 Saleux",
-        "phone_number": "06 01 56 77 22",
-        "business_hours": {
-          "lundi": "09:00-19:00",
-          "mardi": "09:00-19:00",
-          "mercredi": "09:00-19:00",
-          "jeudi": "09:00-19:00",
-          "vendredi": "09:00-19:00",
-          "samedi": "09:00-18:00",
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": "2021-04-14T13:10:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 43,
-      "internal_id": "242925[]",
-      "gid": "d242925"
     },
     {
       "departement": "80",
@@ -339,34 +339,6 @@
     },
     {
       "departement": "80",
-      "nom": "Centre de Vaccination - Ville de Flixecourt, Salle Le Chiffon Rouge",
-      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/flixecourt-80420/flixecourt/centre-de-vaccination-de-flixecourt",
-      "location": {
-        "longitude": 2.07553,
-        "latitude": 50.0136
-      },
-      "metadata": {
-        "address": " Rue Philippe Ermenault, 80420 Flixecourt",
-        "phone_number": "+33607288799",
-        "business_hours": {
-          "lundi": "10:00-13:00/14:00-16:00",
-          "mardi": "10:00-13:00/14:00-16:00",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "10:00-13:00/14:00-16:00",
-          "vendredi": "10:00-13:00/14:00-16:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Keldoc",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1394"
-    },
-    {
-      "departement": "80",
       "nom": "Centre de vaccination - Ville de Poix-de-Picardie, SALLE DES F\u00caTES",
       "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/poix-de-picardie-80290/poix-de-picardie/centre-de-vaccination-de-poix-de-picardie",
       "location": {
@@ -419,6 +391,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1395"
+    },
+    {
+      "departement": "80",
+      "nom": "Centre de Vaccination - Ville de Flixecourt, Salle Le Chiffon Rouge",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/flixecourt-80420/flixecourt/centre-de-vaccination-de-flixecourt",
+      "location": {
+        "longitude": 2.07553,
+        "latitude": 50.0136
+      },
+      "metadata": {
+        "address": " Rue Philippe Ermenault, 80420 Flixecourt",
+        "phone_number": "+33607288799",
+        "business_hours": {
+          "lundi": "10:00-13:00/14:00-16:00",
+          "mardi": "10:00-13:00/14:00-16:00",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "10:00-13:00/14:00-16:00",
+          "vendredi": "10:00-13:00/14:00-16:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1394"
     },
     {
       "departement": "80",

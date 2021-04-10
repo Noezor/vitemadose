@@ -1,7 +1,35 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:13:51.378197+02:00",
+  "last_updated": "2021-04-10T19:17:25.918373+02:00",
   "centres_disponibles": [
+    {
+      "departement": "16",
+      "nom": "Centre de vaccination du CH COGNAC",
+      "url": "https://partners.doctolib.fr/hopital-public/cognac/centre-de-vaccination-covid-19-chi-de-cognac",
+      "location": {
+        "longitude": -0.304585,
+        "latitude": 45.6894
+      },
+      "metadata": {
+        "address": "2 Rue du bleu n\u00e2cr\u00e9, 16100 Ch\u00e2teaubernard",
+        "phone_number": "+33545801616",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "12:00-18:00",
+          "mercredi": "12:00-18:00",
+          "jeudi": "12:00-18:00",
+          "vendredi": "12:00-18:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-15T12:30:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 71,
+      "internal_id": "242372[]",
+      "gid": "49"
+    },
     {
       "departement": "16",
       "nom": "CH RUFFEC",
@@ -29,34 +57,6 @@
       "appointment_count": 2,
       "internal_id": "242363[]",
       "gid": "54"
-    },
-    {
-      "departement": "16",
-      "nom": "Centre de vaccination du CH COGNAC",
-      "url": "https://partners.doctolib.fr/hopital-public/cognac/centre-de-vaccination-covid-19-chi-de-cognac",
-      "location": {
-        "longitude": -0.304585,
-        "latitude": 45.6894
-      },
-      "metadata": {
-        "address": "2 Rue du bleu n\u00e2cr\u00e9, 16100 Ch\u00e2teaubernard",
-        "phone_number": "+33545801616",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "12:00-18:00",
-          "mercredi": "12:00-18:00",
-          "jeudi": "12:00-18:00",
-          "vendredi": "12:00-18:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-17T11:15:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 85,
-      "internal_id": "242372[]",
-      "gid": "49"
     },
     {
       "departement": "16",

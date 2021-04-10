@@ -1,7 +1,35 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:13:51.419936+02:00",
+  "last_updated": "2021-04-10T19:17:25.966512+02:00",
   "centres_disponibles": [
+    {
+      "departement": "60",
+      "nom": "Centre de vaccination -Communaut\u00e9 d'Agglom\u00e9ration du Beauvaisis, gymnase Andr\u00e9-Ambroise",
+      "url": "https://partners.doctolib.fr/centre-de-sante/beauvais/centre-de-vaccination-covid-departement-de-l-oise?pid=practice-176858",
+      "location": {
+        "longitude": 2.09327,
+        "latitude": 49.4283
+      },
+      "metadata": {
+        "address": "31 Rue du Pr\u00e9 Martinet, 60000 Beauvais",
+        "phone_number": "+33375570025",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": "2021-04-12T12:57:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 2,
+      "internal_id": "258482[176858]",
+      "gid": "2070"
+    },
     {
       "departement": "60",
       "nom": "Chambly Pharma",
@@ -385,34 +413,6 @@
     },
     {
       "departement": "60",
-      "nom": "Centre de vaccination -Communaut\u00e9 d'Agglom\u00e9ration du Beauvaisis, gymnase Andr\u00e9-Ambroise",
-      "url": "https://partners.doctolib.fr/centre-de-sante/beauvais/centre-de-vaccination-covid-departement-de-l-oise?pid=practice-176858",
-      "location": {
-        "longitude": 2.09327,
-        "latitude": 49.4283
-      },
-      "metadata": {
-        "address": "31 Rue du Pr\u00e9 Martinet, 60000 Beauvais",
-        "phone_number": "+33375570025",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "",
-          "dimanche": ""
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "258482[176858]",
-      "gid": "2070"
-    },
-    {
-      "departement": "60",
       "nom": "Centre de vaccination - communaut\u00e9 de commune du Liancourtois, Salle Guy Lejeune",
       "url": "https://partners.doctolib.fr/centre-de-sante/liancourt/centre-de-vaccination-covid-liancourt-liancourt?pid=practice-179037",
       "location": {
@@ -748,33 +748,6 @@
     },
     {
       "departement": "60",
-      "nom": "CP - US2 / Centre P\u00e9nitentiaire de Liancourt",
-      "url": "",
-      "location": {
-        "longitude": 2.47469,
-        "latitude": 49.3334
-      },
-      "metadata": {
-        "address": "1 Rue Robert Badinter, 60140 Liancourt",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1840"
-    },
-    {
-      "departement": "60",
       "nom": "CP - Centre Hospitalier de Beauvais / Centre p\u00e9nitentiaire de Beauvais",
       "url": "",
       "location": {
@@ -799,6 +772,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1839"
+    },
+    {
+      "departement": "60",
+      "nom": "CP - US2 / Centre P\u00e9nitentiaire de Liancourt",
+      "url": "",
+      "location": {
+        "longitude": 2.47469,
+        "latitude": 49.3334
+      },
+      "metadata": {
+        "address": "1 Rue Robert Badinter, 60140 Liancourt",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1840"
     },
     {
       "departement": "60",

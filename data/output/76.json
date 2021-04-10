@@ -1,35 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:13:51.438366+02:00",
+  "last_updated": "2021-04-10T19:17:25.989021+02:00",
   "centres_disponibles": [
-    {
-      "departement": "76",
-      "nom": "Grand centre de vaccination stade Oc\u00e9ane",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/le-havre/grand-centre-de-vaccination-covid-le-havre-stade-oeane?pid=practice-180035",
-      "location": {
-        "longitude": 0.169789,
-        "latitude": 49.4994
-      },
-      "metadata": {
-        "address": " boulevard Leningrad - stade oc\u00e9ane, 76600 Le Havre",
-        "phone_number": "+33279461156",
-        "business_hours": {
-          "lundi": "",
-          "mardi": "",
-          "mercredi": "",
-          "jeudi": "",
-          "vendredi": "",
-          "samedi": "",
-          "dimanche": ""
-        }
-      },
-      "prochain_rdv": "2021-04-12T10:55:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 143,
-      "internal_id": "263803[180035]",
-      "gid": "2363"
-    },
     {
       "departement": "76",
       "nom": "GHH site de monod",
@@ -51,10 +23,10 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-13T15:50:00.000+02:00",
+      "prochain_rdv": "2021-04-13T15:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 48,
+      "appointment_count": 49,
       "internal_id": "241044[163096]",
       "gid": "154"
     },
@@ -79,10 +51,10 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-13T16:20:00.000+02:00",
+      "prochain_rdv": "2021-04-13T16:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 2,
+      "appointment_count": 3,
       "internal_id": "242321[]",
       "gid": "801"
     },
@@ -144,6 +116,34 @@
     },
     {
       "departement": "76",
+      "nom": "Grand centre de vaccination stade Oc\u00e9ane",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/le-havre/grand-centre-de-vaccination-covid-le-havre-stade-oeane?pid=practice-180035",
+      "location": {
+        "longitude": 0.169789,
+        "latitude": 49.4994
+      },
+      "metadata": {
+        "address": " boulevard Leningrad - stade oc\u00e9ane, 76600 Le Havre",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": "2021-04-15T11:55:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 142,
+      "internal_id": "263803[180035]",
+      "gid": "2363"
+    },
+    {
+      "departement": "76",
       "nom": "Saint-Aubin-l\u00e8s-Elbeuf : salle des f\u00eates",
       "url": "https://partners.doctolib.fr/centre-de-sante/saint-aubin-les-elbeuf/centre-de-vaccination-covid-du-territoire-elbeuvien?pid=practice-164306",
       "location": {
@@ -163,10 +163,10 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-15T11:20:00.000+02:00",
+      "prochain_rdv": "2021-04-15T12:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 15,
+      "appointment_count": 14,
       "internal_id": "242706[164306]",
       "gid": "1031"
     },
@@ -219,10 +219,10 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-28T17:35:00.000+02:00",
+      "prochain_rdv": "2021-04-28T16:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 21,
+      "appointment_count": 25,
       "internal_id": "264690[181232]",
       "gid": "2359"
     },
@@ -277,7 +277,7 @@
       "prochain_rdv": "2021-04-29T12:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 67,
+      "appointment_count": 66,
       "internal_id": "242426[]",
       "gid": "800"
     },
@@ -302,10 +302,10 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-05-10T12:15:00.000+02:00",
+      "prochain_rdv": "2021-05-17T11:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 2,
+      "appointment_count": 11,
       "internal_id": "242477[164430]",
       "gid": "1025"
     },
@@ -330,10 +330,10 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-05-10T12:15:00.000+02:00",
+      "prochain_rdv": "2021-05-17T11:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 2,
+      "appointment_count": 11,
       "internal_id": "242477[]",
       "gid": "796"
     }
@@ -730,26 +730,6 @@
     },
     {
       "departement": "76",
-      "nom": "Pharmacie Cauchoise",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-cauchoise-rouen",
-      "location": {
-        "longitude": 1.085969,
-        "latitude": 49.446072
-      },
-      "metadata": {
-        "address": "7 Place Cauchoise, 76000 Rouen",
-        "phone_number": "+33235713020",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "63a7b39a"
-    },
-    {
-      "departement": "76",
       "nom": "Grande Pharmacie Thiers",
       "url": "https://app.ordoclic.fr/app/pharmacie/grande-pharmacie-thiers-le-havre",
       "location": {
@@ -767,6 +747,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "4a091c0d"
+    },
+    {
+      "departement": "76",
+      "nom": "Pharmacie Cauchoise",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-cauchoise-rouen",
+      "location": {
+        "longitude": 1.085969,
+        "latitude": 49.446072
+      },
+      "metadata": {
+        "address": "7 Place Cauchoise, 76000 Rouen",
+        "phone_number": "+33235713020",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "63a7b39a"
     },
     {
       "departement": "76",
@@ -825,33 +825,6 @@
     },
     {
       "departement": "76",
-      "nom": "Pharmacie Jouvenet",
-      "url": "https://partners.doctolib.fr/pharmacie/rouen/pharmacie-jouvenet",
-      "location": {
-        "longitude": 1.1040361,
-        "latitude": 49.4500539
-      },
-      "metadata": {
-        "address": "26 Rue de Bihorel, 76000 Rouen",
-        "business_hours": {
-          "lundi": "08:30-12:30, 14:00-19:30",
-          "mardi": "08:30-12:30, 14:00-19:30",
-          "mercredi": "08:30-12:30, 14:00-19:30",
-          "jeudi": "08:30-12:30, 14:00-19:30",
-          "vendredi": "08:30-12:30, 14:00-19:30",
-          "samedi": "09:00-13:00, 14:00-18:30",
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": "241092[]",
-      "gid": "d241092"
-    },
-    {
-      "departement": "76",
       "nom": "Dr Nicolas Desoubry",
       "url": "https://partners.doctolib.fr/medecin-generaliste/quincampoix/nicolas-desoubry",
       "location": {
@@ -877,6 +850,33 @@
       "appointment_count": 0,
       "internal_id": "98333[]",
       "gid": "d98333"
+    },
+    {
+      "departement": "76",
+      "nom": "Pharmacie Jouvenet",
+      "url": "https://partners.doctolib.fr/pharmacie/rouen/pharmacie-jouvenet",
+      "location": {
+        "longitude": 1.1040361,
+        "latitude": 49.4500539
+      },
+      "metadata": {
+        "address": "26 Rue de Bihorel, 76000 Rouen",
+        "business_hours": {
+          "lundi": "08:30-12:30, 14:00-19:30",
+          "mardi": "08:30-12:30, 14:00-19:30",
+          "mercredi": "08:30-12:30, 14:00-19:30",
+          "jeudi": "08:30-12:30, 14:00-19:30",
+          "vendredi": "08:30-12:30, 14:00-19:30",
+          "samedi": "09:00-13:00, 14:00-18:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "241092[]",
+      "gid": "d241092"
     },
     {
       "departement": "76",

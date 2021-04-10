@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:13:51.369062+02:00",
+  "last_updated": "2021-04-10T19:17:25.907575+02:00",
   "centres_disponibles": [
     {
       "departement": "06",
@@ -105,10 +105,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-14T09:05:00.000+02:00",
+      "prochain_rdv": "2021-04-13T16:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 63,
+      "appointment_count": 67,
       "internal_id": "242453[]",
       "gid": "1041"
     },
@@ -188,10 +188,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-21T12:00:00.000+02:00",
+      "prochain_rdv": "2021-04-21T12:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 22,
+      "appointment_count": 21,
       "internal_id": "242662[]",
       "gid": "867"
     },
@@ -921,33 +921,6 @@
     },
     {
       "departement": "06",
-      "nom": "Palais des expositions",
-      "url": "",
-      "location": {
-        "longitude": 7.27928,
-        "latitude": 43.7026
-      },
-      "metadata": {
-        "address": " Esplanade de Lattre de Tassigny, 06200 Nice",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ouvert",
-          "dimanche": "ouvert"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1947"
-    },
-    {
-      "departement": "06",
       "nom": "Palais des Victoires",
       "url": "https://partners.doctolib.fr/centre-de-sante/cannes/centre-de-vaccination-covid-19-mairie-de-cannes?pid=practice-170734",
       "location": {
@@ -976,6 +949,33 @@
     },
     {
       "departement": "06",
+      "nom": "Palais des expositions",
+      "url": "",
+      "location": {
+        "longitude": 7.27928,
+        "latitude": 43.7026
+      },
+      "metadata": {
+        "address": " Esplanade de Lattre de Tassigny, 06200 Nice",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ouvert",
+          "dimanche": "ouvert"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1947"
+    },
+    {
+      "departement": "06",
       "nom": "Maison des Associations Antibes",
       "url": "https://partners.doctolib.fr/centre-de-sante/antibes/vaccination",
       "location": {
@@ -1001,6 +1001,66 @@
       "appointment_count": 0,
       "internal_id": "242973[]",
       "gid": "863"
+    },
+    {
+      "departement": "06",
+      "nom": "Pharmacie De Fabron",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-fabron-nice",
+      "location": {
+        "longitude": 7.2407192,
+        "latitude": 43.68950340000001
+      },
+      "metadata": {
+        "address": "54 avenue de la Californie, 06200 Nice",
+        "phone_number": "+33493865267",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "0e9d4b2f"
+    },
+    {
+      "departement": "06",
+      "nom": "Pharmacie Hanbury",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-hanbury-menton",
+      "location": {
+        "longitude": 7.521359399999999,
+        "latitude": 43.78500950000001
+      },
+      "metadata": {
+        "address": "1 avenue Aristide Briand, 06500 MENTON",
+        "phone_number": "+33493357644",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "39b9fab6"
+    },
+    {
+      "departement": "06",
+      "nom": "Pharmacie Du Beal",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-du-beal-cagnes-sur-mer",
+      "location": {
+        "longitude": 7.1547223,
+        "latitude": 43.6643829
+      },
+      "metadata": {
+        "address": "13 AVENUE CYRILLE BESSET, 06800 CAGNES-SUR-MER",
+        "phone_number": "+33493206572",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "4d4a730d"
     },
     {
       "departement": "06",
@@ -1064,26 +1124,6 @@
     },
     {
       "departement": "06",
-      "nom": "Pharmacie Des 4 Chemins Antibes",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-4-chemins-antibes-antibes",
-      "location": {
-        "longitude": 7.1136716,
-        "latitude": 43.6033348
-      },
-      "metadata": {
-        "address": "828 Chemin des Quatre Chemins, 06600 Antibes",
-        "phone_number": "+33493749200",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "c07ccdaf"
-    },
-    {
-      "departement": "06",
       "nom": "Pharmacie De La Madeleine",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-la-madeleine-nice",
       "location": {
@@ -1104,6 +1144,26 @@
     },
     {
       "departement": "06",
+      "nom": "Pharmacie Des 4 Chemins Antibes",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-4-chemins-antibes-antibes",
+      "location": {
+        "longitude": 7.1136716,
+        "latitude": 43.6033348
+      },
+      "metadata": {
+        "address": "828 Chemin des Quatre Chemins, 06600 Antibes",
+        "phone_number": "+33493749200",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "c07ccdaf"
+    },
+    {
+      "departement": "06",
       "nom": "Pharmacie Nice Europe",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-nice-europe-nice",
       "location": {
@@ -1121,66 +1181,6 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "9fbcbe7c"
-    },
-    {
-      "departement": "06",
-      "nom": "Pharmacie De Fabron",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-fabron-nice",
-      "location": {
-        "longitude": 7.2407192,
-        "latitude": 43.68950340000001
-      },
-      "metadata": {
-        "address": "54 avenue de la Californie, 06200 Nice",
-        "phone_number": "+33493865267",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "0e9d4b2f"
-    },
-    {
-      "departement": "06",
-      "nom": "Pharmacie Hanbury",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-hanbury-menton",
-      "location": {
-        "longitude": 7.521359399999999,
-        "latitude": 43.78500950000001
-      },
-      "metadata": {
-        "address": "1 avenue Aristide Briand, 06500 MENTON",
-        "phone_number": "+33493357644",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "39b9fab6"
-    },
-    {
-      "departement": "06",
-      "nom": "Pharmacie Du Beal",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-du-beal-cagnes-sur-mer",
-      "location": {
-        "longitude": 7.1547223,
-        "latitude": 43.6643829
-      },
-      "metadata": {
-        "address": "13 AVENUE CYRILLE BESSET, 06800 CAGNES-SUR-MER",
-        "phone_number": "+33493206572",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "4d4a730d"
     },
     {
       "departement": "06",

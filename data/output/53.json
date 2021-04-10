@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:13:51.410989+02:00",
+  "last_updated": "2021-04-10T19:17:25.956884+02:00",
   "centres_disponibles": [
     {
       "departement": "53",
@@ -51,10 +51,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-20T11:10:00.000+02:00",
+      "prochain_rdv": "2021-04-20T11:25:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 188,
+      "appointment_count": 189,
       "internal_id": "256269[164879]",
       "gid": "711"
     },
@@ -312,26 +312,6 @@
     },
     {
       "departement": "53",
-      "nom": "Selarl Pharmacie Adam",
-      "url": "https://app.ordoclic.fr/app/pharmacie/selarl-pharmacie-adam-vaiges",
-      "location": {
-        "longitude": -0.4757774,
-        "latitude": 48.03975190000001
-      },
-      "metadata": {
-        "address": "5 route du Mans, 53480 Vaiges",
-        "phone_number": "+33243905017",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "ba7400ee"
-    },
-    {
-      "departement": "53",
       "nom": "Pharmacie Laval Murat",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-laval-murat-laval",
       "location": {
@@ -349,6 +329,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "06384f31"
+    },
+    {
+      "departement": "53",
+      "nom": "Selarl Pharmacie Adam",
+      "url": "https://app.ordoclic.fr/app/pharmacie/selarl-pharmacie-adam-vaiges",
+      "location": {
+        "longitude": -0.4757774,
+        "latitude": 48.03975190000001
+      },
+      "metadata": {
+        "address": "5 route du Mans, 53480 Vaiges",
+        "phone_number": "+33243905017",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "ba7400ee"
     }
   ]
 }

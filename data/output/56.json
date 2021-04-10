@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:13:51.413642+02:00",
+  "last_updated": "2021-04-10T19:17:25.959744+02:00",
   "centres_disponibles": [
     {
       "departement": "56",
@@ -26,36 +26,9 @@
       "prochain_rdv": "2021-04-12T14:55:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 330,
+      "appointment_count": 331,
       "internal_id": null,
       "gid": "454"
-    },
-    {
-      "departement": "56",
-      "nom": "Centre de Vaccination Covid-19 - Vannes Kercado",
-      "url": "https://partners.doctolib.fr/hopital-public/vannes/centre-de-vaccination-covid-19-vannes-kercado",
-      "location": {
-        "longitude": -2.7713769,
-        "latitude": 47.6444702
-      },
-      "metadata": {
-        "address": "28 Rue Winston Churchill, 56000 Vannes",
-        "business_hours": {
-          "lundi": null,
-          "mardi": null,
-          "mercredi": null,
-          "jeudi": null,
-          "vendredi": null,
-          "samedi": null,
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": "2021-04-14T18:57:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "262832[]",
-      "gid": "d262832"
     },
     {
       "departement": "56",
@@ -84,6 +57,33 @@
       "appointment_count": 779,
       "internal_id": null,
       "gid": "1215"
+    },
+    {
+      "departement": "56",
+      "nom": "Centre de Vaccination Covid-19 - Vannes Kercado",
+      "url": "https://partners.doctolib.fr/hopital-public/vannes/centre-de-vaccination-covid-19-vannes-kercado",
+      "location": {
+        "longitude": -2.7713769,
+        "latitude": 47.6444702
+      },
+      "metadata": {
+        "address": "28 Rue Winston Churchill, 56000 Vannes",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-22T16:15:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 148,
+      "internal_id": "262832[]",
+      "gid": "d262832"
     },
     {
       "departement": "56",
@@ -284,34 +284,6 @@
     },
     {
       "departement": "56",
-      "nom": "CH AURAY",
-      "url": "https://partners.doctolib.fr/hopital-public/auray/chba-centre-de-vaccination-covid-d-auray?pid=practice-164632",
-      "location": {
-        "longitude": -2.97902,
-        "latitude": 47.6692
-      },
-      "metadata": {
-        "address": "2 Rue du Pratel, 56400 Auray",
-        "phone_number": "+33297019956",
-        "business_hours": {
-          "lundi": "13h-17h",
-          "mardi": "9h-17h",
-          "mercredi": "9h-17h",
-          "jeudi": "9h-17h",
-          "vendredi": "9h-17h",
-          "samedi": "9h-13h",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "245494[164632]",
-      "gid": "894"
-    },
-    {
-      "departement": "56",
       "nom": "GRANDCHAMP - Salle multifonctionnelle",
       "url": "https://partners.doctolib.fr/hopital-public/grand-champ/ghba-centre-de-vaccination-covid-grandchamp?pid=practice-165902",
       "location": {
@@ -337,6 +309,34 @@
       "appointment_count": 0,
       "internal_id": "246058[165902]",
       "gid": "897"
+    },
+    {
+      "departement": "56",
+      "nom": "CH AURAY",
+      "url": "https://partners.doctolib.fr/hopital-public/auray/chba-centre-de-vaccination-covid-d-auray?pid=practice-164632",
+      "location": {
+        "longitude": -2.97902,
+        "latitude": 47.6692
+      },
+      "metadata": {
+        "address": "2 Rue du Pratel, 56400 Auray",
+        "phone_number": "+33297019956",
+        "business_hours": {
+          "lundi": "13h-17h",
+          "mardi": "9h-17h",
+          "mercredi": "9h-17h",
+          "jeudi": "9h-17h",
+          "vendredi": "9h-17h",
+          "samedi": "9h-13h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "245494[164632]",
+      "gid": "894"
     },
     {
       "departement": "56",
@@ -506,26 +506,6 @@
     },
     {
       "departement": "56",
-      "nom": "Pharmacie De Quelisoy",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-quelisoy-larmor-plage",
-      "location": {
-        "longitude": -3.3830814,
-        "latitude": 47.7280464
-      },
-      "metadata": {
-        "address": "1 rue de la chapelle saint yves, 56260 Larmor-plage",
-        "phone_number": "+33297655112",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "a243ab4c"
-    },
-    {
-      "departement": "56",
       "nom": "Pharmacie De Lucie Test",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-lucie-test-ile-d'houat",
       "location": {
@@ -543,6 +523,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "27b3bab8"
+    },
+    {
+      "departement": "56",
+      "nom": "Pharmacie De Quelisoy",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-quelisoy-larmor-plage",
+      "location": {
+        "longitude": -3.3830814,
+        "latitude": 47.7280464
+      },
+      "metadata": {
+        "address": "1 rue de la chapelle saint yves, 56260 Larmor-plage",
+        "phone_number": "+33297655112",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "a243ab4c"
     },
     {
       "departement": "56",

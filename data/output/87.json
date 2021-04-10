@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:13:51.449440+02:00",
+  "last_updated": "2021-04-10T19:17:26.002561+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -257,34 +257,6 @@
     },
     {
       "departement": "87",
-      "nom": "CHU LIMOGES - SITE DUPUYTREN 1",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante?pid=practice-162612",
-      "location": {
-        "longitude": 1.23276,
-        "latitude": 45.8142
-      },
-      "metadata": {
-        "address": "2 Avenue Martin Luther King, 87000 Limoges",
-        "phone_number": "+33555087520",
-        "business_hours": {
-          "lundi": "09:00-17:00",
-          "mardi": "09:00-17:00",
-          "mercredi": "09:00-17:00",
-          "jeudi": "09:00-17:00",
-          "vendredi": "09:00-17:00",
-          "samedi": "09:00-17:00",
-          "dimanche": "09:00-17:00"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "240406[162612]",
-      "gid": "207"
-    },
-    {
-      "departement": "87",
       "nom": "HOPITAL INTERCOMMUNAL MONTS ET BARRAGES - ST LEONARD DE NOBLAT",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante?pid=practice-162972",
       "location": {
@@ -310,6 +282,34 @@
       "appointment_count": 0,
       "internal_id": "240406[162972]",
       "gid": "557"
+    },
+    {
+      "departement": "87",
+      "nom": "CHU LIMOGES - SITE DUPUYTREN 1",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante?pid=practice-162612",
+      "location": {
+        "longitude": 1.23276,
+        "latitude": 45.8142
+      },
+      "metadata": {
+        "address": "2 Avenue Martin Luther King, 87000 Limoges",
+        "phone_number": "+33555087520",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "09:00-17:00",
+          "dimanche": "09:00-17:00"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240406[162612]",
+      "gid": "207"
     },
     {
       "departement": "87",

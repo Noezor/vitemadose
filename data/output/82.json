@@ -1,7 +1,35 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:13:51.444948+02:00",
+  "last_updated": "2021-04-10T19:17:25.996591+02:00",
   "centres_disponibles": [
+    {
+      "departement": "82",
+      "nom": "CH N\u00e8grepelisse",
+      "url": "https://partners.doctolib.fr/hopital-public/negrepelisse/centre-de-vaccination-covid-ch-negrepelisse",
+      "location": {
+        "longitude": 1.52185,
+        "latitude": 44.0743
+      },
+      "metadata": {
+        "address": "31 Rue de Turenne, 82800 N\u00e8grepelisse",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "9:00-13:00-14:00-18:00",
+          "mardi": "9:00-13:00-14:00-18:00",
+          "mercredi": "9:00-13:00-14:00-18:00",
+          "jeudi": "9:00-13:00-14:00-18:00",
+          "vendredi": "9:00-13:00-14:00-18:00",
+          "samedi": "9:00-13:00",
+          "dimanche": "Non pr\u00e9cis\u00e9 \u00e0 ce jour"
+        }
+      },
+      "prochain_rdv": "2021-04-14T17:30:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "242473[]",
+      "gid": "374"
+    },
     {
       "departement": "82",
       "nom": "centre de vaccination MSP Moissac",
@@ -57,34 +85,6 @@
       "appointment_count": 41,
       "internal_id": "241844[]",
       "gid": "d241844"
-    },
-    {
-      "departement": "82",
-      "nom": "CH N\u00e8grepelisse",
-      "url": "https://partners.doctolib.fr/hopital-public/negrepelisse/centre-de-vaccination-covid-ch-negrepelisse",
-      "location": {
-        "longitude": 1.52185,
-        "latitude": 44.0743
-      },
-      "metadata": {
-        "address": "31 Rue de Turenne, 82800 N\u00e8grepelisse",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "9:00-13:00-14:00-18:00",
-          "mardi": "9:00-13:00-14:00-18:00",
-          "mercredi": "9:00-13:00-14:00-18:00",
-          "jeudi": "9:00-13:00-14:00-18:00",
-          "vendredi": "9:00-13:00-14:00-18:00",
-          "samedi": "9:00-13:00",
-          "dimanche": "Non pr\u00e9cis\u00e9 \u00e0 ce jour"
-        }
-      },
-      "prochain_rdv": "2021-04-24T12:20:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 362,
-      "internal_id": "242473[]",
-      "gid": "374"
     }
   ],
   "centres_indisponibles": [

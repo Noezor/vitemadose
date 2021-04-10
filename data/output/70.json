@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:13:51.430753+02:00",
+  "last_updated": "2021-04-10T19:17:25.979685+02:00",
   "centres_disponibles": [
     {
       "departement": "70",
@@ -172,34 +172,6 @@
     },
     {
       "departement": "70",
-      "nom": "Centre de Vaccination de Luxeuil-les-Bains",
-      "url": "https://partners.doctolib.fr/centre-de-sante/vesoul/ars-de-haute-saone?pid=practice-164264",
-      "location": {
-        "longitude": 6.37467,
-        "latitude": 47.826
-      },
-      "metadata": {
-        "address": " Complexe sportif Les Merises, Rue Marcel Donjon, 70300 Luxeuil-les-Bains",
-        "phone_number": "+33384756475",
-        "business_hours": {
-          "lundi": "09:00-17:00",
-          "mardi": "09:00-17:00",
-          "mercredi": "09:00-17:00",
-          "jeudi": "09:00-17:00",
-          "vendredi": "09:00-17:00",
-          "samedi": "09:00-17:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242279[164264-181663]",
-      "gid": "550"
-    },
-    {
-      "departement": "70",
       "nom": "Centre de vaccination de Vesoul",
       "url": "https://partners.doctolib.fr/centre-de-sante/vesoul/centre-de-vaccination-covid-19-de-vesoul",
       "location": {
@@ -225,6 +197,34 @@
       "appointment_count": 0,
       "internal_id": "242280[]",
       "gid": "539"
+    },
+    {
+      "departement": "70",
+      "nom": "Centre de Vaccination de Luxeuil-les-Bains",
+      "url": "https://partners.doctolib.fr/centre-de-sante/vesoul/ars-de-haute-saone?pid=practice-164264",
+      "location": {
+        "longitude": 6.37467,
+        "latitude": 47.826
+      },
+      "metadata": {
+        "address": " Complexe sportif Les Merises, Rue Marcel Donjon, 70300 Luxeuil-les-Bains",
+        "phone_number": "+33384756475",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "09:00-17:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242279[164264-181663]",
+      "gid": "550"
     },
     {
       "departement": "70",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:13:51.393545+02:00",
+  "last_updated": "2021-04-10T19:17:25.936241+02:00",
   "centres_disponibles": [
     {
       "departement": "32",
@@ -230,34 +230,6 @@
     },
     {
       "departement": "32",
-      "nom": "Maison de sant\u00e9 MIRANDE",
-      "url": "https://partners.doctolib.fr/centre-de-sante/mirande/centre-de-vaccination-covid-19-mirande",
-      "location": {
-        "longitude": 0.405705,
-        "latitude": 43.5156
-      },
-      "metadata": {
-        "address": "4 Place de la Halle, 32300 Mirande",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "09:00-12:00/14:00-17:00",
-          "mardi": "09:00-12:00/14:00-17:00",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243440[]",
-      "gid": "963"
-    },
-    {
-      "departement": "32",
       "nom": "Salle Pierre de Montesquiou  CONDOM",
       "url": "https://partners.doctolib.fr/centre-de-sante/condom/centre-de-vaccination-covid-19-condom",
       "location": {
@@ -283,6 +255,34 @@
       "appointment_count": 0,
       "internal_id": "243447[]",
       "gid": "973"
+    },
+    {
+      "departement": "32",
+      "nom": "Maison de sant\u00e9 MIRANDE",
+      "url": "https://partners.doctolib.fr/centre-de-sante/mirande/centre-de-vaccination-covid-19-mirande",
+      "location": {
+        "longitude": 0.405705,
+        "latitude": 43.5156
+      },
+      "metadata": {
+        "address": "4 Place de la Halle, 32300 Mirande",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "09:00-12:00/14:00-17:00",
+          "mardi": "09:00-12:00/14:00-17:00",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243440[]",
+      "gid": "963"
     },
     {
       "departement": "32",

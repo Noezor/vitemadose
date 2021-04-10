@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:13:51.381456+02:00",
+  "last_updated": "2021-04-10T19:17:25.921724+02:00",
   "centres_disponibles": [
     {
       "departement": "19",
@@ -26,7 +26,7 @@
       "prochain_rdv": "2021-04-11T08:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 6,
+      "appointment_count": 4,
       "internal_id": "265691[182014]",
       "gid": "d265691"
     }
@@ -230,34 +230,6 @@
     },
     {
       "departement": "19",
-      "nom": "Centre de vaccination - Beaulieu sur Dordogne",
-      "url": "https://www.maiia.com/centre-de-vaccination/19120-beaulieu-sur-dordogne/-centre-de-vaccination-de-beaulieu-sur-dordogne",
-      "location": {
-        "longitude": 1.83952,
-        "latitude": 44.9788
-      },
-      "metadata": {
-        "address": "8 Bd Saint Rodolphe de Turenne, 19120 Beaulieu-sur-Dordogne",
-        "phone_number": "07 60 71 48 27 ",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "14:00-17:00",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "09:00-17:00",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Maiia",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1994"
-    },
-    {
-      "departement": "19",
       "nom": "Centre de vaccination - Egletons",
       "url": "https://partners.doctolib.fr/centre-de-sante/egletons/centre-de-vaccination-covid-19-espace-ventadour-egletons?pid=practice-176032",
       "location": {
@@ -283,6 +255,34 @@
       "appointment_count": 0,
       "internal_id": "257170[176032]",
       "gid": "1989"
+    },
+    {
+      "departement": "19",
+      "nom": "Centre de vaccination - Beaulieu sur Dordogne",
+      "url": "https://www.maiia.com/centre-de-vaccination/19120-beaulieu-sur-dordogne/-centre-de-vaccination-de-beaulieu-sur-dordogne",
+      "location": {
+        "longitude": 1.83952,
+        "latitude": 44.9788
+      },
+      "metadata": {
+        "address": "8 Bd Saint Rodolphe de Turenne, 19120 Beaulieu-sur-Dordogne",
+        "phone_number": "07 60 71 48 27 ",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "14:00-17:00",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "09:00-17:00",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1994"
     },
     {
       "departement": "19",
@@ -535,33 +535,6 @@
     },
     {
       "departement": "19",
-      "nom": "MA - US Tulle / Maison d'Arr\u00eat de Tulle",
-      "url": "",
-      "location": {
-        "longitude": 1.76922,
-        "latitude": 45.2751
-      },
-      "metadata": {
-        "address": "26 Rue Souham, 19000 Tulle",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1882"
-    },
-    {
-      "departement": "19",
       "nom": "CD - US Uzerche / Maison d'Arr\u00eat de Tulle",
       "url": "",
       "location": {
@@ -586,6 +559,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1883"
+    },
+    {
+      "departement": "19",
+      "nom": "MA - US Tulle / Maison d'Arr\u00eat de Tulle",
+      "url": "",
+      "location": {
+        "longitude": 1.76922,
+        "latitude": 45.2751
+      },
+      "metadata": {
+        "address": "26 Rue Souham, 19000 Tulle",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1882"
     },
     {
       "departement": "19",

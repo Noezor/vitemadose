@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:13:51.391927+02:00",
+  "last_updated": "2021-04-10T19:17:25.934465+02:00",
   "centres_disponibles": [
     {
       "departement": "31",
@@ -54,7 +54,7 @@
       "prochain_rdv": "2021-04-12T18:00:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 243,
+      "appointment_count": 242,
       "internal_id": null,
       "gid": "654"
     },
@@ -222,7 +222,7 @@
       "prochain_rdv": "2021-04-15T15:05:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 152,
+      "appointment_count": 151,
       "internal_id": null,
       "gid": "622"
     },
@@ -418,7 +418,7 @@
       "prochain_rdv": "2021-05-10T11:50:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 18,
+      "appointment_count": 17,
       "internal_id": null,
       "gid": "675"
     },
@@ -566,34 +566,6 @@
     },
     {
       "departement": "31",
-      "nom": "CDV31 CHU Toulouse Rangueil",
-      "url": "",
-      "location": {
-        "longitude": 1.45377,
-        "latitude": 43.5586
-      },
-      "metadata": {
-        "address": "1 Avenue du Professeur Jean Poulhes, 31400 Toulouse",
-        "phone_number": "0800541919",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "674"
-    },
-    {
-      "departement": "31",
       "nom": "CDV31 Carbonne",
       "url": "https://vaccination-covid.keldoc.com/cabinet-medical/carbonne-31390/carbonne/centre-de-vaccination-de-carbonne",
       "location": {
@@ -619,6 +591,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "851"
+    },
+    {
+      "departement": "31",
+      "nom": "CDV31 CHU Toulouse Rangueil",
+      "url": "",
+      "location": {
+        "longitude": 1.45377,
+        "latitude": 43.5586
+      },
+      "metadata": {
+        "address": "1 Avenue du Professeur Jean Poulhes, 31400 Toulouse",
+        "phone_number": "0800541919",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "674"
     },
     {
       "departement": "31",
@@ -650,34 +650,6 @@
     },
     {
       "departement": "31",
-      "nom": "CDV31 Saint B\u00e9at",
-      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/st-beat-31440/saint-beat/centre-de-vaccination-de-saint-beat",
-      "location": {
-        "longitude": 0.692278,
-        "latitude": 42.9128
-      },
-      "metadata": {
-        "address": "319 Avenue Gallieni, 31440 Saint-B\u00e9at-Lez",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "14:30-18:00",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "14:30-18:00",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Keldoc",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "732"
-    },
-    {
-      "departement": "31",
       "nom": "CDV31 Saint Gaudens",
       "url": "https://vaccination-covid.keldoc.com/cabinet-medical/saint-gaudens-31800/saint-gaudens/centre-de-vaccination-de-saint-gaudens",
       "location": {
@@ -703,6 +675,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "752"
+    },
+    {
+      "departement": "31",
+      "nom": "CDV31 Saint B\u00e9at",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/st-beat-31440/saint-beat/centre-de-vaccination-de-saint-beat",
+      "location": {
+        "longitude": 0.692278,
+        "latitude": 42.9128
+      },
+      "metadata": {
+        "address": "319 Avenue Gallieni, 31440 Saint-B\u00e9at-Lez",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "14:30-18:00",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "14:30-18:00",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "732"
     },
     {
       "departement": "31",
@@ -1152,33 +1152,6 @@
     },
     {
       "departement": "31",
-      "nom": "CP - US de la Maison d'Arret Seysses / CHU Toulouse / Centre de D\u00e9tention de Muret",
-      "url": "",
-      "location": {
-        "longitude": 1.32001,
-        "latitude": 43.4857
-      },
-      "metadata": {
-        "address": " Route de Seysses, 31600 Muret",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1901"
-    },
-    {
-      "departement": "31",
       "nom": "CD - US du Centre de D\u00e9tention de Muret / CHU Toulouse / Centre de D\u00e9tention de Muret",
       "url": "",
       "location": {
@@ -1203,6 +1176,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1902"
+    },
+    {
+      "departement": "31",
+      "nom": "CP - US de la Maison d'Arret Seysses / CHU Toulouse / Centre de D\u00e9tention de Muret",
+      "url": "",
+      "location": {
+        "longitude": 1.32001,
+        "latitude": 43.4857
+      },
+      "metadata": {
+        "address": " Route de Seysses, 31600 Muret",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1901"
     },
     {
       "departement": "31",

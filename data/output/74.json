@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:13:51.433944+02:00",
+  "last_updated": "2021-04-10T19:17:25.983477+02:00",
   "centres_disponibles": [
     {
       "departement": "74",
@@ -54,7 +54,7 @@
       "prochain_rdv": "2021-04-12T17:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 3,
+      "appointment_count": 4,
       "internal_id": "244399[165876]",
       "gid": "1332"
     },
@@ -82,7 +82,7 @@
       "prochain_rdv": "2021-04-12T17:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 6,
+      "appointment_count": 7,
       "internal_id": "262099[]",
       "gid": "d262099"
     },
@@ -106,10 +106,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-13T11:41:00.000+02:00",
+      "prochain_rdv": "2021-04-13T11:48:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 257,
+      "appointment_count": 256,
       "internal_id": "262536[179552]",
       "gid": "2209"
     },
@@ -304,9 +304,37 @@
       "prochain_rdv": "2021-04-26T16:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 254,
+      "appointment_count": 253,
       "internal_id": "243127[]",
       "gid": "757"
+    },
+    {
+      "departement": "74",
+      "nom": "CENTRE HOSPITALIER  ANNECY GENEVOIS",
+      "url": "https://partners.doctolib.fr/hopital-public/annecy/centre-hospitalier-annecy-genevois-centre-de-depistage-et-de-vaccination-covid-19?pid=practice-163436%3fspeciality_id%3d5494",
+      "location": {
+        "longitude": 6.11774,
+        "latitude": 45.9342
+      },
+      "metadata": {
+        "address": "1  avenue de l'h\u00f4pital, 74370 Epagny Metz-Tessy",
+        "phone_number": "+33456497427",
+        "business_hours": {
+          "lundi": "08:00-18:00",
+          "mardi": "08:00-18:00",
+          "mercredi": "08:00-18:00",
+          "jeudi": "08:00-18:00",
+          "vendredi": "08:00-18:00",
+          "samedi": "08:00-12:00",
+          "dimanche": "Ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-27T11:30:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 9,
+      "internal_id": "241468[163436]",
+      "gid": "235"
     },
     {
       "departement": "74",
@@ -335,34 +363,6 @@
       "appointment_count": 136,
       "internal_id": "264503[181077]",
       "gid": "2281"
-    },
-    {
-      "departement": "74",
-      "nom": "CENTRE HOSPITALIER  ANNECY GENEVOIS",
-      "url": "https://partners.doctolib.fr/hopital-public/annecy/centre-hospitalier-annecy-genevois-centre-de-depistage-et-de-vaccination-covid-19?pid=practice-163436%3fspeciality_id%3d5494",
-      "location": {
-        "longitude": 6.11774,
-        "latitude": 45.9342
-      },
-      "metadata": {
-        "address": "1  avenue de l'h\u00f4pital, 74370 Epagny Metz-Tessy",
-        "phone_number": "+33456497427",
-        "business_hours": {
-          "lundi": "08:00-18:00",
-          "mardi": "08:00-18:00",
-          "mercredi": "08:00-18:00",
-          "jeudi": "08:00-18:00",
-          "vendredi": "08:00-18:00",
-          "samedi": "08:00-12:00",
-          "dimanche": "Ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-28T13:42:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 8,
-      "internal_id": "241468[163436]",
-      "gid": "235"
     },
     {
       "departement": "74",
@@ -441,10 +441,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-10T18:00:00.000+02:00",
+      "prochain_rdv": "2021-05-06T11:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 8,
+      "appointment_count": 1,
       "internal_id": "243203[]",
       "gid": "761"
     },

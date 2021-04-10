@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:13:51.376911+02:00",
+  "last_updated": "2021-04-10T19:17:25.917077+02:00",
   "centres_disponibles": [
     {
       "departement": "14",
@@ -26,7 +26,7 @@
       "prochain_rdv": "2021-04-13T17:30:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 62,
+      "appointment_count": 61,
       "internal_id": null,
       "gid": "501"
     },
@@ -79,7 +79,7 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-17T17:30:00.000+02:00",
+      "prochain_rdv": "2021-04-17T14:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 30,
@@ -507,6 +507,26 @@
     },
     {
       "departement": "14",
+      "nom": "Pharmacie Treich",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-treich-demouville-1",
+      "location": {
+        "longitude": -0.2706907,
+        "latitude": 49.1785092
+      },
+      "metadata": {
+        "address": "13 rue du Centre, 14840 D\u00e9mouville",
+        "phone_number": "+33231723626",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "30383026"
+    },
+    {
+      "departement": "14",
       "nom": "Pharmacie Ferran",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-ferran-mondeville",
       "location": {
@@ -547,26 +567,6 @@
     },
     {
       "departement": "14",
-      "nom": "Pharmacie Decoutere",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-decoutere-argences",
-      "location": {
-        "longitude": -0.1650576,
-        "latitude": 49.1270886
-      },
-      "metadata": {
-        "address": "7 Boulevard Delean, 14370 Argences",
-        "phone_number": "+33231236035",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "797a4682"
-    },
-    {
-      "departement": "14",
       "nom": "Pharmacie De L'Avenir",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-l'avenir-orbec",
       "location": {
@@ -587,15 +587,15 @@
     },
     {
       "departement": "14",
-      "nom": "Pharmacie De La Plage",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-la-plage-merville-franceville",
+      "nom": "Pharmacie Decoutere",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-decoutere-argences",
       "location": {
-        "longitude": -0.2027435,
-        "latitude": 49.2840845
+        "longitude": -0.1650576,
+        "latitude": 49.1270886
       },
       "metadata": {
-        "address": "59 avenue de Paris, 14810 Merville Franceville",
-        "phone_number": "+33231242187",
+        "address": "7 Boulevard Delean, 14370 Argences",
+        "phone_number": "+33231236035",
         "business_hours": null
       },
       "prochain_rdv": null,
@@ -603,7 +603,7 @@
       "type": "drugstore",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "bc9450d2"
+      "gid": "797a4682"
     },
     {
       "departement": "14",
@@ -627,15 +627,15 @@
     },
     {
       "departement": "14",
-      "nom": "Pharmacie Treich",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-treich-demouville-1",
+      "nom": "Pharmacie De La Plage",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-la-plage-merville-franceville",
       "location": {
-        "longitude": -0.2706907,
-        "latitude": 49.1785092
+        "longitude": -0.2027435,
+        "latitude": 49.2840845
       },
       "metadata": {
-        "address": "13 rue du Centre, 14840 D\u00e9mouville",
-        "phone_number": "+33231723626",
+        "address": "59 avenue de Paris, 14810 Merville Franceville",
+        "phone_number": "+33231242187",
         "business_hours": null
       },
       "prochain_rdv": null,
@@ -643,7 +643,7 @@
       "type": "drugstore",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "30383026"
+      "gid": "bc9450d2"
     },
     {
       "departement": "14",

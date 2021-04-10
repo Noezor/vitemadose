@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:13:51.402583+02:00",
+  "last_updated": "2021-04-10T19:17:25.946836+02:00",
   "centres_disponibles": [
     {
       "departement": "41",
@@ -22,10 +22,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-05-04T08:50:00.000+02:00",
+      "prochain_rdv": "2021-05-04T08:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 94,
+      "appointment_count": 95,
       "internal_id": "265672[]",
       "gid": "d265672"
     }
@@ -253,33 +253,6 @@
     },
     {
       "departement": "41",
-      "nom": "Centre de vaccination \u00e9ph\u00e9m\u00e8re de La Chapelle Vend\u00f4moise",
-      "url": "",
-      "location": {
-        "longitude": 1.24155,
-        "latitude": 47.6716
-      },
-      "metadata": {
-        "address": "1 Rue de Blois, 41330 La Chapelle-Vend\u00f4moise",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1978"
-    },
-    {
-      "departement": "41",
       "nom": "Centre de vaccination \u00e9ph\u00e9m\u00e8re de de Saint Laurent Nouan",
       "url": "https://partners.doctolib.fr/centre-de-sante/saint-laurent-nouan/centre-vaccination-saint-laurent-nouan?pid=practice-172473",
       "location": {
@@ -304,6 +277,33 @@
       "appointment_count": 0,
       "internal_id": "252523[172473]",
       "gid": "1977"
+    },
+    {
+      "departement": "41",
+      "nom": "Centre de vaccination \u00e9ph\u00e9m\u00e8re de La Chapelle Vend\u00f4moise",
+      "url": "",
+      "location": {
+        "longitude": 1.24155,
+        "latitude": 47.6716
+      },
+      "metadata": {
+        "address": "1 Rue de Blois, 41330 La Chapelle-Vend\u00f4moise",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1978"
     },
     {
       "departement": "41",
@@ -823,34 +823,6 @@
     },
     {
       "departement": "41",
-      "nom": "Centre de vaccination - la Gare des Collines - Maison France Service",
-      "url": "https://partners.doctolib.fr/maison-de-sante/mondoubleau/centre-de-vaccination-covid-la-gare-des-collines?pid=practice-168224",
-      "location": {
-        "longitude": 0.894313,
-        "latitude": 47.9848
-      },
-      "metadata": {
-        "address": "3 Avenue de la Gare, 41170 Mondoubleau",
-        "phone_number": "08 05 02 14 00",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "Ouvert",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "247241[168224]",
-      "gid": "1342"
-    },
-    {
-      "departement": "41",
       "nom": "Centre hospitalier de Blois - Simone Veil - r\u00e9serv\u00e9 aux professionnels de sant\u00e9",
       "url": "https://partners.doctolib.fr/hopital-public/blois/ch-blois-centre-de-vaccination-covid-19-reserve-aux-professionnels-du-chb",
       "location": {
@@ -876,6 +848,34 @@
       "appointment_count": 0,
       "internal_id": "241695[]",
       "gid": "1355"
+    },
+    {
+      "departement": "41",
+      "nom": "Centre de vaccination - la Gare des Collines - Maison France Service",
+      "url": "https://partners.doctolib.fr/maison-de-sante/mondoubleau/centre-de-vaccination-covid-la-gare-des-collines?pid=practice-168224",
+      "location": {
+        "longitude": 0.894313,
+        "latitude": 47.9848
+      },
+      "metadata": {
+        "address": "3 Avenue de la Gare, 41170 Mondoubleau",
+        "phone_number": "08 05 02 14 00",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "Ouvert",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "247241[168224]",
+      "gid": "1342"
     },
     {
       "departement": "41",

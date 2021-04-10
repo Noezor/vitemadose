@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:13:51.441017+02:00",
+  "last_updated": "2021-04-10T19:17:25.992063+02:00",
   "centres_disponibles": [
     {
       "departement": "78",
@@ -26,7 +26,7 @@
       "prochain_rdv": "2021-04-12T09:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 11,
+      "appointment_count": 10,
       "internal_id": "255582[174913]",
       "gid": "1655"
     },
@@ -54,9 +54,37 @@
       "prochain_rdv": "2021-04-12T09:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 317,
+      "appointment_count": 319,
       "internal_id": "243464[]",
       "gid": "966"
+    },
+    {
+      "departement": "78",
+      "nom": "Communaut\u00e9 de communes Haute Vall\u00e9e de Chevreuse",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-remy-les-chevreuse/centre-de-vaccination-de-saint-remy-les-chevreuse",
+      "location": {
+        "longitude": 2.07253,
+        "latitude": 48.7034
+      },
+      "metadata": {
+        "address": "15 Rue Ditte, 78470 Saint-R\u00e9my-l\u00e8s-Chevreuse",
+        "phone_number": "+33645796334",
+        "business_hours": {
+          "lundi": "9:00-17:00",
+          "mardi": "9:00-17:00",
+          "mercredi": "9:00-17:00",
+          "jeudi": "9:00-17:00",
+          "vendredi": "9:00-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-12T11:10:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "242653[]",
+      "gid": "431"
     },
     {
       "departement": "78",
@@ -110,7 +138,7 @@
       "prochain_rdv": "2021-04-14T10:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 17,
+      "appointment_count": 18,
       "internal_id": "255947[175159]",
       "gid": "1678"
     },
@@ -135,7 +163,7 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-16T17:20:00.000+02:00",
+      "prochain_rdv": "2021-04-14T15:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 68,
@@ -226,34 +254,6 @@
       "appointment_count": 0,
       "internal_id": "242655[]",
       "gid": "429"
-    },
-    {
-      "departement": "78",
-      "nom": "Communaut\u00e9 de communes Haute Vall\u00e9e de Chevreuse",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saint-remy-les-chevreuse/centre-de-vaccination-de-saint-remy-les-chevreuse",
-      "location": {
-        "longitude": 2.07253,
-        "latitude": 48.7034
-      },
-      "metadata": {
-        "address": "15 Rue Ditte, 78470 Saint-R\u00e9my-l\u00e8s-Chevreuse",
-        "phone_number": "+33645796334",
-        "business_hours": {
-          "lundi": "9:00-17:00",
-          "mardi": "9:00-17:00",
-          "mercredi": "9:00-17:00",
-          "jeudi": "9:00-17:00",
-          "vendredi": "9:00-17:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242653[]",
-      "gid": "431"
     },
     {
       "departement": "78",
@@ -505,33 +505,6 @@
     },
     {
       "departement": "78",
-      "nom": "EPM - US de Porcheville / Etablissement sp\u00e9cialis\u00e9 pour mineurs de Porcheville",
-      "url": "",
-      "location": {
-        "longitude": 1.76737,
-        "latitude": 48.9888
-      },
-      "metadata": {
-        "address": " Chemin Rouen Paris, 78440 Porcheville",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1853"
-    },
-    {
-      "departement": "78",
       "nom": "MC - USMP de Poissy / Maison Centrale de Poissy",
       "url": "",
       "location": {
@@ -556,6 +529,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1852"
+    },
+    {
+      "departement": "78",
+      "nom": "EPM - US de Porcheville / Etablissement sp\u00e9cialis\u00e9 pour mineurs de Porcheville",
+      "url": "",
+      "location": {
+        "longitude": 1.76737,
+        "latitude": 48.9888
+      },
+      "metadata": {
+        "address": " Chemin Rouen Paris, 78440 Porcheville",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1853"
     },
     {
       "departement": "78",
@@ -641,34 +641,6 @@
     },
     {
       "departement": "78",
-      "nom": "Centre de vaccination de Sartrouville",
-      "url": "https://partners.doctolib.fr/centre-de-sante/sartrouville/centre-de-vaccination-covid-19-de-sartrouville?pid=practice-165170",
-      "location": {
-        "longitude": 2.1631,
-        "latitude": 48.9359
-      },
-      "metadata": {
-        "address": "96 Rue Louise Michel, 78500 Sartrouville",
-        "phone_number": "0800101078",
-        "business_hours": {
-          "lundi": "14:00-18:00",
-          "mardi": "14:00-18:00",
-          "mercredi": "14:00-18:00",
-          "jeudi": "14:00-18:00",
-          "vendredi": "14:00-18:00",
-          "samedi": "14:00-18:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243204[165170]",
-      "gid": "1651"
-    },
-    {
-      "departement": "78",
       "nom": "Centre de vaccination de V\u00e9lizy-Villacoublay",
       "url": "https://www.doctolib.fr/centre-de-vaccinations-internationales/velizy-villacoublay/apta-78-vaccination-covid-19-velizy-villacoublay",
       "location": {
@@ -722,6 +694,34 @@
       "appointment_count": 0,
       "internal_id": "260818[178074]",
       "gid": "2113"
+    },
+    {
+      "departement": "78",
+      "nom": "Centre de vaccination de Sartrouville",
+      "url": "https://partners.doctolib.fr/centre-de-sante/sartrouville/centre-de-vaccination-covid-19-de-sartrouville?pid=practice-165170",
+      "location": {
+        "longitude": 2.1631,
+        "latitude": 48.9359
+      },
+      "metadata": {
+        "address": "96 Rue Louise Michel, 78500 Sartrouville",
+        "phone_number": "0800101078",
+        "business_hours": {
+          "lundi": "14:00-18:00",
+          "mardi": "14:00-18:00",
+          "mercredi": "14:00-18:00",
+          "jeudi": "14:00-18:00",
+          "vendredi": "14:00-18:00",
+          "samedi": "14:00-18:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243204[165170]",
+      "gid": "1651"
     },
     {
       "departement": "78",
@@ -1023,33 +1023,6 @@
     },
     {
       "departement": "78",
-      "nom": "Centre de vaccination COVID-19 de Poissy",
-      "url": "https://partners.doctolib.fr/centre-de-sante/poissy/centre-de-vaccination-de-poissy",
-      "location": {
-        "longitude": 2.0302402,
-        "latitude": 48.9245437
-      },
-      "metadata": {
-        "address": "53 Avenue Blanche de Castille, 78300 Poissy",
-        "business_hours": {
-          "lundi": null,
-          "mardi": null,
-          "mercredi": null,
-          "jeudi": null,
-          "vendredi": null,
-          "samedi": null,
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242362[]",
-      "gid": "d242362"
-    },
-    {
-      "departement": "78",
       "nom": "Centre de vaccination COVID-19 (r\u00e9serv\u00e9 aux professionnels de sant\u00e9) - Rambouillet",
       "url": "https://partners.doctolib.fr/centre-de-sante/rambouillet/centre-de-vaccination-personnels-soignants-ch-rambouillet",
       "location": {
@@ -1074,6 +1047,33 @@
       "appointment_count": 0,
       "internal_id": "240299[]",
       "gid": "d240299"
+    },
+    {
+      "departement": "78",
+      "nom": "Centre de vaccination COVID-19 de Poissy",
+      "url": "https://partners.doctolib.fr/centre-de-sante/poissy/centre-de-vaccination-de-poissy",
+      "location": {
+        "longitude": 2.0302402,
+        "latitude": 48.9245437
+      },
+      "metadata": {
+        "address": "53 Avenue Blanche de Castille, 78300 Poissy",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242362[]",
+      "gid": "d242362"
     }
   ]
 }

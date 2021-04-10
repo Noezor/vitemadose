@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:13:51.412729+02:00",
+  "last_updated": "2021-04-10T19:17:25.958766+02:00",
   "centres_disponibles": [
     {
       "departement": "55",
@@ -135,43 +135,15 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-28T17:05:00.000+02:00",
+      "prochain_rdv": "2021-04-28T17:25:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 135,
+      "appointment_count": 134,
       "internal_id": "242246[]",
       "gid": "105"
     }
   ],
   "centres_indisponibles": [
-    {
-      "departement": "55",
-      "nom": "Lieu de vaccination de SPINCOURT - MSP",
-      "url": "",
-      "location": {
-        "longitude": 5.66268,
-        "latitude": 49.3323
-      },
-      "metadata": {
-        "address": "9 Chemin du Mont, 55230 Spincourt",
-        "phone_number": "+33329859732",
-        "business_hours": {
-          "lundi": "A pr\u00e9ciser",
-          "mardi": "A pr\u00e9ciser",
-          "mercredi": "A pr\u00e9ciser",
-          "jeudi": "A pr\u00e9ciser",
-          "vendredi": "A pr\u00e9ciser",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1286"
-    },
     {
       "departement": "55",
       "nom": "Lieu de vaccination de CLERMONT EN ARGONNE",
@@ -202,15 +174,15 @@
     },
     {
       "departement": "55",
-      "nom": "Lieu de vaccination FRESNES EN WOEVRE - MSP",
-      "url": "https://www.maiia.com/centre-de-vaccination/55160-fresnes-en-woevre/centre-de-vaccination---fresnes-en-woevre",
+      "nom": "Lieu de vaccination de SPINCOURT - MSP",
+      "url": "",
       "location": {
-        "longitude": 5.62516,
-        "latitude": 49.0945
+        "longitude": 5.66268,
+        "latitude": 49.3323
       },
       "metadata": {
-        "address": "16 bis Rue des Eparges, 55160 Fresnes-en-Wo\u00ebvre",
-        "phone_number": "+33372850117",
+        "address": "9 Chemin du Mont, 55230 Spincourt",
+        "phone_number": "+33329859732",
         "business_hours": {
           "lundi": "A pr\u00e9ciser",
           "mardi": "A pr\u00e9ciser",
@@ -222,11 +194,11 @@
         }
       },
       "prochain_rdv": null,
-      "plateforme": "Maiia",
+      "plateforme": "Autre",
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "1284"
+      "gid": "1286"
     },
     {
       "departement": "55",
@@ -255,6 +227,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1285"
+    },
+    {
+      "departement": "55",
+      "nom": "Lieu de vaccination FRESNES EN WOEVRE - MSP",
+      "url": "https://www.maiia.com/centre-de-vaccination/55160-fresnes-en-woevre/centre-de-vaccination---fresnes-en-woevre",
+      "location": {
+        "longitude": 5.62516,
+        "latitude": 49.0945
+      },
+      "metadata": {
+        "address": "16 bis Rue des Eparges, 55160 Fresnes-en-Wo\u00ebvre",
+        "phone_number": "+33372850117",
+        "business_hours": {
+          "lundi": "A pr\u00e9ciser",
+          "mardi": "A pr\u00e9ciser",
+          "mercredi": "A pr\u00e9ciser",
+          "jeudi": "A pr\u00e9ciser",
+          "vendredi": "A pr\u00e9ciser",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1284"
     },
     {
       "departement": "55",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:13:51.374417+02:00",
+  "last_updated": "2021-04-10T19:17:25.914405+02:00",
   "centres_disponibles": [
     {
       "departement": "13",
@@ -28,6 +28,34 @@
       "appointment_count": 252,
       "internal_id": null,
       "gid": "2004"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre de vaccination de la CPTS Vignes et Calanques pour les communes de La Ciotat, Ceyreste, Cassis, Roquefort la B\u00e9doule, Carnoux en Provence.",
+      "url": "https://partners.doctolib.fr/centre-de-sante/la-ciotat/centre-de-vaccination-covid-paul-eluard?pid=practice-165767",
+      "location": {
+        "longitude": 5.60028,
+        "latitude": 43.1837
+      },
+      "metadata": {
+        "address": " Complexe Paul ELUARD - Avenue Jules Ferry, 13600 La Ciotat",
+        "phone_number": "04 42 83 89 68",
+        "business_hours": {
+          "lundi": "En cours de pr\u00e9cision",
+          "mardi": "En cours de pr\u00e9cision",
+          "mercredi": "En cours de pr\u00e9cision",
+          "jeudi": "En cours de pr\u00e9cision",
+          "vendredi": "En cours de pr\u00e9cision",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-12T10:00:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 21,
+      "internal_id": "244160[165767]",
+      "gid": "1295"
     },
     {
       "departement": "13",
@@ -69,40 +97,12 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-13T10:25:00.000+02:00",
+      "prochain_rdv": "2021-04-13T11:35:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 58,
+      "appointment_count": 55,
       "internal_id": "243317[]",
       "gid": "1205"
-    },
-    {
-      "departement": "13",
-      "nom": "Centre de vaccination de la CPTS Vignes et Calanques pour les communes de La Ciotat, Ceyreste, Cassis, Roquefort la B\u00e9doule, Carnoux en Provence.",
-      "url": "https://partners.doctolib.fr/centre-de-sante/la-ciotat/centre-de-vaccination-covid-paul-eluard?pid=practice-165767",
-      "location": {
-        "longitude": 5.60028,
-        "latitude": 43.1837
-      },
-      "metadata": {
-        "address": " Complexe Paul ELUARD - Avenue Jules Ferry, 13600 La Ciotat",
-        "phone_number": "04 42 83 89 68",
-        "business_hours": {
-          "lundi": "En cours de pr\u00e9cision",
-          "mardi": "En cours de pr\u00e9cision",
-          "mercredi": "En cours de pr\u00e9cision",
-          "jeudi": "En cours de pr\u00e9cision",
-          "vendredi": "En cours de pr\u00e9cision",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-13T11:45:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 19,
-      "internal_id": "244160[165767]",
-      "gid": "1295"
     },
     {
       "departement": "13",
@@ -164,10 +164,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-16T13:25:00.000+02:00",
+      "prochain_rdv": "2021-04-16T13:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 59,
+      "appointment_count": 58,
       "internal_id": "264490[]",
       "gid": "d264490"
     },
@@ -219,10 +219,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-20T12:35:00.000+02:00",
+      "prochain_rdv": "2021-04-20T12:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 238,
+      "appointment_count": 237,
       "internal_id": "243270[164400]",
       "gid": "438"
     },
@@ -284,34 +284,6 @@
     },
     {
       "departement": "13",
-      "nom": "Conseil d\u00e9partemental centre de PMI",
-      "url": "https://partners.doctolib.fr/centre-de-sante/marseille/centre-de-vaccination-covid-mazenod",
-      "location": {
-        "longitude": 5.36535,
-        "latitude": 43.301
-      },
-      "metadata": {
-        "address": "2 Rue Mazenod, 13002 Marseille",
-        "phone_number": "04 13 31 38 00",
-        "business_hours": {
-          "lundi": "ouvert",
-          "mardi": "ouvert",
-          "mercredi": "ouvert",
-          "jeudi": "ouvert",
-          "vendredi": "ouvert",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-23T14:10:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "243169[165126]",
-      "gid": "456"
-    },
-    {
-      "departement": "13",
       "nom": "Centre de vaccination de Carry-le-Rouet",
       "url": "https://www.maiia.com/centre-de-vaccination/13620-carry-le-rouet/centre-de-vaccination---centre-de-carry-le-rouet",
       "location": {
@@ -359,10 +331,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-26T10:20:00.000+02:00",
+      "prochain_rdv": "2021-04-26T10:25:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 264,
+      "appointment_count": 262,
       "internal_id": "243091[165061]",
       "gid": "1202"
     },
@@ -387,12 +359,40 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-26T10:20:00.000+02:00",
+      "prochain_rdv": "2021-04-26T10:25:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 264,
+      "appointment_count": 262,
       "internal_id": "243091[]",
       "gid": "919"
+    },
+    {
+      "departement": "13",
+      "nom": "Conseil d\u00e9partemental centre de PMI",
+      "url": "https://partners.doctolib.fr/centre-de-sante/marseille/centre-de-vaccination-covid-mazenod",
+      "location": {
+        "longitude": 5.36535,
+        "latitude": 43.301
+      },
+      "metadata": {
+        "address": "2 Rue Mazenod, 13002 Marseille",
+        "phone_number": "04 13 31 38 00",
+        "business_hours": {
+          "lundi": "ouvert",
+          "mardi": "ouvert",
+          "mercredi": "ouvert",
+          "jeudi": "ouvert",
+          "vendredi": "ouvert",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-29T13:50:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 51,
+      "internal_id": "243169[165126]",
+      "gid": "456"
     },
     {
       "departement": "13",
@@ -594,34 +594,6 @@
     },
     {
       "departement": "13",
-      "nom": "H\u00f4tel de Ville de Marseille",
-      "url": "https://www.maiia.com/centre-de-vaccination/13002-marseille/centre-de-vaccination-covid---hotel-de-ville---ville-de-marseille",
-      "location": {
-        "longitude": 5.37007,
-        "latitude": 43.2959
-      },
-      "metadata": {
-        "address": " Quai du Port, 13002 Marseille",
-        "phone_number": "3013",
-        "business_hours": {
-          "lundi": "9h-16h",
-          "mardi": "9h-16h",
-          "mercredi": "9h-16h",
-          "jeudi": "9h-16h",
-          "vendredi": "9h-16h",
-          "samedi": "9h-16h",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Maiia",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1048"
-    },
-    {
-      "departement": "13",
       "nom": "Centre de Vaccination Miramas Saint-Chamas - Salle des f\u00eates de Miramas",
       "url": "https://www.maiia.com/centre-de-vaccination/13140-miramas/centre-de-vaccination-de-miramas-saint-chamas",
       "location": {
@@ -647,6 +619,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "845"
+    },
+    {
+      "departement": "13",
+      "nom": "H\u00f4tel de Ville de Marseille",
+      "url": "https://www.maiia.com/centre-de-vaccination/13002-marseille/centre-de-vaccination-covid---hotel-de-ville---ville-de-marseille",
+      "location": {
+        "longitude": 5.37007,
+        "latitude": 43.2959
+      },
+      "metadata": {
+        "address": " Quai du Port, 13002 Marseille",
+        "phone_number": "3013",
+        "business_hours": {
+          "lundi": "9h-16h",
+          "mardi": "9h-16h",
+          "mercredi": "9h-16h",
+          "jeudi": "9h-16h",
+          "vendredi": "9h-16h",
+          "samedi": "9h-16h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1048"
     },
     {
       "departement": "13",
@@ -1149,60 +1149,6 @@
     },
     {
       "departement": "13",
-      "nom": "Clinique de Vitrolles (R\u00e9serv\u00e9 aux professionnels de sant\u00e9 lib\u00e9raux)",
-      "url": "https://partners.doctolib.fr/clinique-privee/vitrolles/clinique-de-vitrolles-centre-de-vaccination-covid-19",
-      "location": {
-        "longitude": 5.26829,
-        "latitude": 43.4259
-      },
-      "metadata": {
-        "address": "2 La Tuili\u00e8re, 2 Rue Bel air, 13127 Vitrolles",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "9h-17h",
-          "mercredi": "9h-17h",
-          "jeudi": "9h-17h",
-          "vendredi": "9h-17h",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243142[]",
-      "gid": "455"
-    },
-    {
-      "departement": "13",
-      "nom": "Centre de vaccination de l'H\u00f4pital d'Instruction des Arm\u00e9es Laveran",
-      "url": "doctolib",
-      "location": {
-        "longitude": 5.41388,
-        "latitude": 43.3269
-      },
-      "metadata": {
-        "address": "24 bouvelard Laveran, 13013 Marseille",
-        "business_hours": {
-          "lundi": "En attente pr\u00e9cision",
-          "mardi": "En attente pr\u00e9cision",
-          "mercredi": "En attente pr\u00e9cision",
-          "jeudi": "En attente pr\u00e9cision",
-          "vendredi": "En attente pr\u00e9cision",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "2171"
-    },
-    {
-      "departement": "13",
       "nom": "Clinique g\u00e9n\u00e9rale de Marignane",
       "url": "https://partners.doctolib.fr/clinique-privee/marignane/centre-de-vaccination-covid-19-clinique-generale-de-marignane",
       "location": {
@@ -1254,6 +1200,60 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "983"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre de vaccination de l'H\u00f4pital d'Instruction des Arm\u00e9es Laveran",
+      "url": "doctolib",
+      "location": {
+        "longitude": 5.41388,
+        "latitude": 43.3269
+      },
+      "metadata": {
+        "address": "24 bouvelard Laveran, 13013 Marseille",
+        "business_hours": {
+          "lundi": "En attente pr\u00e9cision",
+          "mardi": "En attente pr\u00e9cision",
+          "mercredi": "En attente pr\u00e9cision",
+          "jeudi": "En attente pr\u00e9cision",
+          "vendredi": "En attente pr\u00e9cision",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "2171"
+    },
+    {
+      "departement": "13",
+      "nom": "Clinique de Vitrolles (R\u00e9serv\u00e9 aux professionnels de sant\u00e9 lib\u00e9raux)",
+      "url": "https://partners.doctolib.fr/clinique-privee/vitrolles/clinique-de-vitrolles-centre-de-vaccination-covid-19",
+      "location": {
+        "longitude": 5.26829,
+        "latitude": 43.4259
+      },
+      "metadata": {
+        "address": "2 La Tuili\u00e8re, 2 Rue Bel air, 13127 Vitrolles",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "9h-17h",
+          "mercredi": "9h-17h",
+          "jeudi": "9h-17h",
+          "vendredi": "9h-17h",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243142[]",
+      "gid": "455"
     },
     {
       "departement": "13",
@@ -1339,6 +1339,33 @@
     },
     {
       "departement": "13",
+      "nom": "SAS - US SAS / Etablissement sp\u00e9cialis\u00e9 pour mineurs de Marseille",
+      "url": "",
+      "location": {
+        "longitude": 5.48264,
+        "latitude": 43.2898
+      },
+      "metadata": {
+        "address": " Mont\u00e9e Commandant de Robien, 13011 Marseille",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1921"
+    },
+    {
+      "departement": "13",
       "nom": "EPM - US US-SMPR-CSAPA Etablissement p\u00e9nitentiaire pour Mineur de la Valentine / Etablissement sp\u00e9cialis\u00e9 pour mineurs de Marseille",
       "url": "",
       "location": {
@@ -1390,33 +1417,6 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1922"
-    },
-    {
-      "departement": "13",
-      "nom": "SAS - US SAS / Etablissement sp\u00e9cialis\u00e9 pour mineurs de Marseille",
-      "url": "",
-      "location": {
-        "longitude": 5.48264,
-        "latitude": 43.2898
-      },
-      "metadata": {
-        "address": " Mont\u00e9e Commandant de Robien, 13011 Marseille",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1921"
     },
     {
       "departement": "13",
@@ -1472,6 +1472,66 @@
       "appointment_count": 0,
       "internal_id": "256205[175327]",
       "gid": "1987"
+    },
+    {
+      "departement": "13",
+      "nom": "Pharmacie Lanconnaise",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-lanconnaise-lancon-provence",
+      "location": {
+        "longitude": 5.1271988,
+        "latitude": 43.5893076
+      },
+      "metadata": {
+        "address": "17 bis bd Victor HUGO, 13680 LANCON PROVENCE",
+        "phone_number": "+33490427434",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1e0e040c"
+    },
+    {
+      "departement": "13",
+      "nom": "Pharmacie Lyautey",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-lyautey-carnoux-en-provence",
+      "location": {
+        "longitude": 5.566168999999999,
+        "latitude": 43.25568699999999
+      },
+      "metadata": {
+        "address": "18 boulevard du Marechal Juin, 13470 Carnoux en Provence",
+        "phone_number": "+33442737157",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "20569042"
+    },
+    {
+      "departement": "13",
+      "nom": "Herboristerie Petit",
+      "url": "https://app.ordoclic.fr/app/pharmacie/herboristerie-petit-marseille",
+      "location": {
+        "longitude": 5.3866736,
+        "latitude": 43.3002622
+      },
+      "metadata": {
+        "address": "24 Cours Joseph Thierry, 13001 Marseille",
+        "phone_number": "+33491623303",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "41b5a8e4"
     },
     {
       "departement": "13",
@@ -1570,66 +1630,6 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "f830ef23"
-    },
-    {
-      "departement": "13",
-      "nom": "Pharmacie Lanconnaise",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-lanconnaise-lancon-provence",
-      "location": {
-        "longitude": 5.1271988,
-        "latitude": 43.5893076
-      },
-      "metadata": {
-        "address": "17 bis bd Victor HUGO, 13680 LANCON PROVENCE",
-        "phone_number": "+33490427434",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1e0e040c"
-    },
-    {
-      "departement": "13",
-      "nom": "Pharmacie Lyautey",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-lyautey-carnoux-en-provence",
-      "location": {
-        "longitude": 5.566168999999999,
-        "latitude": 43.25568699999999
-      },
-      "metadata": {
-        "address": "18 boulevard du Marechal Juin, 13470 Carnoux en Provence",
-        "phone_number": "+33442737157",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "20569042"
-    },
-    {
-      "departement": "13",
-      "nom": "Herboristerie Petit",
-      "url": "https://app.ordoclic.fr/app/pharmacie/herboristerie-petit-marseille",
-      "location": {
-        "longitude": 5.3866736,
-        "latitude": 43.3002622
-      },
-      "metadata": {
-        "address": "24 Cours Joseph Thierry, 13001 Marseille",
-        "phone_number": "+33491623303",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "41b5a8e4"
     },
     {
       "departement": "13",

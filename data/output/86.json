@@ -1,36 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:13:51.448596+02:00",
-  "centres_disponibles": [
-    {
-      "departement": "86",
-      "nom": "CHU POITIERS - Site de LA MILETRIE",
-      "url": "https://partners.doctolib.fr/hopital-public/poitiers/centre-de-vaccination-chu-poitiers-la-miletrie",
-      "location": {
-        "longitude": 0.379103,
-        "latitude": 46.5611
-      },
-      "metadata": {
-        "address": "2 Rue de la Mil\u00e8trie, 86000 Poitiers",
-        "phone_number": "+33516604064",
-        "business_hours": {
-          "lundi": "07:00-09:30/12:00-13:30/18:00-19:30",
-          "mardi": "07:00-09:30/12:00-13:30/18:00-19:30",
-          "mercredi": "07:00-09:30/12:00-13:30/18:00-19:30",
-          "jeudi": "07:00-09:30/12:00-13:30/18:00-19:30",
-          "vendredi": "07:00-09:30/12:00-13:30/18:00-19:30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-05-14T17:05:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 4,
-      "internal_id": "242489[]",
-      "gid": "196"
-    }
-  ],
+  "last_updated": "2021-04-10T19:17:26.001482+02:00",
+  "centres_disponibles": [],
   "centres_indisponibles": [
     {
       "departement": "86",
@@ -277,6 +248,34 @@
       "appointment_count": 0,
       "internal_id": "253166[173005]",
       "gid": "1613"
+    },
+    {
+      "departement": "86",
+      "nom": "CHU POITIERS - Site de LA MILETRIE",
+      "url": "https://partners.doctolib.fr/hopital-public/poitiers/centre-de-vaccination-chu-poitiers-la-miletrie",
+      "location": {
+        "longitude": 0.379103,
+        "latitude": 46.5611
+      },
+      "metadata": {
+        "address": "2 Rue de la Mil\u00e8trie, 86000 Poitiers",
+        "phone_number": "+33516604064",
+        "business_hours": {
+          "lundi": "07:00-09:30/12:00-13:30/18:00-19:30",
+          "mardi": "07:00-09:30/12:00-13:30/18:00-19:30",
+          "mercredi": "07:00-09:30/12:00-13:30/18:00-19:30",
+          "jeudi": "07:00-09:30/12:00-13:30/18:00-19:30",
+          "vendredi": "07:00-09:30/12:00-13:30/18:00-19:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242489[]",
+      "gid": "196"
     },
     {
       "departement": "86",
@@ -528,26 +527,6 @@
     },
     {
       "departement": "86",
-      "nom": "Pharmacie Porte Sud",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-porte-sud-chatellerault",
-      "location": {
-        "longitude": 0.5293911000000001,
-        "latitude": 46.7983394
-      },
-      "metadata": {
-        "address": "6 AV CAMILLE PAGE, 86100 CHATELLERAULT",
-        "phone_number": "+33549215709",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "07d3b6f9"
-    },
-    {
-      "departement": "86",
       "nom": "Pharmacie De Lucas",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-lucas--nerignac",
       "location": {
@@ -565,6 +544,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1f8f0ae3"
+    },
+    {
+      "departement": "86",
+      "nom": "Pharmacie Porte Sud",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-porte-sud-chatellerault",
+      "location": {
+        "longitude": 0.5293911000000001,
+        "latitude": 46.7983394
+      },
+      "metadata": {
+        "address": "6 AV CAMILLE PAGE, 86100 CHATELLERAULT",
+        "phone_number": "+33549215709",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "07d3b6f9"
     },
     {
       "departement": "86",

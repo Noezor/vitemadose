@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:13:51.409115+02:00",
+  "last_updated": "2021-04-10T19:17:25.954424+02:00",
   "centres_disponibles": [
     {
       "departement": "50",
@@ -26,7 +26,7 @@
       "prochain_rdv": "2021-04-12T14:32:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 31,
+      "appointment_count": 30,
       "internal_id": "262130[179197]",
       "gid": "2139"
     },
@@ -54,7 +54,7 @@
       "prochain_rdv": "2021-04-13T09:20:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 1924,
+      "appointment_count": 1923,
       "internal_id": null,
       "gid": "110"
     },
@@ -82,7 +82,7 @@
       "prochain_rdv": "2021-04-16T13:25:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 1174,
+      "appointment_count": 1172,
       "internal_id": null,
       "gid": "118"
     },
@@ -110,7 +110,7 @@
       "prochain_rdv": "2021-04-29T14:25:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 124,
+      "appointment_count": 126,
       "internal_id": "255959[175175]",
       "gid": "19"
     }
@@ -339,26 +339,6 @@
     },
     {
       "departement": "50",
-      "nom": "Pharmacie Des Matignon",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-matignon-granville",
-      "location": {
-        "longitude": -1.5619506,
-        "latitude": 48.8376172
-      },
-      "metadata": {
-        "address": "1720 AVENUE DES MATIGNON, 50400 GRANVILLE",
-        "phone_number": "+33233617324",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "a86ca0d0"
-    },
-    {
-      "departement": "50",
       "nom": "Pharmacie De Querqueville",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-querqueville-cherbourg-en-cotentin",
       "location": {
@@ -376,6 +356,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "69dc9519"
+    },
+    {
+      "departement": "50",
+      "nom": "Pharmacie Des Matignon",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-matignon-granville",
+      "location": {
+        "longitude": -1.5619506,
+        "latitude": 48.8376172
+      },
+      "metadata": {
+        "address": "1720 AVENUE DES MATIGNON, 50400 GRANVILLE",
+        "phone_number": "+33233617324",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "a86ca0d0"
     },
     {
       "departement": "50",

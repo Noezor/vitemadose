@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:13:51.400847+02:00",
+  "last_updated": "2021-04-10T19:17:25.944833+02:00",
   "centres_disponibles": [
     {
       "departement": "39",
@@ -85,6 +85,34 @@
       "appointment_count": 26,
       "internal_id": "241304[164052]",
       "gid": "1090"
+    },
+    {
+      "departement": "39",
+      "nom": "Centre de vaccination de Saint- Claude",
+      "url": "https://partners.doctolib.fr/centre-de-sante/dole/ars-de-bourgogne-franche-comte?pid=practice-173190",
+      "location": {
+        "longitude": 5.86611,
+        "latitude": 46.3885
+      },
+      "metadata": {
+        "address": "10 Rue Rosset, 39200 Saint-Claude",
+        "phone_number": "03.84.86.86.00",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-19T17:20:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 5,
+      "internal_id": "241304[173190-163822]",
+      "gid": "478"
     }
   ],
   "centres_indisponibles": [
@@ -310,34 +338,6 @@
       "appointment_count": 0,
       "internal_id": "241304[165291]",
       "gid": "1065"
-    },
-    {
-      "departement": "39",
-      "nom": "Centre de vaccination de Saint- Claude",
-      "url": "https://partners.doctolib.fr/centre-de-sante/dole/ars-de-bourgogne-franche-comte?pid=practice-173190",
-      "location": {
-        "longitude": 5.86611,
-        "latitude": 46.3885
-      },
-      "metadata": {
-        "address": "10 Rue Rosset, 39200 Saint-Claude",
-        "phone_number": "03.84.86.86.00",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241304[173190-163822]",
-      "gid": "478"
     },
     {
       "departement": "39",

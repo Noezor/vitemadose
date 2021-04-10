@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:13:51.416263+02:00",
+  "last_updated": "2021-04-10T19:17:25.962882+02:00",
   "centres_disponibles": [
     {
       "departement": "59",
@@ -22,10 +22,10 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-11T08:10:00.000+02:00",
+      "prochain_rdv": "2021-04-11T08:05:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 73,
+      "appointment_count": 74,
       "internal_id": "258774[177023]",
       "gid": "2178"
     },
@@ -77,10 +77,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-11T08:50:00.000+02:00",
+      "prochain_rdv": "2021-04-11T09:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 2,
+      "appointment_count": 1,
       "internal_id": "242153[]",
       "gid": "400"
     },
@@ -218,7 +218,7 @@
       "prochain_rdv": "2021-04-12T14:15:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 13,
+      "appointment_count": 14,
       "internal_id": "241235[162448]",
       "gid": "279"
     },
@@ -308,6 +308,34 @@
     },
     {
       "departement": "59",
+      "nom": "Dr Fanny Ballois",
+      "url": "https://partners.doctolib.fr/medecin-generaliste/croix/fanny-ballois",
+      "location": {
+        "longitude": 3.15409599999998,
+        "latitude": 50.67073
+      },
+      "metadata": {
+        "address": "4 Avenue Jussieu, 59170 Croix",
+        "phone_number": "03 20 98 03 10",
+        "business_hours": {
+          "lundi": "08:00-20:00",
+          "mardi": "08:00-20:00",
+          "mercredi": "08:00-20:00",
+          "jeudi": "08:00-20:00",
+          "vendredi": "08:00-20:00",
+          "samedi": "08:00-12:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-13T12:24:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "general-practitioner",
+      "appointment_count": 4,
+      "internal_id": "167363[]",
+      "gid": "d167363"
+    },
+    {
+      "departement": "59",
       "nom": "Dr Thibault LEMOINE",
       "url": "https://partners.doctolib.fr/medecin-generaliste/la-chapelle-d-armentieres/thibault-lemoine",
       "location": {
@@ -333,34 +361,6 @@
       "appointment_count": 6,
       "internal_id": "241692[]",
       "gid": "d241692"
-    },
-    {
-      "departement": "59",
-      "nom": "Dr Fanny Ballois",
-      "url": "https://partners.doctolib.fr/medecin-generaliste/croix/fanny-ballois",
-      "location": {
-        "longitude": 3.15409599999998,
-        "latitude": 50.67073
-      },
-      "metadata": {
-        "address": "4 Avenue Jussieu, 59170 Croix",
-        "phone_number": "03 20 98 03 10",
-        "business_hours": {
-          "lundi": "08:00-20:00",
-          "mardi": "08:00-20:00",
-          "mercredi": "08:00-20:00",
-          "jeudi": "08:00-20:00",
-          "vendredi": "08:00-20:00",
-          "samedi": "08:00-12:00",
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": "2021-04-13T12:42:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "general-practitioner",
-      "appointment_count": 3,
-      "internal_id": "167363[]",
-      "gid": "d167363"
     },
     {
       "departement": "59",
@@ -411,10 +411,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-15T09:15:00.000+02:00",
+      "prochain_rdv": "2021-04-15T11:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 49,
+      "appointment_count": 48,
       "internal_id": "243395[165272]",
       "gid": "1510"
     },
@@ -693,7 +693,7 @@
       "prochain_rdv": "2021-04-17T09:21:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 46,
+      "appointment_count": 45,
       "internal_id": "260084[]",
       "gid": "d260084"
     },
@@ -1552,33 +1552,6 @@
     },
     {
       "departement": "59",
-      "nom": "Centre de vaccination - CH Seclin (SALLE ROSENBERG)",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/haut-de-france/vaccination-gh-seclin-carvin?pid=practice-163841",
-      "location": {
-        "longitude": 3.02431,
-        "latitude": 50.5497
-      },
-      "metadata": {
-        "address": "77 b Rue Marx Dormoy, 59113 Seclin",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "09:00-13:00",
-          "mercredi": "09:00-13:00",
-          "jeudi": "09:00-13:00",
-          "vendredi": "09:00-13:00",
-          "samedi": "09:00-13:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241878[163841]",
-      "gid": "1088"
-    },
-    {
-      "departement": "59",
       "nom": "Centre de vaccination - HOPITAL PRIV\u00c9 LE BOIS",
       "url": "https://partners.doctolib.fr/centre-de-sante/villeneuve-d-ascq/vaccination-covid-19-hopital-prive-le-bois-et-villeneuve-d-ascq?pid=practice-163992",
       "location": {
@@ -1604,6 +1577,33 @@
       "appointment_count": 0,
       "internal_id": "242648[163992]",
       "gid": "267"
+    },
+    {
+      "departement": "59",
+      "nom": "Centre de vaccination - CH Seclin (SALLE ROSENBERG)",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/haut-de-france/vaccination-gh-seclin-carvin?pid=practice-163841",
+      "location": {
+        "longitude": 3.02431,
+        "latitude": 50.5497
+      },
+      "metadata": {
+        "address": "77 b Rue Marx Dormoy, 59113 Seclin",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "09:00-13:00",
+          "mercredi": "09:00-13:00",
+          "jeudi": "09:00-13:00",
+          "vendredi": "09:00-13:00",
+          "samedi": "09:00-13:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241878[163841]",
+      "gid": "1088"
     },
     {
       "departement": "59",
@@ -1746,34 +1746,6 @@
     },
     {
       "departement": "59",
-      "nom": "Centre de vaccination - CH Armenti\u00e8res",
-      "url": "https://partners.doctolib.fr/hopital-public/armentieres/ch-armentieres?pid=practice-175038",
-      "location": {
-        "longitude": 2.86711,
-        "latitude": 50.6869
-      },
-      "metadata": {
-        "address": "136 Boulevard Faidherbe, 59280 Armenti\u00e8res",
-        "phone_number": "+33320481003",
-        "business_hours": {
-          "lundi": "13:00-18:00",
-          "mardi": "13:00-18:00",
-          "mercredi": "13:00-18:00",
-          "jeudi": "13:00-18:00",
-          "vendredi": "13:00-18:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241874[175038]",
-      "gid": "1093"
-    },
-    {
-      "departement": "59",
       "nom": "Centre de vaccination - CH Roubaix, V\u00e9lodrome Le Stab (Porte J)",
       "url": "https://partners.doctolib.fr/hopital-public/roubaix/ch-de-roubaix-centre-de-vaccination-covid-19",
       "location": {
@@ -1799,6 +1771,34 @@
       "appointment_count": 0,
       "internal_id": "241483[163503]",
       "gid": "1091"
+    },
+    {
+      "departement": "59",
+      "nom": "Centre de vaccination - CH Armenti\u00e8res",
+      "url": "https://partners.doctolib.fr/hopital-public/armentieres/ch-armentieres?pid=practice-175038",
+      "location": {
+        "longitude": 2.86711,
+        "latitude": 50.6869
+      },
+      "metadata": {
+        "address": "136 Boulevard Faidherbe, 59280 Armenti\u00e8res",
+        "phone_number": "+33320481003",
+        "business_hours": {
+          "lundi": "13:00-18:00",
+          "mardi": "13:00-18:00",
+          "mercredi": "13:00-18:00",
+          "jeudi": "13:00-18:00",
+          "vendredi": "13:00-18:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241874[175038]",
+      "gid": "1093"
     },
     {
       "departement": "59",
@@ -1886,30 +1886,31 @@
     },
     {
       "departement": "59",
-      "nom": "Centre de vaccination - Z\u00e9nith de Lille",
-      "url": "https://partners.doctolib.fr/centre-de-sante/lille/centre-de-vaccination-covid-19-centre-de-vaccination-covid-19-zenith-de-lille?pid=practice-180487",
+      "nom": "Centre de vaccination - CH Fourmies",
+      "url": "https://partners.doctolib.fr/hopital-public/fourmies/ch-fourmies-centre-de-vaccination-covid-19",
       "location": {
-        "longitude": 3.07861,
-        "latitude": 50.6314
+        "longitude": 4.05915,
+        "latitude": 50.0095
       },
       "metadata": {
-        "address": "1 Boulevard des Cites Unies, 59777 Lille",
+        "address": "13 Rue de l'H\u00f4pital, 59610 Fourmies",
+        "phone_number": "+33392043471 ",
         "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "",
-          "dimanche": ""
+          "lundi": "09:15-12:00/14:00-17:00",
+          "mardi": "09:15-12:00/14:00-17:00",
+          "mercredi": "09:15-12:00/14:00-17:00",
+          "jeudi": "09:15-12:00/14:00-17:00",
+          "vendredi": "09:15-12:00/14:00-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
         }
       },
       "prochain_rdv": null,
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": "263778[180487]",
-      "gid": "1986"
+      "internal_id": "242036[]",
+      "gid": "274"
     },
     {
       "departement": "59",
@@ -1941,34 +1942,6 @@
     },
     {
       "departement": "59",
-      "nom": "Centre de vaccination - CH Fourmies",
-      "url": "https://partners.doctolib.fr/hopital-public/fourmies/ch-fourmies-centre-de-vaccination-covid-19",
-      "location": {
-        "longitude": 4.05915,
-        "latitude": 50.0095
-      },
-      "metadata": {
-        "address": "13 Rue de l'H\u00f4pital, 59610 Fourmies",
-        "phone_number": "+33392043471 ",
-        "business_hours": {
-          "lundi": "09:15-12:00/14:00-17:00",
-          "mardi": "09:15-12:00/14:00-17:00",
-          "mercredi": "09:15-12:00/14:00-17:00",
-          "jeudi": "09:15-12:00/14:00-17:00",
-          "vendredi": "09:15-12:00/14:00-17:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242036[]",
-      "gid": "274"
-    },
-    {
-      "departement": "59",
       "nom": "Centre de vaccination - CH Douai",
       "url": "https://partners.doctolib.fr/hopital-public/douai/centre-de-vaccination-covid-ch-douai",
       "location": {
@@ -1994,6 +1967,33 @@
       "appointment_count": 0,
       "internal_id": "241704[]",
       "gid": "265"
+    },
+    {
+      "departement": "59",
+      "nom": "Centre de vaccination - Z\u00e9nith de Lille",
+      "url": "https://partners.doctolib.fr/centre-de-sante/lille/centre-de-vaccination-covid-19-centre-de-vaccination-covid-19-zenith-de-lille?pid=practice-180487",
+      "location": {
+        "longitude": 3.07861,
+        "latitude": 50.6314
+      },
+      "metadata": {
+        "address": "1 Boulevard des Cites Unies, 59777 Lille",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "263778[180487]",
+      "gid": "1986"
     },
     {
       "departement": "59",
@@ -2301,33 +2301,6 @@
     },
     {
       "departement": "59",
-      "nom": "MA - USMP de Douai / Maison d'Arr\u00eat de Douai",
-      "url": "",
-      "location": {
-        "longitude": 3.05993,
-        "latitude": 50.3766
-      },
-      "metadata": {
-        "address": "505 Rue de Cuincy, 59500 Douai",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1838"
-    },
-    {
-      "departement": "59",
       "nom": "MA - Maison d'arr\u00eat de valenciennes / Maison d'Arr\u00eat de Valenciennes",
       "url": "",
       "location": {
@@ -2382,35 +2355,42 @@
     },
     {
       "departement": "59",
-      "nom": "Grande Pharmacie De Wazemmes",
-      "url": "https://app.ordoclic.fr/app/pharmacie/grande-pharmacie-de-wazemmes-lille",
+      "nom": "MA - USMP de Douai / Maison d'Arr\u00eat de Douai",
+      "url": "",
       "location": {
-        "longitude": 3.0483095,
-        "latitude": 50.6269412
+        "longitude": 3.05993,
+        "latitude": 50.3766
       },
       "metadata": {
-        "address": "Rue Leon Gambetta, 59000 Lille",
-        "phone_number": "+33320573995",
-        "business_hours": null
+        "address": "505 Rue de Cuincy, 59500 Douai",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
       },
       "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
+      "plateforme": "Autre",
+      "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "648515b0"
+      "gid": "1838"
     },
     {
       "departement": "59",
-      "nom": "Pharmacie Lievens",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-lievens-wasquehal",
+      "nom": "Pharmacie Enderle (D1)",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-enderle-(d1)-bertry",
       "location": {
-        "longitude": 3.1238541,
-        "latitude": 50.6812005
+        "longitude": 3.4410932,
+        "latitude": 50.0878966
       },
       "metadata": {
-        "address": "Rond Point Ave Gd Cottignies - C.commerc., 59290 Wasquehal",
-        "phone_number": "+33320989001",
+        "address": "19 Rue de la R\u00e9publique, 59980 Bertry",
+        "phone_number": "+33327751862",
         "business_hours": null
       },
       "prochain_rdv": null,
@@ -2418,87 +2398,7 @@
       "type": "drugstore",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "6b908249"
-    },
-    {
-      "departement": "59",
-      "nom": "Grande Pharmacie De Paris",
-      "url": "https://app.ordoclic.fr/app/pharmacie/grande-pharmacie-de-paris-lille",
-      "location": {
-        "longitude": 3.0689837,
-        "latitude": 50.6368403
-      },
-      "metadata": {
-        "address": "1 Place de la Gare, 59000 Lille",
-        "phone_number": "+33320062064",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "73d1f12a"
-    },
-    {
-      "departement": "59",
-      "nom": "Pharmacie Du Bourg",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-du-bourg-marq-en-baroeul",
-      "location": {
-        "longitude": 3.0903794,
-        "latitude": 50.6766316
-      },
-      "metadata": {
-        "address": "9 place du G\u00e9n\u00e9ral de Gaulle, 59700 Marq en Baroeul",
-        "phone_number": "+33320721024",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "80fd3408"
-    },
-    {
-      "departement": "59",
-      "nom": "Pharmacie De La Sambre",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-la-sambre-jeumont",
-      "location": {
-        "longitude": 4.102241999999999,
-        "latitude": 50.29707430000001
-      },
-      "metadata": {
-        "address": "27 Rue Jean Jaur\u00e8s, 59460 Jeumont",
-        "phone_number": "+33327396187",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "cfa2beff"
-    },
-    {
-      "departement": "59",
-      "nom": "Pharmacie Des Quais",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-quais-lille",
-      "location": {
-        "longitude": 3.0584274,
-        "latitude": 50.647161
-      },
-      "metadata": {
-        "address": "101 R SAINT SEBASTIEN, 59800 LILLE",
-        "phone_number": "+33320551842",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "061df7d5"
+      "gid": "44e30e27"
     },
     {
       "departement": "59",
@@ -2519,6 +2419,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "6d667799"
+    },
+    {
+      "departement": "59",
+      "nom": "Pharmacie Des Quais",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-quais-lille",
+      "location": {
+        "longitude": 3.0584274,
+        "latitude": 50.647161
+      },
+      "metadata": {
+        "address": "101 R SAINT SEBASTIEN, 59800 LILLE",
+        "phone_number": "+33320551842",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "061df7d5"
     },
     {
       "departement": "59",
@@ -2622,26 +2542,6 @@
     },
     {
       "departement": "59",
-      "nom": "Pharmacie Enderle (D1)",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-enderle-(d1)-bertry",
-      "location": {
-        "longitude": 3.4410932,
-        "latitude": 50.0878966
-      },
-      "metadata": {
-        "address": "19 Rue de la R\u00e9publique, 59980 Bertry",
-        "phone_number": "+33327751862",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "44e30e27"
-    },
-    {
-      "departement": "59",
       "nom": "Pharmacie Flandre Littorale",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-flandre-littorale-grande-synthe",
       "location": {
@@ -2679,6 +2579,106 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "503c8516"
+    },
+    {
+      "departement": "59",
+      "nom": "Pharmacie Lievens",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-lievens-wasquehal",
+      "location": {
+        "longitude": 3.1238541,
+        "latitude": 50.6812005
+      },
+      "metadata": {
+        "address": "Rond Point Ave Gd Cottignies - C.commerc., 59290 Wasquehal",
+        "phone_number": "+33320989001",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "6b908249"
+    },
+    {
+      "departement": "59",
+      "nom": "Grande Pharmacie De Wazemmes",
+      "url": "https://app.ordoclic.fr/app/pharmacie/grande-pharmacie-de-wazemmes-lille",
+      "location": {
+        "longitude": 3.0483095,
+        "latitude": 50.6269412
+      },
+      "metadata": {
+        "address": "Rue Leon Gambetta, 59000 Lille",
+        "phone_number": "+33320573995",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "648515b0"
+    },
+    {
+      "departement": "59",
+      "nom": "Grande Pharmacie De Paris",
+      "url": "https://app.ordoclic.fr/app/pharmacie/grande-pharmacie-de-paris-lille",
+      "location": {
+        "longitude": 3.0689837,
+        "latitude": 50.6368403
+      },
+      "metadata": {
+        "address": "1 Place de la Gare, 59000 Lille",
+        "phone_number": "+33320062064",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "73d1f12a"
+    },
+    {
+      "departement": "59",
+      "nom": "Pharmacie Du Bourg",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-du-bourg-marq-en-baroeul",
+      "location": {
+        "longitude": 3.0903794,
+        "latitude": 50.6766316
+      },
+      "metadata": {
+        "address": "9 place du G\u00e9n\u00e9ral de Gaulle, 59700 Marq en Baroeul",
+        "phone_number": "+33320721024",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "80fd3408"
+    },
+    {
+      "departement": "59",
+      "nom": "Pharmacie De La Sambre",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-la-sambre-jeumont",
+      "location": {
+        "longitude": 4.102241999999999,
+        "latitude": 50.29707430000001
+      },
+      "metadata": {
+        "address": "27 Rue Jean Jaur\u00e8s, 59460 Jeumont",
+        "phone_number": "+33327396187",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "cfa2beff"
     },
     {
       "departement": "59",

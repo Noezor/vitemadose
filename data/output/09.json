@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:13:51.372252+02:00",
+  "last_updated": "2021-04-10T19:17:25.911271+02:00",
   "centres_disponibles": [
     {
       "departement": "09",
@@ -90,34 +90,6 @@
     },
     {
       "departement": "09",
-      "nom": "Centre Hospitalier Ari\u00e8ge Couserans (Pfizer / Moderna / AstraZeneca)",
-      "url": "https://partners.doctolib.fr/hopital-public/saint-lizier/centre-de-vaccination-covid-centre-hospitalier-ariege-couserans-chac",
-      "location": {
-        "longitude": 1.13168,
-        "latitude": 42.9997
-      },
-      "metadata": {
-        "address": "228 Roses, 09190 Saint-Lizier",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "9:00-12:00/14:00-17:00",
-          "mardi": "9:00-12:00/14:00-17:00",
-          "mercredi": "9:00-12:00/14:00-17:00",
-          "jeudi": "9:00-12:00/14:00-17:00",
-          "vendredi": "9:00-12:00/14:00-17:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241895[]",
-      "gid": "187"
-    },
-    {
-      "departement": "09",
       "nom": "CHIVA (Pfizer / Astra Zeneca)",
       "url": "https://partners.doctolib.fr/hopital-public/saint-jean-de-verges/centre-de-vaccination-covid-centre-hospitalier-intercommunal-des-vallees-de-l-ariege-chiva",
       "location": {
@@ -143,6 +115,34 @@
       "appointment_count": 0,
       "internal_id": "241905[]",
       "gid": "164"
+    },
+    {
+      "departement": "09",
+      "nom": "Centre Hospitalier Ari\u00e8ge Couserans (Pfizer / Moderna / AstraZeneca)",
+      "url": "https://partners.doctolib.fr/hopital-public/saint-lizier/centre-de-vaccination-covid-centre-hospitalier-ariege-couserans-chac",
+      "location": {
+        "longitude": 1.13168,
+        "latitude": 42.9997
+      },
+      "metadata": {
+        "address": "228 Roses, 09190 Saint-Lizier",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "9:00-12:00/14:00-17:00",
+          "mardi": "9:00-12:00/14:00-17:00",
+          "mercredi": "9:00-12:00/14:00-17:00",
+          "jeudi": "9:00-12:00/14:00-17:00",
+          "vendredi": "9:00-12:00/14:00-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241895[]",
+      "gid": "187"
     },
     {
       "departement": "09",

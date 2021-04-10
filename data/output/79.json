@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:13:51.442415+02:00",
+  "last_updated": "2021-04-10T19:17:25.993642+02:00",
   "centres_disponibles": [
     {
       "departement": "79",
@@ -284,34 +284,6 @@
     },
     {
       "departement": "79",
-      "nom": "Centre de vaccination de Cerizay - CPTS du Bressuirais",
-      "url": "https://partners.doctolib.fr/centre-de-sante/moncoutant-sur-sevre/centre-de-vaccination-de-moncoutant-sur-sevre?pid=practice-177609",
-      "location": {
-        "longitude": -0.671963,
-        "latitude": 46.8212
-      },
-      "metadata": {
-        "address": "5 Place du Saint-Pere, 79140 Cerizay",
-        "phone_number": "+33755601381",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "258619[177609]",
-      "gid": "2109"
-    },
-    {
-      "departement": "79",
       "nom": "Centre de vaccination de Nueil-les-Aubiers  - CPTS du Bressuirais",
       "url": "https://partners.doctolib.fr/centre-de-sante/moncoutant-sur-sevre/centre-de-vaccination-de-moncoutant-sur-sevre?pid=practice-177725",
       "location": {
@@ -337,6 +309,34 @@
       "appointment_count": 0,
       "internal_id": "258619[177725]",
       "gid": "2110"
+    },
+    {
+      "departement": "79",
+      "nom": "Centre de vaccination de Cerizay - CPTS du Bressuirais",
+      "url": "https://partners.doctolib.fr/centre-de-sante/moncoutant-sur-sevre/centre-de-vaccination-de-moncoutant-sur-sevre?pid=practice-177609",
+      "location": {
+        "longitude": -0.671963,
+        "latitude": 46.8212
+      },
+      "metadata": {
+        "address": "5 Place du Saint-Pere, 79140 Cerizay",
+        "phone_number": "+33755601381",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "258619[177609]",
+      "gid": "2109"
     },
     {
       "departement": "79",

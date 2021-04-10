@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:13:51.414443+02:00",
+  "last_updated": "2021-04-10T19:17:25.960840+02:00",
   "centres_disponibles": [
     {
       "departement": "57",
@@ -23,10 +23,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-28T15:45:00.000+02:00",
+      "prochain_rdv": "2021-04-28T12:15:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 139,
+      "appointment_count": 138,
       "internal_id": "254139[173661]",
       "gid": "1752"
     },
@@ -622,34 +622,6 @@
     },
     {
       "departement": "57",
-      "nom": "Centre de vaccination de Thionville - CHRMT Bel Air (salle polyvalente \u00e0 l\u2019entr\u00e9e de l\u2019h\u00f4pital)",
-      "url": "https://partners.doctolib.fr/hopital-public/metz/chr-de-metz-vaccination-covid?pid=practice-163720",
-      "location": {
-        "longitude": 6.14876,
-        "latitude": 49.3717
-      },
-      "metadata": {
-        "address": "3 Rue du Friscaty, 57100 Thionville",
-        "phone_number": "+33387345345 ",
-        "business_hours": {
-          "lundi": "09:00-17:00",
-          "mardi": "09:00-17:00",
-          "mercredi": "09:00-17:00",
-          "jeudi": "09:00-17:00",
-          "vendredi": "09:00-17:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241685[163720]",
-      "gid": "954"
-    },
-    {
-      "departement": "57",
       "nom": "Centre de vaccination de Saint-Avold - SOS Sant\u00e9",
       "url": "https://partners.doctolib.fr/espic-etablissement-de-sante-prive-d-interet-collectif/st-avold/centre-de-vaccination-covid-hopital-de-saint-avold",
       "location": {
@@ -675,6 +647,34 @@
       "appointment_count": 0,
       "internal_id": "242615[]",
       "gid": "1114"
+    },
+    {
+      "departement": "57",
+      "nom": "Centre de vaccination de Thionville - CHRMT Bel Air (salle polyvalente \u00e0 l\u2019entr\u00e9e de l\u2019h\u00f4pital)",
+      "url": "https://partners.doctolib.fr/hopital-public/metz/chr-de-metz-vaccination-covid?pid=practice-163720",
+      "location": {
+        "longitude": 6.14876,
+        "latitude": 49.3717
+      },
+      "metadata": {
+        "address": "3 Rue du Friscaty, 57100 Thionville",
+        "phone_number": "+33387345345 ",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241685[163720]",
+      "gid": "954"
     },
     {
       "departement": "57",
@@ -734,34 +734,6 @@
     },
     {
       "departement": "57",
-      "nom": "Centre de vaccination de Montbronn - Salle des f\u00eates",
-      "url": "https://www.doctolib.fr/centre-de-sante/montbronn/centre-de-vaccination-covid19-montbronn",
-      "location": {
-        "longitude": 7.30576,
-        "latitude": 48.9927
-      },
-      "metadata": {
-        "address": " Rue Notre-Dame, 57415 Montbronn",
-        "phone_number": "+33387345345",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "9:00-17:00",
-          "dimanche": "9:00-17:00"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "263489[]",
-      "gid": "2413"
-    },
-    {
-      "departement": "57",
       "nom": "Centre de vaccination de Rohrbach-l\u00e8s-Bitche - Salle polyvalente Robert Schuman",
       "url": "https://www.doctolib.fr/centre-de-sante/rohrbach-les-bitche/centre-vaccination-commune-rohrbach-les-bitche",
       "location": {
@@ -787,6 +759,34 @@
       "appointment_count": 0,
       "internal_id": "264082[]",
       "gid": "2415"
+    },
+    {
+      "departement": "57",
+      "nom": "Centre de vaccination de Montbronn - Salle des f\u00eates",
+      "url": "https://www.doctolib.fr/centre-de-sante/montbronn/centre-de-vaccination-covid19-montbronn",
+      "location": {
+        "longitude": 7.30576,
+        "latitude": 48.9927
+      },
+      "metadata": {
+        "address": " Rue Notre-Dame, 57415 Montbronn",
+        "phone_number": "+33387345345",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "9:00-17:00",
+          "dimanche": "9:00-17:00"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "263489[]",
+      "gid": "2413"
     },
     {
       "departement": "57",

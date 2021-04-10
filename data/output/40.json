@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:13:51.401739+02:00",
+  "last_updated": "2021-04-10T19:17:25.945839+02:00",
   "centres_disponibles": [
     {
       "departement": "40",
@@ -116,6 +116,33 @@
     },
     {
       "departement": "40",
+      "nom": "Centre de Vaccination de Dax ville",
+      "url": "https://www.maiia.com/centre-de-vaccination/40100-dax/centre-de-vaccination---bassin-dacquois?centerid=6006a9d63b987b202a40423b",
+      "location": {
+        "longitude": -1.04109,
+        "latitude": 43.6988
+      },
+      "metadata": {
+        "address": "98 Avenue Francis Plant\u00e9, 40100 Dax",
+        "business_hours": {
+          "lundi": "08h30-12h30/13h30-17h30",
+          "mardi": "08h30-12h30/13h30-17h30",
+          "mercredi": "08h30-12h30/13h30-17h30",
+          "jeudi": "08h30-12h30/13h30-17h30",
+          "vendredi": "08h30-12h30/13h30-17h30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1204"
+    },
+    {
+      "departement": "40",
       "nom": "CENTRE DE VACCINATION de LABRIT",
       "url": "https://www.maiia.com/centre-de-vaccination/40420-labrit/centre-de-vaccination-covid-19-de-labrit",
       "location": {
@@ -141,33 +168,6 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1299"
-    },
-    {
-      "departement": "40",
-      "nom": "Centre de Vaccination de Dax ville",
-      "url": "https://www.maiia.com/centre-de-vaccination/40100-dax/centre-de-vaccination---bassin-dacquois?centerId=6006a9d63b987b202a40423b",
-      "location": {
-        "longitude": -1.04109,
-        "latitude": 43.6988
-      },
-      "metadata": {
-        "address": "98 Avenue Francis Plant\u00e9, 40100 Dax",
-        "business_hours": {
-          "lundi": "08h30-12h30/13h30-17h30",
-          "mardi": "08h30-12h30/13h30-17h30",
-          "mercredi": "08h30-12h30/13h30-17h30",
-          "jeudi": "08h30-12h30/13h30-17h30",
-          "vendredi": "08h30-12h30/13h30-17h30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": null,
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1204"
     },
     {
       "departement": "40",
@@ -500,6 +500,26 @@
     },
     {
       "departement": "40",
+      "nom": "Pharmacie Du Marensin",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-du-marensin-castets",
+      "location": {
+        "longitude": -1.148117,
+        "latitude": 43.8812422
+      },
+      "metadata": {
+        "address": "149 rue Saint Helene, 40260 Castets",
+        "phone_number": "+33558894043",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "480f42d5"
+    },
+    {
+      "departement": "40",
       "nom": "Pharmacie Terral",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-terral-mont-de-marsan",
       "location": {
@@ -537,26 +557,6 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "ef9e96f2"
-    },
-    {
-      "departement": "40",
-      "nom": "Pharmacie Du Marensin",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-du-marensin-castets",
-      "location": {
-        "longitude": -1.148117,
-        "latitude": 43.8812422
-      },
-      "metadata": {
-        "address": "149 rue Saint Helene, 40260 Castets",
-        "phone_number": "+33558894043",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "480f42d5"
     },
     {
       "departement": "40",
