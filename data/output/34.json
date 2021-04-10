@@ -1,35 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:17:25.939103+02:00",
+  "last_updated": "2021-04-10T19:20:45.176048+02:00",
   "centres_disponibles": [
-    {
-      "departement": "34",
-      "nom": "BEZIERS Centre Zinga Zanga (grande salle de spectacle)",
-      "url": "https://partners.doctolib.fr/centre-de-sante/beziers/centre-de-vaccination-publiques-de-la-ville-de-beziers",
-      "location": {
-        "longitude": 3.18991,
-        "latitude": 43.331
-      },
-      "metadata": {
-        "address": " Traverse de Colombiers, 34500 B\u00e9ziers",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "9:00-17:00",
-          "mardi": "9:00-17:00",
-          "mercredi": "9:00-17:00",
-          "jeudi": "9:00-17:00",
-          "vendredi": "9:00-17:00",
-          "samedi": "9:00-17:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-11T11:15:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 3,
-      "internal_id": "242471[]",
-      "gid": "603"
-    },
     {
       "departement": "34",
       "nom": "GIGNAC CENTRE DE VACCINATION",
@@ -230,22 +202,22 @@
     },
     {
       "departement": "34",
-      "nom": "S\u00e8te Centre de vaccination",
-      "url": "https://partners.doctolib.fr/centre-de-sante/sete/centre-de-vaccination-cpts-du-bassin-de-thau",
+      "nom": "MONTPELLIER CVP Bouisson Bertrand",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/montpellier/institut-bouisson-bertrand-centre-de-vaccination-covid-19",
       "location": {
-        "longitude": 3.69848,
-        "latitude": 43.4127
+        "longitude": 3.87333,
+        "latitude": 43.6127
       },
       "metadata": {
-        "address": " Route de Cayenne (parking du Mas Coulet), 34200 S\u00e8te",
+        "address": "5 Rue Ecole de M\u00e9decine, 34000 Montpellier",
         "phone_number": "+33800541919",
         "business_hours": {
-          "lundi": "12:00-18:00",
-          "mardi": "10:00-18:00",
-          "mercredi": "10:00-18:00",
-          "jeudi": "10:00-18:00",
-          "vendredi": "10:00-18:00",
-          "samedi": "10:00-18:00",
+          "lundi": "8:30-12:30/13:30-17:00",
+          "mardi": "13:00-17:30",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "8:30-12:30",
+          "vendredi": "8:30-12:30",
+          "samedi": "ferm\u00e9",
           "dimanche": "ferm\u00e9"
         }
       },
@@ -253,8 +225,8 @@
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": "242290[]",
-      "gid": "531"
+      "internal_id": "242189[]",
+      "gid": "344"
     },
     {
       "departement": "34",
@@ -283,6 +255,34 @@
       "appointment_count": 0,
       "internal_id": "242635[164568]",
       "gid": "559"
+    },
+    {
+      "departement": "34",
+      "nom": "S\u00e8te Centre de vaccination",
+      "url": "https://partners.doctolib.fr/centre-de-sante/sete/centre-de-vaccination-cpts-du-bassin-de-thau",
+      "location": {
+        "longitude": 3.69848,
+        "latitude": 43.4127
+      },
+      "metadata": {
+        "address": " Route de Cayenne (parking du Mas Coulet), 34200 S\u00e8te",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "12:00-18:00",
+          "mardi": "10:00-18:00",
+          "mercredi": "10:00-18:00",
+          "jeudi": "10:00-18:00",
+          "vendredi": "10:00-18:00",
+          "samedi": "10:00-18:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242290[]",
+      "gid": "531"
     },
     {
       "departement": "34",
@@ -342,22 +342,50 @@
     },
     {
       "departement": "34",
-      "nom": "MONTPELLIER CVP Bouisson Bertrand",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/montpellier/institut-bouisson-bertrand-centre-de-vaccination-covid-19",
+      "nom": "MONTPELLIER Centre vaccination \u00e0 la Clinique du Mill\u00e9naire",
+      "url": "https://partners.doctolib.fr/clinique-privee/montpellier/oc-sante-clinique-du-millenaire-vaccination-covid",
       "location": {
-        "longitude": 3.87333,
-        "latitude": 43.6127
+        "longitude": 3.91916,
+        "latitude": 43.6019
       },
       "metadata": {
-        "address": "5 Rue Ecole de M\u00e9decine, 34000 Montpellier",
+        "address": "220 boulevard P\u00e9n\u00e9lope, 34000 Montpellier",
         "phone_number": "+33800541919",
         "business_hours": {
-          "lundi": "8:30-12:30/13:30-17:00",
-          "mardi": "13:00-17:30",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "8:30-12:30",
-          "vendredi": "8:30-12:30",
-          "samedi": "ferm\u00e9",
+          "lundi": "No",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242597[]",
+      "gid": "750"
+    },
+    {
+      "departement": "34",
+      "nom": "BEZIERS Centre Zinga Zanga (grande salle de spectacle)",
+      "url": "https://partners.doctolib.fr/centre-de-sante/beziers/centre-de-vaccination-publiques-de-la-ville-de-beziers",
+      "location": {
+        "longitude": 3.18991,
+        "latitude": 43.331
+      },
+      "metadata": {
+        "address": " Traverse de Colombiers, 34500 B\u00e9ziers",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "9:00-17:00",
+          "mardi": "9:00-17:00",
+          "mercredi": "9:00-17:00",
+          "jeudi": "9:00-17:00",
+          "vendredi": "9:00-17:00",
+          "samedi": "9:00-17:00",
           "dimanche": "ferm\u00e9"
         }
       },
@@ -365,8 +393,8 @@
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": "242189[]",
-      "gid": "344"
+      "internal_id": "242471[]",
+      "gid": "603"
     },
     {
       "departement": "34",
@@ -395,34 +423,6 @@
       "appointment_count": 0,
       "internal_id": "242011[]",
       "gid": "388"
-    },
-    {
-      "departement": "34",
-      "nom": "MONTPELLIER Centre vaccination \u00e0 la Clinique du Mill\u00e9naire",
-      "url": "https://partners.doctolib.fr/clinique-privee/montpellier/oc-sante-clinique-du-millenaire-vaccination-covid",
-      "location": {
-        "longitude": 3.91916,
-        "latitude": 43.6019
-      },
-      "metadata": {
-        "address": "220 boulevard P\u00e9n\u00e9lope, 34000 Montpellier",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "No",
-          "mardi": "",
-          "mercredi": "",
-          "jeudi": "",
-          "vendredi": "",
-          "samedi": "",
-          "dimanche": ""
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242597[]",
-      "gid": "750"
     },
     {
       "departement": "34",

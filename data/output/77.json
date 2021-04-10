@@ -1,7 +1,36 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:17:25.990362+02:00",
-  "centres_disponibles": [],
+  "last_updated": "2021-04-10T19:20:45.239105+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "77",
+      "nom": "Grande Pharmacie de l'Abbaye",
+      "url": "https://partners.doctolib.fr/pharmacie/dammarie-les-lys/pharmacie-de-la-grande-abbaye",
+      "location": {
+        "longitude": 2.6339065,
+        "latitude": 48.5196152
+      },
+      "metadata": {
+        "address": "Rue Gaston Pluchon, 77190 Dammarie-les-Lys",
+        "phone_number": "01 64 37 22 06",
+        "business_hours": {
+          "lundi": "09:00-19:00",
+          "mardi": "09:00-19:00",
+          "mercredi": "09:00-19:00",
+          "jeudi": "09:00-19:00",
+          "vendredi": "09:00-19:00",
+          "samedi": "10:00-18:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-05-25T12:20:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 1,
+      "internal_id": "240491[]",
+      "gid": "d240491"
+    }
+  ],
   "centres_indisponibles": [
     {
       "departement": "77",
@@ -113,6 +142,33 @@
     },
     {
       "departement": "77",
+      "nom": "CHSSM-Site de Fontainebleau",
+      "url": "",
+      "location": {
+        "longitude": 2.6963,
+        "latitude": 48.4119
+      },
+      "metadata": {
+        "address": "55 Boulevard du Mar\u00e9chal Joffre, 77300 Fontainebleau",
+        "business_hours": {
+          "lundi": "8H30-17H30",
+          "mardi": "8H30-17H30",
+          "mercredi": "8H30-17H30",
+          "jeudi": "8H30-17H30",
+          "vendredi": "8H30-17H30",
+          "samedi": "",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1475"
+    },
+    {
+      "departement": "77",
       "nom": "Centre de vaccination GHSIF MELUN - Site de Brie Comte Robert",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/brie-comte-robert/centre-de-vaccination-de-la-brie",
       "location": {
@@ -138,33 +194,6 @@
       "appointment_count": 0,
       "internal_id": "242998[]",
       "gid": "860"
-    },
-    {
-      "departement": "77",
-      "nom": "CHSSM-Site de Fontainebleau",
-      "url": "",
-      "location": {
-        "longitude": 2.6963,
-        "latitude": 48.4119
-      },
-      "metadata": {
-        "address": "55 Boulevard du Mar\u00e9chal Joffre, 77300 Fontainebleau",
-        "business_hours": {
-          "lundi": "8H30-17H30",
-          "mardi": "8H30-17H30",
-          "mercredi": "8H30-17H30",
-          "jeudi": "8H30-17H30",
-          "vendredi": "8H30-17H30",
-          "samedi": "",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1475"
     },
     {
       "departement": "77",
@@ -524,33 +553,6 @@
     },
     {
       "departement": "77",
-      "nom": "Centres de vaccination GHIF Melun- site de Savigny le temple",
-      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/savigny-le-temple-77176/centre-de-vaccination-covid-ghsif-site-de-savigny-le-temple",
-      "location": {
-        "longitude": 2.58289,
-        "latitude": 48.5955
-      },
-      "metadata": {
-        "address": "3 Place du 19 Mars 1962, 77176 Savigny-le-Temple",
-        "business_hours": {
-          "lundi": "9h-17h",
-          "mardi": "9h-17h",
-          "mercredi": "9h-17h",
-          "jeudi": "9h-17h",
-          "vendredi": "9h-17h",
-          "samedi": "9h-17h",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": null,
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "2254"
-    },
-    {
-      "departement": "77",
       "nom": "centre de vaccination GHSIF MELUN - site de Combs la Ville",
       "url": "",
       "location": {
@@ -575,6 +577,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "2255"
+    },
+    {
+      "departement": "77",
+      "nom": "Centres de vaccination GHIF Melun- site de Savigny le temple",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/savigny-le-temple-77176/centre-de-vaccination-covid-ghsif-site-de-savigny-le-temple",
+      "location": {
+        "longitude": 2.58289,
+        "latitude": 48.5955
+      },
+      "metadata": {
+        "address": "3 Place du 19 Mars 1962, 77176 Savigny-le-Temple",
+        "business_hours": {
+          "lundi": "9h-17h",
+          "mardi": "9h-17h",
+          "mercredi": "9h-17h",
+          "jeudi": "9h-17h",
+          "vendredi": "9h-17h",
+          "samedi": "9h-17h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": null,
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "2254"
     },
     {
       "departement": "77",
@@ -746,33 +775,6 @@
     },
     {
       "departement": "77",
-      "nom": "CD - Melun / Centre de D\u00e9tention de Melun",
-      "url": "",
-      "location": {
-        "longitude": 2.66195,
-        "latitude": 48.5355
-      },
-      "metadata": {
-        "address": "10 Quai de la Courtille, 77000 Melun",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1851"
-    },
-    {
-      "departement": "77",
       "nom": "CP - US Meaux Chauconin-Neufmontiers / Centre P\u00e9nitentiaire de Meaux-Chauconin-Neufmontiers",
       "url": "",
       "location": {
@@ -797,6 +799,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1849"
+    },
+    {
+      "departement": "77",
+      "nom": "CD - Melun / Centre de D\u00e9tention de Melun",
+      "url": "",
+      "location": {
+        "longitude": 2.66195,
+        "latitude": 48.5355
+      },
+      "metadata": {
+        "address": "10 Quai de la Courtille, 77000 Melun",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1851"
     },
     {
       "departement": "77",
@@ -1070,34 +1099,6 @@
       "appointment_count": 0,
       "internal_id": "261615[]",
       "gid": "d261615"
-    },
-    {
-      "departement": "77",
-      "nom": "Grande Pharmacie de l'Abbaye",
-      "url": "https://partners.doctolib.fr/pharmacie/dammarie-les-lys/pharmacie-de-la-grande-abbaye",
-      "location": {
-        "longitude": 2.6339065,
-        "latitude": 48.5196152
-      },
-      "metadata": {
-        "address": "Rue Gaston Pluchon, 77190 Dammarie-les-Lys",
-        "phone_number": "01 64 37 22 06",
-        "business_hours": {
-          "lundi": "09:00-19:00",
-          "mardi": "09:00-19:00",
-          "mercredi": "09:00-19:00",
-          "jeudi": "09:00-19:00",
-          "vendredi": "09:00-19:00",
-          "samedi": "10:00-18:00",
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": "240491[]",
-      "gid": "d240491"
     }
   ]
 }

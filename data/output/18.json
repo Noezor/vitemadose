@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:17:25.920222+02:00",
+  "last_updated": "2021-04-10T19:20:45.153946+02:00",
   "centres_disponibles": [
     {
       "departement": "18",
@@ -51,10 +51,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-20T16:10:00.000+02:00",
+      "prochain_rdv": "2021-04-20T16:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 24,
+      "appointment_count": 23,
       "internal_id": "242670[164576]",
       "gid": "18"
     },
@@ -82,7 +82,7 @@
       "prochain_rdv": "2021-04-23T16:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 29,
+      "appointment_count": 30,
       "internal_id": "242578[]",
       "gid": "41"
     },
@@ -134,10 +134,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-28T15:20:00.000+02:00",
+      "prochain_rdv": "2021-04-28T15:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 18,
+      "appointment_count": 17,
       "internal_id": "243520[164374]",
       "gid": "22"
     }
@@ -658,33 +658,6 @@
     },
     {
       "departement": "18",
-      "nom": "CV \u00e9ph\u00e9m\u00e8re - Neuvy-sur-Barangeon",
-      "url": "",
-      "location": {
-        "longitude": 2.2547,
-        "latitude": 47.3147
-      },
-      "metadata": {
-        "address": "29 Place de la Mairie, 18330 Neuvy-sur-Barangeon",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1368"
-    },
-    {
-      "departement": "18",
       "nom": "CV \u00e9ph\u00e9m\u00e8re - Ligni\u00e8res",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/lignieres/centre-covid-19-mairie-de-lignieres?pid=practice-170325",
       "location": {
@@ -709,6 +682,33 @@
       "appointment_count": 0,
       "internal_id": "249991[170325]",
       "gid": "1367"
+    },
+    {
+      "departement": "18",
+      "nom": "CV \u00e9ph\u00e9m\u00e8re - Neuvy-sur-Barangeon",
+      "url": "",
+      "location": {
+        "longitude": 2.2547,
+        "latitude": 47.3147
+      },
+      "metadata": {
+        "address": "29 Place de la Mairie, 18330 Neuvy-sur-Barangeon",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1368"
     },
     {
       "departement": "18",

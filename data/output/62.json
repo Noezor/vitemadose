@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:17:25.968416+02:00",
+  "last_updated": "2021-04-10T19:20:45.214737+02:00",
   "centres_disponibles": [
     {
       "departement": "62",
@@ -25,7 +25,7 @@
       "prochain_rdv": "2021-04-11T08:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 69,
+      "appointment_count": 68,
       "internal_id": "258354[176735]",
       "gid": "1952"
     },
@@ -49,10 +49,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-11T08:20:00.000+02:00",
+      "prochain_rdv": "2021-04-11T08:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 52,
+      "appointment_count": 51,
       "internal_id": "242237[176607]",
       "gid": "1956"
     },
@@ -108,7 +108,7 @@
       "prochain_rdv": "2021-04-11T09:35:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 12,
+      "appointment_count": 11,
       "internal_id": "244018[181175]",
       "gid": "1954"
     },
@@ -132,10 +132,10 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-11T09:50:00.000+02:00",
+      "prochain_rdv": "2021-04-11T10:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 10,
+      "appointment_count": 9,
       "internal_id": "259287[177337]",
       "gid": "1969"
     },
@@ -187,10 +187,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-11T14:45:00.000+02:00",
+      "prochain_rdv": "2021-04-11T16:05:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 157,
+      "appointment_count": 153,
       "internal_id": "258280[]",
       "gid": "d258280"
     },
@@ -242,7 +242,7 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-12T12:55:00.000+02:00",
+      "prochain_rdv": "2021-04-12T12:05:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 313,
@@ -792,6 +792,34 @@
     },
     {
       "departement": "62",
+      "nom": "Centre de vaccination - CHRSO et CPTS Audomaroise, Salle des sports du pavillon 3 \u2013 CH St Omer",
+      "url": "https://partners.doctolib.fr/hopital-public/saint-omer/ch-region-st-omer-centre-de-vaccination-covid-19?pid=practice-164177",
+      "location": {
+        "longitude": 2.24448,
+        "latitude": 50.7001
+      },
+      "metadata": {
+        "address": " Rue de Blendecques, 62570 Helfaut",
+        "phone_number": "03 92 04 34 71 ",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242389[164177]",
+      "gid": "396"
+    },
+    {
+      "departement": "62",
       "nom": "Centre de vaccination - Centre SDIS Avesnes Le Comte, Salle Jacques Nirdol",
       "url": "https://partners.doctolib.fr/centre-de-sante/bruay-la-buissiere/centre-de-vaccination-covid-pas-de-calais?pid=practice-164609",
       "location": {
@@ -845,34 +873,6 @@
       "appointment_count": 0,
       "internal_id": "242643[164610]",
       "gid": "1104"
-    },
-    {
-      "departement": "62",
-      "nom": "Centre de vaccination - CHRSO et CPTS Audomaroise, Salle des sports du pavillon 3 \u2013 CH St Omer",
-      "url": "https://partners.doctolib.fr/hopital-public/saint-omer/ch-region-st-omer-centre-de-vaccination-covid-19?pid=practice-164177",
-      "location": {
-        "longitude": 2.24448,
-        "latitude": 50.7001
-      },
-      "metadata": {
-        "address": " Rue de Blendecques, 62570 Helfaut",
-        "phone_number": "03 92 04 34 71 ",
-        "business_hours": {
-          "lundi": "",
-          "mardi": "",
-          "mercredi": "",
-          "jeudi": "",
-          "vendredi": "",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242389[164177]",
-      "gid": "396"
     },
     {
       "departement": "62",

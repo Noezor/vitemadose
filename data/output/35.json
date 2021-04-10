@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:17:25.940686+02:00",
+  "last_updated": "2021-04-10T19:20:45.178103+02:00",
   "centres_disponibles": [
     {
       "departement": "35",
@@ -56,34 +56,6 @@
       "appointment_count": 12,
       "internal_id": "256013[]",
       "gid": "d256013"
-    },
-    {
-      "departement": "35",
-      "nom": "FOUGERES - Salle de la forairie",
-      "url": "https://partners.doctolib.fr/centre-de-sante/foug\u00e8res/centre-de-vaccination-de-fougeres",
-      "location": {
-        "longitude": -1.18836,
-        "latitude": 48.3652
-      },
-      "metadata": {
-        "address": " Rue Joseph Fournier, 35300 Foug\u00e8res",
-        "phone_number": "+33805690821",
-        "business_hours": {
-          "lundi": "9h-12h / 14h-17h",
-          "mardi": "9h-12h / 14h-17h",
-          "mercredi": "9h-12h / 14h-17h",
-          "jeudi": "9h-12h / 14h-17h",
-          "vendredi": "9h-12h / 14h-17h",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-22T14:35:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 6,
-      "internal_id": "241899[]",
-      "gid": "422"
     },
     {
       "departement": "35",
@@ -162,12 +134,40 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-27T12:25:00.000+02:00",
+      "prochain_rdv": "2021-04-27T12:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 352,
+      "appointment_count": 348,
       "internal_id": "252809[178662]",
       "gid": "2217"
+    },
+    {
+      "departement": "35",
+      "nom": "FOUGERES - Salle de la forairie",
+      "url": "https://partners.doctolib.fr/centre-de-sante/foug\u00e8res/centre-de-vaccination-de-fougeres",
+      "location": {
+        "longitude": -1.18836,
+        "latitude": 48.3652
+      },
+      "metadata": {
+        "address": " Rue Joseph Fournier, 35300 Foug\u00e8res",
+        "phone_number": "+33805690821",
+        "business_hours": {
+          "lundi": "9h-12h / 14h-17h",
+          "mardi": "9h-12h / 14h-17h",
+          "mercredi": "9h-12h / 14h-17h",
+          "jeudi": "9h-12h / 14h-17h",
+          "vendredi": "9h-12h / 14h-17h",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-29T16:20:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 6,
+      "internal_id": "241899[]",
+      "gid": "422"
     },
     {
       "departement": "35",

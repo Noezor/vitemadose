@@ -1,35 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:17:25.948163+02:00",
+  "last_updated": "2021-04-10T19:20:45.190343+02:00",
   "centres_disponibles": [
-    {
-      "departement": "42",
-      "nom": "Centre Hyg\u00e9e au CHU de Saint-Etienne",
-      "url": "https://partners.doctolib.fr/hopital-public/saint-priest-en-jarez/chste?pid=practice-169578",
-      "location": {
-        "longitude": 4.36101,
-        "latitude": 45.4798
-      },
-      "metadata": {
-        "address": "116 Avenue Albert Raimond, 42270 Saint-Priest-en-Jarez",
-        "phone_number": "+33970771710",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-11T09:00:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 290,
-      "internal_id": "251571[169578]",
-      "gid": "1488"
-    },
     {
       "departement": "42",
       "nom": "Grand centre Saint-Etienne  Salle Omnisport",
@@ -54,9 +26,37 @@
       "prochain_rdv": "2021-04-12T11:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 628,
+      "appointment_count": 627,
       "internal_id": "265342[181753]",
       "gid": "2224"
+    },
+    {
+      "departement": "42",
+      "nom": "Centre Hyg\u00e9e au CHU de Saint-Etienne",
+      "url": "https://partners.doctolib.fr/hopital-public/saint-priest-en-jarez/chste?pid=practice-169578",
+      "location": {
+        "longitude": 4.36101,
+        "latitude": 45.4798
+      },
+      "metadata": {
+        "address": "116 Avenue Albert Raimond, 42270 Saint-Priest-en-Jarez",
+        "phone_number": "+33970771710",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-12T13:20:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 288,
+      "internal_id": "251571[169578]",
+      "gid": "1488"
     },
     {
       "departement": "42",
@@ -81,7 +81,7 @@
       "prochain_rdv": "2021-04-12T13:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 288,
+      "appointment_count": 287,
       "internal_id": "251571[]",
       "gid": "d251571"
     },
@@ -162,12 +162,40 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-17T12:00:00.000+02:00",
+      "prochain_rdv": "2021-04-20T16:15:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 1,
+      "appointment_count": 19,
       "internal_id": "263932[180664]",
       "gid": "2292"
+    },
+    {
+      "departement": "42",
+      "nom": "Centre de vaccination au  CHU DE SAINT-ETIENNE - H\u00f4pital Nord - Salle de Conf\u00e9rence - Hall AB",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/saint-priest-en-jarez/centre-de-vaccination-covid-19-chu-saint-etienne?pid=practice-168936",
+      "location": {
+        "longitude": 4.36293,
+        "latitude": 45.4817
+      },
+      "metadata": {
+        "address": "108 bis Avenue Albert Raimond, 42270 Saint-Priest-en-Jarez",
+        "phone_number": "+33970771710",
+        "business_hours": {
+          "lundi": "09:00-18:00",
+          "mardi": "09:00-18:00",
+          "mercredi": "09:00-18:00",
+          "jeudi": "09:00-18:00",
+          "vendredi": "09:00-18:00",
+          "samedi": "09:00-18:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-23T16:50:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 29,
+      "internal_id": "249030[168936]",
+      "gid": "180"
     },
     {
       "departement": "42",
@@ -199,34 +227,6 @@
     },
     {
       "departement": "42",
-      "nom": "Centre de vaccination au  CHU DE SAINT-ETIENNE - H\u00f4pital Nord - Salle de Conf\u00e9rence - Hall AB",
-      "url": "https://partners.doctolib.fr/centre-depistage-covid/saint-priest-en-jarez/centre-de-vaccination-covid-19-chu-saint-etienne?pid=practice-168936",
-      "location": {
-        "longitude": 4.36293,
-        "latitude": 45.4817
-      },
-      "metadata": {
-        "address": "108 bis Avenue Albert Raimond, 42270 Saint-Priest-en-Jarez",
-        "phone_number": "+33970771710",
-        "business_hours": {
-          "lundi": "09:00-18:00",
-          "mardi": "09:00-18:00",
-          "mercredi": "09:00-18:00",
-          "jeudi": "09:00-18:00",
-          "vendredi": "09:00-18:00",
-          "samedi": "09:00-18:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-24T13:20:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 29,
-      "internal_id": "249030[168936]",
-      "gid": "180"
-    },
-    {
-      "departement": "42",
       "nom": "Centre de vaccination site de Feurs - Salle de l'Eden",
       "url": "https://partners.doctolib.fr/centre-de-sante/feurs/centre-de-vaccination-covid-ch-du-forez-site-de-feurs?pid=practice-180917",
       "location": {
@@ -249,7 +249,7 @@
       "prochain_rdv": "2021-04-27T09:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 272,
+      "appointment_count": 270,
       "internal_id": "241654[180917]",
       "gid": "823"
     },
@@ -274,10 +274,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-27T14:50:00.000+02:00",
+      "prochain_rdv": "2021-04-28T12:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 2,
+      "appointment_count": 1,
       "internal_id": "244292[166002]",
       "gid": "1222"
     },
@@ -302,10 +302,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-30T16:55:00.000+02:00",
+      "prochain_rdv": "2021-04-30T18:15:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 99,
+      "appointment_count": 100,
       "internal_id": "264489[]",
       "gid": "d264489"
     },
@@ -330,10 +330,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-02T17:45:00.000+02:00",
+      "prochain_rdv": "2021-05-05T08:05:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 1,
+      "appointment_count": 21,
       "internal_id": "243348[165752]",
       "gid": "1220"
     }

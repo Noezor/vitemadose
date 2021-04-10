@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:17:25.902955+02:00",
+  "last_updated": "2021-04-10T19:20:45.134419+02:00",
   "centres_disponibles": [
     {
       "departement": "01",
@@ -23,10 +23,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-12T14:50:00.000+02:00",
+      "prochain_rdv": "2021-04-12T15:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 183,
+      "appointment_count": 182,
       "internal_id": "242898[]",
       "gid": "779"
     },
@@ -89,6 +89,34 @@
       "appointment_count": 27,
       "internal_id": null,
       "gid": "feb094ba"
+    },
+    {
+      "departement": "01",
+      "nom": "Centre de vaccination de la Plaine de l'Ain - Espace 1500",
+      "url": "https://www.maiia.com/centre-de-vaccination/01500-amberieu-en-bugey/centre-de-vaccination-de-la-plaine-de-l-ain",
+      "location": {
+        "longitude": 5.34764,
+        "latitude": 45.961
+      },
+      "metadata": {
+        "address": "8 Rue du Savoir, 01500 Amb\u00e9rieu-en-Bugey",
+        "phone_number": "+33428640049",
+        "business_hours": {
+          "lundi": "08:30-12:30/14:00-18:00",
+          "mardi": "08:30-12:30/14:00-18:00",
+          "mercredi": "08:30-12:30/14:00-18:00",
+          "jeudi": "08:30-12:30/14:00-18:00",
+          "vendredi": "08:30-12:30/14:00-18:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-22T15:20:00.000000Z",
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 205,
+      "internal_id": null,
+      "gid": "1216"
     },
     {
       "departement": "01",
@@ -172,34 +200,6 @@
       "appointment_count": 341,
       "internal_id": "241931[]",
       "gid": "797"
-    },
-    {
-      "departement": "01",
-      "nom": "Centre de vaccination de la Plaine de l'Ain - Espace 1500",
-      "url": "https://www.maiia.com/centre-de-vaccination/01500-amberieu-en-bugey/centre-de-vaccination-de-la-plaine-de-l-ain",
-      "location": {
-        "longitude": 5.34764,
-        "latitude": 45.961
-      },
-      "metadata": {
-        "address": "8 Rue du Savoir, 01500 Amb\u00e9rieu-en-Bugey",
-        "phone_number": "+33428640049",
-        "business_hours": {
-          "lundi": "08:30-12:30/14:00-18:00",
-          "mardi": "08:30-12:30/14:00-18:00",
-          "mercredi": "08:30-12:30/14:00-18:00",
-          "jeudi": "08:30-12:30/14:00-18:00",
-          "vendredi": "08:30-12:30/14:00-18:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-05-06T14:55:00.000000Z",
-      "plateforme": "Maiia",
-      "type": "vaccination-center",
-      "appointment_count": 203,
-      "internal_id": null,
-      "gid": "1216"
     },
     {
       "departement": "01",

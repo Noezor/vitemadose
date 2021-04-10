@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:17:25.989021+02:00",
+  "last_updated": "2021-04-10T19:20:45.237445+02:00",
   "centres_disponibles": [
     {
       "departement": "76",
@@ -23,10 +23,10 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-13T15:30:00.000+02:00",
+      "prochain_rdv": "2021-04-13T15:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 49,
+      "appointment_count": 47,
       "internal_id": "241044[163096]",
       "gid": "154"
     },
@@ -82,7 +82,7 @@
       "prochain_rdv": "2021-04-14T12:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 156,
+      "appointment_count": 155,
       "internal_id": "241044[164222]",
       "gid": "786"
     },
@@ -172,6 +172,34 @@
     },
     {
       "departement": "76",
+      "nom": "Site de Sotteville - salle des f\u00eates",
+      "url": "https://partners.doctolib.fr/centre-de-sante/sotteville-les-rouen/centre-de-vaccination-sotteville-les-rouen",
+      "location": {
+        "longitude": 1.08904,
+        "latitude": 49.414
+      },
+      "metadata": {
+        "address": "37 Avenue Jean Jaur\u00e8s, 76300 Sotteville-l\u00e8s-Rouen",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": "2021-04-17T15:50:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "242426[]",
+      "gid": "800"
+    },
+    {
+      "departement": "76",
       "nom": "CH FECAMP - HALL DU RDC",
       "url": "https://partners.doctolib.fr/hopital-public/f\u00e9camp/ch-fecamp-vaccination-covid",
       "location": {
@@ -222,7 +250,7 @@
       "prochain_rdv": "2021-04-28T16:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 25,
+      "appointment_count": 19,
       "internal_id": "264690[181232]",
       "gid": "2359"
     },
@@ -255,14 +283,14 @@
     },
     {
       "departement": "76",
-      "nom": "Site de Sotteville - salle des f\u00eates",
-      "url": "https://partners.doctolib.fr/centre-de-sante/sotteville-les-rouen/centre-de-vaccination-sotteville-les-rouen",
+      "nom": "CHI Caux Vall\u00e9e de Seine  - Lillebonne",
+      "url": "https://partners.doctolib.fr/hopital-public/lillebonne/centre-de-vaccination-caux-vallee-de-seine",
       "location": {
-        "longitude": 1.08904,
-        "latitude": 49.414
+        "longitude": 0.542715,
+        "latitude": 49.5186
       },
       "metadata": {
-        "address": "37 Avenue Jean Jaur\u00e8s, 76300 Sotteville-l\u00e8s-Rouen",
+        "address": "19 Avenue Rene Coty, 76170 Lillebonne",
         "phone_number": "+33279461156",
         "business_hours": {
           "lundi": "",
@@ -274,12 +302,12 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-29T12:50:00.000+02:00",
+      "prochain_rdv": "2021-05-10T12:15:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 66,
-      "internal_id": "242426[]",
-      "gid": "800"
+      "appointment_count": 8,
+      "internal_id": "242477[]",
+      "gid": "796"
     },
     {
       "departement": "76",
@@ -308,34 +336,6 @@
       "appointment_count": 11,
       "internal_id": "242477[164430]",
       "gid": "1025"
-    },
-    {
-      "departement": "76",
-      "nom": "CHI Caux Vall\u00e9e de Seine  - Lillebonne",
-      "url": "https://partners.doctolib.fr/hopital-public/lillebonne/centre-de-vaccination-caux-vallee-de-seine",
-      "location": {
-        "longitude": 0.542715,
-        "latitude": 49.5186
-      },
-      "metadata": {
-        "address": "19 Avenue Rene Coty, 76170 Lillebonne",
-        "phone_number": "+33279461156",
-        "business_hours": {
-          "lundi": "",
-          "mardi": "",
-          "mercredi": "",
-          "jeudi": "",
-          "vendredi": "",
-          "samedi": "",
-          "dimanche": ""
-        }
-      },
-      "prochain_rdv": "2021-05-17T11:20:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 11,
-      "internal_id": "242477[]",
-      "gid": "796"
     }
   ],
   "centres_indisponibles": [
@@ -825,6 +825,33 @@
     },
     {
       "departement": "76",
+      "nom": "Pharmacie Jouvenet",
+      "url": "https://partners.doctolib.fr/pharmacie/rouen/pharmacie-jouvenet",
+      "location": {
+        "longitude": 1.1040361,
+        "latitude": 49.4500539
+      },
+      "metadata": {
+        "address": "26 Rue de Bihorel, 76000 Rouen",
+        "business_hours": {
+          "lundi": "08:30-12:30, 14:00-19:30",
+          "mardi": "08:30-12:30, 14:00-19:30",
+          "mercredi": "08:30-12:30, 14:00-19:30",
+          "jeudi": "08:30-12:30, 14:00-19:30",
+          "vendredi": "08:30-12:30, 14:00-19:30",
+          "samedi": "09:00-13:00, 14:00-18:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "241092[]",
+      "gid": "d241092"
+    },
+    {
+      "departement": "76",
       "nom": "Dr Nicolas Desoubry",
       "url": "https://partners.doctolib.fr/medecin-generaliste/quincampoix/nicolas-desoubry",
       "location": {
@@ -850,33 +877,6 @@
       "appointment_count": 0,
       "internal_id": "98333[]",
       "gid": "d98333"
-    },
-    {
-      "departement": "76",
-      "nom": "Pharmacie Jouvenet",
-      "url": "https://partners.doctolib.fr/pharmacie/rouen/pharmacie-jouvenet",
-      "location": {
-        "longitude": 1.1040361,
-        "latitude": 49.4500539
-      },
-      "metadata": {
-        "address": "26 Rue de Bihorel, 76000 Rouen",
-        "business_hours": {
-          "lundi": "08:30-12:30, 14:00-19:30",
-          "mardi": "08:30-12:30, 14:00-19:30",
-          "mercredi": "08:30-12:30, 14:00-19:30",
-          "jeudi": "08:30-12:30, 14:00-19:30",
-          "vendredi": "08:30-12:30, 14:00-19:30",
-          "samedi": "09:00-13:00, 14:00-18:30",
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": "241092[]",
-      "gid": "d241092"
     },
     {
       "departement": "76",

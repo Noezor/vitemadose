@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:17:26.017403+02:00",
+  "last_updated": "2021-04-10T19:20:45.270541+02:00",
   "centres_disponibles": [
     {
       "departement": "972",
@@ -79,10 +79,10 @@
           "dimanche": "Ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-05T13:40:00.000000+0200",
+      "prochain_rdv": "2021-05-17T10:10:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 58,
+      "appointment_count": 57,
       "internal_id": null,
       "gid": "228"
     },

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:17:25.962882+02:00",
+  "last_updated": "2021-04-10T19:20:45.207371+02:00",
   "centres_disponibles": [
     {
       "departement": "59",
@@ -411,10 +411,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-15T11:45:00.000+02:00",
+      "prochain_rdv": "2021-04-15T09:15:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 48,
+      "appointment_count": 49,
       "internal_id": "243395[165272]",
       "gid": "1510"
     },
@@ -1552,6 +1552,33 @@
     },
     {
       "departement": "59",
+      "nom": "Centre de vaccination - CH Seclin (SALLE ROSENBERG)",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/haut-de-france/vaccination-gh-seclin-carvin?pid=practice-163841",
+      "location": {
+        "longitude": 3.02431,
+        "latitude": 50.5497
+      },
+      "metadata": {
+        "address": "77 b Rue Marx Dormoy, 59113 Seclin",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "09:00-13:00",
+          "mercredi": "09:00-13:00",
+          "jeudi": "09:00-13:00",
+          "vendredi": "09:00-13:00",
+          "samedi": "09:00-13:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241878[163841]",
+      "gid": "1088"
+    },
+    {
+      "departement": "59",
       "nom": "Centre de vaccination - HOPITAL PRIV\u00c9 LE BOIS",
       "url": "https://partners.doctolib.fr/centre-de-sante/villeneuve-d-ascq/vaccination-covid-19-hopital-prive-le-bois-et-villeneuve-d-ascq?pid=practice-163992",
       "location": {
@@ -1577,33 +1604,6 @@
       "appointment_count": 0,
       "internal_id": "242648[163992]",
       "gid": "267"
-    },
-    {
-      "departement": "59",
-      "nom": "Centre de vaccination - CH Seclin (SALLE ROSENBERG)",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/haut-de-france/vaccination-gh-seclin-carvin?pid=practice-163841",
-      "location": {
-        "longitude": 3.02431,
-        "latitude": 50.5497
-      },
-      "metadata": {
-        "address": "77 b Rue Marx Dormoy, 59113 Seclin",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "09:00-13:00",
-          "mercredi": "09:00-13:00",
-          "jeudi": "09:00-13:00",
-          "vendredi": "09:00-13:00",
-          "samedi": "09:00-13:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241878[163841]",
-      "gid": "1088"
     },
     {
       "departement": "59",
@@ -1746,6 +1746,34 @@
     },
     {
       "departement": "59",
+      "nom": "Centre de vaccination - Polyclinique Saint-Roch, Salle Georges Catry",
+      "url": "https://partners.doctolib.fr/clinique-privee/roncq/centre-de-vaccination-covid-19-clinique-saint-roch?pid=practice-164701%3fspeciality_id%3d5494",
+      "location": {
+        "longitude": 3.12118,
+        "latitude": 50.753
+      },
+      "metadata": {
+        "address": " Place Jean Jaures, 59223 Roncq",
+        "phone_number": "+33359032068 ",
+        "business_hours": {
+          "lundi": "08:00-19:30",
+          "mardi": "08:00-19:30",
+          "mercredi": "08:00-19:30",
+          "jeudi": "08:00-19:30",
+          "vendredi": "08:00-19:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242700[164701]",
+      "gid": "1092"
+    },
+    {
+      "departement": "59",
       "nom": "Centre de vaccination - CH Roubaix, V\u00e9lodrome Le Stab (Porte J)",
       "url": "https://partners.doctolib.fr/hopital-public/roubaix/ch-de-roubaix-centre-de-vaccination-covid-19",
       "location": {
@@ -1799,34 +1827,6 @@
       "appointment_count": 0,
       "internal_id": "241874[175038]",
       "gid": "1093"
-    },
-    {
-      "departement": "59",
-      "nom": "Centre de vaccination - Polyclinique Saint-Roch, Salle Georges Catry",
-      "url": "https://partners.doctolib.fr/clinique-privee/roncq/centre-de-vaccination-covid-19-clinique-saint-roch?pid=practice-164701%3fspeciality_id%3d5494",
-      "location": {
-        "longitude": 3.12118,
-        "latitude": 50.753
-      },
-      "metadata": {
-        "address": " Place Jean Jaures, 59223 Roncq",
-        "phone_number": "+33359032068 ",
-        "business_hours": {
-          "lundi": "08:00-19:30",
-          "mardi": "08:00-19:30",
-          "mercredi": "08:00-19:30",
-          "jeudi": "08:00-19:30",
-          "vendredi": "08:00-19:30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242700[164701]",
-      "gid": "1092"
     },
     {
       "departement": "59",
@@ -1886,31 +1886,30 @@
     },
     {
       "departement": "59",
-      "nom": "Centre de vaccination - CH Fourmies",
-      "url": "https://partners.doctolib.fr/hopital-public/fourmies/ch-fourmies-centre-de-vaccination-covid-19",
+      "nom": "Centre de vaccination - Z\u00e9nith de Lille",
+      "url": "https://partners.doctolib.fr/centre-de-sante/lille/centre-de-vaccination-covid-19-centre-de-vaccination-covid-19-zenith-de-lille?pid=practice-180487",
       "location": {
-        "longitude": 4.05915,
-        "latitude": 50.0095
+        "longitude": 3.07861,
+        "latitude": 50.6314
       },
       "metadata": {
-        "address": "13 Rue de l'H\u00f4pital, 59610 Fourmies",
-        "phone_number": "+33392043471 ",
+        "address": "1 Boulevard des Cites Unies, 59777 Lille",
         "business_hours": {
-          "lundi": "09:15-12:00/14:00-17:00",
-          "mardi": "09:15-12:00/14:00-17:00",
-          "mercredi": "09:15-12:00/14:00-17:00",
-          "jeudi": "09:15-12:00/14:00-17:00",
-          "vendredi": "09:15-12:00/14:00-17:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "",
+          "dimanche": ""
         }
       },
       "prochain_rdv": null,
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": "242036[]",
-      "gid": "274"
+      "internal_id": "263778[180487]",
+      "gid": "1986"
     },
     {
       "departement": "59",
@@ -1942,6 +1941,34 @@
     },
     {
       "departement": "59",
+      "nom": "Centre de vaccination - CH Fourmies",
+      "url": "https://partners.doctolib.fr/hopital-public/fourmies/ch-fourmies-centre-de-vaccination-covid-19",
+      "location": {
+        "longitude": 4.05915,
+        "latitude": 50.0095
+      },
+      "metadata": {
+        "address": "13 Rue de l'H\u00f4pital, 59610 Fourmies",
+        "phone_number": "+33392043471 ",
+        "business_hours": {
+          "lundi": "09:15-12:00/14:00-17:00",
+          "mardi": "09:15-12:00/14:00-17:00",
+          "mercredi": "09:15-12:00/14:00-17:00",
+          "jeudi": "09:15-12:00/14:00-17:00",
+          "vendredi": "09:15-12:00/14:00-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242036[]",
+      "gid": "274"
+    },
+    {
+      "departement": "59",
       "nom": "Centre de vaccination - CH Douai",
       "url": "https://partners.doctolib.fr/hopital-public/douai/centre-de-vaccination-covid-ch-douai",
       "location": {
@@ -1967,33 +1994,6 @@
       "appointment_count": 0,
       "internal_id": "241704[]",
       "gid": "265"
-    },
-    {
-      "departement": "59",
-      "nom": "Centre de vaccination - Z\u00e9nith de Lille",
-      "url": "https://partners.doctolib.fr/centre-de-sante/lille/centre-de-vaccination-covid-19-centre-de-vaccination-covid-19-zenith-de-lille?pid=practice-180487",
-      "location": {
-        "longitude": 3.07861,
-        "latitude": 50.6314
-      },
-      "metadata": {
-        "address": "1 Boulevard des Cites Unies, 59777 Lille",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "",
-          "dimanche": ""
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "263778[180487]",
-      "gid": "1986"
     },
     {
       "departement": "59",
@@ -2247,33 +2247,6 @@
     },
     {
       "departement": "59",
-      "nom": "CP - US Maison d'arr\u00eat de Sequedin / Centre P\u00e9nitentiaire de Lille-Loos-Sequedin",
-      "url": "",
-      "location": {
-        "longitude": 2.98381,
-        "latitude": 50.6205
-      },
-      "metadata": {
-        "address": " Place de la Paix, 59320 Sequedin",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1832"
-    },
-    {
-      "departement": "59",
       "nom": "CP - MAUBEUGE / Centre P\u00e9nitentiaire de Maubeuge",
       "url": "",
       "location": {
@@ -2298,6 +2271,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1835"
+    },
+    {
+      "departement": "59",
+      "nom": "CP - US Maison d'arr\u00eat de Sequedin / Centre P\u00e9nitentiaire de Lille-Loos-Sequedin",
+      "url": "",
+      "location": {
+        "longitude": 2.98381,
+        "latitude": 50.6205
+      },
+      "metadata": {
+        "address": " Place de la Paix, 59320 Sequedin",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1832"
     },
     {
       "departement": "59",
@@ -2328,33 +2328,6 @@
     },
     {
       "departement": "59",
-      "nom": "EPM - EPM QUIEVRECHAIN / Maison d'Arr\u00eat de Valenciennes",
-      "url": "",
-      "location": {
-        "longitude": 3.498,
-        "latitude": 50.3558
-      },
-      "metadata": {
-        "address": "75 Rue Lomprez, 59300 Valenciennes",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1837"
-    },
-    {
-      "departement": "59",
       "nom": "MA - USMP de Douai / Maison d'Arr\u00eat de Douai",
       "url": "",
       "location": {
@@ -2379,6 +2352,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1838"
+    },
+    {
+      "departement": "59",
+      "nom": "EPM - EPM QUIEVRECHAIN / Maison d'Arr\u00eat de Valenciennes",
+      "url": "",
+      "location": {
+        "longitude": 3.498,
+        "latitude": 50.3558
+      },
+      "metadata": {
+        "address": "75 Rue Lomprez, 59300 Valenciennes",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1837"
     },
     {
       "departement": "59",

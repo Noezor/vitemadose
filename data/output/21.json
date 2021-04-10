@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:17:25.922600+02:00",
+  "last_updated": "2021-04-10T19:20:45.157340+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -505,34 +505,6 @@
     },
     {
       "departement": "21",
-      "nom": "CHENOVE Salle des f\u00eates",
-      "url": "https://partners.doctolib.fr/maison-de-sante/dijon/cpts-de-dijon-vaccination-covid-19?pid=practice-164125",
-      "location": {
-        "longitude": 5.00611,
-        "latitude": 47.2936
-      },
-      "metadata": {
-        "address": " Place Pierre Meunier, 21300 Chen\u00f4ve",
-        "phone_number": "+33345810421",
-        "business_hours": {
-          "lundi": "09:00-17:00 ",
-          "mardi": "09:00-17:00 ",
-          "mercredi": "09:00-17:00 ",
-          "jeudi": "09:00-17:00",
-          "vendredi": "09:00-17:00 ",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242632[164125]",
-      "gid": "873"
-    },
-    {
-      "departement": "21",
       "nom": "AUXONNE - Salle \u00e9v\u00e8nementielle",
       "url": "https://partners.doctolib.fr/centre-de-sante/auxonne/centre-de-vaccination-covid-19-auxonne?pid=practice-166391",
       "location": {
@@ -558,6 +530,34 @@
       "appointment_count": 0,
       "internal_id": "244779[166391]",
       "gid": "1269"
+    },
+    {
+      "departement": "21",
+      "nom": "CHENOVE Salle des f\u00eates",
+      "url": "https://partners.doctolib.fr/maison-de-sante/dijon/cpts-de-dijon-vaccination-covid-19?pid=practice-164125",
+      "location": {
+        "longitude": 5.00611,
+        "latitude": 47.2936
+      },
+      "metadata": {
+        "address": " Place Pierre Meunier, 21300 Chen\u00f4ve",
+        "phone_number": "+33345810421",
+        "business_hours": {
+          "lundi": "09:00-17:00 ",
+          "mardi": "09:00-17:00 ",
+          "mercredi": "09:00-17:00 ",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00 ",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242632[164125]",
+      "gid": "873"
     },
     {
       "departement": "21",
@@ -589,34 +589,6 @@
     },
     {
       "departement": "21",
-      "nom": "CHU Dijon (B\u00e2timent Courtois)",
-      "url": "https://partners.doctolib.fr/hopital-public/dijon/centre-de-vaccination-covid-chu-dijon?pid=practice-169594",
-      "location": {
-        "longitude": 5.07015,
-        "latitude": 47.3222
-      },
-      "metadata": {
-        "address": "10 Bd Mal de Lattre de Tassigny, 21000 Dijon",
-        "phone_number": "+33345810421",
-        "business_hours": {
-          "lundi": "09:00-11:45/13:00-16:45",
-          "mardi": "09:00-11:45/13:00-16:45",
-          "mercredi": "09:00-11:45/13:00-16:45",
-          "jeudi": "09:00-11:45/13:00-16:45",
-          "vendredi": "09:00-11:45/13:00-16:45",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "245256[166717-181084]",
-      "gid": "398"
-    },
-    {
-      "departement": "21",
       "nom": "BRAZEY-EN-PLAINE Salle polyvalente Georges Balme",
       "url": "https://partners.doctolib.fr/centre-de-sante/brazey-en-plaine/cpts-pays-d-or-vaccination-covid",
       "location": {
@@ -642,6 +614,34 @@
       "appointment_count": 0,
       "internal_id": "242460[]",
       "gid": "395"
+    },
+    {
+      "departement": "21",
+      "nom": "CHU Dijon (B\u00e2timent Courtois)",
+      "url": "https://partners.doctolib.fr/hopital-public/dijon/centre-de-vaccination-covid-chu-dijon?pid=practice-169594",
+      "location": {
+        "longitude": 5.07015,
+        "latitude": 47.3222
+      },
+      "metadata": {
+        "address": "10 Bd Mal de Lattre de Tassigny, 21000 Dijon",
+        "phone_number": "+33345810421",
+        "business_hours": {
+          "lundi": "09:00-11:45/13:00-16:45",
+          "mardi": "09:00-11:45/13:00-16:45",
+          "mercredi": "09:00-11:45/13:00-16:45",
+          "jeudi": "09:00-11:45/13:00-16:45",
+          "vendredi": "09:00-11:45/13:00-16:45",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "245256[166717-181084]",
+      "gid": "398"
     },
     {
       "departement": "21",

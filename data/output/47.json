@@ -1,35 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:17:25.952590+02:00",
+  "last_updated": "2021-04-10T19:20:45.195574+02:00",
   "centres_disponibles": [
-    {
-      "departement": "47",
-      "nom": "Centre de vaccination au centre des congr\u00e8s d'Agen",
-      "url": "https://partners.doctolib.fr/centre-de-sante/agen/centre-de-vaccination-centre-des-congres-d-agen?pid=practice-174333",
-      "location": {
-        "longitude": 0.617198,
-        "latitude": 44.182
-      },
-      "metadata": {
-        "address": "1 Avenue du Midi, 47000 Agen",
-        "phone_number": "+33553484956",
-        "business_hours": {
-          "lundi": "non precis\u00e9",
-          "mardi": "non precis\u00e9",
-          "mercredi": "non precis\u00e9",
-          "jeudi": "non precis\u00e9",
-          "vendredi": "non precis\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-13T10:40:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 360,
-      "internal_id": "254883[174333]",
-      "gid": "1742"
-    },
     {
       "departement": "47",
       "nom": "Espace d'Albret N\u00e9rac",
@@ -54,9 +26,37 @@
       "prochain_rdv": "2021-04-13T11:25:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 216,
+      "appointment_count": 217,
       "internal_id": "242444[179787]",
       "gid": "982"
+    },
+    {
+      "departement": "47",
+      "nom": "Centre de vaccination au centre des congr\u00e8s d'Agen",
+      "url": "https://partners.doctolib.fr/centre-de-sante/agen/centre-de-vaccination-centre-des-congres-d-agen?pid=practice-174333",
+      "location": {
+        "longitude": 0.617198,
+        "latitude": 44.182
+      },
+      "metadata": {
+        "address": "1 Avenue du Midi, 47000 Agen",
+        "phone_number": "+33553484956",
+        "business_hours": {
+          "lundi": "non precis\u00e9",
+          "mardi": "non precis\u00e9",
+          "mercredi": "non precis\u00e9",
+          "jeudi": "non precis\u00e9",
+          "vendredi": "non precis\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-13T11:30:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 353,
+      "internal_id": "254883[174333]",
+      "gid": "1742"
     },
     {
       "departement": "47",
@@ -79,10 +79,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-14T16:25:00.000+02:00",
+      "prochain_rdv": "2021-04-14T13:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 21,
+      "appointment_count": 22,
       "internal_id": "242375[]",
       "gid": "391"
     }

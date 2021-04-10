@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:17:25.972715+02:00",
+  "last_updated": "2021-04-10T19:20:45.218764+02:00",
   "centres_disponibles": [
     {
       "departement": "64",
@@ -26,7 +26,7 @@
       "prochain_rdv": "2021-04-12T12:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 448,
+      "appointment_count": 447,
       "internal_id": "243113[]",
       "gid": "1078"
     },
@@ -110,7 +110,7 @@
       "prochain_rdv": "2021-04-13T18:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 51,
+      "appointment_count": 50,
       "internal_id": "249875[169416]",
       "gid": "177"
     },
@@ -249,7 +249,7 @@
       "prochain_rdv": "2021-04-23T09:15:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 19,
+      "appointment_count": 18,
       "internal_id": "265112[181607]",
       "gid": "2346"
     },
@@ -274,7 +274,7 @@
           "dimanche": "08:30-18:00"
         }
       },
-      "prochain_rdv": "2021-04-24T17:40:00.000+02:00",
+      "prochain_rdv": "2021-04-24T17:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 119,
@@ -367,6 +367,34 @@
     },
     {
       "departement": "64",
+      "nom": "Centre de vaccination de Biarritz - Casino Municipal",
+      "url": "https://partners.doctolib.fr/centre-de-sante/biarritz/centres-de-vaccination-de-la-ville-de-biarritz",
+      "location": {
+        "longitude": -1.55936,
+        "latitude": 43.4834
+      },
+      "metadata": {
+        "address": "1 Avenue Edouard VII, 64200 Biarritz",
+        "phone_number": "+33800726064",
+        "business_hours": {
+          "lundi": "12:00-16:00",
+          "mardi": "12:00-16:00",
+          "mercredi": "12:00-16:00",
+          "jeudi": "12:00-16:00",
+          "vendredi": "12:00-16:00",
+          "samedi": "12:00-16:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243347[]",
+      "gid": "1067"
+    },
+    {
+      "departement": "64",
       "nom": "Centre de vaccination du CH de Saint Palais",
       "url": "https://partners.doctolib.fr/hopital-public/saint-palais/centre-de-vaccination-covid-centre-hospitalier-de-saint-palais",
       "location": {
@@ -420,34 +448,6 @@
       "appointment_count": 0,
       "internal_id": "240763[172177]",
       "gid": "183"
-    },
-    {
-      "departement": "64",
-      "nom": "Centre de vaccination de Biarritz - Casino Municipal",
-      "url": "https://partners.doctolib.fr/centre-de-sante/biarritz/centres-de-vaccination-de-la-ville-de-biarritz",
-      "location": {
-        "longitude": -1.55936,
-        "latitude": 43.4834
-      },
-      "metadata": {
-        "address": "1 Avenue Edouard VII, 64200 Biarritz",
-        "phone_number": "+33800726064",
-        "business_hours": {
-          "lundi": "12:00-16:00",
-          "mardi": "12:00-16:00",
-          "mercredi": "12:00-16:00",
-          "jeudi": "12:00-16:00",
-          "vendredi": "12:00-16:00",
-          "samedi": "12:00-16:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243347[]",
-      "gid": "1067"
     },
     {
       "departement": "64",

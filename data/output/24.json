@@ -1,35 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:17:25.925196+02:00",
+  "last_updated": "2021-04-10T19:20:45.160872+02:00",
   "centres_disponibles": [
-    {
-      "departement": "24",
-      "nom": "Filature de l'Isle",
-      "url": "https://partners.doctolib.fr/hopital-public/perigueux/vaccination-covid",
-      "location": {
-        "longitude": 0.69758,
-        "latitude": 45.1995
-      },
-      "metadata": {
-        "address": "15 Chemin des Feutres de Toulon, 24000 P\u00e9rigueux",
-        "phone_number": "+33553453133",
-        "business_hours": {
-          "lundi": "08:30-12:00/13:00-18:00",
-          "mardi": "08:30-12:00/13:00-18:00",
-          "mercredi": "08:30-12:00/13:00-18:00",
-          "jeudi": "08:30-12:00/13:00-18:00",
-          "vendredi": "08:30-12:00/13:00-18:00",
-          "samedi": "08:30-12:00/13:00-18:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-12T16:12:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 2,
-      "internal_id": "240691[]",
-      "gid": "119"
-    },
     {
       "departement": "24",
       "nom": "Maison de sant\u00e9 pluridisciplinaire du Pays de Lanouaille",
@@ -78,7 +50,7 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-27T16:00:00.000+02:00",
+      "prochain_rdv": "2021-04-27T16:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 43,
@@ -105,10 +77,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-06T11:50:00.000+02:00",
+      "prochain_rdv": "2021-05-06T11:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 1,
+      "appointment_count": 2,
       "internal_id": "257580[175745]",
       "gid": "1697"
     }
@@ -199,33 +171,6 @@
     },
     {
       "departement": "24",
-      "nom": "EHPAD La Madeleine",
-      "url": "https://partners.doctolib.fr/centre-de-sante/bergerac/centre-de-vaccination-covid-19-ehpad-la-madeleine?pid=practice-174840",
-      "location": {
-        "longitude": 0.478389,
-        "latitude": 44.8473
-      },
-      "metadata": {
-        "address": "40 Rue du Mar\u00e9chal Joffre, 24100 Bergerac",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "255520[174840]",
-      "gid": "1618"
-    },
-    {
-      "departement": "24",
       "nom": "EHPAD de La Madeleine",
       "url": "",
       "location": {
@@ -250,6 +195,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1619"
+    },
+    {
+      "departement": "24",
+      "nom": "EHPAD La Madeleine",
+      "url": "https://partners.doctolib.fr/centre-de-sante/bergerac/centre-de-vaccination-covid-19-ehpad-la-madeleine?pid=practice-174840",
+      "location": {
+        "longitude": 0.478389,
+        "latitude": 44.8473
+      },
+      "metadata": {
+        "address": "40 Rue du Mar\u00e9chal Joffre, 24100 Bergerac",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "255520[174840]",
+      "gid": "1618"
     },
     {
       "departement": "24",
@@ -361,33 +333,6 @@
     },
     {
       "departement": "24",
-      "nom": "CV mobile -Perigueux- SDIS/CD",
-      "url": "",
-      "location": {
-        "longitude": 0.731938,
-        "latitude": 45.1767
-      },
-      "metadata": {
-        "address": "5 Route d\u2019Atur (Boulazac), 24750 Boulazac Isle Manoire",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "2245"
-    },
-    {
-      "departement": "24",
       "nom": "Maison de sant\u00e9 du Pays Montponnais",
       "url": "https://partners.doctolib.fr/centre-de-sante/montpon-menesterol/centre-de-vaccination-covid-19-montpon-menestrol?pid=practice-170938",
       "location": {
@@ -413,6 +358,33 @@
       "appointment_count": 0,
       "internal_id": "250585[170938]",
       "gid": "1407"
+    },
+    {
+      "departement": "24",
+      "nom": "CV mobile -Perigueux- SDIS/CD",
+      "url": "",
+      "location": {
+        "longitude": 0.731938,
+        "latitude": 45.1767
+      },
+      "metadata": {
+        "address": "5 Route d\u2019Atur (Boulazac), 24750 Boulazac Isle Manoire",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "2245"
     },
     {
       "departement": "24",
@@ -522,6 +494,34 @@
       "appointment_count": 0,
       "internal_id": "250765[171077]",
       "gid": "1405"
+    },
+    {
+      "departement": "24",
+      "nom": "Filature de l'Isle",
+      "url": "https://partners.doctolib.fr/hopital-public/perigueux/vaccination-covid",
+      "location": {
+        "longitude": 0.69758,
+        "latitude": 45.1995
+      },
+      "metadata": {
+        "address": "15 Chemin des Feutres de Toulon, 24000 P\u00e9rigueux",
+        "phone_number": "+33553453133",
+        "business_hours": {
+          "lundi": "08:30-12:00/13:00-18:00",
+          "mardi": "08:30-12:00/13:00-18:00",
+          "mercredi": "08:30-12:00/13:00-18:00",
+          "jeudi": "08:30-12:00/13:00-18:00",
+          "vendredi": "08:30-12:00/13:00-18:00",
+          "samedi": "08:30-12:00/13:00-18:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240691[]",
+      "gid": "119"
     },
     {
       "departement": "24",

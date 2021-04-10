@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:17:25.982444+02:00",
+  "last_updated": "2021-04-10T19:20:45.230040+02:00",
   "centres_disponibles": [
     {
       "departement": "73",
@@ -25,7 +25,7 @@
       "prochain_rdv": "2021-04-12T08:54:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 128,
+      "appointment_count": 127,
       "internal_id": "249709[]",
       "gid": "d249709"
     },
@@ -52,7 +52,7 @@
       "prochain_rdv": "2021-04-12T08:54:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 128,
+      "appointment_count": 127,
       "internal_id": "249710[]",
       "gid": "d249710"
     },
@@ -130,10 +130,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-19T11:48:00.000+02:00",
+      "prochain_rdv": "2021-04-19T10:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 423,
+      "appointment_count": 426,
       "internal_id": "264576[]",
       "gid": "d264576"
     },
@@ -161,7 +161,7 @@
       "prochain_rdv": "2021-04-20T13:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 49,
+      "appointment_count": 48,
       "internal_id": "242539[]",
       "gid": "673"
     },
@@ -579,18 +579,18 @@
     },
     {
       "departement": "73",
-      "nom": "Centre de vaccination COVID Ad Hoc de COGNIN",
-      "url": "https://partners.doctolib.fr/centre-de-sante/chambery/centre-de-vaccination-grand-chambery?pid=practice-178865",
+      "nom": "Centre de vaccination COVID Ad Hoc de Saint Alban Leysse",
+      "url": "https://partners.doctolib.fr/centre-de-sante/chambery/centre-de-vaccination-grand-chambery?pid=practice-178866",
       "location": {
-        "longitude": 5.89493,
-        "latitude": 45.5605
+        "longitude": 5.95943,
+        "latitude": 45.5788
       },
       "metadata": {
-        "address": "16 R de la Forgerie, 73160 Cognin",
+        "address": "6500 Av de la Mairie, 73230 Saint-Alban-Leysse",
         "business_hours": {
-          "lundi": "ferm\u00e9",
+          "lundi": "OUVERT",
           "mardi": "ferm\u00e9",
-          "mercredi": "08:45-12:05/13:45-17:05",
+          "mercredi": "ferm\u00e9",
           "jeudi": "ferm\u00e9",
           "vendredi": "ferm\u00e9",
           "samedi": "ferm\u00e9",
@@ -602,7 +602,7 @@
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": "260816[178078-178862]",
-      "gid": "2127"
+      "gid": "2128"
     },
     {
       "departement": "73",

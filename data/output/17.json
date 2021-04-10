@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:17:25.919116+02:00",
+  "last_updated": "2021-04-10T19:20:45.152255+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -33,6 +33,33 @@
     },
     {
       "departement": "17",
+      "nom": "CH ROCHEFORT(r\u00e9serv\u00e9 aux professionnels de sant\u00e9)",
+      "url": "https://partners.doctolib.fr/hopital-public/rochefort/centre-hospitalier-de-rochefort-vaccination-covid",
+      "location": {
+        "longitude": -0.963273,
+        "latitude": 45.9671
+      },
+      "metadata": {
+        "address": "1 Avenue de Beligon, 17300 Rochefort",
+        "business_hours": {
+          "lundi": "09:00-12:30/13:30-16:50",
+          "mardi": "09:00-12:30/13:30-16:50",
+          "mercredi": "09:00-12:30/13:30-16:50",
+          "jeudi": "09:00-12:30/13:30-16:50",
+          "vendredi": "09:00-12:30/13:30-16:50",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241589[]",
+      "gid": "73"
+    },
+    {
+      "departement": "17",
       "nom": "CENTRE CLINIQUE PASTEUR ROYAN",
       "url": "https://partners.doctolib.fr/clinique-privee/royan/clinique-pasteur-vaccination-covid-19?pid=practice-165101",
       "location": {
@@ -58,33 +85,6 @@
       "appointment_count": 0,
       "internal_id": "243959[165101]",
       "gid": "921"
-    },
-    {
-      "departement": "17",
-      "nom": "CH ROCHEFORT(r\u00e9serv\u00e9 aux professionnels de sant\u00e9)",
-      "url": "https://partners.doctolib.fr/hopital-public/rochefort/centre-hospitalier-de-rochefort-vaccination-covid",
-      "location": {
-        "longitude": -0.963273,
-        "latitude": 45.9671
-      },
-      "metadata": {
-        "address": "1 Avenue de Beligon, 17300 Rochefort",
-        "business_hours": {
-          "lundi": "09:00-12:30/13:30-16:50",
-          "mardi": "09:00-12:30/13:30-16:50",
-          "mercredi": "09:00-12:30/13:30-16:50",
-          "jeudi": "09:00-12:30/13:30-16:50",
-          "vendredi": "09:00-12:30/13:30-16:50",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241589[]",
-      "gid": "73"
     },
     {
       "departement": "17",
@@ -339,6 +339,34 @@
     },
     {
       "departement": "17",
+      "nom": "Centre de Vaccination Saint Jean d'Ang\u00e9ly",
+      "url": "https://partners.doctolib.fr/hopital-public/saint-jean-d-angely/centre-de-vaccination-covid-19-saint-jean-d-angely",
+      "location": {
+        "longitude": -0.529431,
+        "latitude": 45.9471
+      },
+      "metadata": {
+        "address": "18 Avenue du Port, 17400 Saint-Jean-d'Ang\u00e9ly",
+        "phone_number": "+33546951111 ",
+        "business_hours": {
+          "lundi": "09:00-12:00/14:00-17:00",
+          "mardi": "09:00-12:00/14:00-17:00",
+          "mercredi": "09:00-12:00/14:00-17:00",
+          "jeudi": "09:00-12:00/14:00-17:00",
+          "vendredi": "09:00-12:00/14:00-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242637[]",
+      "gid": "922"
+    },
+    {
+      "departement": "17",
       "nom": "CH LA ROCHELLE (r\u00e9serv\u00e9 aux professionnels de sant\u00e9)",
       "url": "https://partners.doctolib.fr/hopital-public/la-rochelle/centre-de-vaccination-de-la-rochelle?pid=practice-162596",
       "location": {
@@ -392,34 +420,6 @@
       "appointment_count": 0,
       "internal_id": "262232[179312]",
       "gid": "2186"
-    },
-    {
-      "departement": "17",
-      "nom": "Centre de Vaccination Saint Jean d'Ang\u00e9ly",
-      "url": "https://partners.doctolib.fr/hopital-public/saint-jean-d-angely/centre-de-vaccination-covid-19-saint-jean-d-angely",
-      "location": {
-        "longitude": -0.529431,
-        "latitude": 45.9471
-      },
-      "metadata": {
-        "address": "18 Avenue du Port, 17400 Saint-Jean-d'Ang\u00e9ly",
-        "phone_number": "+33546951111 ",
-        "business_hours": {
-          "lundi": "09:00-12:00/14:00-17:00",
-          "mardi": "09:00-12:00/14:00-17:00",
-          "mercredi": "09:00-12:00/14:00-17:00",
-          "jeudi": "09:00-12:00/14:00-17:00",
-          "vendredi": "09:00-12:00/14:00-17:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242637[]",
-      "gid": "922"
     },
     {
       "departement": "17",

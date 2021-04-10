@@ -1,7 +1,35 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:17:26.000019+02:00",
+  "last_updated": "2021-04-10T19:20:45.251493+02:00",
   "centres_disponibles": [
+    {
+      "departement": "85",
+      "nom": "Centre de vaccination COVID - MONTAIGU - Salle Dolia",
+      "url": "https://partners.doctolib.fr/centre-de-sante/montaigu-vendee/centre-de-vaccination-terres-de-montaigu",
+      "location": {
+        "longitude": -1.30731,
+        "latitude": 46.9564
+      },
+      "metadata": {
+        "address": " All\u00e9e des Cressonni\u00e8res, 85600 Montaigu-Vend\u00e9e",
+        "phone_number": "+33251482488",
+        "business_hours": {
+          "lundi": "9h30-13h30 / 14h30-18h30",
+          "mardi": "9h30-13h30 / 14h30-18h30",
+          "mercredi": "9h30-13h30 / 14h30-18h30",
+          "jeudi": "9h30-13h30 / 14h30-18h30",
+          "vendredi": "9h30-13h30 / 14h30-18h30",
+          "samedi": "9h30-13h30/14h30-18h30",
+          "dimanche": "Ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-13T11:05:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 2,
+      "internal_id": "242806[]",
+      "gid": "842"
+    },
     {
       "departement": "85",
       "nom": "Centre de vaccination COVID - FONTENAY LE COMTE - Espace culturel et de congr\u00e8s Ren\u00e9-Cassin",
@@ -23,10 +51,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-14T08:50:00.000+02:00",
+      "prochain_rdv": "2021-04-14T08:55:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 147,
+      "appointment_count": 145,
       "internal_id": "242652[]",
       "gid": "817"
     },
@@ -51,10 +79,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-27T17:40:00.000+02:00",
+      "prochain_rdv": "2021-04-27T16:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 259,
+      "appointment_count": 260,
       "internal_id": "242607[]",
       "gid": "846"
     },
@@ -79,10 +107,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-29T11:40:00.000+02:00",
+      "prochain_rdv": "2021-04-29T11:35:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 38,
+      "appointment_count": 39,
       "internal_id": "242738[]",
       "gid": "762"
     }
@@ -230,34 +258,6 @@
     },
     {
       "departement": "85",
-      "nom": "Centre de vaccination COVID - MONTAIGU - Salle Dolia",
-      "url": "https://partners.doctolib.fr/centre-de-sante/montaigu-vendee/centre-de-vaccination-terres-de-montaigu",
-      "location": {
-        "longitude": -1.30731,
-        "latitude": 46.9564
-      },
-      "metadata": {
-        "address": " All\u00e9e des Cressonni\u00e8res, 85600 Montaigu-Vend\u00e9e",
-        "phone_number": "+33251482488",
-        "business_hours": {
-          "lundi": "9h30-13h30 / 14h30-18h30",
-          "mardi": "9h30-13h30 / 14h30-18h30",
-          "mercredi": "9h30-13h30 / 14h30-18h30",
-          "jeudi": "9h30-13h30 / 14h30-18h30",
-          "vendredi": "9h30-13h30 / 14h30-18h30",
-          "samedi": "9h30-13h30/14h30-18h30",
-          "dimanche": "Ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242806[]",
-      "gid": "842"
-    },
-    {
-      "departement": "85",
       "nom": "Centre de Vaccination - SAINT-HILAIRE DE RIEZ - Espace Jean Gaillardon",
       "url": "https://partners.doctolib.fr/centre-de-sante/saint-hilaire-de-riez/centre-de-vaccination-covid-saint-hilaire-de-riez?pid=practice-179605",
       "location": {
@@ -286,33 +286,6 @@
     },
     {
       "departement": "85",
-      "nom": "MA - US CHD VENDEE / Maison d'Arr\u00eat de La Roche-sur-Yon",
-      "url": "",
-      "location": {
-        "longitude": -1.426,
-        "latitude": 46.6755
-      },
-      "metadata": {
-        "address": "20 Boulevard d?Angleterre, 85000 La Roche-sur-Yon",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1865"
-    },
-    {
-      "departement": "85",
       "nom": "MA - USMP de Fontenay-le-Comte / Maison d'Arr\u00eat de Fontenay-le-Comte",
       "url": "",
       "location": {
@@ -337,6 +310,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1866"
+    },
+    {
+      "departement": "85",
+      "nom": "MA - US CHD VENDEE / Maison d'Arr\u00eat de La Roche-sur-Yon",
+      "url": "",
+      "location": {
+        "longitude": -1.426,
+        "latitude": 46.6755
+      },
+      "metadata": {
+        "address": "20 Boulevard d?Angleterre, 85000 La Roche-sur-Yon",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1865"
     },
     {
       "departement": "85",

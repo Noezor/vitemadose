@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:17:25.934465+02:00",
+  "last_updated": "2021-04-10T19:20:45.170562+02:00",
   "centres_disponibles": [
     {
       "departement": "31",
@@ -54,7 +54,7 @@
       "prochain_rdv": "2021-04-12T18:00:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 242,
+      "appointment_count": 240,
       "internal_id": null,
       "gid": "654"
     },
@@ -194,7 +194,7 @@
       "prochain_rdv": "2021-04-14T17:10:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 276,
+      "appointment_count": 275,
       "internal_id": null,
       "gid": "575"
     },
@@ -222,7 +222,7 @@
       "prochain_rdv": "2021-04-15T15:05:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 151,
+      "appointment_count": 152,
       "internal_id": null,
       "gid": "622"
     },
@@ -678,34 +678,6 @@
     },
     {
       "departement": "31",
-      "nom": "CDV31 Saint B\u00e9at",
-      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/st-beat-31440/saint-beat/centre-de-vaccination-de-saint-beat",
-      "location": {
-        "longitude": 0.692278,
-        "latitude": 42.9128
-      },
-      "metadata": {
-        "address": "319 Avenue Gallieni, 31440 Saint-B\u00e9at-Lez",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "14:30-18:00",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "14:30-18:00",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Keldoc",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "732"
-    },
-    {
-      "departement": "31",
       "nom": "CDV31 Toulouse Pierre Baudis",
       "url": "https://vaccination-covid.keldoc.com/maladies-infectieuses/toulouse-31000/centre-de-vaccination-departemental-toulouse-pierre-baudis",
       "location": {
@@ -759,6 +731,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "784"
+    },
+    {
+      "departement": "31",
+      "nom": "CDV31 Saint B\u00e9at",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/st-beat-31440/saint-beat/centre-de-vaccination-de-saint-beat",
+      "location": {
+        "longitude": 0.692278,
+        "latitude": 42.9128
+      },
+      "metadata": {
+        "address": "319 Avenue Gallieni, 31440 Saint-B\u00e9at-Lez",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "14:30-18:00",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "14:30-18:00",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "732"
     },
     {
       "departement": "31",
@@ -874,34 +874,6 @@
     },
     {
       "departement": "31",
-      "nom": "CDV31 Saint Orens De Gameville",
-      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/st-orens-de-gameville-31650/saint-orens-de-gameville/centre-de-vaccination-de-saint-orens-de-gameville",
-      "location": {
-        "longitude": 1.5403,
-        "latitude": 43.551
-      },
-      "metadata": {
-        "address": "42 Avenue Augustin Labouilhe, 31650 Saint-Orens-de-Gameville",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "14:00-18:00",
-          "mardi": "14:00-18:00",
-          "mercredi": "14:00-18:00",
-          "jeudi": "14:00-18:00",
-          "vendredi": "14:00-18:00",
-          "samedi": "14:00-18:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Keldoc",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "626"
-    },
-    {
-      "departement": "31",
       "nom": "CDV31 CHU Toulouse La Grave",
       "url": "https://vaccination-covid.keldoc.com/centre-hospitalier-universitaire/toulouse-31059/centre-hospitalier-universitaire-toulouse-la-grave-hotel-dieu/centre-de-vaccination-du-centre-hospitalier-universitaire-toulouse-la-grave-hotel-dieu",
       "location": {
@@ -927,6 +899,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "676"
+    },
+    {
+      "departement": "31",
+      "nom": "CDV31 Saint Orens De Gameville",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/st-orens-de-gameville-31650/saint-orens-de-gameville/centre-de-vaccination-de-saint-orens-de-gameville",
+      "location": {
+        "longitude": 1.5403,
+        "latitude": 43.551
+      },
+      "metadata": {
+        "address": "42 Avenue Augustin Labouilhe, 31650 Saint-Orens-de-Gameville",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "14:00-18:00",
+          "mardi": "14:00-18:00",
+          "mercredi": "14:00-18:00",
+          "jeudi": "14:00-18:00",
+          "vendredi": "14:00-18:00",
+          "samedi": "14:00-18:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "626"
     },
     {
       "departement": "31",
@@ -1014,34 +1014,6 @@
     },
     {
       "departement": "31",
-      "nom": "CDV31 Villemur sur Tarn",
-      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/villemur-sur-tarn-31340/villemur-sur-tarn/centre-de-vaccination-de-villemur-sur-tarn",
-      "location": {
-        "longitude": 1.4824,
-        "latitude": 43.8594
-      },
-      "metadata": {
-        "address": "28 Chemin de la Garrigue, 31340 Villemur-sur-Tarn",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "14:00-18:00",
-          "mardi": "14:00-18:00",
-          "mercredi": "14:00-18:00",
-          "jeudi": "14:00-18:00",
-          "vendredi": "14:00-18:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Keldoc",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "714"
-    },
-    {
-      "departement": "31",
       "nom": "CDV31 Revel",
       "url": "https://vaccination-covid.keldoc.com/cabinet-medical/revel-31250/revel/centre-de-vaccination-de-revel",
       "location": {
@@ -1067,6 +1039,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "591"
+    },
+    {
+      "departement": "31",
+      "nom": "CDV31 Villemur sur Tarn",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/villemur-sur-tarn-31340/villemur-sur-tarn/centre-de-vaccination-de-villemur-sur-tarn",
+      "location": {
+        "longitude": 1.4824,
+        "latitude": 43.8594
+      },
+      "metadata": {
+        "address": "28 Chemin de la Garrigue, 31340 Villemur-sur-Tarn",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "14:00-18:00",
+          "mardi": "14:00-18:00",
+          "mercredi": "14:00-18:00",
+          "jeudi": "14:00-18:00",
+          "vendredi": "14:00-18:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "714"
     },
     {
       "departement": "31",
@@ -1152,33 +1152,6 @@
     },
     {
       "departement": "31",
-      "nom": "CD - US du Centre de D\u00e9tention de Muret / CHU Toulouse / Centre de D\u00e9tention de Muret",
-      "url": "",
-      "location": {
-        "longitude": 1.32001,
-        "latitude": 43.4857
-      },
-      "metadata": {
-        "address": " Route de Seysses, 31600 Muret",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1902"
-    },
-    {
-      "departement": "31",
       "nom": "CP - US de la Maison d'Arret Seysses / CHU Toulouse / Centre de D\u00e9tention de Muret",
       "url": "",
       "location": {
@@ -1203,6 +1176,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1901"
+    },
+    {
+      "departement": "31",
+      "nom": "CD - US du Centre de D\u00e9tention de Muret / CHU Toulouse / Centre de D\u00e9tention de Muret",
+      "url": "",
+      "location": {
+        "longitude": 1.32001,
+        "latitude": 43.4857
+      },
+      "metadata": {
+        "address": " Route de Seysses, 31600 Muret",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1902"
     },
     {
       "departement": "31",

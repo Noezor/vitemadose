@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:17:25.966512+02:00",
+  "last_updated": "2021-04-10T19:20:45.212457+02:00",
   "centres_disponibles": [
     {
       "departement": "60",
@@ -23,10 +23,10 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-12T12:57:00.000+02:00",
+      "prochain_rdv": "2021-04-15T15:09:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 2,
+      "appointment_count": 1,
       "internal_id": "258482[176858]",
       "gid": "2070"
     },
@@ -249,6 +249,33 @@
     },
     {
       "departement": "60",
+      "nom": "Centre de vaccination - CPTS du pays de Bray",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-aubin-en-bray/communaute-de-soins-du-pays-de-bray-vaccination-covid?pid=practice-164539",
+      "location": {
+        "longitude": 1.88293,
+        "latitude": 49.4274
+      },
+      "metadata": {
+        "address": "38 Rue des Clerets, 60650 Saint-Aubin-en-Bray",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242573[164539]",
+      "gid": "1673"
+    },
+    {
+      "departement": "60",
       "nom": "Centre de vaccination - Commune de Pont Sainte Maxence,  gymnase la Salamandre rue Charles Frigaux",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/pont-sainte-maxence/centre-de-vaccination-covid-19-pont-sainte-maxence?pid=practice-175373",
       "location": {
@@ -274,33 +301,6 @@
       "appointment_count": 0,
       "internal_id": "256798[175373]",
       "gid": "1671"
-    },
-    {
-      "departement": "60",
-      "nom": "Centre de vaccination - CPTS du pays de Bray",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saint-aubin-en-bray/communaute-de-soins-du-pays-de-bray-vaccination-covid?pid=practice-164539",
-      "location": {
-        "longitude": 1.88293,
-        "latitude": 49.4274
-      },
-      "metadata": {
-        "address": "38 Rue des Clerets, 60650 Saint-Aubin-en-Bray",
-        "business_hours": {
-          "lundi": "",
-          "mardi": "",
-          "mercredi": "",
-          "jeudi": "",
-          "vendredi": "",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242573[164539]",
-      "gid": "1673"
     },
     {
       "departement": "60",

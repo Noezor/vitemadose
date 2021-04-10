@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:17:25.997121+02:00",
+  "last_updated": "2021-04-10T19:20:45.246983+02:00",
   "centres_disponibles": [
     {
       "departement": "83",
@@ -216,10 +216,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-22T12:30:00.000+02:00",
+      "prochain_rdv": "2021-04-23T10:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 250,
+      "appointment_count": 227,
       "internal_id": "243226[176700]",
       "gid": "1999"
     }
@@ -637,33 +637,6 @@
     },
     {
       "departement": "83",
-      "nom": "Centre Vaccination La Roquebrussanne",
-      "url": "",
-      "location": {
-        "longitude": 5.97857,
-        "latitude": 43.3381
-      },
-      "metadata": {
-        "address": "1017 Carraire du Pical, 83136 La Roquebrussanne",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "2303"
-    },
-    {
-      "departement": "83",
       "nom": "Centre vaccination La Garde",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-166708",
       "location": {
@@ -689,6 +662,33 @@
       "appointment_count": 0,
       "internal_id": "243226[166708]",
       "gid": "1278"
+    },
+    {
+      "departement": "83",
+      "nom": "Centre Vaccination La Roquebrussanne",
+      "url": "",
+      "location": {
+        "longitude": 5.97857,
+        "latitude": 43.3381
+      },
+      "metadata": {
+        "address": "1017 Carraire du Pical, 83136 La Roquebrussanne",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "2303"
     },
     {
       "departement": "83",
@@ -746,33 +746,6 @@
     },
     {
       "departement": "83",
-      "nom": "Espace Culturel J.L.DIEUX",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-164120&enable_cookies_consent=1",
-      "location": {
-        "longitude": 6.31299,
-        "latitude": 43.3937
-      },
-      "metadata": {
-        "address": " Avenue Pierre Gaudin, 83340 Le Luc",
-        "business_hours": {
-          "lundi": "Ouvert",
-          "mardi": "Ouvert",
-          "mercredi": "Ouvert",
-          "jeudi": "Ouvert",
-          "vendredi": "Ouvert",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": null,
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1401"
-    },
-    {
-      "departement": "83",
       "nom": "Centre vaccination Cavalaire",
       "url": "",
       "location": {
@@ -800,6 +773,33 @@
     },
     {
       "departement": "83",
+      "nom": "Espace Culturel J.L.DIEUX",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-164120&enable_cookies_consent=1",
+      "location": {
+        "longitude": 6.31299,
+        "latitude": 43.3937
+      },
+      "metadata": {
+        "address": " Avenue Pierre Gaudin, 83340 Le Luc",
+        "business_hours": {
+          "lundi": "Ouvert",
+          "mardi": "Ouvert",
+          "mercredi": "Ouvert",
+          "jeudi": "Ouvert",
+          "vendredi": "Ouvert",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": null,
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1401"
+    },
+    {
+      "departement": "83",
       "nom": "Centre vaccination Le Val",
       "url": "",
       "location": {
@@ -824,34 +824,6 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "2395"
-    },
-    {
-      "departement": "83",
-      "nom": "Complexe Saint-Exup\u00e9ry Gymnase Coubertin",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/draguignan/centre-de-vaccination-covid-19-de-draguignan",
-      "location": {
-        "longitude": 6.47115,
-        "latitude": 43.5353
-      },
-      "metadata": {
-        "address": " Place de la Paix, 83300 Draguignan",
-        "phone_number": "+33483083085",
-        "business_hours": {
-          "lundi": "9h/17h",
-          "mardi": "9h/17h",
-          "mercredi": "9h/17h",
-          "jeudi": "9h/17h",
-          "vendredi": "9h/17h",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243235[]",
-      "gid": "833"
     },
     {
       "departement": "83",
@@ -883,6 +855,34 @@
     },
     {
       "departement": "83",
+      "nom": "Complexe Saint-Exup\u00e9ry Gymnase Coubertin",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/draguignan/centre-de-vaccination-covid-19-de-draguignan",
+      "location": {
+        "longitude": 6.47115,
+        "latitude": 43.5353
+      },
+      "metadata": {
+        "address": " Place de la Paix, 83300 Draguignan",
+        "phone_number": "+33483083085",
+        "business_hours": {
+          "lundi": "9h/17h",
+          "mardi": "9h/17h",
+          "mercredi": "9h/17h",
+          "jeudi": "9h/17h",
+          "vendredi": "9h/17h",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243235[]",
+      "gid": "833"
+    },
+    {
+      "departement": "83",
       "nom": "Clinique du Cap d'Or (R\u00e9serv\u00e9 aux professionnels de sant\u00e9 lib\u00e9raux)",
       "url": "https://partners.doctolib.fr/clinique-privee/la-seyne-sur-mer/centre-de-vaccination-covid-clinique-du-cap-d-or",
       "location": {
@@ -908,6 +908,33 @@
       "appointment_count": 0,
       "internal_id": "243163[]",
       "gid": "152"
+    },
+    {
+      "departement": "83",
+      "nom": "Centre de Vaccination Sainte Musse",
+      "url": "https://partners.doctolib.fr/hopital-public/toulon/centre-de-vaccination-covid-19-du-chits-toulon?pid=practice-169719",
+      "location": {
+        "longitude": 5.97545,
+        "latitude": 43.1252
+      },
+      "metadata": {
+        "address": "54 Rue Henri Sainte-Claire Deville, 83100 Toulon",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ouvert",
+          "dimanche": "ouvert"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "249196[169719]",
+      "gid": "2157"
     },
     {
       "departement": "83",
@@ -992,33 +1019,6 @@
     },
     {
       "departement": "83",
-      "nom": "Centre de Vaccination Sainte Musse",
-      "url": "https://partners.doctolib.fr/hopital-public/toulon/centre-de-vaccination-covid-19-du-chits-toulon?pid=practice-169719",
-      "location": {
-        "longitude": 5.97545,
-        "latitude": 43.1252
-      },
-      "metadata": {
-        "address": "54 Rue Henri Sainte-Claire Deville, 83100 Toulon",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ouvert",
-          "dimanche": "ouvert"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "249196[169719]",
-      "gid": "2157"
-    },
-    {
-      "departement": "83",
       "nom": "Centre de vaccination du Lavandou",
       "url": "",
       "location": {
@@ -1043,34 +1043,6 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "2163"
-    },
-    {
-      "departement": "83",
-      "nom": "ESAJ - La Seyne sur Mer",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-165068%3fspeciality_id%3d5494",
-      "location": {
-        "longitude": 5.86932,
-        "latitude": 43.1143
-      },
-      "metadata": {
-        "address": "820 Avenue Yitzhak Rabin, 83500 La Seyne-sur-Mer",
-        "phone_number": "04 94 06 96 00",
-        "business_hours": {
-          "lundi": "9h/17h",
-          "mardi": "9h/17h",
-          "mercredi": "9h/17h",
-          "jeudi": "9h/17h",
-          "vendredi": "9h/17h",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243226[165068]",
-      "gid": "986"
     },
     {
       "departement": "83",
@@ -1099,6 +1071,34 @@
       "appointment_count": 0,
       "internal_id": "243226[165067]",
       "gid": "835"
+    },
+    {
+      "departement": "83",
+      "nom": "ESAJ - La Seyne sur Mer",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-165068%3fspeciality_id%3d5494",
+      "location": {
+        "longitude": 5.86932,
+        "latitude": 43.1143
+      },
+      "metadata": {
+        "address": "820 Avenue Yitzhak Rabin, 83500 La Seyne-sur-Mer",
+        "phone_number": "04 94 06 96 00",
+        "business_hours": {
+          "lundi": "9h/17h",
+          "mardi": "9h/17h",
+          "mercredi": "9h/17h",
+          "jeudi": "9h/17h",
+          "vendredi": "9h/17h",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243226[165068]",
+      "gid": "986"
     },
     {
       "departement": "83",

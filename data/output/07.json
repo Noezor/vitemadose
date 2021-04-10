@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:17:25.909257+02:00",
+  "last_updated": "2021-04-10T19:20:45.141331+02:00",
   "centres_disponibles": [
     {
       "departement": "07",
@@ -54,7 +54,7 @@
       "prochain_rdv": "2021-05-03T16:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 425,
+      "appointment_count": 423,
       "internal_id": "241919[]",
       "gid": "240"
     },
@@ -118,34 +118,6 @@
     },
     {
       "departement": "07",
-      "nom": "CENTRE HOSPITALIER D'ARDECHE NORD (Professionnels de sant\u00e9 uniquement)",
-      "url": "https://www.maiia.com/centre-hospitalier-(ch)/07100-annonay/centre-hospitalier-d-ardeche-nord-",
-      "location": {
-        "longitude": 4.66582,
-        "latitude": 45.2419
-      },
-      "metadata": {
-        "address": "1 rue du Bon Pasteur, 07100 Annonay",
-        "phone_number": "+33475673927",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "09:00-12:30/13:00-16:30",
-          "mercredi": "09:00-12:30/13:00-16:30",
-          "jeudi": "09:00-12:30/13:00-16:30",
-          "vendredi": "09:00-12:30/13:00-16:30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Maiia",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "237"
-    },
-    {
-      "departement": "07",
       "nom": "Centre de vaccination \u00e9ph\u00e9m\u00e8re du Val d'Ay",
       "url": "",
       "location": {
@@ -198,6 +170,34 @@
       "appointment_count": 0,
       "internal_id": "191779[]",
       "gid": "722"
+    },
+    {
+      "departement": "07",
+      "nom": "CENTRE HOSPITALIER D'ARDECHE NORD (Professionnels de sant\u00e9 uniquement)",
+      "url": "https://www.maiia.com/centre-hospitalier-(ch)/07100-annonay/centre-hospitalier-d-ardeche-nord-",
+      "location": {
+        "longitude": 4.66582,
+        "latitude": 45.2419
+      },
+      "metadata": {
+        "address": "1 rue du Bon Pasteur, 07100 Annonay",
+        "phone_number": "+33475673927",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "09:00-12:30/13:00-16:30",
+          "mercredi": "09:00-12:30/13:00-16:30",
+          "jeudi": "09:00-12:30/13:00-16:30",
+          "vendredi": "09:00-12:30/13:00-16:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "237"
     },
     {
       "departement": "07",

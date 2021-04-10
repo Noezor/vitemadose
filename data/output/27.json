@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:17:25.928422+02:00",
+  "last_updated": "2021-04-10T19:20:45.164227+02:00",
   "centres_disponibles": [
     {
       "departement": "27",
@@ -59,34 +59,6 @@
     },
     {
       "departement": "27",
-      "nom": "Louviers : maison des sports et associations",
-      "url": "https://partners.doctolib.fr/hopital-public/evreux/ch-eure-seine-centre-de-vaccination-covid-vacci-covid-27?pid=practice-164880&%3fspeciality_id=5494",
-      "location": {
-        "longitude": 1.15292,
-        "latitude": 49.208
-      },
-      "metadata": {
-        "address": "10 Avenue du Mar\u00e9chal Leclerc, 27400 Louviers",
-        "phone_number": "+33279461156",
-        "business_hours": {
-          "lundi": "",
-          "mardi": "",
-          "mercredi": "",
-          "jeudi": "",
-          "vendredi": "",
-          "samedi": "",
-          "dimanche": ""
-        }
-      },
-      "prochain_rdv": "2021-04-28T08:20:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "240902[164880]",
-      "gid": "582"
-    },
-    {
-      "departement": "27",
       "nom": "CH Verneuil",
       "url": "https://partners.doctolib.fr/hopital-public/evreux/ch-eure-seine-centre-de-vaccination-covid-vacci-covid-27?pid=practice-162970&%3fspeciality_id=5494",
       "location": {
@@ -106,10 +78,10 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-05-11T11:50:00.000+02:00",
+      "prochain_rdv": "2021-05-11T12:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 118,
+      "appointment_count": 116,
       "internal_id": "240902[162970]",
       "gid": "130"
     },
@@ -421,6 +393,34 @@
       "appointment_count": 0,
       "internal_id": "240902[162968]",
       "gid": "128"
+    },
+    {
+      "departement": "27",
+      "nom": "Louviers : maison des sports et associations",
+      "url": "https://partners.doctolib.fr/hopital-public/evreux/ch-eure-seine-centre-de-vaccination-covid-vacci-covid-27?pid=practice-164880&%3fspeciality_id=5494",
+      "location": {
+        "longitude": 1.15292,
+        "latitude": 49.208
+      },
+      "metadata": {
+        "address": "10 Avenue du Mar\u00e9chal Leclerc, 27400 Louviers",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240902[164880]",
+      "gid": "582"
     },
     {
       "departement": "27",

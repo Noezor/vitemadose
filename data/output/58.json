@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:17:25.962192+02:00",
+  "last_updated": "2021-04-10T19:20:45.206404+02:00",
   "centres_disponibles": [
     {
       "departement": "58",
@@ -23,10 +23,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-14T11:00:00.000+02:00",
+      "prochain_rdv": "2021-04-19T13:35:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 1,
+      "appointment_count": 163,
       "internal_id": "243462[]",
       "gid": "661"
     },
@@ -85,6 +85,34 @@
       "appointment_count": 15,
       "internal_id": "242871[]",
       "gid": "643"
+    },
+    {
+      "departement": "58",
+      "nom": "Decize - Salle Theodore GERARD",
+      "url": "https://partners.doctolib.fr/centre-de-sante/decize/centre-de-vaccination-covid-mairie-de-decize",
+      "location": {
+        "longitude": 3.45817,
+        "latitude": 46.8307
+      },
+      "metadata": {
+        "address": "5 bis Lieu Dit la Levee de Loire, 58300 Decize",
+        "phone_number": "+33386250323",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "09:00-12:00/13:30 - 16:30",
+          "mercredi": "09:00-12:00/13:30 - 16:30",
+          "jeudi": "09:00-12:00/13:30 - 16:30",
+          "vendredi": "09:00-12:00/13:30 - 16:30",
+          "samedi": "09:00-12:00/13:30 - 16:30",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-07T15:40:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "242611[]",
+      "gid": "567"
     },
     {
       "departement": "58",
@@ -365,34 +393,6 @@
       "appointment_count": 0,
       "internal_id": "242982[]",
       "gid": "636"
-    },
-    {
-      "departement": "58",
-      "nom": "Decize - Salle Theodore GERARD",
-      "url": "https://partners.doctolib.fr/centre-de-sante/decize/centre-de-vaccination-covid-mairie-de-decize",
-      "location": {
-        "longitude": 3.45817,
-        "latitude": 46.8307
-      },
-      "metadata": {
-        "address": "5 bis Lieu Dit la Levee de Loire, 58300 Decize",
-        "phone_number": "+33386250323",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "09:00-12:00/13:30 - 16:30",
-          "mercredi": "09:00-12:00/13:30 - 16:30",
-          "jeudi": "09:00-12:00/13:30 - 16:30",
-          "vendredi": "09:00-12:00/13:30 - 16:30",
-          "samedi": "09:00-12:00/13:30 - 16:30",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242611[]",
-      "gid": "567"
     },
     {
       "departement": "58",

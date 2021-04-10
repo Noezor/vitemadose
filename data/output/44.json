@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:17:25.949660+02:00",
+  "last_updated": "2021-04-10T19:20:45.192044+02:00",
   "centres_disponibles": [
     {
       "departement": "44",
@@ -107,40 +107,12 @@
       "prochain_rdv": "2021-04-23T09:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 90,
+      "appointment_count": 88,
       "internal_id": "242265[]",
       "gid": "716"
     }
   ],
   "centres_indisponibles": [
-    {
-      "departement": "44",
-      "nom": "Centre de vaccination - SAINT PHILBERT de GRAND LIEU - Salle des Marais",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saint-philbert-de-grand-lieu/centre-de-vaccination-covid-19-spgl-salle-des-marais?pid=practice-175993",
-      "location": {
-        "longitude": -1.64429,
-        "latitude": 47.0414
-      },
-      "metadata": {
-        "address": "4 All\u00e9e des Chevrets, 44310 Saint-Philbert-de-Grand-Lieu",
-        "phone_number": "+33806000344",
-        "business_hours": {
-          "lundi": "13h30 - 18 h",
-          "mardi": "13h30 - 18 h",
-          "mercredi": "13h30 - 18 h",
-          "jeudi": "13h30 - 18 h",
-          "vendredi": "13h30 - 18 h",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "257108[175993]",
-      "gid": "1597"
-    },
     {
       "departement": "44",
       "nom": "Centre de Vaccination - LA BAULE - Espace Jean Gaillardon",
@@ -168,6 +140,34 @@
       "appointment_count": 0,
       "internal_id": "242993[164467]",
       "gid": "1477"
+    },
+    {
+      "departement": "44",
+      "nom": "Centre de vaccination - SAINT PHILBERT de GRAND LIEU - Salle des Marais",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-philbert-de-grand-lieu/centre-de-vaccination-covid-19-spgl-salle-des-marais?pid=practice-175993",
+      "location": {
+        "longitude": -1.64429,
+        "latitude": 47.0414
+      },
+      "metadata": {
+        "address": "4 All\u00e9e des Chevrets, 44310 Saint-Philbert-de-Grand-Lieu",
+        "phone_number": "+33806000344",
+        "business_hours": {
+          "lundi": "13h30 - 18 h",
+          "mardi": "13h30 - 18 h",
+          "mercredi": "13h30 - 18 h",
+          "jeudi": "13h30 - 18 h",
+          "vendredi": "13h30 - 18 h",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "257108[175993]",
+      "gid": "1597"
     },
     {
       "departement": "44",

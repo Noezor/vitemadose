@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:17:26.007637+02:00",
+  "last_updated": "2021-04-10T19:20:45.259795+02:00",
   "centres_disponibles": [
     {
       "departement": "92",
@@ -26,9 +26,29 @@
       "prochain_rdv": "2021-04-12T09:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 35,
+      "appointment_count": 33,
       "internal_id": "257080[175970]",
       "gid": "1661"
+    },
+    {
+      "departement": "92",
+      "nom": "Vaccination COVID 19 - Centre M\u00e9dico-dentaire du Nord-Ouest Parisien / CMDNOP",
+      "url": "https://partners.doctolib.fr/centre-de-sante/clichy/vaccination-centre-medico-dentaire-du-nord-ouest-parisien-cmdnop",
+      "location": {
+        "longitude": 2.3013727,
+        "latitude": 48.9008608
+      },
+      "metadata": {
+        "address": "39 Rue Casteres, 92110 Clichy",
+        "phone_number": "01 47 31 26 26",
+        "business_hours": null
+      },
+      "prochain_rdv": "2021-04-12T17:45:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "258202[]",
+      "gid": "d258202"
     },
     {
       "departement": "92",
@@ -208,10 +228,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-15T11:18:00.000+02:00",
+      "prochain_rdv": "2021-04-15T11:12:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "general-practitioner",
-      "appointment_count": 17,
+      "appointment_count": 18,
       "internal_id": "18933[5488]",
       "gid": "d18933"
     },
@@ -622,34 +642,6 @@
     },
     {
       "departement": "92",
-      "nom": "Ville de Gennevilliers",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/gennevilliers/centre-de-vaccination-covid-19-gymnase-paul-langevin?pid=practice-176133",
-      "location": {
-        "longitude": 2.29701,
-        "latitude": 48.9344
-      },
-      "metadata": {
-        "address": "16 bis Rue de la Paix, 92230 Gennevilliers",
-        "phone_number": "01 40 85 66 50",
-        "business_hours": {
-          "lundi": "8h00 - 20h00",
-          "mardi": "8h00 - 20h00",
-          "mercredi": "8h00 - 20h00",
-          "jeudi": "8h00 - 20h00",
-          "vendredi": "8h00 - 20h00",
-          "samedi": "8h00 - 20h00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "257436[176133]",
-      "gid": "1666"
-    },
-    {
-      "departement": "92",
       "nom": "Ville de Levallois-Perret",
       "url": "https://partners.doctolib.fr/centre-de-sante/levallois-perret/centre-de-vaccination-de-levallois?pid=practice-175351",
       "location": {
@@ -675,6 +667,34 @@
       "appointment_count": 0,
       "internal_id": "256191[175351]",
       "gid": "1667"
+    },
+    {
+      "departement": "92",
+      "nom": "Ville de Gennevilliers",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/gennevilliers/centre-de-vaccination-covid-19-gymnase-paul-langevin?pid=practice-176133",
+      "location": {
+        "longitude": 2.29701,
+        "latitude": 48.9344
+      },
+      "metadata": {
+        "address": "16 bis Rue de la Paix, 92230 Gennevilliers",
+        "phone_number": "01 40 85 66 50",
+        "business_hours": {
+          "lundi": "8h00 - 20h00",
+          "mardi": "8h00 - 20h00",
+          "mercredi": "8h00 - 20h00",
+          "jeudi": "8h00 - 20h00",
+          "vendredi": "8h00 - 20h00",
+          "samedi": "8h00 - 20h00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "257436[176133]",
+      "gid": "1666"
     },
     {
       "departement": "92",
@@ -1171,34 +1191,6 @@
     },
     {
       "departement": "92",
-      "nom": "Ville de Chatenay-Malabry",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/ch\u00e2tenay-malabry/centre-de-vaccination-de-chatenay-malabry?pid=practice-164883%3fspeciality_id%3d5494",
-      "location": {
-        "longitude": 2.27859,
-        "latitude": 48.7636
-      },
-      "metadata": {
-        "address": "160 Avenue de la Division Leclerc, 92290 Ch\u00e2tenay-Malabry",
-        "phone_number": "+33146834683",
-        "business_hours": {
-          "lundi": "08:00-19:30",
-          "mardi": "08:00-19:30",
-          "mercredi": "08:00-19:30",
-          "jeudi": "08:00-19:30",
-          "vendredi": "08:00-19:30",
-          "samedi": "08:00-19:30",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242912[164883]",
-      "gid": "464"
-    },
-    {
-      "departement": "92",
       "nom": "Ville de Courbevoie",
       "url": "https://partners.doctolib.fr/centre-de-sante/courbevoie/centre-de-vaccination-covid-19-de-courbevoie",
       "location": {
@@ -1224,6 +1216,34 @@
       "appointment_count": 0,
       "internal_id": "242674[]",
       "gid": "1014"
+    },
+    {
+      "departement": "92",
+      "nom": "Ville de Chatenay-Malabry",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/ch\u00e2tenay-malabry/centre-de-vaccination-de-chatenay-malabry?pid=practice-164883%3fspeciality_id%3d5494",
+      "location": {
+        "longitude": 2.27859,
+        "latitude": 48.7636
+      },
+      "metadata": {
+        "address": "160 Avenue de la Division Leclerc, 92290 Ch\u00e2tenay-Malabry",
+        "phone_number": "+33146834683",
+        "business_hours": {
+          "lundi": "08:00-19:30",
+          "mardi": "08:00-19:30",
+          "mercredi": "08:00-19:30",
+          "jeudi": "08:00-19:30",
+          "vendredi": "08:00-19:30",
+          "samedi": "08:00-19:30",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242912[164883]",
+      "gid": "464"
     },
     {
       "departement": "92",
@@ -1909,26 +1929,6 @@
       "appointment_count": 0,
       "internal_id": "257397[]",
       "gid": "d257397"
-    },
-    {
-      "departement": "92",
-      "nom": "Vaccination COVID 19 - Centre M\u00e9dico-dentaire du Nord-Ouest Parisien / CMDNOP",
-      "url": "https://partners.doctolib.fr/centre-de-sante/clichy/vaccination-centre-medico-dentaire-du-nord-ouest-parisien-cmdnop",
-      "location": {
-        "longitude": 2.3013727,
-        "latitude": 48.9008608
-      },
-      "metadata": {
-        "address": "39 Rue Casteres, 92110 Clichy",
-        "phone_number": "01 47 31 26 26",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "258202[]",
-      "gid": "d258202"
     },
     {
       "departement": "92",

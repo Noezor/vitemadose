@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:17:25.912992+02:00",
+  "last_updated": "2021-04-10T19:20:45.145027+02:00",
   "centres_disponibles": [
     {
       "departement": "11",
@@ -23,10 +23,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-12T09:05:00.000+02:00",
+      "prochain_rdv": "2021-04-12T09:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 446,
+      "appointment_count": 443,
       "internal_id": "243096[180834]",
       "gid": "1304"
     },
@@ -50,40 +50,12 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-13T12:45:00.000+02:00",
+      "prochain_rdv": "2021-04-12T09:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 130,
+      "appointment_count": 442,
       "internal_id": "243096[]",
       "gid": "d243096"
-    },
-    {
-      "departement": "11",
-      "nom": "Centre de Vaccination de Sigean",
-      "url": "https://partners.doctolib.fr/centre-de-sante/sigean/centre-de-vaccination-covid-19-sigean?pid=practice-173770",
-      "location": {
-        "longitude": 2.98213,
-        "latitude": 43.0272
-      },
-      "metadata": {
-        "address": "1 place de l'Octroi, 11130 Sigean",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "9:00 -13:00",
-          "jeudi": "9:00 - 13:00",
-          "vendredi": "9:00-13:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-05-05T09:20:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "254115[173770]",
-      "gid": "1629"
     }
   ],
   "centres_indisponibles": [
@@ -141,6 +113,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "2192"
+    },
+    {
+      "departement": "11",
+      "nom": "Centre de Vaccination de Sigean",
+      "url": "https://partners.doctolib.fr/centre-de-sante/sigean/centre-de-vaccination-covid-19-sigean?pid=practice-173770",
+      "location": {
+        "longitude": 2.98213,
+        "latitude": 43.0272
+      },
+      "metadata": {
+        "address": "1 place de l'Octroi, 11130 Sigean",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "9:00 -13:00",
+          "jeudi": "9:00 - 13:00",
+          "vendredi": "9:00-13:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "254115[173770]",
+      "gid": "1629"
     },
     {
       "departement": "11",

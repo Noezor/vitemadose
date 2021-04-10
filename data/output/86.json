@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:17:26.001482+02:00",
+  "last_updated": "2021-04-10T19:20:45.253367+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -307,33 +307,6 @@
     },
     {
       "departement": "86",
-      "nom": "Centre de vaccination SDIS de Chauvigny",
-      "url": "https://partners.doctolib.fr/centre-de-sante/chauvigny/centre-de-vaccination-covid-19-sdis-86?pid=practice-179211",
-      "location": {
-        "longitude": 0.642697,
-        "latitude": 46.5664
-      },
-      "metadata": {
-        "address": "8 Avenue de la Vienne - salle de la Poterie, 86300 Chauvigny",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "09:00-13h00/14h00-18h00",
-          "mercredi": "09:00-13h00/14h00-18h00",
-          "jeudi": "09:00-13h00/14h00-18h00",
-          "vendredi": "09:00-13h00/14h00-18h00",
-          "samedi": "09:00-13h00/14h00-18h00",
-          "dimanche": "09:00-13h00/14h00-18h00"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "262252[179211]",
-      "gid": "2253"
-    },
-    {
-      "departement": "86",
       "nom": "Centre de vaccination de Lusignan",
       "url": "https://www.doctolib.fr/centre-de-sante/lusignan/centre-de-vaccination-covid-19-lusignan-lusignan",
       "location": {
@@ -358,6 +331,33 @@
       "appointment_count": 0,
       "internal_id": "264637[]",
       "gid": "2288"
+    },
+    {
+      "departement": "86",
+      "nom": "Centre de vaccination SDIS de Chauvigny",
+      "url": "https://partners.doctolib.fr/centre-de-sante/chauvigny/centre-de-vaccination-covid-19-sdis-86?pid=practice-179211",
+      "location": {
+        "longitude": 0.642697,
+        "latitude": 46.5664
+      },
+      "metadata": {
+        "address": "8 Avenue de la Vienne - salle de la Poterie, 86300 Chauvigny",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "09:00-13h00/14h00-18h00",
+          "mercredi": "09:00-13h00/14h00-18h00",
+          "jeudi": "09:00-13h00/14h00-18h00",
+          "vendredi": "09:00-13h00/14h00-18h00",
+          "samedi": "09:00-13h00/14h00-18h00",
+          "dimanche": "09:00-13h00/14h00-18h00"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "262252[179211]",
+      "gid": "2253"
     },
     {
       "departement": "86",

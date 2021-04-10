@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:17:25.960840+02:00",
+  "last_updated": "2021-04-10T19:20:45.204765+02:00",
   "centres_disponibles": [
     {
       "departement": "57",
@@ -26,7 +26,7 @@
       "prochain_rdv": "2021-04-28T12:15:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 138,
+      "appointment_count": 135,
       "internal_id": "254139[173661]",
       "gid": "1752"
     },
@@ -51,10 +51,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-29T17:00:00.000+02:00",
+      "prochain_rdv": "2021-04-29T17:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "drugstore",
-      "appointment_count": 10,
+      "appointment_count": 9,
       "internal_id": "263444[]",
       "gid": "d263444"
     }
@@ -454,34 +454,6 @@
     },
     {
       "departement": "57",
-      "nom": "Centre de vaccination d'Hettange-Grande - Hall omnisport",
-      "url": "https://partners.doctolib.fr/centre-de-sante/hettange-grande/centre-de-vaccination-d-hettange-grande?pid=practice-177585",
-      "location": {
-        "longitude": 6.16235,
-        "latitude": 49.4018
-      },
-      "metadata": {
-        "address": "5 Rue de Pederobba, 57330 Hettange-Grande",
-        "phone_number": "+33387345345",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "9:00-17:00",
-          "dimanche": "9:00-17:00"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "259475[177585]",
-      "gid": "2088"
-    },
-    {
-      "departement": "57",
       "nom": "Centre de vaccination de Metz - Clinique Claude Bernard (Entr\u00e9e B)",
       "url": "https://partners.doctolib.fr/clinique-privee/metz/centre-de-vaccination-metz-elsan",
       "location": {
@@ -507,6 +479,34 @@
       "appointment_count": 0,
       "internal_id": "242931[]",
       "gid": "1230"
+    },
+    {
+      "departement": "57",
+      "nom": "Centre de vaccination d'Hettange-Grande - Hall omnisport",
+      "url": "https://partners.doctolib.fr/centre-de-sante/hettange-grande/centre-de-vaccination-d-hettange-grande?pid=practice-177585",
+      "location": {
+        "longitude": 6.16235,
+        "latitude": 49.4018
+      },
+      "metadata": {
+        "address": "5 Rue de Pederobba, 57330 Hettange-Grande",
+        "phone_number": "+33387345345",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "9:00-17:00",
+          "dimanche": "9:00-17:00"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "259475[177585]",
+      "gid": "2088"
     },
     {
       "departement": "57",
@@ -622,34 +622,6 @@
     },
     {
       "departement": "57",
-      "nom": "Centre de vaccination de Saint-Avold - SOS Sant\u00e9",
-      "url": "https://partners.doctolib.fr/espic-etablissement-de-sante-prive-d-interet-collectif/st-avold/centre-de-vaccination-covid-hopital-de-saint-avold",
-      "location": {
-        "longitude": 6.72429,
-        "latitude": 49.1116
-      },
-      "metadata": {
-        "address": " Rue Ambroise Par\u00e9, 57500 Saint-Avold",
-        "phone_number": "+33387918170 ",
-        "business_hours": {
-          "lundi": "08:00-17:00",
-          "mardi": "08:00-17:00",
-          "mercredi": "08:00-17:00",
-          "jeudi": "08:00-17:00",
-          "vendredi": "08:00-17:00",
-          "samedi": "08:00-12:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242615[]",
-      "gid": "1114"
-    },
-    {
-      "departement": "57",
       "nom": "Centre de vaccination de Thionville - CHRMT Bel Air (salle polyvalente \u00e0 l\u2019entr\u00e9e de l\u2019h\u00f4pital)",
       "url": "https://partners.doctolib.fr/hopital-public/metz/chr-de-metz-vaccination-covid?pid=practice-163720",
       "location": {
@@ -675,6 +647,34 @@
       "appointment_count": 0,
       "internal_id": "241685[163720]",
       "gid": "954"
+    },
+    {
+      "departement": "57",
+      "nom": "Centre de vaccination de Saint-Avold - SOS Sant\u00e9",
+      "url": "https://partners.doctolib.fr/espic-etablissement-de-sante-prive-d-interet-collectif/st-avold/centre-de-vaccination-covid-hopital-de-saint-avold",
+      "location": {
+        "longitude": 6.72429,
+        "latitude": 49.1116
+      },
+      "metadata": {
+        "address": " Rue Ambroise Par\u00e9, 57500 Saint-Avold",
+        "phone_number": "+33387918170 ",
+        "business_hours": {
+          "lundi": "08:00-17:00",
+          "mardi": "08:00-17:00",
+          "mercredi": "08:00-17:00",
+          "jeudi": "08:00-17:00",
+          "vendredi": "08:00-17:00",
+          "samedi": "08:00-12:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242615[]",
+      "gid": "1114"
     },
     {
       "departement": "57",
@@ -734,34 +734,6 @@
     },
     {
       "departement": "57",
-      "nom": "Centre de vaccination de Rohrbach-l\u00e8s-Bitche - Salle polyvalente Robert Schuman",
-      "url": "https://www.doctolib.fr/centre-de-sante/rohrbach-les-bitche/centre-vaccination-commune-rohrbach-les-bitche",
-      "location": {
-        "longitude": 7.27283,
-        "latitude": 49.0406
-      },
-      "metadata": {
-        "address": " Rue des Sports, 57410 Rohrbach-l\u00e8s-Bitche",
-        "phone_number": "+33387345345",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "9:00-17:00",
-          "dimanche": "9:00-17:00"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "264082[]",
-      "gid": "2415"
-    },
-    {
-      "departement": "57",
       "nom": "Centre de vaccination de Montbronn - Salle des f\u00eates",
       "url": "https://www.doctolib.fr/centre-de-sante/montbronn/centre-de-vaccination-covid19-montbronn",
       "location": {
@@ -790,30 +762,31 @@
     },
     {
       "departement": "57",
-      "nom": "CD - US d'OERMINGEN / Maison d'Arr\u00eat de Sarreguemines",
-      "url": "",
+      "nom": "Centre de vaccination de Rohrbach-l\u00e8s-Bitche - Salle polyvalente Robert Schuman",
+      "url": "https://www.doctolib.fr/centre-de-sante/rohrbach-les-bitche/centre-vaccination-commune-rohrbach-les-bitche",
       "location": {
-        "longitude": 7.05806,
-        "latitude": 49.1062
+        "longitude": 7.27283,
+        "latitude": 49.0406
       },
       "metadata": {
-        "address": "9 Rue Victor Hugo, 57200 Sarreguemines",
+        "address": " Rue des Sports, 57410 Rohrbach-l\u00e8s-Bitche",
+        "phone_number": "+33387345345",
         "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "9:00-17:00",
+          "dimanche": "9:00-17:00"
         }
       },
       "prochain_rdv": null,
-      "plateforme": "Autre",
+      "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1822"
+      "internal_id": "264082[]",
+      "gid": "2415"
     },
     {
       "departement": "57",
@@ -841,6 +814,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1823"
+    },
+    {
+      "departement": "57",
+      "nom": "CD - US d'OERMINGEN / Maison d'Arr\u00eat de Sarreguemines",
+      "url": "",
+      "location": {
+        "longitude": 7.05806,
+        "latitude": 49.1062
+      },
+      "metadata": {
+        "address": "9 Rue Victor Hugo, 57200 Sarreguemines",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1822"
     },
     {
       "departement": "57",

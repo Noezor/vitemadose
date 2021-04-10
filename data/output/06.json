@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:17:25.907575+02:00",
+  "last_updated": "2021-04-10T19:20:45.139190+02:00",
   "centres_disponibles": [
     {
       "departement": "06",
@@ -25,7 +25,7 @@
       "prochain_rdv": "2021-04-11T10:55:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 128,
+      "appointment_count": 129,
       "internal_id": "258259[]",
       "gid": "d258259"
     },
@@ -921,6 +921,33 @@
     },
     {
       "departement": "06",
+      "nom": "Palais des expositions",
+      "url": "",
+      "location": {
+        "longitude": 7.27928,
+        "latitude": 43.7026
+      },
+      "metadata": {
+        "address": " Esplanade de Lattre de Tassigny, 06200 Nice",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ouvert",
+          "dimanche": "ouvert"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1947"
+    },
+    {
+      "departement": "06",
       "nom": "Palais des Victoires",
       "url": "https://partners.doctolib.fr/centre-de-sante/cannes/centre-de-vaccination-covid-19-mairie-de-cannes?pid=practice-170734",
       "location": {
@@ -946,33 +973,6 @@
       "appointment_count": 0,
       "internal_id": "250405[170734]",
       "gid": "1112"
-    },
-    {
-      "departement": "06",
-      "nom": "Palais des expositions",
-      "url": "",
-      "location": {
-        "longitude": 7.27928,
-        "latitude": 43.7026
-      },
-      "metadata": {
-        "address": " Esplanade de Lattre de Tassigny, 06200 Nice",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ouvert",
-          "dimanche": "ouvert"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1947"
     },
     {
       "departement": "06",

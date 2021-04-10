@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:17:25.996591+02:00",
+  "last_updated": "2021-04-10T19:20:45.246262+02:00",
   "centres_disponibles": [
     {
       "departement": "82",
@@ -32,34 +32,6 @@
     },
     {
       "departement": "82",
-      "nom": "centre de vaccination MSP Moissac",
-      "url": "https://partners.doctolib.fr/cabinet-medical/moissac/centre-covid-cosec",
-      "location": {
-        "longitude": 1.09981,
-        "latitude": 44.1085
-      },
-      "metadata": {
-        "address": "19 Avenue du Chasselas espace confluences, 82200 Moissac",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "13:30-17:00",
-          "mardi": "13:30-17:00",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "9:00-13:00/13:30-17:30",
-          "vendredi": "9:00-13:30",
-          "samedi": "",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-14T17:45:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 74,
-      "internal_id": "186938[]",
-      "gid": "515"
-    },
-    {
-      "departement": "82",
       "nom": "Centre de vaccination Covid de Caussade",
       "url": "https://partners.doctolib.fr/centre-de-sante/caussade/centre-de-vaccination-covid-de-caussade",
       "location": {
@@ -85,6 +57,34 @@
       "appointment_count": 41,
       "internal_id": "241844[]",
       "gid": "d241844"
+    },
+    {
+      "departement": "82",
+      "nom": "centre de vaccination MSP Moissac",
+      "url": "https://partners.doctolib.fr/cabinet-medical/moissac/centre-covid-cosec",
+      "location": {
+        "longitude": 1.09981,
+        "latitude": 44.1085
+      },
+      "metadata": {
+        "address": "19 Avenue du Chasselas espace confluences, 82200 Moissac",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "13:30-17:00",
+          "mardi": "13:30-17:00",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "9:00-13:00/13:30-17:30",
+          "vendredi": "9:00-13:30",
+          "samedi": "",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-20T14:45:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 153,
+      "internal_id": "186938[]",
+      "gid": "515"
     }
   ],
   "centres_indisponibles": [

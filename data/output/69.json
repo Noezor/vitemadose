@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:17:25.977861+02:00",
+  "last_updated": "2021-04-10T19:20:45.224583+02:00",
   "centres_disponibles": [
     {
       "departement": "69",
@@ -23,10 +23,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-12T17:40:00.000+02:00",
+      "prochain_rdv": "2021-04-12T09:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 5,
+      "appointment_count": 46,
       "internal_id": "241965[163661]",
       "gid": "688"
     },
@@ -51,40 +51,12 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-18T16:40:00.000+02:00",
+      "prochain_rdv": "2021-04-18T17:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 8,
+      "appointment_count": 7,
       "internal_id": "263389[180202]",
       "gid": "2136"
-    },
-    {
-      "departement": "69",
-      "nom": "Centre de vaccination COVID-19 - CH Givors - R\u00e9serv\u00e9 aux Professionnels de sant\u00e9 travaillant sur le CH Givors et l'EHPAD de Chaponnay",
-      "url": "https://partners.doctolib.fr/hopital-public/givors/centre-de-vaccination-covid-19-ch-givors-professionnels-de-sante",
-      "location": {
-        "longitude": 4.7669452,
-        "latitude": 45.5991975
-      },
-      "metadata": {
-        "address": "9 Avenue Professeur Fleming, 69700 Givors",
-        "phone_number": "04 37 02 11 47",
-        "business_hours": {
-          "lundi": null,
-          "mardi": "14:00-14:45",
-          "mercredi": null,
-          "jeudi": "14:00-17:00",
-          "vendredi": null,
-          "samedi": null,
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": "2021-04-23T11:30:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "244533[]",
-      "gid": "d244533"
     },
     {
       "departement": "69",
@@ -107,12 +79,40 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-28T14:10:00.000+02:00",
+      "prochain_rdv": "2021-04-28T14:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 66,
+      "appointment_count": 64,
       "internal_id": "258785[176810]",
       "gid": "1693"
+    },
+    {
+      "departement": "69",
+      "nom": "Centre de vaccination COVID-19 - CH Givors - R\u00e9serv\u00e9 aux Professionnels de sant\u00e9 travaillant sur le CH Givors et l'EHPAD de Chaponnay",
+      "url": "https://partners.doctolib.fr/hopital-public/givors/centre-de-vaccination-covid-19-ch-givors-professionnels-de-sante",
+      "location": {
+        "longitude": 4.7669452,
+        "latitude": 45.5991975
+      },
+      "metadata": {
+        "address": "9 Avenue Professeur Fleming, 69700 Givors",
+        "phone_number": "04 37 02 11 47",
+        "business_hours": {
+          "lundi": null,
+          "mardi": "14:00-14:45",
+          "mercredi": null,
+          "jeudi": "14:00-17:00",
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-30T09:45:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 19,
+      "internal_id": "244533[]",
+      "gid": "d244533"
     },
     {
       "departement": "69",
@@ -258,33 +258,6 @@
     },
     {
       "departement": "69",
-      "nom": "CP - US SAINT QUENTIN FALLAVIER / Etablissement sp\u00e9cialis\u00e9 pour mineurs du Rh\u00f4ne",
-      "url": "",
-      "location": {
-        "longitude": 4.99769,
-        "latitude": 45.7605
-      },
-      "metadata": {
-        "address": " Rue du Rambion, 69330 Meyzieu",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1775"
-    },
-    {
-      "departement": "69",
       "nom": "Centre de vaccination de l'H\u00f4pital de Beaujeu",
       "url": "https://partners.doctolib.fr/hopital-public/belleville-en-beaujolais/centre-de-vaccination-covid-belleville",
       "location": {
@@ -310,6 +283,33 @@
       "appointment_count": 0,
       "internal_id": "242684[]",
       "gid": "726"
+    },
+    {
+      "departement": "69",
+      "nom": "CP - US SAINT QUENTIN FALLAVIER / Etablissement sp\u00e9cialis\u00e9 pour mineurs du Rh\u00f4ne",
+      "url": "",
+      "location": {
+        "longitude": 4.99769,
+        "latitude": 45.7605
+      },
+      "metadata": {
+        "address": " Rue du Rambion, 69330 Meyzieu",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1775"
     },
     {
       "departement": "69",
@@ -424,33 +424,6 @@
     },
     {
       "departement": "69",
-      "nom": "Centre de vaccination de Vaulx-en-Velin - Centre culturel communal Charlie-Chaplin",
-      "url": "https://partners.doctolib.fr/centre-de-sante/vaulx-en-velin/centre-de-vaccination-de-vaulx-en-velin?pid=practice-178384",
-      "location": {
-        "longitude": 4.92069,
-        "latitude": 45.7777
-      },
-      "metadata": {
-        "address": " Place de la nation, 69120 Vaulx-en-Velin",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "261210[178384]",
-      "gid": "2092"
-    },
-    {
-      "departement": "69",
       "nom": "Centre de vaccination de D\u00e9cines -Charpieu -salle le toboggan",
       "url": "https://partners.doctolib.fr/centre-de-sante/decines-charpieu/centre-de-vaccination-covid-19-decines-chartieu?pid=practice-181189",
       "location": {
@@ -475,6 +448,33 @@
       "appointment_count": 0,
       "internal_id": "264660[181189]",
       "gid": "2347"
+    },
+    {
+      "departement": "69",
+      "nom": "Centre de vaccination de Vaulx-en-Velin - Centre culturel communal Charlie-Chaplin",
+      "url": "https://partners.doctolib.fr/centre-de-sante/vaulx-en-velin/centre-de-vaccination-de-vaulx-en-velin?pid=practice-178384",
+      "location": {
+        "longitude": 4.92069,
+        "latitude": 45.7777
+      },
+      "metadata": {
+        "address": " Place de la nation, 69120 Vaulx-en-Velin",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "261210[178384]",
+      "gid": "2092"
     },
     {
       "departement": "69",
@@ -589,6 +589,34 @@
     },
     {
       "departement": "69",
+      "nom": "Centre de vaccination -H\u00f4pital Edouard Herriot-HCL",
+      "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-edouard-herriot-hcl-vaccination-covid?pid=practice-163794",
+      "location": {
+        "longitude": 4.88009,
+        "latitude": 45.7433
+      },
+      "metadata": {
+        "address": "5 Place d'Arsonval, 69003 Lyon",
+        "phone_number": "+33423101010",
+        "business_hours": {
+          "lundi": "08:00-20:00",
+          "mardi": "08:00-20:00",
+          "mercredi": "08:00-20:00",
+          "jeudi": "08:00-20:00",
+          "vendredi": "08:00-20:00",
+          "samedi": "08:30-17:30",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241950[163794]",
+      "gid": "222"
+    },
+    {
+      "departement": "69",
       "nom": "Centre de vaccination de Beauvallon - Salle des Varennes",
       "url": "",
       "location": {
@@ -642,34 +670,6 @@
       "appointment_count": 0,
       "internal_id": "242620[]",
       "gid": "230"
-    },
-    {
-      "departement": "69",
-      "nom": "Centre de vaccination -H\u00f4pital Edouard Herriot-HCL",
-      "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-edouard-herriot-hcl-vaccination-covid?pid=practice-163794",
-      "location": {
-        "longitude": 4.88009,
-        "latitude": 45.7433
-      },
-      "metadata": {
-        "address": "5 Place d'Arsonval, 69003 Lyon",
-        "phone_number": "+33423101010",
-        "business_hours": {
-          "lundi": "08:00-20:00",
-          "mardi": "08:00-20:00",
-          "mercredi": "08:00-20:00",
-          "jeudi": "08:00-20:00",
-          "vendredi": "08:00-20:00",
-          "samedi": "08:30-17:30",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241950[163794]",
-      "gid": "222"
     },
     {
       "departement": "69",
@@ -1259,34 +1259,6 @@
     },
     {
       "departement": "69",
-      "nom": "Dr Frederic LAROCHE",
-      "url": "https://partners.doctolib.fr/medecin-generaliste/corbas/frederic-laroche",
-      "location": {
-        "longitude": 4.898375,
-        "latitude": 45.671888
-      },
-      "metadata": {
-        "address": "72 Rue Centrale, 69960 Corbas",
-        "phone_number": "04 72 50 64 60",
-        "business_hours": {
-          "lundi": "08:00-11:00, 15:00-18:00",
-          "mardi": "08:00-11:00, 15:00-18:00",
-          "mercredi": "08:00-11:00, 15:00-18:00",
-          "jeudi": "08:00-11:00, 16:30-18:00",
-          "vendredi": "08:00-11:00, 15:00-18:00",
-          "samedi": null,
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "general-practitioner",
-      "appointment_count": 0,
-      "internal_id": "234486[]",
-      "gid": "d234486"
-    },
-    {
-      "departement": "69",
       "nom": "Dr Guillaume LABEILLE",
       "url": "https://partners.doctolib.fr/medecin-generaliste/lyon/guillaume-labeille",
       "location": {
@@ -1312,6 +1284,34 @@
       "appointment_count": 0,
       "internal_id": "105277[]",
       "gid": "d105277"
+    },
+    {
+      "departement": "69",
+      "nom": "Dr Frederic LAROCHE",
+      "url": "https://partners.doctolib.fr/medecin-generaliste/corbas/frederic-laroche",
+      "location": {
+        "longitude": 4.898375,
+        "latitude": 45.671888
+      },
+      "metadata": {
+        "address": "72 Rue Centrale, 69960 Corbas",
+        "phone_number": "04 72 50 64 60",
+        "business_hours": {
+          "lundi": "08:00-11:00, 15:00-18:00",
+          "mardi": "08:00-11:00, 15:00-18:00",
+          "mercredi": "08:00-11:00, 15:00-18:00",
+          "jeudi": "08:00-11:00, 16:30-18:00",
+          "vendredi": "08:00-11:00, 15:00-18:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "general-practitioner",
+      "appointment_count": 0,
+      "internal_id": "234486[]",
+      "gid": "d234486"
     },
     {
       "departement": "69",

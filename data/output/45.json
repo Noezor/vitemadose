@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:17:25.950846+02:00",
+  "last_updated": "2021-04-10T19:20:45.193366+02:00",
   "centres_disponibles": [
     {
       "departement": "45",
@@ -26,7 +26,7 @@
       "prochain_rdv": "2021-04-13T09:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 2,
+      "appointment_count": 1,
       "internal_id": "243107[]",
       "gid": "609"
     },
@@ -51,10 +51,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-13T11:55:00.000+02:00",
+      "prochain_rdv": "2021-04-13T11:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 13,
+      "appointment_count": 14,
       "internal_id": "242669[]",
       "gid": "619"
     },
@@ -106,10 +106,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-27T15:45:00.000+02:00",
+      "prochain_rdv": "2021-04-27T15:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 198,
+      "appointment_count": 197,
       "internal_id": "264587[181158]",
       "gid": "2152"
     }
@@ -283,33 +283,6 @@
     },
     {
       "departement": "45",
-      "nom": "CH de Beaugency - r\u00e9serv\u00e9 aux professionnels en exercice",
-      "url": "https://partners.doctolib.fr/hopital-public/beaugency/centre-de-vaccination-covid-hopital-de-beaugency?pid=practice-163901",
-      "location": {
-        "longitude": 1.62008,
-        "latitude": 47.7819
-      },
-      "metadata": {
-        "address": "48 Avenue de Vend\u00f4me, 45190 Beaugency",
-        "business_hours": {
-          "lundi": "ouvert",
-          "mardi": "ouverte",
-          "mercredi": "ouvert",
-          "jeudi": "ouvert",
-          "vendredi": "ouvert",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242167[163901]",
-      "gid": "1359"
-    },
-    {
-      "departement": "45",
       "nom": "Centre hospitalier de Beaugency - centre de vaccination public",
       "url": "https://partners.doctolib.fr/hopital-public/beaugency/centre-de-vaccination-covid-hopital-de-beaugency",
       "location": {
@@ -335,6 +308,33 @@
       "appointment_count": 0,
       "internal_id": "242167[]",
       "gid": "1353"
+    },
+    {
+      "departement": "45",
+      "nom": "CH de Beaugency - r\u00e9serv\u00e9 aux professionnels en exercice",
+      "url": "https://partners.doctolib.fr/hopital-public/beaugency/centre-de-vaccination-covid-hopital-de-beaugency?pid=practice-163901",
+      "location": {
+        "longitude": 1.62008,
+        "latitude": 47.7819
+      },
+      "metadata": {
+        "address": "48 Avenue de Vend\u00f4me, 45190 Beaugency",
+        "business_hours": {
+          "lundi": "ouvert",
+          "mardi": "ouverte",
+          "mercredi": "ouvert",
+          "jeudi": "ouvert",
+          "vendredi": "ouvert",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242167[163901]",
+      "gid": "1359"
     },
     {
       "departement": "45",

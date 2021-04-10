@@ -1,35 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:17:25.980454+02:00",
+  "last_updated": "2021-04-10T19:20:45.227453+02:00",
   "centres_disponibles": [
-    {
-      "departement": "71",
-      "nom": "Centre de vaccination de Chagny",
-      "url": "https://partners.doctolib.fr/centre-de-sante/chagny/centre-de-vaccination-covid-19-de-chagny?pid=practice-178053",
-      "location": {
-        "longitude": 4.75494,
-        "latitude": 46.9069
-      },
-      "metadata": {
-        "address": " Maison du Peuple - Place Marcel Charollais, 71150 Chagny",
-        "phone_number": "+330806030149",
-        "business_hours": {
-          "lundi": "09:00-18:00",
-          "mardi": "09:00-18:00",
-          "mercredi": "09:00-18:00",
-          "jeudi": "09:00-18:00",
-          "vendredi": "09:00-18:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-19T12:30:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 2,
-      "internal_id": "263512[178053]",
-      "gid": "2307"
-    },
     {
       "departement": "71",
       "nom": "Centre de vaccination d'Epinac",
@@ -107,10 +79,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-24T13:36:00.000+02:00",
+      "prochain_rdv": "2021-04-24T13:54:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 359,
+      "appointment_count": 357,
       "internal_id": "263519[178058]",
       "gid": "2308"
     },
@@ -135,12 +107,68 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-30T13:54:00.000+02:00",
+      "prochain_rdv": "2021-04-30T15:42:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 170,
+      "appointment_count": 169,
       "internal_id": "263516[178054]",
       "gid": "2309"
+    },
+    {
+      "departement": "71",
+      "nom": "Centre vaccination MACON - Halle sportive du centre omnisport",
+      "url": "https://partners.doctolib.fr/centre-de-sante/macon/centre-de-vaccination-de-macon",
+      "location": {
+        "longitude": 4.84152,
+        "latitude": 46.3163
+      },
+      "metadata": {
+        "address": "389 Av Mal de Lattre de Tassigny, 71000 M\u00e2con",
+        "phone_number": "+33806030149",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "09:00-17:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-03T10:42:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 52,
+      "internal_id": "242411[]",
+      "gid": "555"
+    },
+    {
+      "departement": "71",
+      "nom": "Centre de vaccination de Chagny",
+      "url": "https://partners.doctolib.fr/centre-de-sante/chagny/centre-de-vaccination-covid-19-de-chagny?pid=practice-178053",
+      "location": {
+        "longitude": 4.75494,
+        "latitude": 46.9069
+      },
+      "metadata": {
+        "address": " Maison du Peuple - Place Marcel Charollais, 71150 Chagny",
+        "phone_number": "+330806030149",
+        "business_hours": {
+          "lundi": "09:00-18:00",
+          "mardi": "09:00-18:00",
+          "mercredi": "09:00-18:00",
+          "jeudi": "09:00-18:00",
+          "vendredi": "09:00-18:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-03T10:54:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 290,
+      "internal_id": "263512[178053]",
+      "gid": "2307"
     },
     {
       "departement": "71",
@@ -194,7 +222,7 @@
       "prochain_rdv": "2021-05-03T11:06:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 128,
+      "appointment_count": 129,
       "internal_id": "242420[]",
       "gid": "521"
     },
@@ -219,10 +247,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-05T10:12:00.000+02:00",
+      "prochain_rdv": "2021-05-05T10:36:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 135,
+      "appointment_count": 134,
       "internal_id": "263513[178061]",
       "gid": "2311"
     },
@@ -306,7 +334,7 @@
       "prochain_rdv": "2021-05-06T13:18:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 70,
+      "appointment_count": 69,
       "internal_id": "242417[164356]",
       "gid": "602"
     },
@@ -331,10 +359,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-10T14:48:00.000+02:00",
+      "prochain_rdv": "2021-05-10T11:12:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 227,
+      "appointment_count": 228,
       "internal_id": "242421[]",
       "gid": "620"
     },
@@ -365,34 +393,6 @@
       "appointment_count": 157,
       "internal_id": "242418[]",
       "gid": "628"
-    },
-    {
-      "departement": "71",
-      "nom": "Centre vaccination MACON - Halle sportive du centre omnisport",
-      "url": "https://partners.doctolib.fr/centre-de-sante/macon/centre-de-vaccination-de-macon",
-      "location": {
-        "longitude": 4.84152,
-        "latitude": 46.3163
-      },
-      "metadata": {
-        "address": "389 Av Mal de Lattre de Tassigny, 71000 M\u00e2con",
-        "phone_number": "+33806030149",
-        "business_hours": {
-          "lundi": "09:00-17:00",
-          "mardi": "09:00-17:00",
-          "mercredi": "09:00-17:00",
-          "jeudi": "09:00-17:00",
-          "vendredi": "09:00-17:00",
-          "samedi": "09:00-17:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-05-11T13:18:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 168,
-      "internal_id": "242411[]",
-      "gid": "555"
     },
     {
       "departement": "71",
@@ -685,26 +685,6 @@
     },
     {
       "departement": "71",
-      "nom": "Pharmacie Fournier Gentien",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-fournier-gentien-gueugnon",
-      "location": {
-        "longitude": 4.0678238,
-        "latitude": 46.5976922
-      },
-      "metadata": {
-        "address": "49 rue de la convention, 71130 Gueugnon",
-        "phone_number": "+33385852147",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "d2be9108"
-    },
-    {
-      "departement": "71",
       "nom": "Pharmacie Du G\u00e9ant",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-du-geant-montceau-les-mines",
       "location": {
@@ -722,6 +702,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "d122505f"
+    },
+    {
+      "departement": "71",
+      "nom": "Pharmacie Fournier Gentien",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-fournier-gentien-gueugnon",
+      "location": {
+        "longitude": 4.0678238,
+        "latitude": 46.5976922
+      },
+      "metadata": {
+        "address": "49 rue de la convention, 71130 Gueugnon",
+        "phone_number": "+33385852147",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "d2be9108"
     },
     {
       "departement": "71",
