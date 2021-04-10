@@ -1,34 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.526074+02:00",
+  "last_updated": "2021-04-10T19:06:23.031237+02:00",
   "centres_disponibles": [
-    {
-      "departement": "67",
-      "nom": "Centre de vaccination Clinique Saint Fran\u00e7ois",
-      "url": "https://vaccination-covid.keldoc.com/clinique/haguenau-67500/clinique-saint-francois/centre-de-vaccination-de-la-clinique-saint-francois",
-      "location": {
-        "longitude": 7.78698,
-        "latitude": 48.8197
-      },
-      "metadata": {
-        "address": "1 Rue Colome, 67500 Haguenau",
-        "business_hours": {
-          "lundi": "8:00-13:00/13:30-18:30",
-          "mardi": "8:00-12:30/13:30-18:00",
-          "mercredi": "8:00-12:30/13:30-18:00",
-          "jeudi": "8:00-12:30/13:30-18:00",
-          "vendredi": "8:00-12:30/13:30-18:00",
-          "samedi": "8:00-12:30",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-12T17:45:00.000000+0200",
-      "plateforme": "Keldoc",
-      "type": "vaccination-center",
-      "appointment_count": 38,
-      "internal_id": null,
-      "gid": "2400"
-    },
     {
       "departement": "67",
       "nom": "Centre de vaccination UGECAM d'Illkirch-Graffenstaden",
@@ -50,10 +23,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-13T12:50:00.000+02:00",
+      "prochain_rdv": "2021-04-13T13:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 13,
+      "appointment_count": 11,
       "internal_id": "243081[]",
       "gid": "1225"
     },
@@ -115,6 +88,34 @@
     },
     {
       "departement": "67",
+      "nom": "Centre de vaccination Truchtersheim",
+      "url": "https://partners.doctolib.fr/centre-de-sante/truchtersheim/centre-de-vaccination-covid-19-truchtersheim?pid=practice-179527",
+      "location": {
+        "longitude": 7.60533,
+        "latitude": 48.6605
+      },
+      "metadata": {
+        "address": " Place de l'ancienne Gare, 67370 Truchtersheim",
+        "phone_number": "09 70 81 81 61",
+        "business_hours": {
+          "lundi": "13:00-17:00",
+          "mardi": "13:00-17:00",
+          "mercredi": "13:00-17:00",
+          "jeudi": "13:00-17:00",
+          "vendredi": "13:00-17:00",
+          "samedi": "9:00-17:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-14T13:50:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "262495[179527]",
+      "gid": "2372"
+    },
+    {
+      "departement": "67",
       "nom": "Pharmacie Des Cigognes",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-cigognes-obernai",
       "location": {
@@ -135,31 +136,30 @@
     },
     {
       "departement": "67",
-      "nom": "Centre de vaccination Drulingen",
-      "url": "https://partners.doctolib.fr/centre-de-sante/drulingen/centre-de-vaccination-d-alsace-bossue?pid=practice-173639",
+      "nom": "Centre de vaccination Clinique Saint Fran\u00e7ois",
+      "url": "https://vaccination-covid.keldoc.com/clinique/haguenau-67500/clinique-saint-francois/centre-de-vaccination-de-la-clinique-saint-francois",
       "location": {
-        "longitude": 7.19278,
-        "latitude": 48.8669
+        "longitude": 7.78698,
+        "latitude": 48.8197
       },
       "metadata": {
-        "address": "1001 Rue du G\u00e9n\u00e9ral Leclerc, 67320 Drulingen",
-        "phone_number": "09 70 81 81 61",
+        "address": "1 Rue Colome, 67500 Haguenau",
         "business_hours": {
-          "lundi": "13:30-17:30",
-          "mardi": "13:30-17:30",
-          "mercredi": "13:30-17:30",
-          "jeudi": "13:30-17:30",
-          "vendredi": "13:30-17:30",
-          "samedi": "ferm\u00e9",
+          "lundi": "8:00-13:00/13:30-18:30",
+          "mardi": "8:00-12:30/13:30-18:00",
+          "mercredi": "8:00-12:30/13:30-18:00",
+          "jeudi": "8:00-12:30/13:30-18:00",
+          "vendredi": "8:00-12:30/13:30-18:00",
+          "samedi": "8:00-12:30",
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-20T15:45:00.000+02:00",
-      "plateforme": "Doctolib",
+      "prochain_rdv": "2021-04-19T13:45:00.000000+0200",
+      "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "253935[173639]",
-      "gid": "1586"
+      "appointment_count": 37,
+      "internal_id": null,
+      "gid": "2400"
     },
     {
       "departement": "67",
@@ -191,31 +191,31 @@
     },
     {
       "departement": "67",
-      "nom": "Centre de vaccination Truchtersheim",
-      "url": "https://partners.doctolib.fr/centre-de-sante/truchtersheim/centre-de-vaccination-covid-19-truchtersheim?pid=practice-179527",
+      "nom": "Centre de vaccination Drulingen",
+      "url": "https://partners.doctolib.fr/centre-de-sante/drulingen/centre-de-vaccination-d-alsace-bossue?pid=practice-173639",
       "location": {
-        "longitude": 7.60533,
-        "latitude": 48.6605
+        "longitude": 7.19278,
+        "latitude": 48.8669
       },
       "metadata": {
-        "address": " Place de l'ancienne Gare, 67370 Truchtersheim",
+        "address": "1001 Rue du G\u00e9n\u00e9ral Leclerc, 67320 Drulingen",
         "phone_number": "09 70 81 81 61",
         "business_hours": {
-          "lundi": "13:00-17:00",
-          "mardi": "13:00-17:00",
-          "mercredi": "13:00-17:00",
-          "jeudi": "13:00-17:00",
-          "vendredi": "13:00-17:00",
-          "samedi": "9:00-17:00",
+          "lundi": "13:30-17:30",
+          "mardi": "13:30-17:30",
+          "mercredi": "13:30-17:30",
+          "jeudi": "13:30-17:30",
+          "vendredi": "13:30-17:30",
+          "samedi": "ferm\u00e9",
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-26T16:30:00.000+02:00",
+      "prochain_rdv": "2021-04-27T15:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 212,
-      "internal_id": "262495[179527]",
-      "gid": "2372"
+      "appointment_count": 21,
+      "internal_id": "253935[173639]",
+      "gid": "1586"
     },
     {
       "departement": "67",
@@ -277,34 +277,6 @@
   "centres_indisponibles": [
     {
       "departement": "67",
-      "nom": "Centre de vaccination S\u00e9lestat -Les Tanzmatten",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/selestat/centre-de-vaccination-covid-19-ville-de-selestat",
-      "location": {
-        "longitude": 7.45774,
-        "latitude": 48.2566
-      },
-      "metadata": {
-        "address": "10 Quai des Tanneurs, 67600 S\u00e9lestat",
-        "phone_number": "09 70 81 81 61",
-        "business_hours": {
-          "lundi": "",
-          "mardi": "",
-          "mercredi": "9h-13h/14h-18h",
-          "jeudi": "",
-          "vendredi": "",
-          "samedi": "9h-13h/14h-18h",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "251850[]",
-      "gid": "209"
-    },
-    {
-      "departement": "67",
       "nom": "Centre de vaccination  La Bourse de Strasbourg",
       "url": "https://partners.doctolib.fr/etablissement-de-prevention/strasbourg/centre-de-vaccination-covid19-de-strasbourg",
       "location": {
@@ -330,6 +302,34 @@
       "appointment_count": 0,
       "internal_id": "243473[]",
       "gid": "1175"
+    },
+    {
+      "departement": "67",
+      "nom": "Centre de vaccination S\u00e9lestat -Les Tanzmatten",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/selestat/centre-de-vaccination-covid-19-ville-de-selestat",
+      "location": {
+        "longitude": 7.45774,
+        "latitude": 48.2566
+      },
+      "metadata": {
+        "address": "10 Quai des Tanneurs, 67600 S\u00e9lestat",
+        "phone_number": "09 70 81 81 61",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "9h-13h/14h-18h",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "9h-13h/14h-18h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "251850[]",
+      "gid": "209"
     },
     {
       "departement": "67",
@@ -416,33 +416,6 @@
     },
     {
       "departement": "67",
-      "nom": "Centre de Vaccination  Internationale des HUS",
-      "url": "https://partners.doctolib.fr/hopital-public/strasbourg/chru-strasbourg-centre-de-vaccination-aztrazeneca-reserve-aux-professionnels-de-sante?pid=practice-163584",
-      "location": {
-        "longitude": 7.74908,
-        "latitude": 48.5774
-      },
-      "metadata": {
-        "address": "1 Place de l\u2019H\u00f4pital, 67000 Strasbourg",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "9h \u00e0 12h-14h \u00e0 17h",
-          "mercredi": "9h \u00e0 12h",
-          "jeudi": "9h \u00e0 12h-14h \u00e0 17h",
-          "vendredi": "9h \u00e0 12h",
-          "samedi": "9h \u00e0 12h",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "249065[163584]",
-      "gid": "1509"
-    },
-    {
-      "departement": "67",
       "nom": "Centre de vaccination d'Obernai- Gymnase Bugeaud",
       "url": "https://partners.doctolib.fr/centre-de-sante/obernai/centre-de-vaccination-covid-gymnase-bugeaud-obernai?pid=practice-168586",
       "location": {
@@ -468,6 +441,33 @@
       "appointment_count": 0,
       "internal_id": "243982[165814]",
       "gid": "934"
+    },
+    {
+      "departement": "67",
+      "nom": "Centre de Vaccination  Internationale des HUS",
+      "url": "https://partners.doctolib.fr/hopital-public/strasbourg/chru-strasbourg-centre-de-vaccination-aztrazeneca-reserve-aux-professionnels-de-sante?pid=practice-163584",
+      "location": {
+        "longitude": 7.74908,
+        "latitude": 48.5774
+      },
+      "metadata": {
+        "address": "1 Place de l\u2019H\u00f4pital, 67000 Strasbourg",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "9h \u00e0 12h-14h \u00e0 17h",
+          "mercredi": "9h \u00e0 12h",
+          "jeudi": "9h \u00e0 12h-14h \u00e0 17h",
+          "vendredi": "9h \u00e0 12h",
+          "samedi": "9h \u00e0 12h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "249065[163584]",
+      "gid": "1509"
     },
     {
       "departement": "67",
@@ -879,22 +879,22 @@
     },
     {
       "departement": "67",
-      "nom": "Pharmacie Centrale de Bischwiller",
-      "url": "https://partners.doctolib.fr/pharmacie/bischwiller/pharmacie-centrale-de-bischwiller",
+      "nom": "Pharmacie de la Fleur",
+      "url": "https://partners.doctolib.fr/pharmacie/strasbourg/pharmacie-de-la-fleur",
       "location": {
-        "longitude": 7.8596714,
-        "latitude": 48.7674947
+        "longitude": 7.7469756,
+        "latitude": 48.5858656
       },
       "metadata": {
-        "address": "18 Place de la Mairie, 67240 Bischwiller",
-        "phone_number": "03 88 63 21 13",
+        "address": "8 Rue de la Nu\u00e9e-Bleue, 67000 Strasbourg",
+        "phone_number": "03 88 32 39 54",
         "business_hours": {
-          "lundi": "08:30-12:00, 14:00-19:00",
-          "mardi": "08:30-12:00, 14:00-19:00",
-          "mercredi": "08:30-12:00, 14:00-19:00",
-          "jeudi": "08:30-12:00, 14:00-19:00",
-          "vendredi": "08:30-12:00, 14:00-19:00",
-          "samedi": "08:00-12:00",
+          "lundi": "08:00-19:30",
+          "mardi": "08:00-19:30",
+          "mercredi": "08:00-19:30",
+          "jeudi": "08:00-19:30",
+          "vendredi": "08:00-19:30",
+          "samedi": "08:00-19:30",
           "dimanche": null
         }
       },
@@ -902,8 +902,8 @@
       "plateforme": "Doctolib",
       "type": "drugstore",
       "appointment_count": 0,
-      "internal_id": "258995[]",
-      "gid": "d258995"
+      "internal_id": "256278[]",
+      "gid": "d256278"
     },
     {
       "departement": "67",
@@ -934,22 +934,22 @@
     },
     {
       "departement": "67",
-      "nom": "Pharmacie de la Fleur",
-      "url": "https://partners.doctolib.fr/pharmacie/strasbourg/pharmacie-de-la-fleur",
+      "nom": "Pharmacie Centrale de Bischwiller",
+      "url": "https://partners.doctolib.fr/pharmacie/bischwiller/pharmacie-centrale-de-bischwiller",
       "location": {
-        "longitude": 7.7469756,
-        "latitude": 48.5858656
+        "longitude": 7.8596714,
+        "latitude": 48.7674947
       },
       "metadata": {
-        "address": "8 Rue de la Nu\u00e9e-Bleue, 67000 Strasbourg",
-        "phone_number": "03 88 32 39 54",
+        "address": "18 Place de la Mairie, 67240 Bischwiller",
+        "phone_number": "03 88 63 21 13",
         "business_hours": {
-          "lundi": "08:00-19:30",
-          "mardi": "08:00-19:30",
-          "mercredi": "08:00-19:30",
-          "jeudi": "08:00-19:30",
-          "vendredi": "08:00-19:30",
-          "samedi": "08:00-19:30",
+          "lundi": "08:30-12:00, 14:00-19:00",
+          "mardi": "08:30-12:00, 14:00-19:00",
+          "mercredi": "08:30-12:00, 14:00-19:00",
+          "jeudi": "08:30-12:00, 14:00-19:00",
+          "vendredi": "08:30-12:00, 14:00-19:00",
+          "samedi": "08:00-12:00",
           "dimanche": null
         }
       },
@@ -957,8 +957,35 @@
       "plateforme": "Doctolib",
       "type": "drugstore",
       "appointment_count": 0,
-      "internal_id": "256278[]",
-      "gid": "d256278"
+      "internal_id": "258995[]",
+      "gid": "d258995"
+    },
+    {
+      "departement": "67",
+      "nom": "Dr Pascal Herbin",
+      "url": "https://partners.doctolib.fr/medecin-generaliste/lampertheim/pascal-herbin",
+      "location": {
+        "longitude": 7.68679810000003,
+        "latitude": 48.6488602
+      },
+      "metadata": {
+        "address": "5 Rue des Lobelies, 67450 Lampertheim",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-19:00",
+          "mardi": "09:00-13:00, 14:00-19:00",
+          "mercredi": "09:00-13:00, 09:30-12:00",
+          "jeudi": "09:00-13:00, 14:00-19:00",
+          "vendredi": "09:00-13:00, 14:00-19:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "general-practitioner",
+      "appointment_count": 0,
+      "internal_id": "140760[]",
+      "gid": "d140760"
     },
     {
       "departement": "67",
@@ -987,33 +1014,6 @@
       "appointment_count": 0,
       "internal_id": "258148[]",
       "gid": "d258148"
-    },
-    {
-      "departement": "67",
-      "nom": "Dr Pascal Herbin",
-      "url": "https://partners.doctolib.fr/medecin-generaliste/lampertheim/pascal-herbin",
-      "location": {
-        "longitude": 7.68679810000003,
-        "latitude": 48.6488602
-      },
-      "metadata": {
-        "address": "5 Rue des Lobelies, 67450 Lampertheim",
-        "business_hours": {
-          "lundi": "09:00-13:00, 14:00-19:00",
-          "mardi": "09:00-13:00, 14:00-19:00",
-          "mercredi": "09:00-13:00, 09:30-12:00",
-          "jeudi": "09:00-13:00, 14:00-19:00",
-          "vendredi": "09:00-13:00, 14:00-19:00",
-          "samedi": null,
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "general-practitioner",
-      "appointment_count": 0,
-      "internal_id": "140760[]",
-      "gid": "d140760"
     },
     {
       "departement": "67",

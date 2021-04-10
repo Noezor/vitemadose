@@ -1,34 +1,62 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.528744+02:00",
+  "last_updated": "2021-04-10T19:06:23.033917+02:00",
   "centres_disponibles": [
     {
       "departement": "69",
-      "nom": "Centre de vaccination de l\u2019Ouest Lyonnais - B\u00e2timent Le Trait d\u2019Union",
-      "url": "https://partners.doctolib.fr/centre-de-sante/lyon/centre-de-vaccination-de-l-ouest-lyonnais?pid=practice-176810",
+      "nom": "Centre de vaccination - Palais des sports de Gerland /Hospices Civils de Lyon",
+      "url": "https://partners.doctolib.fr/hopital-public/lyon/palais-des-sports-gerland-hcl-vaccination-covid?pid=practice-163661",
       "location": {
-        "longitude": 4.7857,
-        "latitude": 45.7879
+        "longitude": 4.83026,
+        "latitude": 45.724
       },
       "metadata": {
-        "address": "29 b Avenue des Sources, 69009 Lyon",
-        "phone_number": "33423101010",
+        "address": "350 Avenue Jean Jaur\u00e8s, 69007 Lyon",
+        "phone_number": "+33423101010",
         "business_hours": {
-          "lundi": "9:00  -  17:00",
-          "mardi": "9:00  -  17:00",
-          "mercredi": "9:00  -  17:00",
-          "jeudi": "9:00  -  17:00",
-          "vendredi": "9:00  -  17:00",
-          "samedi": "ferm\u00e9",
+          "lundi": "08:30-20:00",
+          "mardi": "08:30-20:00",
+          "mercredi": "08:30-20:00",
+          "jeudi": "08:30-20:00",
+          "vendredi": "08:30-20:00",
+          "samedi": "08:30-20:00",
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-15T11:10:00.000+02:00",
+      "prochain_rdv": "2021-04-12T10:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 15,
-      "internal_id": "258785[176810]",
-      "gid": "1693"
+      "appointment_count": 4,
+      "internal_id": "241965[163661]",
+      "gid": "688"
+    },
+    {
+      "departement": "69",
+      "nom": "Centre de vaccination -H\u00f4pital Edouard Herriot-HCL",
+      "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-edouard-herriot-hcl-vaccination-covid?pid=practice-163794",
+      "location": {
+        "longitude": 4.88009,
+        "latitude": 45.7433
+      },
+      "metadata": {
+        "address": "5 Place d'Arsonval, 69003 Lyon",
+        "phone_number": "+33423101010",
+        "business_hours": {
+          "lundi": "08:00-20:00",
+          "mardi": "08:00-20:00",
+          "mercredi": "08:00-20:00",
+          "jeudi": "08:00-20:00",
+          "vendredi": "08:00-20:00",
+          "samedi": "08:30-17:30",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-17T16:30:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "241950[163794]",
+      "gid": "222"
     },
     {
       "departement": "69",
@@ -51,10 +79,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-18T16:40:00.000+02:00",
+      "prochain_rdv": "2021-04-18T16:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 11,
+      "appointment_count": 10,
       "internal_id": "263389[180202]",
       "gid": "2136"
     },
@@ -79,12 +107,40 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-23T10:30:00.000+02:00",
+      "prochain_rdv": "2021-04-23T11:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 2,
+      "appointment_count": 1,
       "internal_id": "244533[]",
       "gid": "d244533"
+    },
+    {
+      "departement": "69",
+      "nom": "Centre de vaccination de l\u2019Ouest Lyonnais - B\u00e2timent Le Trait d\u2019Union",
+      "url": "https://partners.doctolib.fr/centre-de-sante/lyon/centre-de-vaccination-de-l-ouest-lyonnais?pid=practice-176810",
+      "location": {
+        "longitude": 4.7857,
+        "latitude": 45.7879
+      },
+      "metadata": {
+        "address": "29 b Avenue des Sources, 69009 Lyon",
+        "phone_number": "33423101010",
+        "business_hours": {
+          "lundi": "9:00  -  17:00",
+          "mardi": "9:00  -  17:00",
+          "mercredi": "9:00  -  17:00",
+          "jeudi": "9:00  -  17:00",
+          "vendredi": "9:00  -  17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-28T13:30:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 72,
+      "internal_id": "258785[176810]",
+      "gid": "1693"
     },
     {
       "departement": "69",
@@ -230,6 +286,33 @@
     },
     {
       "departement": "69",
+      "nom": "CP - US SAINT QUENTIN FALLAVIER / Etablissement sp\u00e9cialis\u00e9 pour mineurs du Rh\u00f4ne",
+      "url": "",
+      "location": {
+        "longitude": 4.99769,
+        "latitude": 45.7605
+      },
+      "metadata": {
+        "address": " Rue du Rambion, 69330 Meyzieu",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1775"
+    },
+    {
+      "departement": "69",
       "nom": "Centre de vaccination de l'H\u00f4pital de Beaujeu",
       "url": "https://partners.doctolib.fr/hopital-public/belleville-en-beaujolais/centre-de-vaccination-covid-belleville",
       "location": {
@@ -255,33 +338,6 @@
       "appointment_count": 0,
       "internal_id": "242684[]",
       "gid": "726"
-    },
-    {
-      "departement": "69",
-      "nom": "CP - US SAINT QUENTIN FALLAVIER / Etablissement sp\u00e9cialis\u00e9 pour mineurs du Rh\u00f4ne",
-      "url": "",
-      "location": {
-        "longitude": 4.99769,
-        "latitude": 45.7605
-      },
-      "metadata": {
-        "address": " Rue du Rambion, 69330 Meyzieu",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1775"
     },
     {
       "departement": "69",
@@ -396,33 +452,6 @@
     },
     {
       "departement": "69",
-      "nom": "Centre de vaccination de D\u00e9cines -Charpieu -salle le toboggan",
-      "url": "https://partners.doctolib.fr/centre-de-sante/decines-charpieu/centre-de-vaccination-covid-19-decines-chartieu?pid=practice-181189",
-      "location": {
-        "longitude": 4.95584,
-        "latitude": 45.7689
-      },
-      "metadata": {
-        "address": "14 Avenue Jean Mac\u00e9, 69150 D\u00e9cines-Charpieu",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "264660[181189]",
-      "gid": "2347"
-    },
-    {
-      "departement": "69",
       "nom": "Centre de vaccination de Vaulx-en-Velin - Centre culturel communal Charlie-Chaplin",
       "url": "https://partners.doctolib.fr/centre-de-sante/vaulx-en-velin/centre-de-vaccination-de-vaulx-en-velin?pid=practice-178384",
       "location": {
@@ -447,6 +476,33 @@
       "appointment_count": 0,
       "internal_id": "261210[178384]",
       "gid": "2092"
+    },
+    {
+      "departement": "69",
+      "nom": "Centre de vaccination de D\u00e9cines -Charpieu -salle le toboggan",
+      "url": "https://partners.doctolib.fr/centre-de-sante/decines-charpieu/centre-de-vaccination-covid-19-decines-chartieu?pid=practice-181189",
+      "location": {
+        "longitude": 4.95584,
+        "latitude": 45.7689
+      },
+      "metadata": {
+        "address": "14 Avenue Jean Mac\u00e9, 69150 D\u00e9cines-Charpieu",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "264660[181189]",
+      "gid": "2347"
     },
     {
       "departement": "69",
@@ -558,34 +614,6 @@
       "appointment_count": 0,
       "internal_id": "244581[]",
       "gid": "1079"
-    },
-    {
-      "departement": "69",
-      "nom": "Centre de vaccination -H\u00f4pital Edouard Herriot-HCL",
-      "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-edouard-herriot-hcl-vaccination-covid?pid=practice-163794",
-      "location": {
-        "longitude": 4.88009,
-        "latitude": 45.7433
-      },
-      "metadata": {
-        "address": "5 Place d'Arsonval, 69003 Lyon",
-        "phone_number": "+33423101010",
-        "business_hours": {
-          "lundi": "08:00-20:00",
-          "mardi": "08:00-20:00",
-          "mercredi": "08:00-20:00",
-          "jeudi": "08:00-20:00",
-          "vendredi": "08:00-20:00",
-          "samedi": "08:30-17:30",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241950[163794]",
-      "gid": "222"
     },
     {
       "departement": "69",
@@ -840,34 +868,6 @@
     },
     {
       "departement": "69",
-      "nom": "Centre de vaccination international de Villeurbanne",
-      "url": "https://partners.doctolib.fr/centre-de-sante/villeurbanne/centre-de-vaccinations-internationales-villeurbanne-miit?pid=practice-165173%3fspeciality_id%3d5494",
-      "location": {
-        "longitude": 4.90634,
-        "latitude": 45.7607
-      },
-      "metadata": {
-        "address": "173 Rue L\u00e9on Blum, 69100 Villeurbanne",
-        "phone_number": "+33423101010",
-        "business_hours": {
-          "lundi": "",
-          "mardi": "",
-          "mercredi": "",
-          "jeudi": "",
-          "vendredi": "",
-          "samedi": "",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243297[165173]",
-      "gid": "709"
-    },
-    {
-      "departement": "69",
       "nom": "Centre de vaccination de la communaut\u00e9 professionnelle territoriale de sant\u00e9  -  Salle Mosa\u00efque de Saint-Priest",
       "url": "https://partners.doctolib.fr/centre-de-sante/saint-priest/centre-de-vaccination-covid-19-st-priest-mions-saint-priest",
       "location": {
@@ -896,22 +896,22 @@
     },
     {
       "departement": "69",
-      "nom": "Centre de vaccination -H\u00f4pital Lyon sud - HCL",
-      "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-lyon-sud-hcl-vaccination-covid?pid=practice-163795",
+      "nom": "Centre de vaccination international de Villeurbanne",
+      "url": "https://partners.doctolib.fr/centre-de-sante/villeurbanne/centre-de-vaccinations-internationales-villeurbanne-miit?pid=practice-165173%3fspeciality_id%3d5494",
       "location": {
-        "longitude": 4.80642,
-        "latitude": 45.7021
+        "longitude": 4.90634,
+        "latitude": 45.7607
       },
       "metadata": {
-        "address": "165 Chemin du Grand Revoyet, 69310 Pierre-B\u00e9nite",
+        "address": "173 Rue L\u00e9on Blum, 69100 Villeurbanne",
         "phone_number": "+33423101010",
         "business_hours": {
-          "lundi": "9:00 - 16:00",
-          "mardi": "9:00 - 16:00",
-          "mercredi": "9:00 - 16:00",
-          "jeudi": "9:00 - 16:00",
-          "vendredi": "9:00 - 16:00",
-          "samedi": "ferm\u00e9",
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
           "dimanche": "ferm\u00e9"
         }
       },
@@ -919,8 +919,8 @@
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": "241954[163795]",
-      "gid": "226"
+      "internal_id": "243297[165173]",
+      "gid": "709"
     },
     {
       "departement": "69",
@@ -952,6 +952,34 @@
     },
     {
       "departement": "69",
+      "nom": "Centre de vaccination -H\u00f4pital Lyon sud - HCL",
+      "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-lyon-sud-hcl-vaccination-covid?pid=practice-163795",
+      "location": {
+        "longitude": 4.80642,
+        "latitude": 45.7021
+      },
+      "metadata": {
+        "address": "165 Chemin du Grand Revoyet, 69310 Pierre-B\u00e9nite",
+        "phone_number": "+33423101010",
+        "business_hours": {
+          "lundi": "9:00 - 16:00",
+          "mardi": "9:00 - 16:00",
+          "mercredi": "9:00 - 16:00",
+          "jeudi": "9:00 - 16:00",
+          "vendredi": "9:00 - 16:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241954[163795]",
+      "gid": "226"
+    },
+    {
+      "departement": "69",
       "nom": "MA - US Corbas / Etablissement sp\u00e9cialis\u00e9 pour mineurs du Rh\u00f4ne",
       "url": "",
       "location": {
@@ -976,33 +1004,6 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1776"
-    },
-    {
-      "departement": "69",
-      "nom": "CP - VILLEFRANCHE SUR SAONE / Maison d'Arr\u00eat de Villefranche-sur-Sa\u00f4ne",
-      "url": "",
-      "location": {
-        "longitude": 4.72617,
-        "latitude": 45.9986
-      },
-      "metadata": {
-        "address": " Rue Lavoisier, 69400 Villefranche-sur-Sa\u00f4ne",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1778"
     },
     {
       "departement": "69",
@@ -1033,31 +1034,30 @@
     },
     {
       "departement": "69",
-      "nom": "Centre de vaccination - Palais des sports de Gerland /Hospices Civils de Lyon",
-      "url": "https://partners.doctolib.fr/hopital-public/lyon/palais-des-sports-gerland-hcl-vaccination-covid?pid=practice-163661",
+      "nom": "CP - VILLEFRANCHE SUR SAONE / Maison d'Arr\u00eat de Villefranche-sur-Sa\u00f4ne",
+      "url": "",
       "location": {
-        "longitude": 4.83026,
-        "latitude": 45.724
+        "longitude": 4.72617,
+        "latitude": 45.9986
       },
       "metadata": {
-        "address": "350 Avenue Jean Jaur\u00e8s, 69007 Lyon",
-        "phone_number": "+33423101010",
+        "address": " Rue Lavoisier, 69400 Villefranche-sur-Sa\u00f4ne",
         "business_hours": {
-          "lundi": "08:30-20:00",
-          "mardi": "08:30-20:00",
-          "mercredi": "08:30-20:00",
-          "jeudi": "08:30-20:00",
-          "vendredi": "08:30-20:00",
-          "samedi": "08:30-20:00",
-          "dimanche": "ferm\u00e9"
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
         }
       },
       "prochain_rdv": null,
-      "plateforme": "Doctolib",
+      "plateforme": "Autre",
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": "241965[163661]",
-      "gid": "688"
+      "internal_id": null,
+      "gid": "1778"
     },
     {
       "departement": "69",
@@ -1315,34 +1315,6 @@
     },
     {
       "departement": "69",
-      "nom": "Centre de vaccination Covid-19 - St Priest Mions",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saint-priest/centre-de-vaccination-covid-19-st-priest-mions",
-      "location": {
-        "longitude": 4.928993,
-        "latitude": 45.6944789
-      },
-      "metadata": {
-        "address": "47 Rue Aristide Briand, 69800 Saint-Priest",
-        "phone_number": "04 23 10 10 10",
-        "business_hours": {
-          "lundi": "09:00-13:00, 13:00-17:00",
-          "mardi": "09:00-13:00, 13:00-17:00",
-          "mercredi": "09:00-13:00, 13:00-17:00",
-          "jeudi": "09:00-13:00, 13:00-17:00",
-          "vendredi": "09:00-13:00, 13:00-17:00",
-          "samedi": "09:00-13:00, 13:00-17:00",
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243468[]",
-      "gid": "d243468"
-    },
-    {
-      "departement": "69",
       "nom": "Centre de vaccination Covid-19 - L'Arbresle - Salle Claude Terrasse",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/l-arbresle/centre-de-vaccination-covid-19-l-arbresle",
       "location": {
@@ -1368,6 +1340,34 @@
       "appointment_count": 0,
       "internal_id": "243285[]",
       "gid": "d243285"
+    },
+    {
+      "departement": "69",
+      "nom": "Centre de vaccination Covid-19 - St Priest Mions",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-priest/centre-de-vaccination-covid-19-st-priest-mions",
+      "location": {
+        "longitude": 4.928993,
+        "latitude": 45.6944789
+      },
+      "metadata": {
+        "address": "47 Rue Aristide Briand, 69800 Saint-Priest",
+        "phone_number": "04 23 10 10 10",
+        "business_hours": {
+          "lundi": "09:00-13:00, 13:00-17:00",
+          "mardi": "09:00-13:00, 13:00-17:00",
+          "mercredi": "09:00-13:00, 13:00-17:00",
+          "jeudi": "09:00-13:00, 13:00-17:00",
+          "vendredi": "09:00-13:00, 13:00-17:00",
+          "samedi": "09:00-13:00, 13:00-17:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243468[]",
+      "gid": "d243468"
     },
     {
       "departement": "69",

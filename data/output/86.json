@@ -1,7 +1,36 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.551806+02:00",
-  "centres_disponibles": [],
+  "last_updated": "2021-04-10T19:06:23.059773+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "86",
+      "nom": "CHU POITIERS - Site de LA MILETRIE",
+      "url": "https://partners.doctolib.fr/hopital-public/poitiers/centre-de-vaccination-chu-poitiers-la-miletrie",
+      "location": {
+        "longitude": 0.379103,
+        "latitude": 46.5611
+      },
+      "metadata": {
+        "address": "2 Rue de la Mil\u00e8trie, 86000 Poitiers",
+        "phone_number": "+33516604064",
+        "business_hours": {
+          "lundi": "07:00-09:30/12:00-13:30/18:00-19:30",
+          "mardi": "07:00-09:30/12:00-13:30/18:00-19:30",
+          "mercredi": "07:00-09:30/12:00-13:30/18:00-19:30",
+          "jeudi": "07:00-09:30/12:00-13:30/18:00-19:30",
+          "vendredi": "07:00-09:30/12:00-13:30/18:00-19:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-12T13:20:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 5,
+      "internal_id": "242489[]",
+      "gid": "196"
+    }
+  ],
   "centres_indisponibles": [
     {
       "departement": "86",
@@ -248,34 +277,6 @@
       "appointment_count": 0,
       "internal_id": "253166[173005]",
       "gid": "1613"
-    },
-    {
-      "departement": "86",
-      "nom": "CHU POITIERS - Site de LA MILETRIE",
-      "url": "https://partners.doctolib.fr/hopital-public/poitiers/centre-de-vaccination-chu-poitiers-la-miletrie",
-      "location": {
-        "longitude": 0.379103,
-        "latitude": 46.5611
-      },
-      "metadata": {
-        "address": "2 Rue de la Mil\u00e8trie, 86000 Poitiers",
-        "phone_number": "+33516604064",
-        "business_hours": {
-          "lundi": "07:00-09:30/12:00-13:30/18:00-19:30",
-          "mardi": "07:00-09:30/12:00-13:30/18:00-19:30",
-          "mercredi": "07:00-09:30/12:00-13:30/18:00-19:30",
-          "jeudi": "07:00-09:30/12:00-13:30/18:00-19:30",
-          "vendredi": "07:00-09:30/12:00-13:30/18:00-19:30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242489[]",
-      "gid": "196"
     },
     {
       "departement": "86",

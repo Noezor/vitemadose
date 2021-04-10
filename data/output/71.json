@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.531349+02:00",
+  "last_updated": "2021-04-10T19:06:23.036625+02:00",
   "centres_disponibles": [
     {
       "departement": "71",
@@ -54,7 +54,7 @@
       "prochain_rdv": "2021-04-22T15:12:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 127,
+      "appointment_count": 126,
       "internal_id": "263517[178060]",
       "gid": "2310"
     },
@@ -250,7 +250,7 @@
       "prochain_rdv": "2021-05-05T16:48:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 129,
+      "appointment_count": 128,
       "internal_id": "242420[]",
       "gid": "521"
     },
@@ -359,7 +359,7 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-10T14:48:00.000+02:00",
+      "prochain_rdv": "2021-05-10T14:42:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 230,
@@ -443,10 +443,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-17T10:24:00.000+02:00",
+      "prochain_rdv": "2021-05-17T16:18:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 14,
+      "appointment_count": 13,
       "internal_id": "242413[]",
       "gid": "562"
     }
@@ -591,33 +591,6 @@
     },
     {
       "departement": "71",
-      "nom": "Grand centre 71S",
-      "url": "",
-      "location": {
-        "longitude": 4.8327,
-        "latitude": 46.3032
-      },
-      "metadata": {
-        "address": "322 Quai Lamartine, 71000 M\u00e2con",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "2233"
-    },
-    {
-      "departement": "71",
       "nom": "Grand centre 71N",
       "url": "",
       "location": {
@@ -642,6 +615,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "2232"
+    },
+    {
+      "departement": "71",
+      "nom": "Grand centre 71S",
+      "url": "",
+      "location": {
+        "longitude": 4.8327,
+        "latitude": 46.3032
+      },
+      "metadata": {
+        "address": "322 Quai Lamartine, 71000 M\u00e2con",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "2233"
     },
     {
       "departement": "71",

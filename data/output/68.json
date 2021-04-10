@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.527699+02:00",
+  "last_updated": "2021-04-10T19:06:23.032885+02:00",
   "centres_disponibles": [
     {
       "departement": "68",
@@ -51,10 +51,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-17T14:45:00.000+02:00",
+      "prochain_rdv": "2021-04-17T15:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 16,
+      "appointment_count": 15,
       "internal_id": "262621[179615]",
       "gid": "2343"
     },
@@ -138,7 +138,7 @@
       "prochain_rdv": "2021-04-30T14:25:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 23,
+      "appointment_count": 22,
       "internal_id": "243424[]",
       "gid": "1010"
     },
@@ -246,10 +246,10 @@
           "dimanche": "non pr\u00e9cis\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-12T13:25:00.000+02:00",
+      "prochain_rdv": "2021-05-12T13:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 31,
+      "appointment_count": 29,
       "internal_id": "242936[]",
       "gid": "1012"
     }
@@ -397,34 +397,6 @@
     },
     {
       "departement": "68",
-      "nom": "Centre de vaccination de R\u00e9guisheim",
-      "url": "https://partners.doctolib.fr/centre-de-sante/reguisheim/centre-de-vaccination-covid-19-espace-trois-coeur-reguisheim?pid=practice-166677",
-      "location": {
-        "longitude": 7.34817,
-        "latitude": 47.8935
-      },
-      "metadata": {
-        "address": "10 Rue de la For\u00eat, 68890 R\u00e9guisheim",
-        "phone_number": "+33970818161",
-        "business_hours": {
-          "lundi": "non pr\u00e9cis\u00e9",
-          "mardi": "non pr\u00e9cis\u00e9",
-          "mercredi": "non pr\u00e9cis\u00e9",
-          "jeudi": "non pr\u00e9cis\u00e9",
-          "vendredi": "non pr\u00e9cis\u00e9",
-          "samedi": "non pr\u00e9cis\u00e9",
-          "dimanche": "non pr\u00e9cis\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "245204[166677]",
-      "gid": "1276"
-    },
-    {
-      "departement": "68",
       "nom": "Centre de vaccination de Ste Marie Aux Mines",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/sainte-marie-aux-mines/vaccination-covid-19-du-val-d-argent-vaccination-covid-19-sainte-marie-aux-mines",
       "location": {
@@ -450,6 +422,34 @@
       "appointment_count": 0,
       "internal_id": "248240[]",
       "gid": "1352"
+    },
+    {
+      "departement": "68",
+      "nom": "Centre de vaccination de R\u00e9guisheim",
+      "url": "https://partners.doctolib.fr/centre-de-sante/reguisheim/centre-de-vaccination-covid-19-espace-trois-coeur-reguisheim?pid=practice-166677",
+      "location": {
+        "longitude": 7.34817,
+        "latitude": 47.8935
+      },
+      "metadata": {
+        "address": "10 Rue de la For\u00eat, 68890 R\u00e9guisheim",
+        "phone_number": "+33970818161",
+        "business_hours": {
+          "lundi": "non pr\u00e9cis\u00e9",
+          "mardi": "non pr\u00e9cis\u00e9",
+          "mercredi": "non pr\u00e9cis\u00e9",
+          "jeudi": "non pr\u00e9cis\u00e9",
+          "vendredi": "non pr\u00e9cis\u00e9",
+          "samedi": "non pr\u00e9cis\u00e9",
+          "dimanche": "non pr\u00e9cis\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "245204[166677]",
+      "gid": "1276"
     },
     {
       "departement": "68",

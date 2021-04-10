@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.490089+02:00",
+  "last_updated": "2021-04-10T19:06:22.991702+02:00",
   "centres_disponibles": [
     {
       "departement": "34",
@@ -23,10 +23,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-11T10:35:00.000+02:00",
+      "prochain_rdv": "2021-04-11T14:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 11,
+      "appointment_count": 4,
       "internal_id": "242471[]",
       "gid": "603"
     }
@@ -202,34 +202,6 @@
     },
     {
       "departement": "34",
-      "nom": "MONTPELLIER CVP Bouisson Bertrand",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/montpellier/institut-bouisson-bertrand-centre-de-vaccination-covid-19",
-      "location": {
-        "longitude": 3.87333,
-        "latitude": 43.6127
-      },
-      "metadata": {
-        "address": "5 Rue Ecole de M\u00e9decine, 34000 Montpellier",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "8:30-12:30/13:30-17:00",
-          "mardi": "13:00-17:30",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "8:30-12:30",
-          "vendredi": "8:30-12:30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242189[]",
-      "gid": "344"
-    },
-    {
-      "departement": "34",
       "nom": "Centre de vaccination - Clinique St Louis de Ganges",
       "url": "https://partners.doctolib.fr/centre-depistage-covid/ganges/centres-de-vaccination-cap-sante",
       "location": {
@@ -342,31 +314,31 @@
     },
     {
       "departement": "34",
-      "nom": "MONTPELLIER Centre vaccination \u00e0 la Clinique du Mill\u00e9naire",
-      "url": "https://partners.doctolib.fr/clinique-privee/montpellier/oc-sante-clinique-du-millenaire-vaccination-covid",
+      "nom": "MONTPELLIER CVP Bouisson Bertrand",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/montpellier/institut-bouisson-bertrand-centre-de-vaccination-covid-19",
       "location": {
-        "longitude": 3.91916,
-        "latitude": 43.6019
+        "longitude": 3.87333,
+        "latitude": 43.6127
       },
       "metadata": {
-        "address": "220 boulevard P\u00e9n\u00e9lope, 34000 Montpellier",
+        "address": "5 Rue Ecole de M\u00e9decine, 34000 Montpellier",
         "phone_number": "+33800541919",
         "business_hours": {
-          "lundi": "No",
-          "mardi": "",
-          "mercredi": "",
-          "jeudi": "",
-          "vendredi": "",
-          "samedi": "",
-          "dimanche": ""
+          "lundi": "8:30-12:30/13:30-17:00",
+          "mardi": "13:00-17:30",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "8:30-12:30",
+          "vendredi": "8:30-12:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
         }
       },
       "prochain_rdv": null,
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": "242597[]",
-      "gid": "750"
+      "internal_id": "242189[]",
+      "gid": "344"
     },
     {
       "departement": "34",
@@ -395,6 +367,34 @@
       "appointment_count": 0,
       "internal_id": "242011[]",
       "gid": "388"
+    },
+    {
+      "departement": "34",
+      "nom": "MONTPELLIER Centre vaccination \u00e0 la Clinique du Mill\u00e9naire",
+      "url": "https://partners.doctolib.fr/clinique-privee/montpellier/oc-sante-clinique-du-millenaire-vaccination-covid",
+      "location": {
+        "longitude": 3.91916,
+        "latitude": 43.6019
+      },
+      "metadata": {
+        "address": "220 boulevard P\u00e9n\u00e9lope, 34000 Montpellier",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "No",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242597[]",
+      "gid": "750"
     },
     {
       "departement": "34",
@@ -931,26 +931,6 @@
     },
     {
       "departement": "34",
-      "nom": "Pharmacie Des Lilas",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-lilas",
-      "location": {
-        "longitude": 3.8485323,
-        "latitude": 43.60161950000001
-      },
-      "metadata": {
-        "address": "66 route de laverune, 34070 montpellier",
-        "phone_number": "+33467426614",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "bd4abada"
-    },
-    {
-      "departement": "34",
       "nom": "Pharmacie Des Vignes",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-vignes-montpellier",
       "location": {
@@ -968,6 +948,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "b07ad721"
+    },
+    {
+      "departement": "34",
+      "nom": "Pharmacie Des Lilas",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-lilas",
+      "location": {
+        "longitude": 3.8485323,
+        "latitude": 43.60161950000001
+      },
+      "metadata": {
+        "address": "66 route de laverune, 34070 montpellier",
+        "phone_number": "+33467426614",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "bd4abada"
     },
     {
       "departement": "34",

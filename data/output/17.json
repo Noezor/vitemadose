@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.470313+02:00",
+  "last_updated": "2021-04-10T19:06:22.970214+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -283,34 +283,6 @@
     },
     {
       "departement": "17",
-      "nom": "centre de vaccination Nieul sur Mer",
-      "url": "https://partners.doctolib.fr/centre-de-sante/la-rochelle/centre-de-vaccination-covid-19-ville-de-la-rochelle-la-rochelle?pid=practice-173645",
-      "location": {
-        "longitude": -1.17048,
-        "latitude": 46.2059
-      },
-      "metadata": {
-        "address": "1 rue de Lauzi\u00e8re, 17137 Nieul-sur-Mer",
-        "phone_number": "+335 46 30 57 17",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243501[173645]",
-      "gid": "1726"
-    },
-    {
-      "departement": "17",
       "nom": "CENTRE MONTLIEU LA GARDE",
       "url": "https://partners.doctolib.fr/hopital-public/haute-saintonge/centre-de-vaccination-covid-19-haute-saintonge?pid=practice-164897",
       "location": {
@@ -339,21 +311,21 @@
     },
     {
       "departement": "17",
-      "nom": "Centre de Vaccination Saint Jean d'Ang\u00e9ly",
-      "url": "https://partners.doctolib.fr/hopital-public/saint-jean-d-angely/centre-de-vaccination-covid-19-saint-jean-d-angely",
+      "nom": "centre de vaccination Nieul sur Mer",
+      "url": "https://partners.doctolib.fr/centre-de-sante/la-rochelle/centre-de-vaccination-covid-19-ville-de-la-rochelle-la-rochelle?pid=practice-173645",
       "location": {
-        "longitude": -0.529431,
-        "latitude": 45.9471
+        "longitude": -1.17048,
+        "latitude": 46.2059
       },
       "metadata": {
-        "address": "18 Avenue du Port, 17400 Saint-Jean-d'Ang\u00e9ly",
-        "phone_number": "+33546951111 ",
+        "address": "1 rue de Lauzi\u00e8re, 17137 Nieul-sur-Mer",
+        "phone_number": "+335 46 30 57 17",
         "business_hours": {
-          "lundi": "09:00-12:00/14:00-17:00",
-          "mardi": "09:00-12:00/14:00-17:00",
-          "mercredi": "09:00-12:00/14:00-17:00",
-          "jeudi": "09:00-12:00/14:00-17:00",
-          "vendredi": "09:00-12:00/14:00-17:00",
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
           "samedi": "ferm\u00e9",
           "dimanche": "ferm\u00e9"
         }
@@ -362,8 +334,8 @@
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": "242637[]",
-      "gid": "922"
+      "internal_id": "243501[173645]",
+      "gid": "1726"
     },
     {
       "departement": "17",
@@ -420,6 +392,34 @@
       "appointment_count": 0,
       "internal_id": "262232[179312]",
       "gid": "2186"
+    },
+    {
+      "departement": "17",
+      "nom": "Centre de Vaccination Saint Jean d'Ang\u00e9ly",
+      "url": "https://partners.doctolib.fr/hopital-public/saint-jean-d-angely/centre-de-vaccination-covid-19-saint-jean-d-angely",
+      "location": {
+        "longitude": -0.529431,
+        "latitude": 45.9471
+      },
+      "metadata": {
+        "address": "18 Avenue du Port, 17400 Saint-Jean-d'Ang\u00e9ly",
+        "phone_number": "+33546951111 ",
+        "business_hours": {
+          "lundi": "09:00-12:00/14:00-17:00",
+          "mardi": "09:00-12:00/14:00-17:00",
+          "mercredi": "09:00-12:00/14:00-17:00",
+          "jeudi": "09:00-12:00/14:00-17:00",
+          "vendredi": "09:00-12:00/14:00-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242637[]",
+      "gid": "922"
     },
     {
       "departement": "17",

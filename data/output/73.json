@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.533433+02:00",
+  "last_updated": "2021-04-10T19:06:23.039426+02:00",
   "centres_disponibles": [
     {
       "departement": "73",
@@ -25,7 +25,7 @@
       "prochain_rdv": "2021-04-12T08:54:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 128,
+      "appointment_count": 129,
       "internal_id": "249709[]",
       "gid": "d249709"
     },
@@ -52,7 +52,7 @@
       "prochain_rdv": "2021-04-12T08:54:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 128,
+      "appointment_count": 129,
       "internal_id": "249710[]",
       "gid": "d249710"
     },
@@ -112,34 +112,6 @@
     },
     {
       "departement": "73",
-      "nom": "Centre de vaccination COVID - MOUTIERS",
-      "url": "https://partners.doctolib.fr/hopital-public/moutiers/centre-de-vaccination-covid-de-moutiers",
-      "location": {
-        "longitude": 6.53081,
-        "latitude": 45.4872
-      },
-      "metadata": {
-        "address": "258 Av des Xvieme Jeux Olympiques d\u2019Hiver, 73600 Mo\u00fbtiers",
-        "phone_number": "+33755582711",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "14:00-18:00",
-          "mercredi": "14:00-18:00",
-          "jeudi": "14:00-18:00",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-16T11:25:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "245207[]",
-      "gid": "708"
-    },
-    {
-      "departement": "73",
       "nom": "Centre de vaccination Covid 19 - Savoie - Parc des expositions Chamb\u00e9ry",
       "url": "https://partners.doctolib.fr/centre-de-sante/chambery/centre-de-vaccination-covid-19-savoie-parc-des-expositions-chambery",
       "location": {
@@ -158,10 +130,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-19T11:41:00.000+02:00",
+      "prochain_rdv": "2021-04-19T11:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 423,
+      "appointment_count": 424,
       "internal_id": "264576[]",
       "gid": "d264576"
     },
@@ -192,6 +164,34 @@
       "appointment_count": 47,
       "internal_id": "242539[]",
       "gid": "673"
+    },
+    {
+      "departement": "73",
+      "nom": "Centre de vaccination COVID - MOUTIERS",
+      "url": "https://partners.doctolib.fr/hopital-public/moutiers/centre-de-vaccination-covid-de-moutiers",
+      "location": {
+        "longitude": 6.53081,
+        "latitude": 45.4872
+      },
+      "metadata": {
+        "address": "258 Av des Xvieme Jeux Olympiques d\u2019Hiver, 73600 Mo\u00fbtiers",
+        "phone_number": "+33755582711",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "14:00-18:00",
+          "mercredi": "14:00-18:00",
+          "jeudi": "14:00-18:00",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-21T11:15:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 67,
+      "internal_id": "245207[]",
+      "gid": "708"
     },
     {
       "departement": "73",
@@ -241,7 +241,7 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-21T11:30:00.000+02:00",
+      "prochain_rdv": "2021-04-21T11:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 135,
@@ -579,18 +579,18 @@
     },
     {
       "departement": "73",
-      "nom": "Centre de vaccination COVID Ad Hoc de COGNIN",
-      "url": "https://partners.doctolib.fr/centre-de-sante/chambery/centre-de-vaccination-grand-chambery?pid=practice-178865",
+      "nom": "Centre de vaccination COVID Ad Hoc de Saint Alban Leysse",
+      "url": "https://partners.doctolib.fr/centre-de-sante/chambery/centre-de-vaccination-grand-chambery?pid=practice-178866",
       "location": {
-        "longitude": 5.89493,
-        "latitude": 45.5605
+        "longitude": 5.95943,
+        "latitude": 45.5788
       },
       "metadata": {
-        "address": "16 R de la Forgerie, 73160 Cognin",
+        "address": "6500 Av de la Mairie, 73230 Saint-Alban-Leysse",
         "business_hours": {
-          "lundi": "ferm\u00e9",
+          "lundi": "OUVERT",
           "mardi": "ferm\u00e9",
-          "mercredi": "08:45-12:05/13:45-17:05",
+          "mercredi": "ferm\u00e9",
           "jeudi": "ferm\u00e9",
           "vendredi": "ferm\u00e9",
           "samedi": "ferm\u00e9",
@@ -602,7 +602,7 @@
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": "260816[178078-178862]",
-      "gid": "2127"
+      "gid": "2128"
     },
     {
       "departement": "73",

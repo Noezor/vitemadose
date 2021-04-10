@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.518141+02:00",
+  "last_updated": "2021-04-10T19:06:23.022729+02:00",
   "centres_disponibles": [
     {
       "departement": "60",
@@ -49,6 +49,34 @@
       "appointment_count": 1,
       "internal_id": null,
       "gid": "378"
+    },
+    {
+      "departement": "60",
+      "nom": "Centre de vaccination - Commune de Pont Sainte Maxence,  gymnase la Salamandre rue Charles Frigaux",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/pont-sainte-maxence/centre-de-vaccination-covid-19-pont-sainte-maxence?pid=practice-175373",
+      "location": {
+        "longitude": 2.5971,
+        "latitude": 49.3004
+      },
+      "metadata": {
+        "address": "223 Rue Charles Frigaux, 60700 Pont-Sainte-Maxence",
+        "phone_number": "+33344562983",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-05T12:30:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "256798[175373]",
+      "gid": "1671"
     }
   ],
   "centres_indisponibles": [
@@ -221,34 +249,6 @@
     },
     {
       "departement": "60",
-      "nom": "Centre de vaccination - Commune de Pont Sainte Maxence,  gymnase la Salamandre rue Charles Frigaux",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/pont-sainte-maxence/centre-de-vaccination-covid-19-pont-sainte-maxence?pid=practice-175373",
-      "location": {
-        "longitude": 2.5971,
-        "latitude": 49.3004
-      },
-      "metadata": {
-        "address": "223 Rue Charles Frigaux, 60700 Pont-Sainte-Maxence",
-        "phone_number": "+33344562983",
-        "business_hours": {
-          "lundi": "",
-          "mardi": "",
-          "mercredi": "",
-          "jeudi": "",
-          "vendredi": "",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "256798[175373]",
-      "gid": "1671"
-    },
-    {
-      "departement": "60",
       "nom": "Centre de vaccination - CPTS du pays de Bray",
       "url": "https://partners.doctolib.fr/centre-de-sante/saint-aubin-en-bray/communaute-de-soins-du-pays-de-bray-vaccination-covid?pid=practice-164539",
       "location": {
@@ -385,6 +385,33 @@
     },
     {
       "departement": "60",
+      "nom": "Centre de vaccination - communaut\u00e9 de commune du Liancourtois, Salle Guy Lejeune",
+      "url": "https://partners.doctolib.fr/centre-de-sante/liancourt/centre-de-vaccination-covid-liancourt-liancourt?pid=practice-179037",
+      "location": {
+        "longitude": 2.4598,
+        "latitude": 49.3292
+      },
+      "metadata": {
+        "address": "176 Avenue Louis Aragon, 60140 Liancourt",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "262447[179037]",
+      "gid": "2071"
+    },
+    {
+      "departement": "60",
       "nom": "Centre de vaccination -Communaut\u00e9 d'Agglom\u00e9ration du Beauvaisis, gymnase Andr\u00e9-Ambroise",
       "url": "https://partners.doctolib.fr/centre-de-sante/beauvais/centre-de-vaccination-covid-departement-de-l-oise?pid=practice-176858",
       "location": {
@@ -410,33 +437,6 @@
       "appointment_count": 0,
       "internal_id": "258482[176858]",
       "gid": "2070"
-    },
-    {
-      "departement": "60",
-      "nom": "Centre de vaccination - communaut\u00e9 de commune du Liancourtois, Salle Guy Lejeune",
-      "url": "https://partners.doctolib.fr/centre-de-sante/liancourt/centre-de-vaccination-covid-liancourt-liancourt?pid=practice-179037",
-      "location": {
-        "longitude": 2.4598,
-        "latitude": 49.3292
-      },
-      "metadata": {
-        "address": "176 Avenue Louis Aragon, 60140 Liancourt",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "",
-          "dimanche": ""
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "262447[179037]",
-      "gid": "2071"
     },
     {
       "departement": "60",
@@ -748,33 +748,6 @@
     },
     {
       "departement": "60",
-      "nom": "CP - Centre Hospitalier de Beauvais / Centre p\u00e9nitentiaire de Beauvais",
-      "url": "",
-      "location": {
-        "longitude": 2.08755,
-        "latitude": 49.4179
-      },
-      "metadata": {
-        "address": " Rue de Pontoise, 60000 Beauvais",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1839"
-    },
-    {
-      "departement": "60",
       "nom": "CP - US2 / Centre P\u00e9nitentiaire de Liancourt",
       "url": "",
       "location": {
@@ -799,6 +772,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1840"
+    },
+    {
+      "departement": "60",
+      "nom": "CP - Centre Hospitalier de Beauvais / Centre p\u00e9nitentiaire de Beauvais",
+      "url": "",
+      "location": {
+        "longitude": 2.08755,
+        "latitude": 49.4179
+      },
+      "metadata": {
+        "address": " Rue de Pontoise, 60000 Beauvais",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1839"
     },
     {
       "departement": "60",

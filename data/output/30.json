@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.484261+02:00",
+  "last_updated": "2021-04-10T19:06:22.985522+02:00",
   "centres_disponibles": [
     {
       "departement": "30",
@@ -81,7 +81,7 @@
       "prochain_rdv": "2021-04-22T09:05:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 1142,
+      "appointment_count": 1140,
       "internal_id": "245424[166788]",
       "gid": "1503"
     },
@@ -109,7 +109,7 @@
       "prochain_rdv": "2021-04-23T08:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 16,
+      "appointment_count": 15,
       "internal_id": "241964[163873]",
       "gid": "215"
     },
@@ -310,33 +310,6 @@
     },
     {
       "departement": "30",
-      "nom": "Centre Al\u00e8s Fil",
-      "url": "https://partners.doctolib.fr/centre-de-sante/ales/centre-de-vaccination-covid-19-ales?pid=practice-165321",
-      "location": {
-        "longitude": 4.08864,
-        "latitude": 44.1189
-      },
-      "metadata": {
-        "address": "177 Chemin des Sports, 30100 Al\u00e8s",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "13:30 - 17:00",
-          "jeudi": "13:30 - 17:00",
-          "vendredi": "13:30 - 17:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "244706[165321]",
-      "gid": "1505"
-    },
-    {
-      "departement": "30",
       "nom": "Centre MSP Petite Camargue",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/vauvert/msp-de-la-petite-camargue-vaccination-covid?pid=practice-171380",
       "location": {
@@ -361,6 +334,33 @@
       "appointment_count": 0,
       "internal_id": "251130[171380]",
       "gid": "1507"
+    },
+    {
+      "departement": "30",
+      "nom": "Centre Al\u00e8s Fil",
+      "url": "https://partners.doctolib.fr/centre-de-sante/ales/centre-de-vaccination-covid-19-ales?pid=practice-165321",
+      "location": {
+        "longitude": 4.08864,
+        "latitude": 44.1189
+      },
+      "metadata": {
+        "address": "177 Chemin des Sports, 30100 Al\u00e8s",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "13:30 - 17:00",
+          "jeudi": "13:30 - 17:00",
+          "vendredi": "13:30 - 17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244706[165321]",
+      "gid": "1505"
     },
     {
       "departement": "30",

@@ -1,35 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.488250+02:00",
+  "last_updated": "2021-04-10T19:06:22.989708+02:00",
   "centres_disponibles": [
-    {
-      "departement": "33",
-      "nom": "Centre de Vaccination - Salle Lucie Aubrac",
-      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/floirac-33270/salle-lucie-aubrac",
-      "location": {
-        "longitude": -0.530839,
-        "latitude": 44.8321
-      },
-      "metadata": {
-        "address": "35 Rue L\u00e9o Lagrange, 33270 Floirac",
-        "phone_number": "+33532923232",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "08:30-13:00",
-          "mercredi": "08:30-13:00",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-12T11:30:00.000000+0200",
-      "plateforme": "Keldoc",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": null,
-      "gid": "1721"
-    },
     {
       "departement": "33",
       "nom": "Centre de vaccination - CA du Libournais",
@@ -53,7 +25,7 @@
       "prochain_rdv": "2021-04-12T16:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 300,
+      "appointment_count": 299,
       "internal_id": "242928[]",
       "gid": "992"
     },
@@ -160,10 +132,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-15T12:10:00.000+02:00",
+      "prochain_rdv": "2021-04-15T12:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 46,
+      "appointment_count": 45,
       "internal_id": "263487[]",
       "gid": "d263487"
     },
@@ -219,7 +191,7 @@
       "prochain_rdv": "2021-04-17T08:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 22,
+      "appointment_count": 23,
       "internal_id": "242675[164677]",
       "gid": "998"
     },
@@ -584,6 +556,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1637"
+    },
+    {
+      "departement": "33",
+      "nom": "Centre de Vaccination - Salle Lucie Aubrac",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/floirac-33270/salle-lucie-aubrac",
+      "location": {
+        "longitude": -0.530839,
+        "latitude": 44.8321
+      },
+      "metadata": {
+        "address": "35 Rue L\u00e9o Lagrange, 33270 Floirac",
+        "phone_number": "+33532923232",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "08:30-13:00",
+          "mercredi": "08:30-13:00",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": null,
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1721"
     },
     {
       "departement": "33",

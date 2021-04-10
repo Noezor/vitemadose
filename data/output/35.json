@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.491854+02:00",
+  "last_updated": "2021-04-10T19:06:22.993552+02:00",
   "centres_disponibles": [
     {
       "departement": "35",
@@ -22,10 +22,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-12T13:30:00.000+02:00",
+      "prochain_rdv": "2021-04-12T13:48:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 238,
+      "appointment_count": 235,
       "internal_id": "265186[181675]",
       "gid": "2397"
     },
@@ -50,12 +50,40 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-15T15:45:00.000+02:00",
+      "prochain_rdv": "2021-04-15T15:25:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "drugstore",
-      "appointment_count": 11,
+      "appointment_count": 12,
       "internal_id": "256013[]",
       "gid": "d256013"
+    },
+    {
+      "departement": "35",
+      "nom": "FOUGERES - Salle de la forairie",
+      "url": "https://partners.doctolib.fr/centre-de-sante/foug\u00e8res/centre-de-vaccination-de-fougeres",
+      "location": {
+        "longitude": -1.18836,
+        "latitude": 48.3652
+      },
+      "metadata": {
+        "address": " Rue Joseph Fournier, 35300 Foug\u00e8res",
+        "phone_number": "+33805690821",
+        "business_hours": {
+          "lundi": "9h-12h / 14h-17h",
+          "mardi": "9h-12h / 14h-17h",
+          "mercredi": "9h-12h / 14h-17h",
+          "jeudi": "9h-12h / 14h-17h",
+          "vendredi": "9h-12h / 14h-17h",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-22T14:35:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 6,
+      "internal_id": "241899[]",
+      "gid": "422"
     },
     {
       "departement": "35",
@@ -109,7 +137,7 @@
       "prochain_rdv": "2021-04-26T09:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 186,
+      "appointment_count": 184,
       "internal_id": "241740[171052]",
       "gid": "412"
     },
@@ -134,40 +162,12 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-27T12:25:00.000+02:00",
+      "prochain_rdv": "2021-04-27T12:55:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 352,
+      "appointment_count": 351,
       "internal_id": "252809[178662]",
       "gid": "2217"
-    },
-    {
-      "departement": "35",
-      "nom": "FOUGERES - Salle de la forairie",
-      "url": "https://partners.doctolib.fr/centre-de-sante/foug\u00e8res/centre-de-vaccination-de-fougeres",
-      "location": {
-        "longitude": -1.18836,
-        "latitude": 48.3652
-      },
-      "metadata": {
-        "address": " Rue Joseph Fournier, 35300 Foug\u00e8res",
-        "phone_number": "+33805690821",
-        "business_hours": {
-          "lundi": "9h-12h / 14h-17h",
-          "mardi": "9h-12h / 14h-17h",
-          "mercredi": "9h-12h / 14h-17h",
-          "jeudi": "9h-12h / 14h-17h",
-          "vendredi": "9h-12h / 14h-17h",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-29T16:30:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 5,
-      "internal_id": "241899[]",
-      "gid": "422"
     },
     {
       "departement": "35",
@@ -593,33 +593,6 @@
     },
     {
       "departement": "35",
-      "nom": "MA - USPN MAISON D'ARRET DE SAINT MALO / Maison d'Arr\u00eat de Saint-Malo",
-      "url": "",
-      "location": {
-        "longitude": -1.99328,
-        "latitude": 48.6476
-      },
-      "metadata": {
-        "address": "10 Rue Emile Brindejonc, 35400 Saint-Malo",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1794"
-    },
-    {
-      "departement": "35",
       "nom": "CP - UCSA  Centre P\u00e9nitentiaire des Femmes - Rennes / Centre p\u00e9nitentiaire de Rennes-V\u00e9zin le Coquet",
       "url": "",
       "location": {
@@ -671,6 +644,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1795"
+    },
+    {
+      "departement": "35",
+      "nom": "MA - USPN MAISON D'ARRET DE SAINT MALO / Maison d'Arr\u00eat de Saint-Malo",
+      "url": "",
+      "location": {
+        "longitude": -1.99328,
+        "latitude": 48.6476
+      },
+      "metadata": {
+        "address": "10 Rue Emile Brindejonc, 35400 Saint-Malo",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1794"
     },
     {
       "departement": "35",

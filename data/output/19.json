@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.473253+02:00",
+  "last_updated": "2021-04-10T19:06:22.973246+02:00",
   "centres_disponibles": [
     {
       "departement": "19",
@@ -26,7 +26,7 @@
       "prochain_rdv": "2021-04-11T08:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 6,
+      "appointment_count": 5,
       "internal_id": "265691[182014]",
       "gid": "d265691"
     }
@@ -340,34 +340,6 @@
     },
     {
       "departement": "19",
-      "nom": "Centre Hospitalier du pays d'Eygurande",
-      "url": "https://partners.doctolib.fr/hopital-public/monestier-merlines/centre-hospitalier-du-pays-d-eygurande-monestier-merlines?pid=practice-143160",
-      "location": {
-        "longitude": 2.51367,
-        "latitude": 45.6405
-      },
-      "metadata": {
-        "address": " La celette, 19340 MONESTIERS-MERLINES",
-        "phone_number": "+335 55 94 32 07",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "13:00-16:00",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "245904[143160]",
-      "gid": "1037"
-    },
-    {
-      "departement": "19",
       "nom": "CH USSEL",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante?pid=practice-162958",
       "location": {
@@ -393,6 +365,34 @@
       "appointment_count": 0,
       "internal_id": "240406[162958]",
       "gid": "111"
+    },
+    {
+      "departement": "19",
+      "nom": "Centre Hospitalier du pays d'Eygurande",
+      "url": "https://partners.doctolib.fr/hopital-public/monestier-merlines/centre-hospitalier-du-pays-d-eygurande-monestier-merlines?pid=practice-143160",
+      "location": {
+        "longitude": 2.51367,
+        "latitude": 45.6405
+      },
+      "metadata": {
+        "address": " La celette, 19340 MONESTIERS-MERLINES",
+        "phone_number": "+335 55 94 32 07",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "13:00-16:00",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "245904[143160]",
+      "gid": "1037"
     },
     {
       "departement": "19",

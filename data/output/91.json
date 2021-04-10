@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.555318+02:00",
+  "last_updated": "2021-04-10T19:06:23.063552+02:00",
   "centres_disponibles": [
     {
       "departement": "91",
@@ -26,7 +26,7 @@
       "prochain_rdv": "2021-04-13T15:42:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 286,
+      "appointment_count": 283,
       "internal_id": "242814[]",
       "gid": "749"
     },
@@ -725,34 +725,6 @@
     },
     {
       "departement": "91",
-      "nom": "Espace Ren\u00e9 L'HELGUEN",
-      "url": "https://partners.doctolib.fr/centre-de-sante/athis-mons/centre-de-vaccination-covid-mairie-athis-mons?pid=practice-164918%3fspeciality_id%3d5494",
-      "location": {
-        "longitude": 2.39558,
-        "latitude": 48.7061
-      },
-      "metadata": {
-        "address": "12 Rue Edouard Vaillant, 91200 Athis-Mons",
-        "phone_number": "01 69 54 54 17",
-        "business_hours": {
-          "lundi": "\u00e0 pr\u00e9ciser",
-          "mardi": "\u00e0 pr\u00e9ciser",
-          "mercredi": "\u00e0 pr\u00e9ciser",
-          "jeudi": "\u00e0 pr\u00e9ciser",
-          "vendredi": "\u00e0 pr\u00e9ciser",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242965[164918]",
-      "gid": "774"
-    },
-    {
-      "departement": "91",
       "nom": "Salle Claude Nougaro",
       "url": "https://partners.doctolib.fr/centre-de-sante/evry-courcouronnes/centre-de-vaccination-covid-salle-claude-nougaro-reserve-aux-personnes-de-plus-de-75-ans",
       "location": {
@@ -778,6 +750,34 @@
       "appointment_count": 0,
       "internal_id": "242763[164604]",
       "gid": "767"
+    },
+    {
+      "departement": "91",
+      "nom": "Espace Ren\u00e9 L'HELGUEN",
+      "url": "https://partners.doctolib.fr/centre-de-sante/athis-mons/centre-de-vaccination-covid-mairie-athis-mons?pid=practice-164918%3fspeciality_id%3d5494",
+      "location": {
+        "longitude": 2.39558,
+        "latitude": 48.7061
+      },
+      "metadata": {
+        "address": "12 Rue Edouard Vaillant, 91200 Athis-Mons",
+        "phone_number": "01 69 54 54 17",
+        "business_hours": {
+          "lundi": "\u00e0 pr\u00e9ciser",
+          "mardi": "\u00e0 pr\u00e9ciser",
+          "mercredi": "\u00e0 pr\u00e9ciser",
+          "jeudi": "\u00e0 pr\u00e9ciser",
+          "vendredi": "\u00e0 pr\u00e9ciser",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242965[164918]",
+      "gid": "774"
     },
     {
       "departement": "91",
@@ -921,34 +921,6 @@
     },
     {
       "departement": "91",
-      "nom": "Complexe sportif - Jean Segalard",
-      "url": "https://partners.doctolib.fr/centre-de-sante/cerny/centre-de-vaccination-covid-19-cerny?pid=practice-165742",
-      "location": {
-        "longitude": 2.32709,
-        "latitude": 48.4781
-      },
-      "metadata": {
-        "address": " RD 191, 91590 Cerny",
-        "phone_number": "01 69 36 44 13",
-        "business_hours": {
-          "lundi": "9h - 17h",
-          "mardi": "9h - 17h",
-          "mercredi": "9h - 17h",
-          "jeudi": "9h - 17h",
-          "vendredi": "9h - 17h",
-          "samedi": "9h - 17h",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "244294[165742]",
-      "gid": "1170"
-    },
-    {
-      "departement": "91",
       "nom": "Maison de sant\u00e9",
       "url": "https://partners.doctolib.fr/centre-de-sante/dourdan/centre-de-vaccination-covid-19-maison-de-sante-dourdan?pid=practice-165040%3fspeciality_id%3d5494",
       "location": {
@@ -974,6 +946,34 @@
       "appointment_count": 0,
       "internal_id": "243059[165040]",
       "gid": "1034"
+    },
+    {
+      "departement": "91",
+      "nom": "Complexe sportif - Jean Segalard",
+      "url": "https://partners.doctolib.fr/centre-de-sante/cerny/centre-de-vaccination-covid-19-cerny?pid=practice-165742",
+      "location": {
+        "longitude": 2.32709,
+        "latitude": 48.4781
+      },
+      "metadata": {
+        "address": " RD 191, 91590 Cerny",
+        "phone_number": "01 69 36 44 13",
+        "business_hours": {
+          "lundi": "9h - 17h",
+          "mardi": "9h - 17h",
+          "mercredi": "9h - 17h",
+          "jeudi": "9h - 17h",
+          "vendredi": "9h - 17h",
+          "samedi": "9h - 17h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244294[165742]",
+      "gid": "1170"
     },
     {
       "departement": "91",

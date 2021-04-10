@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.520246+02:00",
+  "last_updated": "2021-04-10T19:06:23.024923+02:00",
   "centres_disponibles": [
     {
       "departement": "62",
@@ -52,7 +52,7 @@
       "prochain_rdv": "2021-04-11T08:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 51,
+      "appointment_count": 52,
       "internal_id": "242237[176607]",
       "gid": "1956"
     },
@@ -160,10 +160,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-11T11:30:00.000+02:00",
+      "prochain_rdv": "2021-04-11T12:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 8,
+      "appointment_count": 7,
       "internal_id": "241235[162482]",
       "gid": "329"
     },
@@ -187,10 +187,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-11T12:25:00.000+02:00",
+      "prochain_rdv": "2021-04-11T12:55:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 161,
+      "appointment_count": 160,
       "internal_id": "258280[]",
       "gid": "d258280"
     },
@@ -214,10 +214,10 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-12T11:45:00.000+02:00",
+      "prochain_rdv": "2021-04-12T11:55:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 185,
+      "appointment_count": 184,
       "internal_id": "258424[176804]",
       "gid": "1970"
     },
@@ -242,10 +242,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-12T12:25:00.000+02:00",
+      "prochain_rdv": "2021-04-12T12:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 323,
+      "appointment_count": 319,
       "internal_id": "242884[180561]",
       "gid": "1115"
     },
@@ -273,7 +273,7 @@
       "prochain_rdv": "2021-04-13T09:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 89,
+      "appointment_count": 90,
       "internal_id": "243031[]",
       "gid": "1110"
     },
@@ -792,34 +792,6 @@
     },
     {
       "departement": "62",
-      "nom": "Centre de vaccination - CHRSO et CPTS Audomaroise, Salle des sports du pavillon 3 \u2013 CH St Omer",
-      "url": "https://partners.doctolib.fr/hopital-public/saint-omer/ch-region-st-omer-centre-de-vaccination-covid-19?pid=practice-164177",
-      "location": {
-        "longitude": 2.24448,
-        "latitude": 50.7001
-      },
-      "metadata": {
-        "address": " Rue de Blendecques, 62570 Helfaut",
-        "phone_number": "03 92 04 34 71 ",
-        "business_hours": {
-          "lundi": "",
-          "mardi": "",
-          "mercredi": "",
-          "jeudi": "",
-          "vendredi": "",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242389[164177]",
-      "gid": "396"
-    },
-    {
-      "departement": "62",
       "nom": "Centre de vaccination - Centre SDIS Avesnes Le Comte, Salle Jacques Nirdol",
       "url": "https://partners.doctolib.fr/centre-de-sante/bruay-la-buissiere/centre-de-vaccination-covid-pas-de-calais?pid=practice-164609",
       "location": {
@@ -873,6 +845,34 @@
       "appointment_count": 0,
       "internal_id": "242643[164610]",
       "gid": "1104"
+    },
+    {
+      "departement": "62",
+      "nom": "Centre de vaccination - CHRSO et CPTS Audomaroise, Salle des sports du pavillon 3 \u2013 CH St Omer",
+      "url": "https://partners.doctolib.fr/hopital-public/saint-omer/ch-region-st-omer-centre-de-vaccination-covid-19?pid=practice-164177",
+      "location": {
+        "longitude": 2.24448,
+        "latitude": 50.7001
+      },
+      "metadata": {
+        "address": " Rue de Blendecques, 62570 Helfaut",
+        "phone_number": "03 92 04 34 71 ",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242389[164177]",
+      "gid": "396"
     },
     {
       "departement": "62",
@@ -1238,33 +1238,6 @@
     },
     {
       "departement": "62",
-      "nom": "MA - US ARRAS / Maison d'Arr\u00eat d'Arras",
-      "url": "",
-      "location": {
-        "longitude": 2.76048,
-        "latitude": 50.293
-      },
-      "metadata": {
-        "address": "12 Rue des Carabiniers d?Artois, 62000 Arras",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1843"
-    },
-    {
-      "departement": "62",
       "nom": "MA - US DE BETHUNE / Maison d'Arr\u00eat de B\u00e9thune",
       "url": "",
       "location": {
@@ -1289,6 +1262,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1844"
+    },
+    {
+      "departement": "62",
+      "nom": "MA - US ARRAS / Maison d'Arr\u00eat d'Arras",
+      "url": "",
+      "location": {
+        "longitude": 2.76048,
+        "latitude": 50.293
+      },
+      "metadata": {
+        "address": "12 Rue des Carabiniers d?Artois, 62000 Arras",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1843"
     },
     {
       "departement": "62",

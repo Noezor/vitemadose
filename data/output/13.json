@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.465182+02:00",
+  "last_updated": "2021-04-10T19:06:22.964866+02:00",
   "centres_disponibles": [
     {
       "departement": "13",
@@ -69,10 +69,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-13T09:30:00.000+02:00",
+      "prochain_rdv": "2021-04-13T10:15:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 65,
+      "appointment_count": 58,
       "internal_id": "243317[]",
       "gid": "1205"
     },
@@ -192,10 +192,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-16T13:45:00.000+02:00",
+      "prochain_rdv": "2021-04-16T13:25:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 59,
+      "appointment_count": 60,
       "internal_id": "264490[]",
       "gid": "d264490"
     },
@@ -872,34 +872,6 @@
     },
     {
       "departement": "13",
-      "nom": "P\u00f4le de sant\u00e9 Aubagne CD 13",
-      "url": "https://partners.doctolib.fr/centre-de-sante/aubagne/centre-de-vaccination-covid-pole-de-sante-aubagne",
-      "location": {
-        "longitude": 5.56603,
-        "latitude": 43.2945
-      },
-      "metadata": {
-        "address": "10 Avenue Antide Boyer, 13400 Aubagne",
-        "phone_number": "04 13 31 38 00",
-        "business_hours": {
-          "lundi": "14H - 16H",
-          "mardi": "14H - 16H",
-          "mercredi": "14H - 16H",
-          "jeudi": "14H - 16H",
-          "vendredi": "14H - 16H",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "244059[]",
-      "gid": "1141"
-    },
-    {
-      "departement": "13",
       "nom": "Centre de vaccination CPTS VAL DURANCE",
       "url": "https://partners.doctolib.fr/centre-de-sante/senas/centre-de-vaccination-covid-cpts-val-durance",
       "location": {
@@ -925,6 +897,34 @@
       "appointment_count": 0,
       "internal_id": "243963[]",
       "gid": "1029"
+    },
+    {
+      "departement": "13",
+      "nom": "P\u00f4le de sant\u00e9 Aubagne CD 13",
+      "url": "https://partners.doctolib.fr/centre-de-sante/aubagne/centre-de-vaccination-covid-pole-de-sante-aubagne",
+      "location": {
+        "longitude": 5.56603,
+        "latitude": 43.2945
+      },
+      "metadata": {
+        "address": "10 Avenue Antide Boyer, 13400 Aubagne",
+        "phone_number": "04 13 31 38 00",
+        "business_hours": {
+          "lundi": "14H - 16H",
+          "mardi": "14H - 16H",
+          "mercredi": "14H - 16H",
+          "jeudi": "14H - 16H",
+          "vendredi": "14H - 16H",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244059[]",
+      "gid": "1141"
     },
     {
       "departement": "13",
@@ -1149,60 +1149,6 @@
     },
     {
       "departement": "13",
-      "nom": "Centre de vaccination de l'H\u00f4pital d'Instruction des Arm\u00e9es Laveran",
-      "url": "doctolib",
-      "location": {
-        "longitude": 5.41388,
-        "latitude": 43.3269
-      },
-      "metadata": {
-        "address": "24 bouvelard Laveran, 13013 Marseille",
-        "business_hours": {
-          "lundi": "En attente pr\u00e9cision",
-          "mardi": "En attente pr\u00e9cision",
-          "mercredi": "En attente pr\u00e9cision",
-          "jeudi": "En attente pr\u00e9cision",
-          "vendredi": "En attente pr\u00e9cision",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "2171"
-    },
-    {
-      "departement": "13",
-      "nom": "Clinique g\u00e9n\u00e9rale de Marignane",
-      "url": "https://partners.doctolib.fr/clinique-privee/marignane/centre-de-vaccination-covid-19-clinique-generale-de-marignane",
-      "location": {
-        "longitude": 5.21518,
-        "latitude": 43.4091
-      },
-      "metadata": {
-        "address": " Avenue du G\u00e9n\u00e9ral Raoul Salan, 13700 Marignane",
-        "business_hours": {
-          "lundi": "13h-17h",
-          "mardi": "13h-17h",
-          "mercredi": "13h-17h",
-          "jeudi": "13h-17h",
-          "vendredi": "13h-17h",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243757[]",
-      "gid": "453"
-    },
-    {
-      "departement": "13",
       "nom": "Clinique de Vitrolles (R\u00e9serv\u00e9 aux professionnels de sant\u00e9 lib\u00e9raux)",
       "url": "https://partners.doctolib.fr/clinique-privee/vitrolles/clinique-de-vitrolles-centre-de-vaccination-covid-19",
       "location": {
@@ -1254,6 +1200,60 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "983"
+    },
+    {
+      "departement": "13",
+      "nom": "Clinique g\u00e9n\u00e9rale de Marignane",
+      "url": "https://partners.doctolib.fr/clinique-privee/marignane/centre-de-vaccination-covid-19-clinique-generale-de-marignane",
+      "location": {
+        "longitude": 5.21518,
+        "latitude": 43.4091
+      },
+      "metadata": {
+        "address": " Avenue du G\u00e9n\u00e9ral Raoul Salan, 13700 Marignane",
+        "business_hours": {
+          "lundi": "13h-17h",
+          "mardi": "13h-17h",
+          "mercredi": "13h-17h",
+          "jeudi": "13h-17h",
+          "vendredi": "13h-17h",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243757[]",
+      "gid": "453"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre de vaccination de l'H\u00f4pital d'Instruction des Arm\u00e9es Laveran",
+      "url": "doctolib",
+      "location": {
+        "longitude": 5.41388,
+        "latitude": 43.3269
+      },
+      "metadata": {
+        "address": "24 bouvelard Laveran, 13013 Marseille",
+        "business_hours": {
+          "lundi": "En attente pr\u00e9cision",
+          "mardi": "En attente pr\u00e9cision",
+          "mercredi": "En attente pr\u00e9cision",
+          "jeudi": "En attente pr\u00e9cision",
+          "vendredi": "En attente pr\u00e9cision",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "2171"
     },
     {
       "departement": "13",
@@ -1312,6 +1312,33 @@
     },
     {
       "departement": "13",
+      "nom": "CD - US de Salon-de-Provence / Centre de D\u00e9tention de Salon-de-Provence",
+      "url": "",
+      "location": {
+        "longitude": 5.06226,
+        "latitude": 43.6401
+      },
+      "metadata": {
+        "address": " Salon-de-Provence, 13300 Salon-de-Provence",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1918"
+    },
+    {
+      "departement": "13",
       "nom": "EPM - US US-SMPR-CSAPA Etablissement p\u00e9nitentiaire pour Mineur de la Valentine / Etablissement sp\u00e9cialis\u00e9 pour mineurs de Marseille",
       "url": "",
       "location": {
@@ -1363,33 +1390,6 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1921"
-    },
-    {
-      "departement": "13",
-      "nom": "CD - US de Salon-de-Provence / Centre de D\u00e9tention de Salon-de-Provence",
-      "url": "",
-      "location": {
-        "longitude": 5.06226,
-        "latitude": 43.6401
-      },
-      "metadata": {
-        "address": " Salon-de-Provence, 13300 Salon-de-Provence",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1918"
     },
     {
       "departement": "13",
@@ -1555,25 +1555,6 @@
     },
     {
       "departement": "13",
-      "nom": "Alain Elkaim",
-      "url": "https://app.ordoclic.fr/app/pharmacie/alain-elkaim-marseille",
-      "location": {
-        "longitude": 5.369154,
-        "latitude": 43.2904849
-      },
-      "metadata": {
-        "address": "70 BOULEVARD DE LA CORDERIE, 13007 MARSEILLE",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "794ddec7"
-    },
-    {
-      "departement": "13",
       "nom": "Pharmacie Des 5 Avenues",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-5-avenues-marseille",
       "location": {
@@ -1591,6 +1572,25 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "72665b64"
+    },
+    {
+      "departement": "13",
+      "nom": "Alain Elkaim",
+      "url": "https://app.ordoclic.fr/app/pharmacie/alain-elkaim-marseille",
+      "location": {
+        "longitude": 5.369154,
+        "latitude": 43.2904849
+      },
+      "metadata": {
+        "address": "70 BOULEVARD DE LA CORDERIE, 13007 MARSEILLE",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "794ddec7"
     },
     {
       "departement": "13",

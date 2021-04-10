@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.539684+02:00",
+  "last_updated": "2021-04-10T19:06:23.046180+02:00",
   "centres_disponibles": [
     {
       "departement": "76",
@@ -26,37 +26,9 @@
       "prochain_rdv": "2021-04-12T10:55:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 142,
+      "appointment_count": 143,
       "internal_id": "263803[180035]",
       "gid": "2363"
-    },
-    {
-      "departement": "76",
-      "nom": "VaccinAr\u00e9na",
-      "url": "https://partners.doctolib.fr/centre-de-sante/rouen/centre-de-vaccination-covid-vaccinarena-rouen?pid=practice-181232",
-      "location": {
-        "longitude": 1.06327,
-        "latitude": 49.4477
-      },
-      "metadata": {
-        "address": "40 Rue de Lillebonne - KINDARENA, 76000 Rouen",
-        "phone_number": "+33279461156",
-        "business_hours": {
-          "lundi": "",
-          "mardi": "",
-          "mercredi": "",
-          "jeudi": "",
-          "vendredi": "",
-          "samedi": "",
-          "dimanche": ""
-        }
-      },
-      "prochain_rdv": "2021-04-12T13:55:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 2,
-      "internal_id": "264690[181232]",
-      "gid": "2359"
     },
     {
       "departement": "76",
@@ -79,10 +51,10 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-13T15:40:00.000+02:00",
+      "prochain_rdv": "2021-04-13T15:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 50,
+      "appointment_count": 48,
       "internal_id": "241044[163096]",
       "gid": "154"
     },
@@ -107,7 +79,7 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-13T17:00:00.000+02:00",
+      "prochain_rdv": "2021-04-13T16:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 2,
@@ -228,34 +200,6 @@
     },
     {
       "departement": "76",
-      "nom": "Salle des Aulnes - Parc des Aulnes de Lillebonne",
-      "url": "https://partners.doctolib.fr/hopital-public/lillebonne/centre-de-vaccination-caux-vallee-de-seine?pid=practice-164430",
-      "location": {
-        "longitude": 0.533463,
-        "latitude": 49.5215
-      },
-      "metadata": {
-        "address": " Rue Thiers, 76170 Lillebonne",
-        "phone_number": "+33279461156",
-        "business_hours": {
-          "lundi": "",
-          "mardi": "",
-          "mercredi": "",
-          "jeudi": "",
-          "vendredi": "",
-          "samedi": "",
-          "dimanche": ""
-        }
-      },
-      "prochain_rdv": "2021-04-28T13:15:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 3,
-      "internal_id": "242477[164430]",
-      "gid": "1025"
-    },
-    {
-      "departement": "76",
       "nom": "CHI Caux Vall\u00e9e de Seine  - Lillebonne",
       "url": "https://partners.doctolib.fr/hopital-public/lillebonne/centre-de-vaccination-caux-vallee-de-seine",
       "location": {
@@ -281,6 +225,34 @@
       "appointment_count": 2,
       "internal_id": "242477[]",
       "gid": "796"
+    },
+    {
+      "departement": "76",
+      "nom": "VaccinAr\u00e9na",
+      "url": "https://partners.doctolib.fr/centre-de-sante/rouen/centre-de-vaccination-covid-vaccinarena-rouen?pid=practice-181232",
+      "location": {
+        "longitude": 1.06327,
+        "latitude": 49.4477
+      },
+      "metadata": {
+        "address": "40 Rue de Lillebonne - KINDARENA, 76000 Rouen",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": "2021-04-28T16:40:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 22,
+      "internal_id": "264690[181232]",
+      "gid": "2359"
     },
     {
       "departement": "76",
@@ -336,6 +308,34 @@
       "appointment_count": 67,
       "internal_id": "242426[]",
       "gid": "800"
+    },
+    {
+      "departement": "76",
+      "nom": "Salle des Aulnes - Parc des Aulnes de Lillebonne",
+      "url": "https://partners.doctolib.fr/hopital-public/lillebonne/centre-de-vaccination-caux-vallee-de-seine?pid=practice-164430",
+      "location": {
+        "longitude": 0.533463,
+        "latitude": 49.5215
+      },
+      "metadata": {
+        "address": " Rue Thiers, 76170 Lillebonne",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": "2021-05-10T12:15:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 2,
+      "internal_id": "242477[164430]",
+      "gid": "1025"
     }
   ],
   "centres_indisponibles": [
@@ -825,33 +825,6 @@
     },
     {
       "departement": "76",
-      "nom": "Pharmacie Jouvenet",
-      "url": "https://partners.doctolib.fr/pharmacie/rouen/pharmacie-jouvenet",
-      "location": {
-        "longitude": 1.1040361,
-        "latitude": 49.4500539
-      },
-      "metadata": {
-        "address": "26 Rue de Bihorel, 76000 Rouen",
-        "business_hours": {
-          "lundi": "08:30-12:30, 14:00-19:30",
-          "mardi": "08:30-12:30, 14:00-19:30",
-          "mercredi": "08:30-12:30, 14:00-19:30",
-          "jeudi": "08:30-12:30, 14:00-19:30",
-          "vendredi": "08:30-12:30, 14:00-19:30",
-          "samedi": "09:00-13:00, 14:00-18:30",
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": "241092[]",
-      "gid": "d241092"
-    },
-    {
-      "departement": "76",
       "nom": "Dr Nicolas Desoubry",
       "url": "https://partners.doctolib.fr/medecin-generaliste/quincampoix/nicolas-desoubry",
       "location": {
@@ -880,22 +853,21 @@
     },
     {
       "departement": "76",
-      "nom": "Pharmacie de la Mairie",
-      "url": "https://partners.doctolib.fr/pharmacie/le-houlme/pharmacie-de-la-mairie-le-houlme",
+      "nom": "Pharmacie Jouvenet",
+      "url": "https://partners.doctolib.fr/pharmacie/rouen/pharmacie-jouvenet",
       "location": {
-        "longitude": 1.0402788,
-        "latitude": 49.5074087
+        "longitude": 1.1040361,
+        "latitude": 49.4500539
       },
       "metadata": {
-        "address": "104 Rue du G\u00e9n\u00e9ral de Gaulle, 76770 Le Houlme",
-        "phone_number": "02 35 74 45 14",
+        "address": "26 Rue de Bihorel, 76000 Rouen",
         "business_hours": {
-          "lundi": "09:00-12:30, 14:00-19:30",
+          "lundi": "08:30-12:30, 14:00-19:30",
           "mardi": "08:30-12:30, 14:00-19:30",
-          "mercredi": "09:00-12:30, 14:00-19:30",
+          "mercredi": "08:30-12:30, 14:00-19:30",
           "jeudi": "08:30-12:30, 14:00-19:30",
           "vendredi": "08:30-12:30, 14:00-19:30",
-          "samedi": "09:00-12:30, 14:00-19:00",
+          "samedi": "09:00-13:00, 14:00-18:30",
           "dimanche": null
         }
       },
@@ -903,8 +875,8 @@
       "plateforme": "Doctolib",
       "type": "drugstore",
       "appointment_count": 0,
-      "internal_id": "257756[]",
-      "gid": "d257756"
+      "internal_id": "241092[]",
+      "gid": "d241092"
     },
     {
       "departement": "76",
@@ -933,6 +905,34 @@
       "appointment_count": 0,
       "internal_id": "262421[]",
       "gid": "d262421"
+    },
+    {
+      "departement": "76",
+      "nom": "Pharmacie de la Mairie",
+      "url": "https://partners.doctolib.fr/pharmacie/le-houlme/pharmacie-de-la-mairie-le-houlme",
+      "location": {
+        "longitude": 1.0402788,
+        "latitude": 49.5074087
+      },
+      "metadata": {
+        "address": "104 Rue du G\u00e9n\u00e9ral de Gaulle, 76770 Le Houlme",
+        "phone_number": "02 35 74 45 14",
+        "business_hours": {
+          "lundi": "09:00-12:30, 14:00-19:30",
+          "mardi": "08:30-12:30, 14:00-19:30",
+          "mercredi": "09:00-12:30, 14:00-19:30",
+          "jeudi": "08:30-12:30, 14:00-19:30",
+          "vendredi": "08:30-12:30, 14:00-19:30",
+          "samedi": "09:00-12:30, 14:00-19:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "257756[]",
+      "gid": "d257756"
     },
     {
       "departement": "76",

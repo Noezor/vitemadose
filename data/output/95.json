@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.564163+02:00",
+  "last_updated": "2021-04-10T19:06:23.072889+02:00",
   "centres_disponibles": [
     {
       "departement": "95",
@@ -81,7 +81,7 @@
       "prochain_rdv": "2021-04-13T08:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 66,
+      "appointment_count": 65,
       "internal_id": "265979[]",
       "gid": "d265979"
     },
@@ -385,6 +385,33 @@
     },
     {
       "departement": "95",
+      "nom": "Centre d\u00e9partemental de d\u00e9pistage et de soins - site de Cergy",
+      "url": "",
+      "location": {
+        "longitude": 2.07883,
+        "latitude": 49.0354
+      },
+      "metadata": {
+        "address": "3 Place de la Pergola, 95000 Cergy",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1728"
+    },
+    {
+      "departement": "95",
       "nom": "Centre de vaccination territorial Centre Val d'Oise",
       "url": "https://vaccination-covid.keldoc.com/cabinet-medical/montmorency-95160/vaccination-plaine-vallee-montmorency-salle-des-fetes?category=-1&cabinet=16607&specialty=496",
       "location": {
@@ -410,33 +437,6 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "824"
-    },
-    {
-      "departement": "95",
-      "nom": "Centre d\u00e9partemental de d\u00e9pistage et de soins - site de Cergy",
-      "url": "",
-      "location": {
-        "longitude": 2.07883,
-        "latitude": 49.0354
-      },
-      "metadata": {
-        "address": "3 Place de la Pergola, 95000 Cergy",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1728"
     },
     {
       "departement": "95",
@@ -521,6 +521,33 @@
     },
     {
       "departement": "95",
+      "nom": "EMV CV territorial du Haut Val d'Oise",
+      "url": "",
+      "location": {
+        "longitude": 2.22334,
+        "latitude": 49.1142
+      },
+      "metadata": {
+        "address": "9 Rue Chantepie Mancier, 95290 L'Isle-Adam",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1558"
+    },
+    {
+      "departement": "95",
       "nom": "Centre de vaccination territorial du Haut Val d'Oise",
       "url": "https://partners.doctolib.fr/espic-etablissement-de-sante-prive-d-interet-collectif/l'isle-adam/centre-de-vaccination-covid19-de-l-isle-adam-hopital-chantepie-mancier",
       "location": {
@@ -546,33 +573,6 @@
       "appointment_count": 0,
       "internal_id": "242478[]",
       "gid": "855"
-    },
-    {
-      "departement": "95",
-      "nom": "EMV CV territorial du Haut Val d'Oise",
-      "url": "",
-      "location": {
-        "longitude": 2.22334,
-        "latitude": 49.1142
-      },
-      "metadata": {
-        "address": "9 Rue Chantepie Mancier, 95290 L'Isle-Adam",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1558"
     },
     {
       "departement": "95",
@@ -904,34 +904,6 @@
     },
     {
       "departement": "95",
-      "nom": "Centre de vaccination Linandes-Cordeliers/site des Cordeliers",
-      "url": "https://partners.doctolib.fr/centre-de-sante/cergy/centre-de-vaccination-cergy-pontoise?pid=practice-164245",
-      "location": {
-        "longitude": 2.09486,
-        "latitude": 49.0573
-      },
-      "metadata": {
-        "address": "2 Rue Rodin, 95300 Pontoise",
-        "phone_number": "01.34.43.34.44",
-        "business_hours": {
-          "lundi": "13h30-16h30",
-          "mardi": "13h30-16h30",
-          "mercredi": "13h30-16h30",
-          "jeudi": "13h30-16h30",
-          "vendredi": "13h30-16h30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242343[164245]",
-      "gid": "857"
-    },
-    {
-      "departement": "95",
       "nom": "Centre de vaccination PMI Garges-l\u00e8s-Gonesse",
       "url": "",
       "location": {
@@ -983,6 +955,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "2380"
+    },
+    {
+      "departement": "95",
+      "nom": "Centre de vaccination Linandes-Cordeliers/site des Cordeliers",
+      "url": "https://partners.doctolib.fr/centre-de-sante/cergy/centre-de-vaccination-cergy-pontoise?pid=practice-164245",
+      "location": {
+        "longitude": 2.09486,
+        "latitude": 49.0573
+      },
+      "metadata": {
+        "address": "2 Rue Rodin, 95300 Pontoise",
+        "phone_number": "01.34.43.34.44",
+        "business_hours": {
+          "lundi": "13h30-16h30",
+          "mardi": "13h30-16h30",
+          "mercredi": "13h30-16h30",
+          "jeudi": "13h30-16h30",
+          "vendredi": "13h30-16h30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242343[164245]",
+      "gid": "857"
     },
     {
       "departement": "95",
@@ -1153,6 +1153,33 @@
     },
     {
       "departement": "95",
+      "nom": "Centre de vaccination departemental de Jouy-le-moutier",
+      "url": "",
+      "location": {
+        "longitude": 2.02311,
+        "latitude": 49.012
+      },
+      "metadata": {
+        "address": " Rue Rossini, 95280 Jouy-le-Moutier",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "2412"
+    },
+    {
+      "departement": "95",
       "nom": "Centre de vaccination de Sannois",
       "url": "https://partners.doctolib.fr/centre-de-sante/sannois/centre-de-vaccination-covid-19-commune-de-sannois?pid=practice-176578",
       "location": {
@@ -1178,33 +1205,6 @@
       "appointment_count": 0,
       "internal_id": "258188[176578]",
       "gid": "1685"
-    },
-    {
-      "departement": "95",
-      "nom": "Centre de vaccination departemental de Jouy-le-moutier",
-      "url": "",
-      "location": {
-        "longitude": 2.02311,
-        "latitude": 49.012
-      },
-      "metadata": {
-        "address": " Rue Rossini, 95280 Jouy-le-Moutier",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "2412"
     },
     {
       "departement": "95",

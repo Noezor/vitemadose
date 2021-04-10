@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.458815+02:00",
+  "last_updated": "2021-04-10T19:06:22.958097+02:00",
   "centres_disponibles": [
     {
       "departement": "06",
@@ -105,10 +105,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-13T16:20:00.000+02:00",
+      "prochain_rdv": "2021-04-14T08:55:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 66,
+      "appointment_count": 63,
       "internal_id": "242453[]",
       "gid": "1041"
     },
@@ -136,7 +136,7 @@
       "prochain_rdv": "2021-04-14T11:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 207,
+      "appointment_count": 206,
       "internal_id": "262234[179292]",
       "gid": "2125"
     },
@@ -188,10 +188,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-21T12:00:00.000+02:00",
+      "prochain_rdv": "2021-04-21T12:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 22,
+      "appointment_count": 21,
       "internal_id": "242662[]",
       "gid": "867"
     },

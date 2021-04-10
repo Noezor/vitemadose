@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.562507+02:00",
+  "last_updated": "2021-04-10T19:06:23.071105+02:00",
   "centres_disponibles": [
     {
       "departement": "94",
@@ -26,7 +26,7 @@
       "prochain_rdv": "2021-04-12T10:05:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "drugstore",
-      "appointment_count": 1,
+      "appointment_count": 2,
       "internal_id": "261577[]",
       "gid": "d261577"
     },
@@ -54,9 +54,37 @@
       "prochain_rdv": "2021-04-12T14:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 70,
+      "appointment_count": 71,
       "internal_id": "186028[123104-180909-182271-168315]",
       "gid": "328"
+    },
+    {
+      "departement": "94",
+      "nom": "Centre de Vaccination d'Ivry sur Seine",
+      "url": "https://partners.doctolib.fr/centre-de-sante/ivry-sur-seine/centre-de-vaccination-covid-19-ivry-sur-seine?pid=practice-176560",
+      "location": {
+        "longitude": 2.38364,
+        "latitude": 48.8109
+      },
+      "metadata": {
+        "address": "2 Rue Robespierre, 94200 Ivry-sur-Seine",
+        "phone_number": "+33172046499 ",
+        "business_hours": {
+          "lundi": "9h-17h",
+          "mardi": "9h-17h",
+          "mercredi": "9h-17h",
+          "jeudi": "9h-17h",
+          "vendredi": "9h-17h",
+          "samedi": "9h-17h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-15T11:45:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "258144[176560]",
+      "gid": "1940"
     },
     {
       "departement": "94",
@@ -194,7 +222,7 @@
       "prochain_rdv": "2021-05-18T12:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 23,
+      "appointment_count": 24,
       "internal_id": "242887[]",
       "gid": "324"
     }
@@ -560,34 +588,6 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "483"
-    },
-    {
-      "departement": "94",
-      "nom": "Centre de Vaccination d'Ivry sur Seine",
-      "url": "https://partners.doctolib.fr/centre-de-sante/ivry-sur-seine/centre-de-vaccination-covid-19-ivry-sur-seine?pid=practice-176560",
-      "location": {
-        "longitude": 2.38364,
-        "latitude": 48.8109
-      },
-      "metadata": {
-        "address": "2 Rue Robespierre, 94200 Ivry-sur-Seine",
-        "phone_number": "+33172046499 ",
-        "business_hours": {
-          "lundi": "9h-17h",
-          "mardi": "9h-17h",
-          "mercredi": "9h-17h",
-          "jeudi": "9h-17h",
-          "vendredi": "9h-17h",
-          "samedi": "9h-17h",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "258144[176560]",
-      "gid": "1940"
     },
     {
       "departement": "94",

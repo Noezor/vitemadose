@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.525384+02:00",
+  "last_updated": "2021-04-10T19:06:23.030548+02:00",
   "centres_disponibles": [
     {
       "departement": "66",
@@ -25,7 +25,7 @@
       "prochain_rdv": "2021-04-14T18:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 365,
+      "appointment_count": 364,
       "internal_id": "265320[]",
       "gid": "d265320"
     },
@@ -53,7 +53,7 @@
       "prochain_rdv": "2021-04-16T12:15:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 2,
+      "appointment_count": 4,
       "internal_id": "243519[]",
       "gid": "405"
     }
@@ -229,34 +229,6 @@
     },
     {
       "departement": "66",
-      "nom": "CH de Thuir",
-      "url": "https://partners.doctolib.fr/hopital-public/thuir/centre-de-vaccination-covid-ch-thuir",
-      "location": {
-        "longitude": 2.74971,
-        "latitude": 42.6293
-      },
-      "metadata": {
-        "address": " Avenue du Roussillon, 66300 Thuir",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "09:30-12:30/13:30-16:30",
-          "mardi": "09:30-12:30/13:30-16:30",
-          "mercredi": "09:30-12:30/13:30-16:30",
-          "jeudi": "09:30-12:30/13:30-16:30",
-          "vendredi": "09:30-12:30/13:30-16:30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242192[]",
-      "gid": "402"
-    },
-    {
-      "departement": "66",
       "nom": "Centre de vaccination Saint Cyprien",
       "url": "https://partners.doctolib.fr/centre-de-sante/st-cyprien/centres-de-vaccination-covid-19-st-cyprien",
       "location": {
@@ -282,6 +254,34 @@
       "appointment_count": 0,
       "internal_id": "243517[]",
       "gid": "404"
+    },
+    {
+      "departement": "66",
+      "nom": "CH de Thuir",
+      "url": "https://partners.doctolib.fr/hopital-public/thuir/centre-de-vaccination-covid-ch-thuir",
+      "location": {
+        "longitude": 2.74971,
+        "latitude": 42.6293
+      },
+      "metadata": {
+        "address": " Avenue du Roussillon, 66300 Thuir",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "09:30-12:30/13:30-16:30",
+          "mardi": "09:30-12:30/13:30-16:30",
+          "mercredi": "09:30-12:30/13:30-16:30",
+          "jeudi": "09:30-12:30/13:30-16:30",
+          "vendredi": "09:30-12:30/13:30-16:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242192[]",
+      "gid": "402"
     },
     {
       "departement": "66",

@@ -1,13 +1,13 @@
 {
   "tout_departement": {
-    "disponibles": 481,
+    "disponibles": 507,
     "total": 2613,
-    "creneaux": 56193
+    "creneaux": 56552
   },
   "01": {
     "disponibles": 9,
     "total": 15,
-    "creneaux": 1073
+    "creneaux": 1074
   },
   "02": {
     "disponibles": 0,
@@ -22,7 +22,7 @@
   "04": {
     "disponibles": 5,
     "total": 13,
-    "creneaux": 169
+    "creneaux": 168
   },
   "05": {
     "disponibles": 3,
@@ -32,12 +32,12 @@
   "06": {
     "disponibles": 11,
     "total": 48,
-    "creneaux": 493
+    "creneaux": 488
   },
   "07": {
     "disponibles": 3,
     "total": 14,
-    "creneaux": 500
+    "creneaux": 499
   },
   "08": {
     "disponibles": 1,
@@ -47,32 +47,32 @@
   "09": {
     "disponibles": 1,
     "total": 15,
-    "creneaux": 39
+    "creneaux": 40
   },
   "10": {
     "disponibles": 1,
     "total": 13,
-    "creneaux": 56
+    "creneaux": 55
   },
   "11": {
     "disponibles": 2,
     "total": 16,
-    "creneaux": 257
+    "creneaux": 258
   },
   "12": {
     "disponibles": 2,
     "total": 8,
-    "creneaux": 119
+    "creneaux": 118
   },
   "13": {
     "disponibles": 16,
     "total": 70,
-    "creneaux": 1386
+    "creneaux": 1380
   },
   "14": {
-    "disponibles": 5,
+    "disponibles": 7,
     "total": 26,
-    "creneaux": 483
+    "creneaux": 697
   },
   "15": {
     "disponibles": 0,
@@ -80,9 +80,9 @@
     "creneaux": 0
   },
   "16": {
-    "disponibles": 2,
+    "disponibles": 3,
     "total": 19,
-    "creneaux": 253
+    "creneaux": 256
   },
   "17": {
     "disponibles": 0,
@@ -92,12 +92,12 @@
   "18": {
     "disponibles": 5,
     "total": 39,
-    "creneaux": 162
+    "creneaux": 161
   },
   "19": {
     "disponibles": 1,
     "total": 22,
-    "creneaux": 6
+    "creneaux": 5
   },
   "21": {
     "disponibles": 0,
@@ -107,7 +107,7 @@
   "22": {
     "disponibles": 5,
     "total": 18,
-    "creneaux": 1351
+    "creneaux": 1399
   },
   "23": {
     "disponibles": 0,
@@ -115,34 +115,34 @@
     "creneaux": 0
   },
   "24": {
-    "disponibles": 4,
+    "disponibles": 3,
     "total": 29,
-    "creneaux": 59
+    "creneaux": 52
   },
   "25": {
-    "disponibles": 0,
+    "disponibles": 1,
     "total": 20,
-    "creneaux": 0
+    "creneaux": 1
   },
   "26": {
-    "disponibles": 3,
+    "disponibles": 4,
     "total": 17,
-    "creneaux": 651
+    "creneaux": 688
   },
   "27": {
-    "disponibles": 4,
+    "disponibles": 5,
     "total": 23,
-    "creneaux": 224
+    "creneaux": 222
   },
   "28": {
     "disponibles": 2,
     "total": 25,
-    "creneaux": 69
+    "creneaux": 104
   },
   "29": {
-    "disponibles": 3,
+    "disponibles": 6,
     "total": 29,
-    "creneaux": 7
+    "creneaux": 12
   },
   "2A": {
     "disponibles": 1,
@@ -152,37 +152,37 @@
   "2B": {
     "disponibles": 3,
     "total": 12,
-    "creneaux": 381
+    "creneaux": 378
   },
   "30": {
     "disponibles": 7,
     "total": 29,
-    "creneaux": 1310
+    "creneaux": 1307
   },
   "31": {
     "disponibles": 17,
     "total": 46,
-    "creneaux": 2409
+    "creneaux": 2407
   },
   "32": {
     "disponibles": 1,
     "total": 21,
-    "creneaux": 83
+    "creneaux": 82
   },
   "33": {
-    "disponibles": 12,
+    "disponibles": 11,
     "total": 46,
-    "creneaux": 1510
+    "creneaux": 1508
   },
   "34": {
     "disponibles": 1,
     "total": 43,
-    "creneaux": 11
+    "creneaux": 4
   },
   "35": {
     "disponibles": 8,
     "total": 27,
-    "creneaux": 803
+    "creneaux": 799
   },
   "36": {
     "disponibles": 1,
@@ -192,12 +192,12 @@
   "37": {
     "disponibles": 3,
     "total": 16,
-    "creneaux": 50
+    "creneaux": 45
   },
   "38": {
     "disponibles": 11,
     "total": 26,
-    "creneaux": 5405
+    "creneaux": 5506
   },
   "39": {
     "disponibles": 3,
@@ -217,7 +217,7 @@
   "42": {
     "disponibles": 11,
     "total": 26,
-    "creneaux": 1609
+    "creneaux": 1637
   },
   "43": {
     "disponibles": 0,
@@ -225,24 +225,24 @@
     "creneaux": 0
   },
   "44": {
-    "disponibles": 5,
+    "disponibles": 7,
     "total": 28,
-    "creneaux": 341
+    "creneaux": 340
   },
   "45": {
-    "disponibles": 3,
+    "disponibles": 4,
     "total": 19,
-    "creneaux": 224
+    "creneaux": 26
   },
   "46": {
     "disponibles": 8,
     "total": 23,
-    "creneaux": 636
+    "creneaux": 634
   },
   "47": {
     "disponibles": 3,
     "total": 9,
-    "creneaux": 617
+    "creneaux": 609
   },
   "48": {
     "disponibles": 0,
@@ -252,12 +252,12 @@
   "49": {
     "disponibles": 4,
     "total": 12,
-    "creneaux": 534
+    "creneaux": 537
   },
   "50": {
     "disponibles": 4,
     "total": 17,
-    "creneaux": 3260
+    "creneaux": 3257
   },
   "51": {
     "disponibles": 0,
@@ -272,52 +272,52 @@
   "53": {
     "disponibles": 3,
     "total": 13,
-    "creneaux": 264
+    "creneaux": 265
   },
   "54": {
-    "disponibles": 3,
+    "disponibles": 4,
     "total": 32,
-    "creneaux": 160
+    "creneaux": 165
   },
   "55": {
     "disponibles": 5,
     "total": 23,
-    "creneaux": 183
+    "creneaux": 181
   },
   "56": {
     "disponibles": 5,
     "total": 21,
-    "creneaux": 1308
+    "creneaux": 1304
   },
   "57": {
-    "disponibles": 2,
+    "disponibles": 4,
     "total": 33,
-    "creneaux": 12
+    "creneaux": 152
   },
   "58": {
     "disponibles": 4,
     "total": 15,
-    "creneaux": 100
+    "creneaux": 129
   },
   "59": {
-    "disponibles": 32,
+    "disponibles": 33,
     "total": 109,
-    "creneaux": 545
+    "creneaux": 546
   },
   "60": {
-    "disponibles": 2,
+    "disponibles": 3,
     "total": 31,
-    "creneaux": 23
+    "creneaux": 24
   },
   "61": {
     "disponibles": 6,
     "total": 13,
-    "creneaux": 612
+    "creneaux": 614
   },
   "62": {
     "disponibles": 12,
     "total": 61,
-    "creneaux": 982
+    "creneaux": 977
   },
   "63": {
     "disponibles": 3,
@@ -327,7 +327,7 @@
   "64": {
     "disponibles": 11,
     "total": 34,
-    "creneaux": 1069
+    "creneaux": 986
   },
   "65": {
     "disponibles": 1,
@@ -337,22 +337,22 @@
   "66": {
     "disponibles": 2,
     "total": 14,
-    "creneaux": 367
+    "creneaux": 368
   },
   "67": {
     "disponibles": 10,
     "total": 39,
-    "creneaux": 367
+    "creneaux": 173
   },
   "68": {
     "disponibles": 9,
     "total": 23,
-    "creneaux": 332
+    "creneaux": 328
   },
   "69": {
-    "disponibles": 4,
+    "disponibles": 6,
     "total": 51,
-    "creneaux": 28
+    "creneaux": 88
   },
   "70": {
     "disponibles": 1,
@@ -362,7 +362,7 @@
   "71": {
     "disponibles": 16,
     "total": 28,
-    "creneaux": 1709
+    "creneaux": 1706
   },
   "72": {
     "disponibles": 0,
@@ -372,22 +372,22 @@
   "73": {
     "disponibles": 10,
     "total": 27,
-    "creneaux": 1336
+    "creneaux": 1405
   },
   "74": {
     "disponibles": 17,
     "total": 31,
-    "creneaux": 1649
+    "creneaux": 1647
   },
   "75": {
-    "disponibles": 20,
+    "disponibles": 21,
     "total": 105,
-    "creneaux": 973
+    "creneaux": 1093
   },
   "76": {
     "disponibles": 12,
     "total": 36,
-    "creneaux": 881
+    "creneaux": 899
   },
   "77": {
     "disponibles": 0,
@@ -395,9 +395,9 @@
     "creneaux": 0
   },
   "78": {
-    "disponibles": 5,
+    "disponibles": 6,
     "total": 39,
-    "creneaux": 418
+    "creneaux": 427
   },
   "79": {
     "disponibles": 1,
@@ -407,47 +407,47 @@
   "80": {
     "disponibles": 6,
     "total": 24,
-    "creneaux": 132
+    "creneaux": 133
   },
   "81": {
     "disponibles": 5,
     "total": 16,
-    "creneaux": 895
+    "creneaux": 892
   },
   "82": {
     "disponibles": 3,
     "total": 11,
-    "creneaux": 477
+    "creneaux": 479
   },
   "83": {
-    "disponibles": 8,
+    "disponibles": 11,
     "total": 46,
-    "creneaux": 1234
+    "creneaux": 1231
   },
   "84": {
-    "disponibles": 1,
+    "disponibles": 2,
     "total": 24,
-    "creneaux": 133
+    "creneaux": 139
   },
   "85": {
     "disponibles": 3,
     "total": 14,
-    "creneaux": 305
+    "creneaux": 304
   },
   "86": {
-    "disponibles": 0,
+    "disponibles": 1,
     "total": 22,
-    "creneaux": 0
+    "creneaux": 5
   },
   "87": {
-    "disponibles": 0,
+    "disponibles": 1,
     "total": 14,
-    "creneaux": 0
+    "creneaux": 1
   },
   "88": {
     "disponibles": 1,
     "total": 11,
-    "creneaux": 245
+    "creneaux": 244
   },
   "89": {
     "disponibles": 1,
@@ -457,32 +457,32 @@
   "90": {
     "disponibles": 4,
     "total": 6,
-    "creneaux": 619
+    "creneaux": 620
   },
   "91": {
     "disponibles": 2,
     "total": 47,
-    "creneaux": 287
+    "creneaux": 284
   },
   "92": {
     "disponibles": 13,
     "total": 77,
-    "creneaux": 133
+    "creneaux": 132
   },
   "93": {
     "disponibles": 6,
     "total": 56,
-    "creneaux": 466
+    "creneaux": 417
   },
   "94": {
-    "disponibles": 7,
+    "disponibles": 8,
     "total": 39,
-    "creneaux": 179
+    "creneaux": 183
   },
   "95": {
     "disponibles": 4,
     "total": 48,
-    "creneaux": 269
+    "creneaux": 268
   },
   "971": {
     "disponibles": 7,
@@ -502,7 +502,7 @@
   "974": {
     "disponibles": 9,
     "total": 19,
-    "creneaux": 6167
+    "creneaux": 6196
   },
   "976": {
     "disponibles": 0,

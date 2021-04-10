@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.560196+02:00",
+  "last_updated": "2021-04-10T19:06:23.068423+02:00",
   "centres_disponibles": [
     {
       "departement": "93",
@@ -88,34 +88,6 @@
     },
     {
       "departement": "93",
-      "nom": "Tr\u00e8s grand centre du Stade de France",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saint-denis/centre-de-vaccination-covid-19-stade-de-france?pid=practice-179894",
-      "location": {
-        "longitude": 2.36014,
-        "latitude": 48.9244
-      },
-      "metadata": {
-        "address": "6 Avenue du Stade de France, porte E, 93210 Saint-Denis",
-        "phone_number": "01 43 93 78 77",
-        "business_hours": {
-          "lundi": "ouvert",
-          "mardi": "ouvert",
-          "mercredi": "ouvert",
-          "jeudi": "ouvert",
-          "vendredi": "ouvert",
-          "samedi": "ouvert",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-13T11:20:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 137,
-      "internal_id": "263051[179894]",
-      "gid": "2141"
-    },
-    {
-      "departement": "93",
       "nom": "Centre de vaccination CPS COVID  - Bobigny H\u00f4tel de Ville",
       "url": "https://partners.doctolib.fr/centre-de-sante/bobigny/centre-de-vaccination-cps-covid-bobigny-hotel-de-ville",
       "location": {
@@ -140,6 +112,34 @@
       "appointment_count": 82,
       "internal_id": "255921[]",
       "gid": "d255921"
+    },
+    {
+      "departement": "93",
+      "nom": "Tr\u00e8s grand centre du Stade de France",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-denis/centre-de-vaccination-covid-19-stade-de-france?pid=practice-179894",
+      "location": {
+        "longitude": 2.36014,
+        "latitude": 48.9244
+      },
+      "metadata": {
+        "address": "6 Avenue du Stade de France, porte E, 93210 Saint-Denis",
+        "phone_number": "01 43 93 78 77",
+        "business_hours": {
+          "lundi": "ouvert",
+          "mardi": "ouvert",
+          "mercredi": "ouvert",
+          "jeudi": "ouvert",
+          "vendredi": "ouvert",
+          "samedi": "ouvert",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-15T09:20:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 88,
+      "internal_id": "263051[179894]",
+      "gid": "2141"
     },
     {
       "departement": "93",
@@ -446,6 +446,33 @@
     },
     {
       "departement": "93",
+      "nom": "EMV Noisy-le-Grand (CD)",
+      "url": "",
+      "location": {
+        "longitude": 2.53958,
+        "latitude": 48.8418
+      },
+      "metadata": {
+        "address": "9 Allee Charles de Foucauld, 93160 Noisy-le-Grand",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1579"
+    },
+    {
+      "departement": "93",
       "nom": "Salle des f\u00eates Marcel Pagnol",
       "url": "https://partners.doctolib.fr/centre-de-sante/neuilly-sur-marne/centre-de-vaccination-covid-marne-plaisance",
       "location": {
@@ -471,33 +498,6 @@
       "appointment_count": 0,
       "internal_id": "242794[163853]",
       "gid": "608"
-    },
-    {
-      "departement": "93",
-      "nom": "EMV Noisy-le-Grand (CD)",
-      "url": "",
-      "location": {
-        "longitude": 2.53958,
-        "latitude": 48.8418
-      },
-      "metadata": {
-        "address": "9 Allee Charles de Foucauld, 93160 Noisy-le-Grand",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1579"
     },
     {
       "departement": "93",
@@ -832,34 +832,6 @@
     },
     {
       "departement": "93",
-      "nom": "Centre de vaccination - H\u00f4tel de ville",
-      "url": "https://partners.doctolib.fr/centre-de-sante/montreuil/centre-de-vaccination-de-la-ville-de-montreuil?pid=practice-175106",
-      "location": {
-        "longitude": 2.44139,
-        "latitude": 48.8621
-      },
-      "metadata": {
-        "address": "1 Place Jean Jaures, 93100 Montreuil",
-        "phone_number": "01 48 70 69 88",
-        "business_hours": {
-          "lundi": "9h-17h",
-          "mardi": "9h-17h",
-          "mercredi": "9h-17h",
-          "jeudi": "9h-17h",
-          "vendredi": "9h-17h",
-          "samedi": "9H-17H",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "255882[175106]",
-      "gid": "1659"
-    },
-    {
-      "departement": "93",
       "nom": "Vaccinodrome St Denis",
       "url": "",
       "location": {
@@ -911,6 +883,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1763"
+    },
+    {
+      "departement": "93",
+      "nom": "Centre de vaccination - H\u00f4tel de ville",
+      "url": "https://partners.doctolib.fr/centre-de-sante/montreuil/centre-de-vaccination-de-la-ville-de-montreuil?pid=practice-175106",
+      "location": {
+        "longitude": 2.44139,
+        "latitude": 48.8621
+      },
+      "metadata": {
+        "address": "1 Place Jean Jaures, 93100 Montreuil",
+        "phone_number": "01 48 70 69 88",
+        "business_hours": {
+          "lundi": "9h-17h",
+          "mardi": "9h-17h",
+          "mercredi": "9h-17h",
+          "jeudi": "9h-17h",
+          "vendredi": "9h-17h",
+          "samedi": "9H-17H",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "255882[175106]",
+      "gid": "1659"
     },
     {
       "departement": "93",
@@ -1467,22 +1467,22 @@
     },
     {
       "departement": "93",
-      "nom": "Sant\u00e9 Plus - Centre Saint Denis",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saint-denis/sante-plus-centre-saint-denis",
+      "nom": "Centres Municipaux de Sant\u00e9 de la Mairie de Saint-Ouen",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-ouen/cms-saint-ouen?pid=practice-163685",
       "location": {
-        "longitude": 2.3706287,
-        "latitude": 48.9367685
+        "longitude": 2.3463794,
+        "latitude": 48.9039925
       },
       "metadata": {
-        "address": "85/87 Rue de Strasbourg, 93200 Saint-Denis",
-        "phone_number": "01 48 21 20 20",
+        "address": "147 Rue du Docteur Bauer, 93400 Saint-Ouen",
+        "phone_number": "01 49 45 69 53",
         "business_hours": {
-          "lundi": "08:00-20:00",
-          "mardi": "08:00-20:00",
-          "mercredi": "08:00-20:00",
-          "jeudi": "08:00-20:00",
-          "vendredi": "08:00-20:00",
-          "samedi": null,
+          "lundi": "08:00-12:00, 13:30-19:00",
+          "mardi": "08:00-12:00, 13:30-19:00",
+          "mercredi": "08:00-12:00, 13:30-19:00",
+          "jeudi": "08:00-12:00, 13:30-19:00",
+          "vendredi": "08:00-12:00, 13:30-19:00",
+          "samedi": "08:00-12:00",
           "dimanche": null
         }
       },
@@ -1490,8 +1490,8 @@
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": "163294[]",
-      "gid": "d163294"
+      "internal_id": "247961[163685]",
+      "gid": "d247961"
     },
     {
       "departement": "93",
@@ -1522,22 +1522,22 @@
     },
     {
       "departement": "93",
-      "nom": "Centres Municipaux de Sant\u00e9 de la Mairie de Saint-Ouen",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saint-ouen/cms-saint-ouen?pid=practice-163685",
+      "nom": "Sant\u00e9 Plus - Centre Saint Denis",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-denis/sante-plus-centre-saint-denis",
       "location": {
-        "longitude": 2.3463794,
-        "latitude": 48.9039925
+        "longitude": 2.3706287,
+        "latitude": 48.9367685
       },
       "metadata": {
-        "address": "147 Rue du Docteur Bauer, 93400 Saint-Ouen",
-        "phone_number": "01 49 45 69 53",
+        "address": "85/87 Rue de Strasbourg, 93200 Saint-Denis",
+        "phone_number": "01 48 21 20 20",
         "business_hours": {
-          "lundi": "08:00-12:00, 13:30-19:00",
-          "mardi": "08:00-12:00, 13:30-19:00",
-          "mercredi": "08:00-12:00, 13:30-19:00",
-          "jeudi": "08:00-12:00, 13:30-19:00",
-          "vendredi": "08:00-12:00, 13:30-19:00",
-          "samedi": "08:00-12:00",
+          "lundi": "08:00-20:00",
+          "mardi": "08:00-20:00",
+          "mercredi": "08:00-20:00",
+          "jeudi": "08:00-20:00",
+          "vendredi": "08:00-20:00",
+          "samedi": null,
           "dimanche": null
         }
       },
@@ -1545,8 +1545,8 @@
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": "247961[163685]",
-      "gid": "d247961"
+      "internal_id": "163294[]",
+      "gid": "d163294"
     }
   ]
 }

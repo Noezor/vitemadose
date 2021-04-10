@@ -1,7 +1,63 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.511864+02:00",
+  "last_updated": "2021-04-10T19:06:23.015381+02:00",
   "centres_disponibles": [
+    {
+      "departement": "57",
+      "nom": "Centre de vaccination de Saint-Avold - SOS Sant\u00e9",
+      "url": "https://partners.doctolib.fr/espic-etablissement-de-sante-prive-d-interet-collectif/st-avold/centre-de-vaccination-covid-hopital-de-saint-avold",
+      "location": {
+        "longitude": 6.72429,
+        "latitude": 49.1116
+      },
+      "metadata": {
+        "address": " Rue Ambroise Par\u00e9, 57500 Saint-Avold",
+        "phone_number": "+33387918170 ",
+        "business_hours": {
+          "lundi": "08:00-17:00",
+          "mardi": "08:00-17:00",
+          "mercredi": "08:00-17:00",
+          "jeudi": "08:00-17:00",
+          "vendredi": "08:00-17:00",
+          "samedi": "08:00-12:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-16T14:00:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 2,
+      "internal_id": "242615[]",
+      "gid": "1114"
+    },
+    {
+      "departement": "57",
+      "nom": "Centre de vaccination de Mercy - MHRMT Maison des usagers (niveau 2 zone A)",
+      "url": "https://partners.doctolib.fr/hopital-public/metz/chr-de-metz-vaccination-covid?pid=practice-163721",
+      "location": {
+        "longitude": 6.24146,
+        "latitude": 49.0832
+      },
+      "metadata": {
+        "address": "1 all\u00e9e du Ch\u00e2teau, 57530 Ars-Laquenexy",
+        "phone_number": "+33387345345",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-21T11:30:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "241685[163721]",
+      "gid": "980"
+    },
     {
       "departement": "57",
       "nom": "Centre de vaccination de R\u00e9milly",
@@ -23,10 +79,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-22T09:05:00.000+02:00",
+      "prochain_rdv": "2021-04-28T15:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 2,
+      "appointment_count": 139,
       "internal_id": "254139[173661]",
       "gid": "1752"
     },
@@ -594,34 +650,6 @@
     },
     {
       "departement": "57",
-      "nom": "Centre de vaccination de Mercy - MHRMT Maison des usagers (niveau 2 zone A)",
-      "url": "https://partners.doctolib.fr/hopital-public/metz/chr-de-metz-vaccination-covid?pid=practice-163721",
-      "location": {
-        "longitude": 6.24146,
-        "latitude": 49.0832
-      },
-      "metadata": {
-        "address": "1 all\u00e9e du Ch\u00e2teau, 57530 Ars-Laquenexy",
-        "phone_number": "+33387345345",
-        "business_hours": {
-          "lundi": "09:00-17:00",
-          "mardi": "09:00-17:00",
-          "mercredi": "09:00-17:00",
-          "jeudi": "09:00-17:00",
-          "vendredi": "09:00-17:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241685[163721]",
-      "gid": "980"
-    },
-    {
-      "departement": "57",
       "nom": "Centre de vaccination de Thionville - CHRMT Bel Air (salle polyvalente \u00e0 l\u2019entr\u00e9e de l\u2019h\u00f4pital)",
       "url": "https://partners.doctolib.fr/hopital-public/metz/chr-de-metz-vaccination-covid?pid=practice-163720",
       "location": {
@@ -647,34 +675,6 @@
       "appointment_count": 0,
       "internal_id": "241685[163720]",
       "gid": "954"
-    },
-    {
-      "departement": "57",
-      "nom": "Centre de vaccination de Saint-Avold - SOS Sant\u00e9",
-      "url": "https://partners.doctolib.fr/espic-etablissement-de-sante-prive-d-interet-collectif/st-avold/centre-de-vaccination-covid-hopital-de-saint-avold",
-      "location": {
-        "longitude": 6.72429,
-        "latitude": 49.1116
-      },
-      "metadata": {
-        "address": " Rue Ambroise Par\u00e9, 57500 Saint-Avold",
-        "phone_number": "+33387918170 ",
-        "business_hours": {
-          "lundi": "08:00-17:00",
-          "mardi": "08:00-17:00",
-          "mercredi": "08:00-17:00",
-          "jeudi": "08:00-17:00",
-          "vendredi": "08:00-17:00",
-          "samedi": "08:00-12:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242615[]",
-      "gid": "1114"
     },
     {
       "departement": "57",

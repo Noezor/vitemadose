@@ -1,7 +1,36 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.478152+02:00",
-  "centres_disponibles": [],
+  "last_updated": "2021-04-10T19:06:22.979117+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "25",
+      "nom": "Centre de vaccination de Pontarlier - Salle les capucins",
+      "url": "https://partners.doctolib.fr/centre-de-sante/pontarlier/cvcpts-pontarlier-reserve-aux-professionnels-de-sante",
+      "location": {
+        "longitude": 6.348,
+        "latitude": 46.9063
+      },
+      "metadata": {
+        "address": "25 Rue de Salins, 25300 Pontarlier",
+        "phone_number": "0363421013",
+        "business_hours": {
+          "lundi": "8H00-12H00 / 13H00-17H",
+          "mardi": "8H00-12H00 / 13H00-17H",
+          "mercredi": "8H00-12H00 / 13H00-17H",
+          "jeudi": "8H00-12H00 / 13H00-17H",
+          "vendredi": "8H00-12H00 / 13H00-17H",
+          "samedi": "",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-12T09:30:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "241034[]",
+      "gid": "480"
+    }
+  ],
   "centres_indisponibles": [
     {
       "departement": "25",
@@ -145,34 +174,6 @@
     },
     {
       "departement": "25",
-      "nom": "Centre de vaccination de Pontarlier - Salle les capucins",
-      "url": "https://partners.doctolib.fr/centre-de-sante/pontarlier/cvcpts-pontarlier-reserve-aux-professionnels-de-sante",
-      "location": {
-        "longitude": 6.348,
-        "latitude": 46.9063
-      },
-      "metadata": {
-        "address": "25 Rue de Salins, 25300 Pontarlier",
-        "phone_number": "0363421013",
-        "business_hours": {
-          "lundi": "8H00-12H00 / 13H00-17H",
-          "mardi": "8H00-12H00 / 13H00-17H",
-          "mercredi": "8H00-12H00 / 13H00-17H",
-          "jeudi": "8H00-12H00 / 13H00-17H",
-          "vendredi": "8H00-12H00 / 13H00-17H",
-          "samedi": "",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241034[]",
-      "gid": "480"
-    },
-    {
-      "departement": "25",
       "nom": "Centre de vaccination d'Ornans -CAL",
       "url": "https://partners.doctolib.fr/centre-de-sante/ornans/centre-de-vaccination-covid-19-ornans",
       "location": {
@@ -201,34 +202,6 @@
     },
     {
       "departement": "25",
-      "nom": "Centre de vaccination de Quingey",
-      "url": "https://partners.doctolib.fr/centre-de-sante/quingey/centre-de-vaccination-covid-19-quingey",
-      "location": {
-        "longitude": 5.88996,
-        "latitude": 47.0984
-      },
-      "metadata": {
-        "address": "2 Chemin de Saint-renobert, 25440 Quingey",
-        "phone_number": "0363421013",
-        "business_hours": {
-          "lundi": "13h30-17h15",
-          "mardi": "13h30-17h15",
-          "mercredi": "13h30-17h15",
-          "jeudi": "13h30-17h15",
-          "vendredi": "13h30-17h15",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243877[]",
-      "gid": "1214"
-    },
-    {
-      "departement": "25",
       "nom": "CHU Besan\u00e7on",
       "url": "https://partners.doctolib.fr/hopital-public/besan\u00e7on/chru-besancon-centre-de-vaccination-covid",
       "location": {
@@ -254,6 +227,34 @@
       "appointment_count": 0,
       "internal_id": "242172[]",
       "gid": "37"
+    },
+    {
+      "departement": "25",
+      "nom": "Centre de vaccination de Quingey",
+      "url": "https://partners.doctolib.fr/centre-de-sante/quingey/centre-de-vaccination-covid-19-quingey",
+      "location": {
+        "longitude": 5.88996,
+        "latitude": 47.0984
+      },
+      "metadata": {
+        "address": "2 Chemin de Saint-renobert, 25440 Quingey",
+        "phone_number": "0363421013",
+        "business_hours": {
+          "lundi": "13h30-17h15",
+          "mardi": "13h30-17h15",
+          "mercredi": "13h30-17h15",
+          "jeudi": "13h30-17h15",
+          "vendredi": "13h30-17h15",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243877[]",
+      "gid": "1214"
     },
     {
       "departement": "25",

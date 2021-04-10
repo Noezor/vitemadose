@@ -1,35 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.504152+02:00",
+  "last_updated": "2021-04-10T19:06:23.006347+02:00",
   "centres_disponibles": [
-    {
-      "departement": "47",
-      "nom": "Centre de vaccination au centre des congr\u00e8s d'Agen",
-      "url": "https://partners.doctolib.fr/centre-de-sante/agen/centre-de-vaccination-centre-des-congres-d-agen?pid=practice-174333",
-      "location": {
-        "longitude": 0.617198,
-        "latitude": 44.182
-      },
-      "metadata": {
-        "address": "1 Avenue du Midi, 47000 Agen",
-        "phone_number": "+33553484956",
-        "business_hours": {
-          "lundi": "non precis\u00e9",
-          "mardi": "non precis\u00e9",
-          "mercredi": "non precis\u00e9",
-          "jeudi": "non precis\u00e9",
-          "vendredi": "non precis\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-13T10:50:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 374,
-      "internal_id": "254883[174333]",
-      "gid": "1742"
-    },
     {
       "departement": "47",
       "nom": "Espace d'Albret N\u00e9rac",
@@ -60,6 +32,34 @@
     },
     {
       "departement": "47",
+      "nom": "Centre de vaccination au centre des congr\u00e8s d'Agen",
+      "url": "https://partners.doctolib.fr/centre-de-sante/agen/centre-de-vaccination-centre-des-congres-d-agen?pid=practice-174333",
+      "location": {
+        "longitude": 0.617198,
+        "latitude": 44.182
+      },
+      "metadata": {
+        "address": "1 Avenue du Midi, 47000 Agen",
+        "phone_number": "+33553484956",
+        "business_hours": {
+          "lundi": "non precis\u00e9",
+          "mardi": "non precis\u00e9",
+          "mercredi": "non precis\u00e9",
+          "jeudi": "non precis\u00e9",
+          "vendredi": "non precis\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-13T11:05:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 368,
+      "internal_id": "254883[174333]",
+      "gid": "1742"
+    },
+    {
+      "departement": "47",
       "nom": "POLE DE SANTE DU VILLENEUVOIS",
       "url": "https://partners.doctolib.fr/centre-de-vaccination/villeneuve-sur-lot/pole-sante-du-villeneuvois-vaccination-covid-villeneuve-sur-lot",
       "location": {
@@ -79,10 +79,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-14T12:40:00.000+02:00",
+      "prochain_rdv": "2021-04-14T13:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 26,
+      "appointment_count": 24,
       "internal_id": "242375[]",
       "gid": "391"
     }

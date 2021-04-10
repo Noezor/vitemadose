@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.513978+02:00",
+  "last_updated": "2021-04-10T19:06:23.017867+02:00",
   "centres_disponibles": [
     {
       "departement": "59",
@@ -364,6 +364,34 @@
     },
     {
       "departement": "59",
+      "nom": "Centre de vaccination - CH Armenti\u00e8res",
+      "url": "https://partners.doctolib.fr/hopital-public/armentieres/ch-armentieres?pid=practice-175038",
+      "location": {
+        "longitude": 2.86711,
+        "latitude": 50.6869
+      },
+      "metadata": {
+        "address": "136 Boulevard Faidherbe, 59280 Armenti\u00e8res",
+        "phone_number": "+33320481003",
+        "business_hours": {
+          "lundi": "13:00-18:00",
+          "mardi": "13:00-18:00",
+          "mercredi": "13:00-18:00",
+          "jeudi": "13:00-18:00",
+          "vendredi": "13:00-18:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-14T11:00:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "241874[175038]",
+      "gid": "1093"
+    },
+    {
+      "departement": "59",
       "nom": "Dr Fran\u00e7ois Trillot",
       "url": "https://partners.doctolib.fr/medecin-generaliste/croix/francois-trillot",
       "location": {
@@ -693,7 +721,7 @@
       "prochain_rdv": "2021-04-17T09:21:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 48,
+      "appointment_count": 47,
       "internal_id": "260084[]",
       "gid": "d260084"
     },
@@ -720,7 +748,7 @@
       "prochain_rdv": "2021-04-17T10:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "drugstore",
-      "appointment_count": 2,
+      "appointment_count": 3,
       "internal_id": "256474[]",
       "gid": "d256474"
     },
@@ -1251,33 +1279,6 @@
     },
     {
       "departement": "59",
-      "nom": "CP - US Centre P\u00e9nitentiaire d'Annoeullin / Centre P\u00e9nitentiaire de Lille-Loos-Sequedin",
-      "url": "",
-      "location": {
-        "longitude": 2.98381,
-        "latitude": 50.6205
-      },
-      "metadata": {
-        "address": " Place de la Paix, 59320 Sequedin",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1833"
-    },
-    {
-      "departement": "59",
       "nom": "MA - US Maison d'arr\u00eat de DUNKERQUE / Maison d'Arr\u00eat de Dunkerque",
       "url": "",
       "location": {
@@ -1302,6 +1303,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1834"
+    },
+    {
+      "departement": "59",
+      "nom": "CP - US Centre P\u00e9nitentiaire d'Annoeullin / Centre P\u00e9nitentiaire de Lille-Loos-Sequedin",
+      "url": "",
+      "location": {
+        "longitude": 2.98381,
+        "latitude": 50.6205
+      },
+      "metadata": {
+        "address": " Place de la Paix, 59320 Sequedin",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1833"
     },
     {
       "departement": "59",
@@ -1746,34 +1774,6 @@
     },
     {
       "departement": "59",
-      "nom": "Centre de vaccination - CH Armenti\u00e8res",
-      "url": "https://partners.doctolib.fr/hopital-public/armentieres/ch-armentieres?pid=practice-175038",
-      "location": {
-        "longitude": 2.86711,
-        "latitude": 50.6869
-      },
-      "metadata": {
-        "address": "136 Boulevard Faidherbe, 59280 Armenti\u00e8res",
-        "phone_number": "+33320481003",
-        "business_hours": {
-          "lundi": "13:00-18:00",
-          "mardi": "13:00-18:00",
-          "mercredi": "13:00-18:00",
-          "jeudi": "13:00-18:00",
-          "vendredi": "13:00-18:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241874[175038]",
-      "gid": "1093"
-    },
-    {
-      "departement": "59",
       "nom": "Centre de vaccination - CH Roubaix, V\u00e9lodrome Le Stab (Porte J)",
       "url": "https://partners.doctolib.fr/hopital-public/roubaix/ch-de-roubaix-centre-de-vaccination-covid-19",
       "location": {
@@ -1886,30 +1886,31 @@
     },
     {
       "departement": "59",
-      "nom": "Centre de vaccination - Z\u00e9nith de Lille",
-      "url": "https://partners.doctolib.fr/centre-de-sante/lille/centre-de-vaccination-covid-19-centre-de-vaccination-covid-19-zenith-de-lille?pid=practice-180487",
+      "nom": "Centre de vaccination - CH Fourmies",
+      "url": "https://partners.doctolib.fr/hopital-public/fourmies/ch-fourmies-centre-de-vaccination-covid-19",
       "location": {
-        "longitude": 3.07861,
-        "latitude": 50.6314
+        "longitude": 4.05915,
+        "latitude": 50.0095
       },
       "metadata": {
-        "address": "1 Boulevard des Cites Unies, 59777 Lille",
+        "address": "13 Rue de l'H\u00f4pital, 59610 Fourmies",
+        "phone_number": "+33392043471 ",
         "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "",
-          "dimanche": ""
+          "lundi": "09:15-12:00/14:00-17:00",
+          "mardi": "09:15-12:00/14:00-17:00",
+          "mercredi": "09:15-12:00/14:00-17:00",
+          "jeudi": "09:15-12:00/14:00-17:00",
+          "vendredi": "09:15-12:00/14:00-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
         }
       },
       "prochain_rdv": null,
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": "263778[180487]",
-      "gid": "1986"
+      "internal_id": "242036[]",
+      "gid": "274"
     },
     {
       "departement": "59",
@@ -1941,34 +1942,6 @@
     },
     {
       "departement": "59",
-      "nom": "Centre de vaccination - CH Fourmies",
-      "url": "https://partners.doctolib.fr/hopital-public/fourmies/ch-fourmies-centre-de-vaccination-covid-19",
-      "location": {
-        "longitude": 4.05915,
-        "latitude": 50.0095
-      },
-      "metadata": {
-        "address": "13 Rue de l'H\u00f4pital, 59610 Fourmies",
-        "phone_number": "+33392043471 ",
-        "business_hours": {
-          "lundi": "09:15-12:00/14:00-17:00",
-          "mardi": "09:15-12:00/14:00-17:00",
-          "mercredi": "09:15-12:00/14:00-17:00",
-          "jeudi": "09:15-12:00/14:00-17:00",
-          "vendredi": "09:15-12:00/14:00-17:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242036[]",
-      "gid": "274"
-    },
-    {
-      "departement": "59",
       "nom": "Centre de vaccination - CH Douai",
       "url": "https://partners.doctolib.fr/hopital-public/douai/centre-de-vaccination-covid-ch-douai",
       "location": {
@@ -1994,6 +1967,33 @@
       "appointment_count": 0,
       "internal_id": "241704[]",
       "gid": "265"
+    },
+    {
+      "departement": "59",
+      "nom": "Centre de vaccination - Z\u00e9nith de Lille",
+      "url": "https://partners.doctolib.fr/centre-de-sante/lille/centre-de-vaccination-covid-19-centre-de-vaccination-covid-19-zenith-de-lille?pid=practice-180487",
+      "location": {
+        "longitude": 3.07861,
+        "latitude": 50.6314
+      },
+      "metadata": {
+        "address": "1 Boulevard des Cites Unies, 59777 Lille",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "263778[180487]",
+      "gid": "1986"
     },
     {
       "departement": "59",
@@ -2164,34 +2164,6 @@
     },
     {
       "departement": "59",
-      "nom": "Centre de vaccination - CH DUNKERQUE",
-      "url": "https://partners.doctolib.fr/hopital-public/dunkerque/ch-dunkerque-centre-de-vaccination-covid-19",
-      "location": {
-        "longitude": 2.39565,
-        "latitude": 51.0379
-      },
-      "metadata": {
-        "address": "130 Avenue Louis Herbeaux, 59240 Dunkerque",
-        "phone_number": "+33392043471 ",
-        "business_hours": {
-          "lundi": "09:00-12:00/13:30-19:30",
-          "mardi": "09:00-12:00/13:30-19:30",
-          "mercredi": "09:00-12:00/13:30-19:30",
-          "jeudi": "09:00-12:00/13:30-19:30",
-          "vendredi": "09:00-12:00/13:30-19:30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242895[]",
-      "gid": "272"
-    },
-    {
-      "departement": "59",
       "nom": "Centre de vaccination - Clinique Sainte Marie (GHICL)",
       "url": "https://partners.doctolib.fr/clinique-privee/cambrai/centre-de-vaccination-covid-19-clinique-sainte-marie-ghicl-cambrai",
       "location": {
@@ -2217,6 +2189,34 @@
       "appointment_count": 0,
       "internal_id": "243720[]",
       "gid": "258"
+    },
+    {
+      "departement": "59",
+      "nom": "Centre de vaccination - CH DUNKERQUE",
+      "url": "https://partners.doctolib.fr/hopital-public/dunkerque/ch-dunkerque-centre-de-vaccination-covid-19",
+      "location": {
+        "longitude": 2.39565,
+        "latitude": 51.0379
+      },
+      "metadata": {
+        "address": "130 Avenue Louis Herbeaux, 59240 Dunkerque",
+        "phone_number": "+33392043471 ",
+        "business_hours": {
+          "lundi": "09:00-12:00/13:30-19:30",
+          "mardi": "09:00-12:00/13:30-19:30",
+          "mercredi": "09:00-12:00/13:30-19:30",
+          "jeudi": "09:00-12:00/13:30-19:30",
+          "vendredi": "09:00-12:00/13:30-19:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242895[]",
+      "gid": "272"
     },
     {
       "departement": "59",
@@ -2328,33 +2328,6 @@
     },
     {
       "departement": "59",
-      "nom": "EPM - EPM QUIEVRECHAIN / Maison d'Arr\u00eat de Valenciennes",
-      "url": "",
-      "location": {
-        "longitude": 3.498,
-        "latitude": 50.3558
-      },
-      "metadata": {
-        "address": "75 Rue Lomprez, 59300 Valenciennes",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1837"
-    },
-    {
-      "departement": "59",
       "nom": "MA - USMP de Douai / Maison d'Arr\u00eat de Douai",
       "url": "",
       "location": {
@@ -2379,6 +2352,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1838"
+    },
+    {
+      "departement": "59",
+      "nom": "EPM - EPM QUIEVRECHAIN / Maison d'Arr\u00eat de Valenciennes",
+      "url": "",
+      "location": {
+        "longitude": 3.498,
+        "latitude": 50.3558
+      },
+      "metadata": {
+        "address": "75 Rue Lomprez, 59300 Valenciennes",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1837"
     },
     {
       "departement": "59",
@@ -2482,26 +2482,6 @@
     },
     {
       "departement": "59",
-      "nom": "Pharmacie De La Madeleine",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-la-madeleine-la-madeleine",
-      "location": {
-        "longitude": 3.0740603,
-        "latitude": 50.6576514
-      },
-      "metadata": {
-        "address": "226 bis rue du g\u00e9n\u00e9ral de gaulle, 59110 La Madeleine",
-        "phone_number": "+33320555089",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1fc8a123"
-    },
-    {
-      "departement": "59",
       "nom": "Pharmacie V2",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-v2-villeneuve-d'ascq",
       "location": {
@@ -2519,6 +2499,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "30f87d0d"
+    },
+    {
+      "departement": "59",
+      "nom": "Pharmacie De La Madeleine",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-la-madeleine-la-madeleine",
+      "location": {
+        "longitude": 3.0740603,
+        "latitude": 50.6576514
+      },
+      "metadata": {
+        "address": "226 bis rue du g\u00e9n\u00e9ral de gaulle, 59110 La Madeleine",
+        "phone_number": "+33320555089",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1fc8a123"
     },
     {
       "departement": "59",
@@ -2582,26 +2582,6 @@
     },
     {
       "departement": "59",
-      "nom": "Pharmacie Lievens",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-lievens-wasquehal",
-      "location": {
-        "longitude": 3.1238541,
-        "latitude": 50.6812005
-      },
-      "metadata": {
-        "address": "Rond Point Ave Gd Cottignies - C.commerc., 59290 Wasquehal",
-        "phone_number": "+33320989001",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "6b908249"
-    },
-    {
-      "departement": "59",
       "nom": "Grande Pharmacie De Wazemmes",
       "url": "https://app.ordoclic.fr/app/pharmacie/grande-pharmacie-de-wazemmes-lille",
       "location": {
@@ -2619,6 +2599,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "648515b0"
+    },
+    {
+      "departement": "59",
+      "nom": "Pharmacie Lievens",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-lievens-wasquehal",
+      "location": {
+        "longitude": 3.1238541,
+        "latitude": 50.6812005
+      },
+      "metadata": {
+        "address": "Rond Point Ave Gd Cottignies - C.commerc., 59290 Wasquehal",
+        "phone_number": "+33320989001",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "6b908249"
     },
     {
       "departement": "59",

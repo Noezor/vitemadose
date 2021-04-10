@@ -1,7 +1,35 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.469439+02:00",
+  "last_updated": "2021-04-10T19:06:22.969326+02:00",
   "centres_disponibles": [
+    {
+      "departement": "16",
+      "nom": "CH RUFFEC",
+      "url": "https://partners.doctolib.fr/hopital-public/ruffec/centre-de-vaccination-covid-19-ch-de-ruffec",
+      "location": {
+        "longitude": 0.195442,
+        "latitude": 46.0288
+      },
+      "metadata": {
+        "address": "15 Rue de l'H\u00f4pital, 16700 Ruffec",
+        "phone_number": "+33545295080",
+        "business_hours": {
+          "lundi": "13:00-16:00",
+          "mardi": "13:00-16:00",
+          "mercredi": "13:00-16:00",
+          "jeudi": "13:00-16:00",
+          "vendredi": "13:00-16:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-15T16:45:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "242363[]",
+      "gid": "54"
+    },
     {
       "departement": "16",
       "nom": "Centre de vaccination du CH COGNAC",
@@ -26,7 +54,7 @@
       "prochain_rdv": "2021-04-17T11:15:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 86,
+      "appointment_count": 88,
       "internal_id": "242372[]",
       "gid": "49"
     },
@@ -311,34 +339,6 @@
       "appointment_count": 0,
       "internal_id": "243781[]",
       "gid": "1164"
-    },
-    {
-      "departement": "16",
-      "nom": "CH RUFFEC",
-      "url": "https://partners.doctolib.fr/hopital-public/ruffec/centre-de-vaccination-covid-19-ch-de-ruffec",
-      "location": {
-        "longitude": 0.195442,
-        "latitude": 46.0288
-      },
-      "metadata": {
-        "address": "15 Rue de l'H\u00f4pital, 16700 Ruffec",
-        "phone_number": "+33545295080",
-        "business_hours": {
-          "lundi": "13:00-16:00",
-          "mardi": "13:00-16:00",
-          "mercredi": "13:00-16:00",
-          "jeudi": "13:00-16:00",
-          "vendredi": "13:00-16:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242363[]",
-      "gid": "54"
     },
     {
       "departement": "16",

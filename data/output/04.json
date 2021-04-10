@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.457665+02:00",
+  "last_updated": "2021-04-10T19:06:22.956956+02:00",
   "centres_disponibles": [
     {
       "departement": "04",
@@ -23,7 +23,7 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-21T10:15:00.000000Z",
+      "prochain_rdv": "2021-04-21T10:30:00.000000Z",
       "plateforme": "Maiia",
       "type": "vaccination-center",
       "appointment_count": 8,
@@ -82,7 +82,7 @@
       "prochain_rdv": "2021-04-23T16:20:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 12,
+      "appointment_count": 11,
       "internal_id": null,
       "gid": "1001"
     },

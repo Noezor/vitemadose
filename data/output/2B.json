@@ -1,35 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.483631+02:00",
+  "last_updated": "2021-04-10T19:06:22.984903+02:00",
   "centres_disponibles": [
-    {
-      "departement": "2B",
-      "nom": "Centre de vaccination Covid-19 - Service Communal d'Hygi\u00e8ne et de Sant\u00e9 de Bastia",
-      "url": "https://partners.doctolib.fr/centre-de-sante/bastia/centre-de-vaccination-covid-19-theatre-de-bastia",
-      "location": {
-        "longitude": 9.4418924,
-        "latitude": 42.6795091
-      },
-      "metadata": {
-        "address": "1 Rue Saint-Exup\u00e9ry, 20600 Bastia",
-        "phone_number": "04 95 58 41 05",
-        "business_hours": {
-          "lundi": "08:00-18:00",
-          "mardi": "08:00-18:00",
-          "mercredi": "08:00-18:00",
-          "jeudi": "08:00-18:00",
-          "vendredi": "08:00-18:00",
-          "samedi": "08:30-18:00",
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": "2021-04-10T19:35:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 139,
-      "internal_id": "260950[]",
-      "gid": "d260950"
-    },
     {
       "departement": "2B",
       "nom": "Centre Maison de sant\u00e9 L'\u00eele Rousse",
@@ -60,6 +32,34 @@
     },
     {
       "departement": "2B",
+      "nom": "Centre de vaccination Covid-19 - Service Communal d'Hygi\u00e8ne et de Sant\u00e9 de Bastia",
+      "url": "https://partners.doctolib.fr/centre-de-sante/bastia/centre-de-vaccination-covid-19-theatre-de-bastia",
+      "location": {
+        "longitude": 9.4418924,
+        "latitude": 42.6795091
+      },
+      "metadata": {
+        "address": "1 Rue Saint-Exup\u00e9ry, 20600 Bastia",
+        "phone_number": "04 95 58 41 05",
+        "business_hours": {
+          "lundi": "08:00-18:00",
+          "mardi": "08:00-18:00",
+          "mercredi": "08:00-18:00",
+          "jeudi": "08:00-18:00",
+          "vendredi": "08:00-18:00",
+          "samedi": "08:30-18:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-11T16:05:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 137,
+      "internal_id": "260950[]",
+      "gid": "d260950"
+    },
+    {
+      "departement": "2B",
       "nom": "CH Calvi Balagne",
       "url": "https://partners.doctolib.fr/hopital-public/calvi/centre-de-vaccination-covid-19-ch-de-calvi",
       "location": {
@@ -82,7 +82,7 @@
       "prochain_rdv": "2021-04-16T15:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 22,
+      "appointment_count": 21,
       "internal_id": "243019[]",
       "gid": "24"
     }

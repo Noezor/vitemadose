@@ -1,63 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.476913+02:00",
+  "last_updated": "2021-04-10T19:06:22.977883+02:00",
   "centres_disponibles": [
-    {
-      "departement": "24",
-      "nom": "Centre de Vaccination CH Rib\u00e9rac",
-      "url": "https://partners.doctolib.fr/hopital-public/riberac/centre-vaccination-ch-riberac-chicrdd",
-      "location": {
-        "longitude": 0.340622,
-        "latitude": 45.2452
-      },
-      "metadata": {
-        "address": "23 Rue Jean Moulin, 24600 Rib\u00e9rac",
-        "phone_number": "+33553926203 ",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "09:00-12:00/14:00-17:00",
-          "mercredi": "09:00-12:00/14:00-17:00",
-          "jeudi": "09:00-12:00/14:00-17:00",
-          "vendredi": "09:00-12:00/14:00-17:00",
-          "samedi": "09:00-12:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-12T14:36:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 5,
-      "internal_id": "241906[]",
-      "gid": "978"
-    },
-    {
-      "departement": "24",
-      "nom": "Filature de l'Isle",
-      "url": "https://partners.doctolib.fr/hopital-public/perigueux/vaccination-covid",
-      "location": {
-        "longitude": 0.69758,
-        "latitude": 45.1995
-      },
-      "metadata": {
-        "address": "15 Chemin des Feutres de Toulon, 24000 P\u00e9rigueux",
-        "phone_number": "+33553453133",
-        "business_hours": {
-          "lundi": "08:30-12:00/13:00-18:00",
-          "mardi": "08:30-12:00/13:00-18:00",
-          "mercredi": "08:30-12:00/13:00-18:00",
-          "jeudi": "08:30-12:00/13:00-18:00",
-          "vendredi": "08:30-12:00/13:00-18:00",
-          "samedi": "08:30-12:00/13:00-18:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-12T16:06:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 4,
-      "internal_id": "240691[]",
-      "gid": "119"
-    },
     {
       "departement": "24",
       "nom": "Maison de sant\u00e9 pluridisciplinaire du Pays de Lanouaille",
@@ -88,6 +32,34 @@
     },
     {
       "departement": "24",
+      "nom": "Centre de Vaccination CH Rib\u00e9rac",
+      "url": "https://partners.doctolib.fr/hopital-public/riberac/centre-vaccination-ch-riberac-chicrdd",
+      "location": {
+        "longitude": 0.340622,
+        "latitude": 45.2452
+      },
+      "metadata": {
+        "address": "23 Rue Jean Moulin, 24600 Rib\u00e9rac",
+        "phone_number": "+33553926203 ",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "09:00-12:00/14:00-17:00",
+          "mercredi": "09:00-12:00/14:00-17:00",
+          "jeudi": "09:00-12:00/14:00-17:00",
+          "vendredi": "09:00-12:00/14:00-17:00",
+          "samedi": "09:00-12:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-17T16:48:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "241906[]",
+      "gid": "978"
+    },
+    {
+      "departement": "24",
       "nom": "Centre de vaccination COVID-19 Eymet",
       "url": "https://partners.doctolib.fr/centre-de-sante/eymet/centre-de-vaccination-covid-19-eymet",
       "location": {
@@ -109,7 +81,7 @@
       "prochain_rdv": "2021-04-27T15:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 45,
+      "appointment_count": 46,
       "internal_id": "264649[]",
       "gid": "d264649"
     }
@@ -200,33 +172,6 @@
     },
     {
       "departement": "24",
-      "nom": "EHPAD de La Madeleine",
-      "url": "",
-      "location": {
-        "longitude": 0.478498,
-        "latitude": 44.8473
-      },
-      "metadata": {
-        "address": "40 Rue du Mar\u00e9chal Joffre, 24100 Bergerac",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1619"
-    },
-    {
-      "departement": "24",
       "nom": "EHPAD La Madeleine",
       "url": "https://partners.doctolib.fr/centre-de-sante/bergerac/centre-de-vaccination-covid-19-ehpad-la-madeleine?pid=practice-174840",
       "location": {
@@ -251,6 +196,33 @@
       "appointment_count": 0,
       "internal_id": "255520[174840]",
       "gid": "1618"
+    },
+    {
+      "departement": "24",
+      "nom": "EHPAD de La Madeleine",
+      "url": "",
+      "location": {
+        "longitude": 0.478498,
+        "latitude": 44.8473
+      },
+      "metadata": {
+        "address": "40 Rue du Mar\u00e9chal Joffre, 24100 Bergerac",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1619"
     },
     {
       "departement": "24",
@@ -553,6 +525,34 @@
     },
     {
       "departement": "24",
+      "nom": "Filature de l'Isle",
+      "url": "https://partners.doctolib.fr/hopital-public/perigueux/vaccination-covid",
+      "location": {
+        "longitude": 0.69758,
+        "latitude": 45.1995
+      },
+      "metadata": {
+        "address": "15 Chemin des Feutres de Toulon, 24000 P\u00e9rigueux",
+        "phone_number": "+33553453133",
+        "business_hours": {
+          "lundi": "08:30-12:00/13:00-18:00",
+          "mardi": "08:30-12:00/13:00-18:00",
+          "mercredi": "08:30-12:00/13:00-18:00",
+          "jeudi": "08:30-12:00/13:00-18:00",
+          "vendredi": "08:30-12:00/13:00-18:00",
+          "samedi": "08:30-12:00/13:00-18:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240691[]",
+      "gid": "119"
+    },
+    {
+      "departement": "24",
       "nom": "Centre de vaccination - CH de Jean Leclaire de Sarlat",
       "url": "https://partners.doctolib.fr/hopital-public/sarlat-la-caneda/vaccination-ch-jean-leclaire-sarlat",
       "location": {
@@ -720,33 +720,6 @@
     },
     {
       "departement": "24",
-      "nom": "CD - US CD de NEUVIC / Maison d'Arr\u00eat de P\u00e9rigueux",
-      "url": "",
-      "location": {
-        "longitude": 0.718927,
-        "latitude": 45.1886
-      },
-      "metadata": {
-        "address": "2 Place Beleyme, 24000 P\u00e9rigueux",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1887"
-    },
-    {
-      "departement": "24",
       "nom": "MA - US PERIGUEUX / Maison d'Arr\u00eat de P\u00e9rigueux",
       "url": "",
       "location": {
@@ -771,6 +744,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1886"
+    },
+    {
+      "departement": "24",
+      "nom": "CD - US CD de NEUVIC / Maison d'Arr\u00eat de P\u00e9rigueux",
+      "url": "",
+      "location": {
+        "longitude": 0.718927,
+        "latitude": 45.1886
+      },
+      "metadata": {
+        "address": "2 Place Beleyme, 24000 P\u00e9rigueux",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1887"
     },
     {
       "departement": "24",

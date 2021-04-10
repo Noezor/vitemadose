@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.523467+02:00",
+  "last_updated": "2021-04-10T19:06:23.028586+02:00",
   "centres_disponibles": [
     {
       "departement": "64",
@@ -23,10 +23,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-12T12:15:00.000+02:00",
+      "prochain_rdv": "2021-04-12T12:35:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 456,
+      "appointment_count": 454,
       "internal_id": "243113[]",
       "gid": "1078"
     },
@@ -85,6 +85,34 @@
       "appointment_count": 29,
       "internal_id": "256863[175744]",
       "gid": "2028"
+    },
+    {
+      "departement": "64",
+      "nom": "Maison des associations de la ville de Bayonne",
+      "url": "https://partners.doctolib.fr/centre-de-sante/bayonne/centre-de-vaccination-covid-maison-des-associations-de-la-ville-de-bayonne?pid=practice-165183%3fspeciality_id%3d5494",
+      "location": {
+        "longitude": -1.47164,
+        "latitude": 43.4841
+      },
+      "metadata": {
+        "address": "11 All\u00e9e de Glain, 64100 Bayonne",
+        "phone_number": "+33547756837",
+        "business_hours": {
+          "lundi": "08:30-18:00",
+          "mardi": "08:30-18:00",
+          "mercredi": "08:30-18:00",
+          "jeudi": "08:30-18:00",
+          "vendredi": "08:30-18:00",
+          "samedi": "08:30-18:00",
+          "dimanche": "08:30-18:00"
+        }
+      },
+      "prochain_rdv": "2021-04-12T14:26:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 36,
+      "internal_id": "243219[165183]",
+      "gid": "545"
     },
     {
       "departement": "64",
@@ -227,34 +255,6 @@
     },
     {
       "departement": "64",
-      "nom": "Maison des associations de la ville de Bayonne",
-      "url": "https://partners.doctolib.fr/centre-de-sante/bayonne/centre-de-vaccination-covid-maison-des-associations-de-la-ville-de-bayonne?pid=practice-165183%3fspeciality_id%3d5494",
-      "location": {
-        "longitude": -1.47164,
-        "latitude": 43.4841
-      },
-      "metadata": {
-        "address": "11 All\u00e9e de Glain, 64100 Bayonne",
-        "phone_number": "+33547756837",
-        "business_hours": {
-          "lundi": "08:30-18:00",
-          "mardi": "08:30-18:00",
-          "mercredi": "08:30-18:00",
-          "jeudi": "08:30-18:00",
-          "vendredi": "08:30-18:00",
-          "samedi": "08:30-18:00",
-          "dimanche": "08:30-18:00"
-        }
-      },
-      "prochain_rdv": "2021-04-24T17:50:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 118,
-      "internal_id": "243219[165183]",
-      "gid": "545"
-    },
-    {
-      "departement": "64",
       "nom": "Centre de Vaccination du CH d'ORTHEZ",
       "url": "https://partners.doctolib.fr/hopital-public/orthez/centre-de-vaccination-covid-ch-orthez",
       "location": {
@@ -274,10 +274,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-06T17:15:00.000+02:00",
+      "prochain_rdv": "2021-05-06T17:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 35,
+      "appointment_count": 36,
       "internal_id": "243138[]",
       "gid": "472"
     },

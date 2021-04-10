@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.541210+02:00",
+  "last_updated": "2021-04-10T19:06:23.047755+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -113,33 +113,6 @@
     },
     {
       "departement": "77",
-      "nom": "CHSSM-Site de Fontainebleau",
-      "url": "",
-      "location": {
-        "longitude": 2.6963,
-        "latitude": 48.4119
-      },
-      "metadata": {
-        "address": "55 Boulevard du Mar\u00e9chal Joffre, 77300 Fontainebleau",
-        "business_hours": {
-          "lundi": "8H30-17H30",
-          "mardi": "8H30-17H30",
-          "mercredi": "8H30-17H30",
-          "jeudi": "8H30-17H30",
-          "vendredi": "8H30-17H30",
-          "samedi": "",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1475"
-    },
-    {
-      "departement": "77",
       "nom": "Centre de vaccination GHSIF MELUN - Site de Brie Comte Robert",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/brie-comte-robert/centre-de-vaccination-de-la-brie",
       "location": {
@@ -165,6 +138,33 @@
       "appointment_count": 0,
       "internal_id": "242998[]",
       "gid": "860"
+    },
+    {
+      "departement": "77",
+      "nom": "CHSSM-Site de Fontainebleau",
+      "url": "",
+      "location": {
+        "longitude": 2.6963,
+        "latitude": 48.4119
+      },
+      "metadata": {
+        "address": "55 Boulevard du Mar\u00e9chal Joffre, 77300 Fontainebleau",
+        "business_hours": {
+          "lundi": "8H30-17H30",
+          "mardi": "8H30-17H30",
+          "mercredi": "8H30-17H30",
+          "jeudi": "8H30-17H30",
+          "vendredi": "8H30-17H30",
+          "samedi": "",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1475"
     },
     {
       "departement": "77",
@@ -387,33 +387,6 @@
     },
     {
       "departement": "77",
-      "nom": "EMV Thomery",
-      "url": "",
-      "location": {
-        "longitude": 2.78844,
-        "latitude": 48.4128
-      },
-      "metadata": {
-        "address": "1 Chemin des Pr\u00e9s, 77810 Thomery",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1561"
-    },
-    {
-      "departement": "77",
       "nom": "EMV Torcy",
       "url": "https://partners.doctolib.fr/centre-de-sante/torcy/point-de-vaccination-avance-de-torcy?pid=practice-173895",
       "location": {
@@ -438,6 +411,33 @@
       "appointment_count": 0,
       "internal_id": "254257[173895]",
       "gid": "1560"
+    },
+    {
+      "departement": "77",
+      "nom": "EMV Thomery",
+      "url": "",
+      "location": {
+        "longitude": 2.78844,
+        "latitude": 48.4128
+      },
+      "metadata": {
+        "address": "1 Chemin des Pr\u00e9s, 77810 Thomery",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1561"
     },
     {
       "departement": "77",
@@ -746,33 +746,6 @@
     },
     {
       "departement": "77",
-      "nom": "CD - Melun / Centre de D\u00e9tention de Melun",
-      "url": "",
-      "location": {
-        "longitude": 2.66195,
-        "latitude": 48.5355
-      },
-      "metadata": {
-        "address": "10 Quai de la Courtille, 77000 Melun",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1851"
-    },
-    {
-      "departement": "77",
       "nom": "CP - US Meaux Chauconin-Neufmontiers / Centre P\u00e9nitentiaire de Meaux-Chauconin-Neufmontiers",
       "url": "",
       "location": {
@@ -797,6 +770,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1849"
+    },
+    {
+      "departement": "77",
+      "nom": "CD - Melun / Centre de D\u00e9tention de Melun",
+      "url": "",
+      "location": {
+        "longitude": 2.66195,
+        "latitude": 48.5355
+      },
+      "metadata": {
+        "address": "10 Quai de la Courtille, 77000 Melun",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1851"
     },
     {
       "departement": "77",

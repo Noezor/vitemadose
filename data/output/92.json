@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.557298+02:00",
+  "last_updated": "2021-04-10T19:06:23.065541+02:00",
   "centres_disponibles": [
     {
       "departement": "92",
@@ -125,10 +125,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-14T17:20:00.000+02:00",
+      "prochain_rdv": "2021-04-14T18:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "general-practitioner",
-      "appointment_count": 3,
+      "appointment_count": 2,
       "internal_id": "100285[67632]",
       "gid": "d100285"
     },
@@ -1747,33 +1747,6 @@
     },
     {
       "departement": "92",
-      "nom": "Dr Oury  ESTEGASSY",
-      "url": "https://partners.doctolib.fr/medecin-generaliste/neuilly-sur-seine/oury-estegassy",
-      "location": {
-        "longitude": 2.27023780000002,
-        "latitude": 48.8820079
-      },
-      "metadata": {
-        "address": "88 bis Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine",
-        "business_hours": {
-          "lundi": "09:30-12:00, 14:30-20:00",
-          "mardi": "09:30-12:00, 14:30-20:00",
-          "mercredi": "09:30-12:00, 14:30-20:00",
-          "jeudi": "09:30-12:00, 14:30-20:00",
-          "vendredi": "09:00-14:00",
-          "samedi": null,
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "general-practitioner",
-      "appointment_count": 0,
-      "internal_id": "20888[]",
-      "gid": "d20888"
-    },
-    {
-      "departement": "92",
       "nom": "Pharmacie de l'Observatoire",
       "url": "https://partners.doctolib.fr/pharmacie/meudon/pharmacie-de-l-observatoire",
       "location": {
@@ -1799,6 +1772,33 @@
       "appointment_count": 0,
       "internal_id": "257455[]",
       "gid": "d257455"
+    },
+    {
+      "departement": "92",
+      "nom": "Dr Oury  ESTEGASSY",
+      "url": "https://partners.doctolib.fr/medecin-generaliste/neuilly-sur-seine/oury-estegassy",
+      "location": {
+        "longitude": 2.27023780000002,
+        "latitude": 48.8820079
+      },
+      "metadata": {
+        "address": "88 bis Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine",
+        "business_hours": {
+          "lundi": "09:30-12:00, 14:30-20:00",
+          "mardi": "09:30-12:00, 14:30-20:00",
+          "mercredi": "09:30-12:00, 14:30-20:00",
+          "jeudi": "09:30-12:00, 14:30-20:00",
+          "vendredi": "09:00-14:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "general-practitioner",
+      "appointment_count": 0,
+      "internal_id": "20888[]",
+      "gid": "d20888"
     },
     {
       "departement": "92",
@@ -1885,6 +1885,26 @@
     },
     {
       "departement": "92",
+      "nom": "Vaccination COVID 19 - Centre M\u00e9dico-dentaire du Nord-Ouest Parisien / CMDNOP",
+      "url": "https://partners.doctolib.fr/centre-de-sante/clichy/vaccination-centre-medico-dentaire-du-nord-ouest-parisien-cmdnop",
+      "location": {
+        "longitude": 2.3013727,
+        "latitude": 48.9008608
+      },
+      "metadata": {
+        "address": "39 Rue Casteres, 92110 Clichy",
+        "phone_number": "01 47 31 26 26",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "258202[]",
+      "gid": "d258202"
+    },
+    {
+      "departement": "92",
       "nom": "Centre de vaccination COVID-19 - Centre Municipal Nanterre Chevreul",
       "url": "https://partners.doctolib.fr/centre-de-sante/nanterre/centre-de-vaccination-covid-19-ville-de-nanterre-chevreul",
       "location": {
@@ -1910,26 +1930,6 @@
       "appointment_count": 0,
       "internal_id": "264068[]",
       "gid": "d264068"
-    },
-    {
-      "departement": "92",
-      "nom": "Vaccination COVID 19 - Centre M\u00e9dico-dentaire du Nord-Ouest Parisien / CMDNOP",
-      "url": "https://partners.doctolib.fr/centre-de-sante/clichy/vaccination-centre-medico-dentaire-du-nord-ouest-parisien-cmdnop",
-      "location": {
-        "longitude": 2.3013727,
-        "latitude": 48.9008608
-      },
-      "metadata": {
-        "address": "39 Rue Casteres, 92110 Clichy",
-        "phone_number": "01 47 31 26 26",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "258202[]",
-      "gid": "d258202"
     },
     {
       "departement": "92",

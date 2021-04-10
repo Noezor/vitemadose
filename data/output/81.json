@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.546746+02:00",
+  "last_updated": "2021-04-10T19:06:23.054103+02:00",
   "centres_disponibles": [
     {
       "departement": "81",
@@ -26,7 +26,7 @@
       "prochain_rdv": "2021-04-12T11:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 238,
+      "appointment_count": 236,
       "internal_id": "242019[164139]",
       "gid": "369"
     },
@@ -88,34 +88,6 @@
     },
     {
       "departement": "81",
-      "nom": "Centre de vaccination de Mazamet - Palais des Congr\u00e8s",
-      "url": "https://partners.doctolib.fr/centre-de-sante/mazamet/centre-de-vaccination-covid-19-centre-de-vaccination-de-mazamet?pid=practice-165219",
-      "location": {
-        "longitude": 2.37707,
-        "latitude": 43.4951
-      },
-      "metadata": {
-        "address": " Rue Jean Assemat, 81200 Mazamet",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "8:30-12:30 & 13:30-17:30",
-          "mercredi": "8:30-12:30 & 13:30-17:30",
-          "jeudi": "8:30-12:30 & 13:30-17:30",
-          "vendredi": "8:30-12:30 & 13:30-17:30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-13T14:45:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 197,
-      "internal_id": "243283[181262]",
-      "gid": "903"
-    },
-    {
-      "departement": "81",
       "nom": "Centre de vaccination du Carmausin - Salle Fran\u00e7ois Mitterand",
       "url": "https://partners.doctolib.fr/centre-de-sante/carmaux/centre-de-vaccination-covid-19-du-carmausin?pid=practice-165296%3fspeciality_id%3d5494",
       "location": {
@@ -138,9 +110,37 @@
       "prochain_rdv": "2021-04-13T15:15:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 26,
+      "appointment_count": 25,
       "internal_id": "243490[165296]",
       "gid": "895"
+    },
+    {
+      "departement": "81",
+      "nom": "Centre de vaccination de Mazamet - Palais des Congr\u00e8s",
+      "url": "https://partners.doctolib.fr/centre-de-sante/mazamet/centre-de-vaccination-covid-19-centre-de-vaccination-de-mazamet?pid=practice-165219",
+      "location": {
+        "longitude": 2.37707,
+        "latitude": 43.4951
+      },
+      "metadata": {
+        "address": " Rue Jean Assemat, 81200 Mazamet",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "8:30-12:30 & 13:30-17:30",
+          "mercredi": "8:30-12:30 & 13:30-17:30",
+          "jeudi": "8:30-12:30 & 13:30-17:30",
+          "vendredi": "8:30-12:30 & 13:30-17:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-13T15:40:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 197,
+      "internal_id": "243283[181262]",
+      "gid": "903"
     }
   ],
   "centres_indisponibles": [

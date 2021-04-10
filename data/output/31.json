@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.485420+02:00",
+  "last_updated": "2021-04-10T19:06:22.986740+02:00",
   "centres_disponibles": [
     {
       "departement": "31",
@@ -54,7 +54,7 @@
       "prochain_rdv": "2021-04-12T18:00:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 245,
+      "appointment_count": 244,
       "internal_id": null,
       "gid": "654"
     },
@@ -303,10 +303,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-19T11:30:00.000000+0200",
+      "prochain_rdv": "2021-04-19T11:40:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 149,
+      "appointment_count": 148,
       "internal_id": null,
       "gid": "754"
     },
@@ -594,34 +594,6 @@
     },
     {
       "departement": "31",
-      "nom": "CDV31 CHU Toulouse Rangueil",
-      "url": "",
-      "location": {
-        "longitude": 1.45377,
-        "latitude": 43.5586
-      },
-      "metadata": {
-        "address": "1 Avenue du Professeur Jean Poulhes, 31400 Toulouse",
-        "phone_number": "0800541919",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "674"
-    },
-    {
-      "departement": "31",
       "nom": "CDV31 Montr\u00e9jeau",
       "url": "https://vaccination-covid.keldoc.com/cabinet-medical/montrejeau-31210/montrejeau/centre-de-vaccination-de-montrejeau",
       "location": {
@@ -650,6 +622,34 @@
     },
     {
       "departement": "31",
+      "nom": "CDV31 CHU Toulouse Rangueil",
+      "url": "",
+      "location": {
+        "longitude": 1.45377,
+        "latitude": 43.5586
+      },
+      "metadata": {
+        "address": "1 Avenue du Professeur Jean Poulhes, 31400 Toulouse",
+        "phone_number": "0800541919",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "674"
+    },
+    {
+      "departement": "31",
       "nom": "CDV31 Saint Gaudens",
       "url": "https://vaccination-covid.keldoc.com/cabinet-medical/saint-gaudens-31800/saint-gaudens/centre-de-vaccination-de-saint-gaudens",
       "location": {
@@ -675,6 +675,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "752"
+    },
+    {
+      "departement": "31",
+      "nom": "CDV31 Saint B\u00e9at",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/st-beat-31440/saint-beat/centre-de-vaccination-de-saint-beat",
+      "location": {
+        "longitude": 0.692278,
+        "latitude": 42.9128
+      },
+      "metadata": {
+        "address": "319 Avenue Gallieni, 31440 Saint-B\u00e9at-Lez",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "14:30-18:00",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "14:30-18:00",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "732"
     },
     {
       "departement": "31",
@@ -731,34 +759,6 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "784"
-    },
-    {
-      "departement": "31",
-      "nom": "CDV31 Saint B\u00e9at",
-      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/st-beat-31440/saint-beat/centre-de-vaccination-de-saint-beat",
-      "location": {
-        "longitude": 0.692278,
-        "latitude": 42.9128
-      },
-      "metadata": {
-        "address": "319 Avenue Gallieni, 31440 Saint-B\u00e9at-Lez",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "14:30-18:00",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "14:30-18:00",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Keldoc",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "732"
     },
     {
       "departement": "31",
@@ -874,34 +874,6 @@
     },
     {
       "departement": "31",
-      "nom": "CDV31 Saint Orens De Gameville",
-      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/st-orens-de-gameville-31650/saint-orens-de-gameville/centre-de-vaccination-de-saint-orens-de-gameville",
-      "location": {
-        "longitude": 1.5403,
-        "latitude": 43.551
-      },
-      "metadata": {
-        "address": "42 Avenue Augustin Labouilhe, 31650 Saint-Orens-de-Gameville",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "14:00-18:00",
-          "mardi": "14:00-18:00",
-          "mercredi": "14:00-18:00",
-          "jeudi": "14:00-18:00",
-          "vendredi": "14:00-18:00",
-          "samedi": "14:00-18:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Keldoc",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "626"
-    },
-    {
-      "departement": "31",
       "nom": "CDV31 CHU Toulouse La Grave",
       "url": "https://vaccination-covid.keldoc.com/centre-hospitalier-universitaire/toulouse-31059/centre-hospitalier-universitaire-toulouse-la-grave-hotel-dieu/centre-de-vaccination-du-centre-hospitalier-universitaire-toulouse-la-grave-hotel-dieu",
       "location": {
@@ -927,6 +899,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "676"
+    },
+    {
+      "departement": "31",
+      "nom": "CDV31 Saint Orens De Gameville",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/st-orens-de-gameville-31650/saint-orens-de-gameville/centre-de-vaccination-de-saint-orens-de-gameville",
+      "location": {
+        "longitude": 1.5403,
+        "latitude": 43.551
+      },
+      "metadata": {
+        "address": "42 Avenue Augustin Labouilhe, 31650 Saint-Orens-de-Gameville",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "14:00-18:00",
+          "mardi": "14:00-18:00",
+          "mercredi": "14:00-18:00",
+          "jeudi": "14:00-18:00",
+          "vendredi": "14:00-18:00",
+          "samedi": "14:00-18:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "626"
     },
     {
       "departement": "31",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.567479+02:00",
+  "last_updated": "2021-04-10T19:06:23.076554+02:00",
   "centres_disponibles": [
     {
       "departement": "974",
@@ -110,7 +110,7 @@
       "prochain_rdv": "2021-04-20T16:10:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 1963,
+      "appointment_count": 1992,
       "internal_id": null,
       "gid": "496"
     },
@@ -390,7 +390,7 @@
         }
       },
       "prochain_rdv": null,
-      "plateforme": null,
+      "plateforme": "Keldoc",
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": null,
@@ -426,33 +426,6 @@
     },
     {
       "departement": "974",
-      "nom": "CD - US Centre p\u00e9nitentiaire du Port / Maison d'Arr\u00eat de Saint-Pierre-de-la-R\u00e9union",
-      "url": "",
-      "location": {
-        "longitude": 55.4661,
-        "latitude": -21.3414
-      },
-      "metadata": {
-        "address": "1 Rue de Cayenne, 97410 Saint-Pierre",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1932"
-    },
-    {
-      "departement": "974",
       "nom": "CP - US Saint-Denis / Maison d'Arr\u00eat de Saint-Pierre-de-la-R\u00e9union",
       "url": "",
       "location": {
@@ -477,6 +450,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1931"
+    },
+    {
+      "departement": "974",
+      "nom": "CD - US Centre p\u00e9nitentiaire du Port / Maison d'Arr\u00eat de Saint-Pierre-de-la-R\u00e9union",
+      "url": "",
+      "location": {
+        "longitude": 55.4661,
+        "latitude": -21.3414
+      },
+      "metadata": {
+        "address": "1 Rue de Cayenne, 97410 Saint-Pierre",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1932"
     },
     {
       "departement": "974",

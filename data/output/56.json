@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.510905+02:00",
+  "last_updated": "2021-04-10T19:06:23.014373+02:00",
   "centres_disponibles": [
     {
       "departement": "56",
@@ -26,7 +26,7 @@
       "prochain_rdv": "2021-04-12T14:55:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 331,
+      "appointment_count": 330,
       "internal_id": null,
       "gid": "454"
     },
@@ -78,10 +78,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-22T16:39:00.000+02:00",
+      "prochain_rdv": "2021-04-22T16:21:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 148,
+      "appointment_count": 147,
       "internal_id": "262832[]",
       "gid": "d262832"
     },
@@ -109,7 +109,7 @@
       "prochain_rdv": "2021-04-30T12:42:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 25,
+      "appointment_count": 23,
       "internal_id": "259993[177858]",
       "gid": "2120"
     },
@@ -284,34 +284,6 @@
     },
     {
       "departement": "56",
-      "nom": "CH AURAY",
-      "url": "https://partners.doctolib.fr/hopital-public/auray/chba-centre-de-vaccination-covid-d-auray?pid=practice-164632",
-      "location": {
-        "longitude": -2.97902,
-        "latitude": 47.6692
-      },
-      "metadata": {
-        "address": "2 Rue du Pratel, 56400 Auray",
-        "phone_number": "+33297019956",
-        "business_hours": {
-          "lundi": "13h-17h",
-          "mardi": "9h-17h",
-          "mercredi": "9h-17h",
-          "jeudi": "9h-17h",
-          "vendredi": "9h-17h",
-          "samedi": "9h-13h",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "245494[164632]",
-      "gid": "894"
-    },
-    {
-      "departement": "56",
       "nom": "GRANDCHAMP - Salle multifonctionnelle",
       "url": "https://partners.doctolib.fr/hopital-public/grand-champ/ghba-centre-de-vaccination-covid-grandchamp?pid=practice-165902",
       "location": {
@@ -337,6 +309,34 @@
       "appointment_count": 0,
       "internal_id": "246058[165902]",
       "gid": "897"
+    },
+    {
+      "departement": "56",
+      "nom": "CH AURAY",
+      "url": "https://partners.doctolib.fr/hopital-public/auray/chba-centre-de-vaccination-covid-d-auray?pid=practice-164632",
+      "location": {
+        "longitude": -2.97902,
+        "latitude": 47.6692
+      },
+      "metadata": {
+        "address": "2 Rue du Pratel, 56400 Auray",
+        "phone_number": "+33297019956",
+        "business_hours": {
+          "lundi": "13h-17h",
+          "mardi": "9h-17h",
+          "mercredi": "9h-17h",
+          "jeudi": "9h-17h",
+          "vendredi": "9h-17h",
+          "samedi": "9h-13h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "245494[164632]",
+      "gid": "894"
     },
     {
       "departement": "56",
@@ -452,33 +452,6 @@
     },
     {
       "departement": "56",
-      "nom": "CP - US du CHBS au Centre P\u00e9nitentiaire de Lorient Ploemeur / Centre P\u00e9nitentiaire de Lorient-Ploemeur",
-      "url": "",
-      "location": {
-        "longitude": -3.41234,
-        "latitude": 47.7264
-      },
-      "metadata": {
-        "address": " Route de Larmor, 56270 Ploemeur",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1797"
-    },
-    {
-      "departement": "56",
       "nom": "MA - US - MAISON D'ARRET DE VANNES / Maison d'Arr\u00eat de Vannes",
       "url": "",
       "location": {
@@ -503,6 +476,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1798"
+    },
+    {
+      "departement": "56",
+      "nom": "CP - US du CHBS au Centre P\u00e9nitentiaire de Lorient Ploemeur / Centre P\u00e9nitentiaire de Lorient-Ploemeur",
+      "url": "",
+      "location": {
+        "longitude": -3.41234,
+        "latitude": 47.7264
+      },
+      "metadata": {
+        "address": " Route de Larmor, 56270 Ploemeur",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1797"
     },
     {
       "departement": "56",

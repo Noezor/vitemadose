@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:02:41.505751+02:00",
+  "last_updated": "2021-04-10T19:06:23.008533+02:00",
   "centres_disponibles": [
     {
       "departement": "50",
@@ -54,7 +54,7 @@
       "prochain_rdv": "2021-04-13T09:20:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 1927,
+      "appointment_count": 1926,
       "internal_id": null,
       "gid": "110"
     },
@@ -82,7 +82,7 @@
       "prochain_rdv": "2021-04-16T13:25:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 1175,
+      "appointment_count": 1174,
       "internal_id": null,
       "gid": "118"
     },
@@ -110,7 +110,7 @@
       "prochain_rdv": "2021-04-29T14:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 127,
+      "appointment_count": 126,
       "internal_id": "255959[175175]",
       "gid": "19"
     }
