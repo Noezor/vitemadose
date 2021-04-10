@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:10:42.146444+02:00",
+  "last_updated": "2021-04-10T19:13:51.419936+02:00",
   "centres_disponibles": [
     {
       "departement": "60",
@@ -748,33 +748,6 @@
     },
     {
       "departement": "60",
-      "nom": "CP - Centre Hospitalier de Beauvais / Centre p\u00e9nitentiaire de Beauvais",
-      "url": "",
-      "location": {
-        "longitude": 2.08755,
-        "latitude": 49.4179
-      },
-      "metadata": {
-        "address": " Rue de Pontoise, 60000 Beauvais",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1839"
-    },
-    {
-      "departement": "60",
       "nom": "CP - US2 / Centre P\u00e9nitentiaire de Liancourt",
       "url": "",
       "location": {
@@ -799,6 +772,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1840"
+    },
+    {
+      "departement": "60",
+      "nom": "CP - Centre Hospitalier de Beauvais / Centre p\u00e9nitentiaire de Beauvais",
+      "url": "",
+      "location": {
+        "longitude": 2.08755,
+        "latitude": 49.4179
+      },
+      "metadata": {
+        "address": " Rue de Pontoise, 60000 Beauvais",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1839"
     },
     {
       "departement": "60",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:10:42.178072+02:00",
+  "last_updated": "2021-04-10T19:13:51.448596+02:00",
   "centres_disponibles": [
     {
       "departement": "86",
@@ -23,10 +23,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-15T09:10:00.000+02:00",
+      "prochain_rdv": "2021-05-14T17:05:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 3,
+      "appointment_count": 4,
       "internal_id": "242489[]",
       "gid": "196"
     }
@@ -528,26 +528,6 @@
     },
     {
       "departement": "86",
-      "nom": "Pharmacie De Lucas",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-lucas--nerignac",
-      "location": {
-        "longitude": 0.727175,
-        "latitude": 46.29467500000001
-      },
-      "metadata": {
-        "address": "N\u00e9rignac, 86150 N\u00e9rignac",
-        "phone_number": "+33648792285",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1f8f0ae3"
-    },
-    {
-      "departement": "86",
       "nom": "Pharmacie Porte Sud",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-porte-sud-chatellerault",
       "location": {
@@ -565,6 +545,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "07d3b6f9"
+    },
+    {
+      "departement": "86",
+      "nom": "Pharmacie De Lucas",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-lucas--nerignac",
+      "location": {
+        "longitude": 0.727175,
+        "latitude": 46.29467500000001
+      },
+      "metadata": {
+        "address": "N\u00e9rignac, 86150 N\u00e9rignac",
+        "phone_number": "+33648792285",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1f8f0ae3"
     },
     {
       "departement": "86",

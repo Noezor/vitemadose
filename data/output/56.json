@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:10:42.139347+02:00",
+  "last_updated": "2021-04-10T19:13:51.413642+02:00",
   "centres_disponibles": [
     {
       "departement": "56",
@@ -26,9 +26,36 @@
       "prochain_rdv": "2021-04-12T14:55:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 331,
+      "appointment_count": 330,
       "internal_id": null,
       "gid": "454"
+    },
+    {
+      "departement": "56",
+      "nom": "Centre de Vaccination Covid-19 - Vannes Kercado",
+      "url": "https://partners.doctolib.fr/hopital-public/vannes/centre-de-vaccination-covid-19-vannes-kercado",
+      "location": {
+        "longitude": -2.7713769,
+        "latitude": 47.6444702
+      },
+      "metadata": {
+        "address": "28 Rue Winston Churchill, 56000 Vannes",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-14T18:57:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "262832[]",
+      "gid": "d262832"
     },
     {
       "departement": "56",
@@ -60,33 +87,6 @@
     },
     {
       "departement": "56",
-      "nom": "Centre de Vaccination Covid-19 - Vannes Kercado",
-      "url": "https://partners.doctolib.fr/hopital-public/vannes/centre-de-vaccination-covid-19-vannes-kercado",
-      "location": {
-        "longitude": -2.7713769,
-        "latitude": 47.6444702
-      },
-      "metadata": {
-        "address": "28 Rue Winston Churchill, 56000 Vannes",
-        "business_hours": {
-          "lundi": null,
-          "mardi": null,
-          "mercredi": null,
-          "jeudi": null,
-          "vendredi": null,
-          "samedi": null,
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": "2021-04-22T16:09:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 149,
-      "internal_id": "262832[]",
-      "gid": "d262832"
-    },
-    {
-      "departement": "56",
       "nom": "QUIBERON -MDA",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/quiberon/gh-broceliande-atlantique-ghba-centre-de-vaccination-covid-quiberon?pid=practice-177858",
       "location": {
@@ -106,7 +106,7 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-30T14:08:00.000+02:00",
+      "prochain_rdv": "2021-04-30T14:18:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 24,
@@ -133,10 +133,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-30T14:08:00.000+02:00",
+      "prochain_rdv": "2021-04-30T14:18:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 25,
+      "appointment_count": 24,
       "internal_id": "259993[]",
       "gid": "d259993"
     }
@@ -276,7 +276,7 @@
         }
       },
       "prochain_rdv": null,
-      "plateforme": null,
+      "plateforme": "Keldoc",
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": null,
@@ -506,26 +506,6 @@
     },
     {
       "departement": "56",
-      "nom": "Pharmacie De Lucie Test",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-lucie-test-ile-d'houat",
-      "location": {
-        "longitude": 2.3457452,
-        "latitude": 48.87920270000001
-      },
-      "metadata": {
-        "address": "Le Bourg, 56170 \u00cele-d'Houat",
-        "phone_number": "+33631244223",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "27b3bab8"
-    },
-    {
-      "departement": "56",
       "nom": "Pharmacie De Quelisoy",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-quelisoy-larmor-plage",
       "location": {
@@ -543,6 +523,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "a243ab4c"
+    },
+    {
+      "departement": "56",
+      "nom": "Pharmacie De Lucie Test",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-lucie-test-ile-d'houat",
+      "location": {
+        "longitude": 2.3457452,
+        "latitude": 48.87920270000001
+      },
+      "metadata": {
+        "address": "Le Bourg, 56170 \u00cele-d'Houat",
+        "phone_number": "+33631244223",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "27b3bab8"
     },
     {
       "departement": "56",

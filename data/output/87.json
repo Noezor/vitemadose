@@ -1,36 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:10:42.179148+02:00",
-  "centres_disponibles": [
-    {
-      "departement": "87",
-      "nom": "HIHL - SITE DE BELLAC",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante?pid=practice-162984",
-      "location": {
-        "longitude": 1.06179,
-        "latitude": 46.1241
-      },
-      "metadata": {
-        "address": "4 Avenue Charles de Gaulle, 87300 Bellac",
-        "phone_number": "+33555087520",
-        "business_hours": {
-          "lundi": "09:00-12:00  13:30-17:00",
-          "mardi": "09:00-12:00  13:30-17:00",
-          "mercredi": "09:00-12:00  13:30-17:00",
-          "jeudi": "09:00-12:00  13:30-17:00",
-          "vendredi": "09:00-12:00  13:30-17:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-28T10:45:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "240406[162984]",
-      "gid": "549"
-    }
-  ],
+  "last_updated": "2021-04-10T19:13:51.449440+02:00",
+  "centres_disponibles": [],
   "centres_indisponibles": [
     {
       "departement": "87",
@@ -230,6 +201,34 @@
     },
     {
       "departement": "87",
+      "nom": "HIHL - SITE DE BELLAC",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante?pid=practice-162984",
+      "location": {
+        "longitude": 1.06179,
+        "latitude": 46.1241
+      },
+      "metadata": {
+        "address": "4 Avenue Charles de Gaulle, 87300 Bellac",
+        "phone_number": "+33555087520",
+        "business_hours": {
+          "lundi": "09:00-12:00  13:30-17:00",
+          "mardi": "09:00-12:00  13:30-17:00",
+          "mercredi": "09:00-12:00  13:30-17:00",
+          "jeudi": "09:00-12:00  13:30-17:00",
+          "vendredi": "09:00-12:00  13:30-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240406[162984]",
+      "gid": "549"
+    },
+    {
+      "departement": "87",
       "nom": "CH ST YRIEIX",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante?pid=practice-165200",
       "location": {
@@ -258,34 +257,6 @@
     },
     {
       "departement": "87",
-      "nom": "HOPITAL INTERCOMMUNAL MONTS ET BARRAGES - ST LEONARD DE NOBLAT",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante?pid=practice-162972",
-      "location": {
-        "longitude": 1.48482,
-        "latitude": 45.8416
-      },
-      "metadata": {
-        "address": " Chemin du Panaud, 87400 Saint-L\u00e9onard-de-Noblat",
-        "phone_number": "+33555087532",
-        "business_hours": {
-          "lundi": "08:00-10:00",
-          "mardi": "08:30-10:30/14:00-16:00",
-          "mercredi": "10:00-12:00/15:00-17:00",
-          "jeudi": "10:00-12:00",
-          "vendredi": "14:00-16:00",
-          "samedi": "09:00-11:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "240406[162972]",
-      "gid": "557"
-    },
-    {
-      "departement": "87",
       "nom": "CHU LIMOGES - SITE DUPUYTREN 1",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante?pid=practice-162612",
       "location": {
@@ -311,6 +282,34 @@
       "appointment_count": 0,
       "internal_id": "240406[162612]",
       "gid": "207"
+    },
+    {
+      "departement": "87",
+      "nom": "HOPITAL INTERCOMMUNAL MONTS ET BARRAGES - ST LEONARD DE NOBLAT",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante?pid=practice-162972",
+      "location": {
+        "longitude": 1.48482,
+        "latitude": 45.8416
+      },
+      "metadata": {
+        "address": " Chemin du Panaud, 87400 Saint-L\u00e9onard-de-Noblat",
+        "phone_number": "+33555087532",
+        "business_hours": {
+          "lundi": "08:00-10:00",
+          "mardi": "08:30-10:30/14:00-16:00",
+          "mercredi": "10:00-12:00/15:00-17:00",
+          "jeudi": "10:00-12:00",
+          "vendredi": "14:00-16:00",
+          "samedi": "09:00-11:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240406[162972]",
+      "gid": "557"
     },
     {
       "departement": "87",

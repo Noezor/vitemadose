@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:10:42.138173+02:00",
+  "last_updated": "2021-04-10T19:13:51.412729+02:00",
   "centres_disponibles": [
     {
       "departement": "55",
@@ -107,10 +107,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-15T14:50:00.000+02:00",
+      "prochain_rdv": "2021-04-15T14:55:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 40,
+      "appointment_count": 39,
       "internal_id": "242245[181352-164170]",
       "gid": "d242245"
     },
@@ -146,62 +146,6 @@
   "centres_indisponibles": [
     {
       "departement": "55",
-      "nom": "Lieu de vaccination de CLERMONT EN ARGONNE",
-      "url": "https://www.maiia.com/centre-de-vaccination/55120-clermont-en-argonne/centre-de-vaccination---clermont-en-argonne",
-      "location": {
-        "longitude": 5.0765,
-        "latitude": 49.1047
-      },
-      "metadata": {
-        "address": "11 Rue des D\u00e9port\u00e9s, 55120 Clermont-en-Argonne",
-        "phone_number": "+33372850117",
-        "business_hours": {
-          "lundi": "14:00-18:00",
-          "mardi": "14:00-18:00",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "14:00-18:00",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Maiia",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1282"
-    },
-    {
-      "departement": "55",
-      "nom": "Lieu de vaccination de MONTMEDY (salle des f\u00eates)",
-      "url": "https://www.maiia.com/centre-de-vaccination/55600-montmedy/centre-de-vaccination---montmedy-et-marville",
-      "location": {
-        "longitude": 5.36862,
-        "latitude": 49.5212
-      },
-      "metadata": {
-        "address": " Place Eug\u00e8ne Tronville, 55600 Montm\u00e9dy",
-        "phone_number": "+33372850117",
-        "business_hours": {
-          "lundi": "A pr\u00e9ciser",
-          "mardi": "A pr\u00e9ciser",
-          "mercredi": "A pr\u00e9ciser",
-          "jeudi": "A pr\u00e9ciser",
-          "vendredi": "A pr\u00e9ciser",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Maiia",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1285"
-    },
-    {
-      "departement": "55",
       "nom": "Lieu de vaccination de SPINCOURT - MSP",
       "url": "",
       "location": {
@@ -230,6 +174,34 @@
     },
     {
       "departement": "55",
+      "nom": "Lieu de vaccination de CLERMONT EN ARGONNE",
+      "url": "https://www.maiia.com/centre-de-vaccination/55120-clermont-en-argonne/centre-de-vaccination---clermont-en-argonne",
+      "location": {
+        "longitude": 5.0765,
+        "latitude": 49.1047
+      },
+      "metadata": {
+        "address": "11 Rue des D\u00e9port\u00e9s, 55120 Clermont-en-Argonne",
+        "phone_number": "+33372850117",
+        "business_hours": {
+          "lundi": "14:00-18:00",
+          "mardi": "14:00-18:00",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "14:00-18:00",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1282"
+    },
+    {
+      "departement": "55",
       "nom": "Lieu de vaccination FRESNES EN WOEVRE - MSP",
       "url": "https://www.maiia.com/centre-de-vaccination/55160-fresnes-en-woevre/centre-de-vaccination---fresnes-en-woevre",
       "location": {
@@ -255,6 +227,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1284"
+    },
+    {
+      "departement": "55",
+      "nom": "Lieu de vaccination de MONTMEDY (salle des f\u00eates)",
+      "url": "https://www.maiia.com/centre-de-vaccination/55600-montmedy/centre-de-vaccination---montmedy-et-marville",
+      "location": {
+        "longitude": 5.36862,
+        "latitude": 49.5212
+      },
+      "metadata": {
+        "address": " Place Eug\u00e8ne Tronville, 55600 Montm\u00e9dy",
+        "phone_number": "+33372850117",
+        "business_hours": {
+          "lundi": "A pr\u00e9ciser",
+          "mardi": "A pr\u00e9ciser",
+          "mercredi": "A pr\u00e9ciser",
+          "jeudi": "A pr\u00e9ciser",
+          "vendredi": "A pr\u00e9ciser",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1285"
     },
     {
       "departement": "55",
@@ -566,33 +566,6 @@
     },
     {
       "departement": "55",
-      "nom": "CD - US SAINT MIHIEL / Centre de D\u00e9tention de Montm\u00e9dy",
-      "url": "",
-      "location": {
-        "longitude": 5.37153,
-        "latitude": 49.5241
-      },
-      "metadata": {
-        "address": "18 Rue du Commandant M\u00e9nard, 55600 Montm\u00e9dy",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1820"
-    },
-    {
-      "departement": "55",
       "nom": "MA - US Bar le Duc / Maison d'Arr\u00eat de Bar-le-Duc",
       "url": "",
       "location": {
@@ -617,6 +590,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1819"
+    },
+    {
+      "departement": "55",
+      "nom": "CD - US SAINT MIHIEL / Centre de D\u00e9tention de Montm\u00e9dy",
+      "url": "",
+      "location": {
+        "longitude": 5.37153,
+        "latitude": 49.5241
+      },
+      "metadata": {
+        "address": "18 Rue du Commandant M\u00e9nard, 55600 Montm\u00e9dy",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1820"
     },
     {
       "departement": "55",

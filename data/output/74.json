@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:10:42.162069+02:00",
+  "last_updated": "2021-04-10T19:13:51.433944+02:00",
   "centres_disponibles": [
     {
       "departement": "74",
@@ -136,7 +136,7 @@
       "prochain_rdv": "2021-04-15T08:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 20,
+      "appointment_count": 21,
       "internal_id": "263085[]",
       "gid": "2147"
     },
@@ -192,7 +192,7 @@
       "prochain_rdv": "2021-04-22T13:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 300,
+      "appointment_count": 299,
       "internal_id": "264059[]",
       "gid": "2267"
     },
@@ -276,7 +276,7 @@
       "prochain_rdv": "2021-04-26T11:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 72,
+      "appointment_count": 70,
       "internal_id": "243248[]",
       "gid": "826"
     },
@@ -301,10 +301,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-26T16:35:00.000+02:00",
+      "prochain_rdv": "2021-04-26T16:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 256,
+      "appointment_count": 254,
       "internal_id": "243127[]",
       "gid": "757"
     },
@@ -329,10 +329,10 @@
           "dimanche": "Ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-28T10:32:00.000+02:00",
+      "prochain_rdv": "2021-04-27T17:24:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 134,
+      "appointment_count": 136,
       "internal_id": "264503[181077]",
       "gid": "2281"
     },
@@ -360,7 +360,7 @@
       "prochain_rdv": "2021-04-28T13:42:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 7,
+      "appointment_count": 8,
       "internal_id": "241468[163436]",
       "gid": "235"
     },

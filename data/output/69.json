@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:10:42.156364+02:00",
+  "last_updated": "2021-04-10T19:13:51.429007+02:00",
   "centres_disponibles": [
     {
       "departement": "69",
@@ -23,10 +23,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-13T17:00:00.000+02:00",
+      "prochain_rdv": "2021-04-11T16:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 1,
+      "appointment_count": 9,
       "internal_id": "241965[163661]",
       "gid": "688"
     },
@@ -51,7 +51,7 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-15T18:40:00.000+02:00",
+      "prochain_rdv": "2021-04-13T11:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 10,
@@ -163,10 +163,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-28T12:40:00.000+02:00",
+      "prochain_rdv": "2021-04-28T13:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 71,
+      "appointment_count": 67,
       "internal_id": "258785[176810]",
       "gid": "1693"
     },
@@ -314,33 +314,6 @@
     },
     {
       "departement": "69",
-      "nom": "CP - US SAINT QUENTIN FALLAVIER / Etablissement sp\u00e9cialis\u00e9 pour mineurs du Rh\u00f4ne",
-      "url": "",
-      "location": {
-        "longitude": 4.99769,
-        "latitude": 45.7605
-      },
-      "metadata": {
-        "address": " Rue du Rambion, 69330 Meyzieu",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1775"
-    },
-    {
-      "departement": "69",
       "nom": "Centre de vaccination de l'H\u00f4pital de Beaujeu",
       "url": "https://partners.doctolib.fr/hopital-public/belleville-en-beaujolais/centre-de-vaccination-covid-belleville",
       "location": {
@@ -366,6 +339,33 @@
       "appointment_count": 0,
       "internal_id": "242684[]",
       "gid": "726"
+    },
+    {
+      "departement": "69",
+      "nom": "CP - US SAINT QUENTIN FALLAVIER / Etablissement sp\u00e9cialis\u00e9 pour mineurs du Rh\u00f4ne",
+      "url": "",
+      "location": {
+        "longitude": 4.99769,
+        "latitude": 45.7605
+      },
+      "metadata": {
+        "address": " Rue du Rambion, 69330 Meyzieu",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1775"
     },
     {
       "departement": "69",
@@ -480,33 +480,6 @@
     },
     {
       "departement": "69",
-      "nom": "Centre de vaccination de Vaulx-en-Velin - Centre culturel communal Charlie-Chaplin",
-      "url": "https://partners.doctolib.fr/centre-de-sante/vaulx-en-velin/centre-de-vaccination-de-vaulx-en-velin?pid=practice-178384",
-      "location": {
-        "longitude": 4.92069,
-        "latitude": 45.7777
-      },
-      "metadata": {
-        "address": " Place de la nation, 69120 Vaulx-en-Velin",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "261210[178384]",
-      "gid": "2092"
-    },
-    {
-      "departement": "69",
       "nom": "Centre de vaccination de D\u00e9cines -Charpieu -salle le toboggan",
       "url": "https://partners.doctolib.fr/centre-de-sante/decines-charpieu/centre-de-vaccination-covid-19-decines-chartieu?pid=practice-181189",
       "location": {
@@ -531,6 +504,33 @@
       "appointment_count": 0,
       "internal_id": "264660[181189]",
       "gid": "2347"
+    },
+    {
+      "departement": "69",
+      "nom": "Centre de vaccination de Vaulx-en-Velin - Centre culturel communal Charlie-Chaplin",
+      "url": "https://partners.doctolib.fr/centre-de-sante/vaulx-en-velin/centre-de-vaccination-de-vaulx-en-velin?pid=practice-178384",
+      "location": {
+        "longitude": 4.92069,
+        "latitude": 45.7777
+      },
+      "metadata": {
+        "address": " Place de la nation, 69120 Vaulx-en-Velin",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "261210[178384]",
+      "gid": "2092"
     },
     {
       "departement": "69",
@@ -645,6 +645,34 @@
     },
     {
       "departement": "69",
+      "nom": "Centre de vaccination -H\u00f4pital Edouard Herriot-HCL",
+      "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-edouard-herriot-hcl-vaccination-covid?pid=practice-163794",
+      "location": {
+        "longitude": 4.88009,
+        "latitude": 45.7433
+      },
+      "metadata": {
+        "address": "5 Place d'Arsonval, 69003 Lyon",
+        "phone_number": "+33423101010",
+        "business_hours": {
+          "lundi": "08:00-20:00",
+          "mardi": "08:00-20:00",
+          "mercredi": "08:00-20:00",
+          "jeudi": "08:00-20:00",
+          "vendredi": "08:00-20:00",
+          "samedi": "08:30-17:30",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241950[163794]",
+      "gid": "222"
+    },
+    {
+      "departement": "69",
       "nom": "Centre de vaccination de Beauvallon - Salle des Varennes",
       "url": "",
       "location": {
@@ -698,34 +726,6 @@
       "appointment_count": 0,
       "internal_id": "242620[]",
       "gid": "230"
-    },
-    {
-      "departement": "69",
-      "nom": "Centre de vaccination -H\u00f4pital Edouard Herriot-HCL",
-      "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-edouard-herriot-hcl-vaccination-covid?pid=practice-163794",
-      "location": {
-        "longitude": 4.88009,
-        "latitude": 45.7433
-      },
-      "metadata": {
-        "address": "5 Place d'Arsonval, 69003 Lyon",
-        "phone_number": "+33423101010",
-        "business_hours": {
-          "lundi": "08:00-20:00",
-          "mardi": "08:00-20:00",
-          "mercredi": "08:00-20:00",
-          "jeudi": "08:00-20:00",
-          "vendredi": "08:00-20:00",
-          "samedi": "08:30-17:30",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241950[163794]",
-      "gid": "222"
     },
     {
       "departement": "69",
@@ -952,6 +952,34 @@
     },
     {
       "departement": "69",
+      "nom": "Centre de vaccination -H\u00f4pital Lyon sud - HCL",
+      "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-lyon-sud-hcl-vaccination-covid?pid=practice-163795",
+      "location": {
+        "longitude": 4.80642,
+        "latitude": 45.7021
+      },
+      "metadata": {
+        "address": "165 Chemin du Grand Revoyet, 69310 Pierre-B\u00e9nite",
+        "phone_number": "+33423101010",
+        "business_hours": {
+          "lundi": "9:00 - 16:00",
+          "mardi": "9:00 - 16:00",
+          "mercredi": "9:00 - 16:00",
+          "jeudi": "9:00 - 16:00",
+          "vendredi": "9:00 - 16:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241954[163795]",
+      "gid": "226"
+    },
+    {
+      "departement": "69",
       "nom": "Centre de vaccination -H\u00f4pital Pierre Wertheimer - HCL",
       "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-pierre-wertheimer-hcl-vaccination-covid?pid=practice-163796",
       "location": {
@@ -980,31 +1008,30 @@
     },
     {
       "departement": "69",
-      "nom": "Centre de vaccination -H\u00f4pital Lyon sud - HCL",
-      "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-lyon-sud-hcl-vaccination-covid?pid=practice-163795",
+      "nom": "EPM - US/SMPR EPM du Rhone / Etablissement sp\u00e9cialis\u00e9 pour mineursdu Rh\u00f4ne",
+      "url": "",
       "location": {
-        "longitude": 4.80642,
-        "latitude": 45.7021
+        "longitude": 4.99769,
+        "latitude": 45.7605
       },
       "metadata": {
-        "address": "165 Chemin du Grand Revoyet, 69310 Pierre-B\u00e9nite",
-        "phone_number": "+33423101010",
+        "address": " Rue du Rambion, 69330 Meyzieu",
         "business_hours": {
-          "lundi": "9:00 - 16:00",
-          "mardi": "9:00 - 16:00",
-          "mercredi": "9:00 - 16:00",
-          "jeudi": "9:00 - 16:00",
-          "vendredi": "9:00 - 16:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
         }
       },
       "prochain_rdv": null,
-      "plateforme": "Doctolib",
+      "plateforme": "Autre",
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": "241954[163795]",
-      "gid": "226"
+      "internal_id": null,
+      "gid": "1777"
     },
     {
       "departement": "69",
@@ -1062,33 +1089,6 @@
     },
     {
       "departement": "69",
-      "nom": "EPM - US/SMPR EPM du Rhone / Etablissement sp\u00e9cialis\u00e9 pour mineursdu Rh\u00f4ne",
-      "url": "",
-      "location": {
-        "longitude": 4.99769,
-        "latitude": 45.7605
-      },
-      "metadata": {
-        "address": " Rue du Rambion, 69330 Meyzieu",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1777"
-    },
-    {
-      "departement": "69",
       "nom": "Equipe mobile M\u00e9trop\u00f4le de Lyon",
       "url": "",
       "location": {
@@ -1113,26 +1113,6 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "2418"
-    },
-    {
-      "departement": "69",
-      "nom": "Pharmacie De La Place Ronde",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-la-place-ronde-lyon",
-      "location": {
-        "longitude": 4.8907415,
-        "latitude": 45.7534696
-      },
-      "metadata": {
-        "address": "50 cours Richard Vitton, 69003 Lyon",
-        "phone_number": "+33478540176",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "19d3addb"
     },
     {
       "departement": "69",
@@ -1173,6 +1153,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "87af315b"
+    },
+    {
+      "departement": "69",
+      "nom": "Pharmacie De La Place Ronde",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-la-place-ronde-lyon",
+      "location": {
+        "longitude": 4.8907415,
+        "latitude": 45.7534696
+      },
+      "metadata": {
+        "address": "50 cours Richard Vitton, 69003 Lyon",
+        "phone_number": "+33478540176",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "19d3addb"
     },
     {
       "departement": "69",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:10:42.187908+02:00",
+  "last_updated": "2021-04-10T19:13:51.457571+02:00",
   "centres_disponibles": [
     {
       "departement": "94",
@@ -23,40 +23,12 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-12T10:05:00.000+02:00",
+      "prochain_rdv": "2021-04-12T10:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "drugstore",
-      "appointment_count": 2,
+      "appointment_count": 1,
       "internal_id": "261577[]",
       "gid": "d261577"
-    },
-    {
-      "departement": "94",
-      "nom": "Centre de Vaccination Marie-Th\u00e9r\u00e8se EYQUEM Cr\u00e9teil",
-      "url": "https://partners.doctolib.fr/centre-de-sante/creteil/centre-de-vaccination-covid-ville-de-creteil",
-      "location": {
-        "longitude": 2.44597,
-        "latitude": 48.7967
-      },
-      "metadata": {
-        "address": "6 Rue Thomas Edison, 94000 Cr\u00e9teil",
-        "phone_number": "+33800089250",
-        "business_hours": {
-          "lundi": "9h-12h et 13h-19h",
-          "mardi": "9h-12h et 13h-19h",
-          "mercredi": "9h-12h et 13h-19h",
-          "jeudi": "9h-12h et 13h-19h",
-          "vendredi": "9h-12h et 13h-19h",
-          "samedi": "9h-12h et 13h-19h",
-          "dimanche": "9h-12h et 13h-19h"
-        }
-      },
-      "prochain_rdv": "2021-04-12T16:36:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "243482[]",
-      "gid": "1219"
     },
     {
       "departement": "94",
@@ -79,10 +51,10 @@
           "dimanche": "08:00-20:00"
         }
       },
-      "prochain_rdv": "2021-04-12T18:00:00.000+02:00",
+      "prochain_rdv": "2021-04-12T18:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 67,
+      "appointment_count": 71,
       "internal_id": "186028[123104-180909-182271-168315]",
       "gid": "328"
     },
@@ -222,7 +194,7 @@
       "prochain_rdv": "2021-05-18T11:15:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 23,
+      "appointment_count": 19,
       "internal_id": "242887[]",
       "gid": "324"
     }
@@ -782,6 +754,34 @@
       "appointment_count": 0,
       "internal_id": "246207[167416]",
       "gid": "484"
+    },
+    {
+      "departement": "94",
+      "nom": "Centre de Vaccination Marie-Th\u00e9r\u00e8se EYQUEM Cr\u00e9teil",
+      "url": "https://partners.doctolib.fr/centre-de-sante/creteil/centre-de-vaccination-covid-ville-de-creteil",
+      "location": {
+        "longitude": 2.44597,
+        "latitude": 48.7967
+      },
+      "metadata": {
+        "address": "6 Rue Thomas Edison, 94000 Cr\u00e9teil",
+        "phone_number": "+33800089250",
+        "business_hours": {
+          "lundi": "9h-12h et 13h-19h",
+          "mardi": "9h-12h et 13h-19h",
+          "mercredi": "9h-12h et 13h-19h",
+          "jeudi": "9h-12h et 13h-19h",
+          "vendredi": "9h-12h et 13h-19h",
+          "samedi": "9h-12h et 13h-19h",
+          "dimanche": "9h-12h et 13h-19h"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243482[]",
+      "gid": "1219"
     },
     {
       "departement": "94",

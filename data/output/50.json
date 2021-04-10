@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:10:42.133948+02:00",
+  "last_updated": "2021-04-10T19:13:51.409115+02:00",
   "centres_disponibles": [
     {
       "departement": "50",
@@ -54,7 +54,7 @@
       "prochain_rdv": "2021-04-13T09:20:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 1926,
+      "appointment_count": 1924,
       "internal_id": null,
       "gid": "110"
     },
@@ -110,7 +110,7 @@
       "prochain_rdv": "2021-04-29T14:25:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 125,
+      "appointment_count": 124,
       "internal_id": "255959[175175]",
       "gid": "19"
     }
@@ -339,26 +339,6 @@
     },
     {
       "departement": "50",
-      "nom": "Pharmacie De Querqueville",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-querqueville-cherbourg-en-cotentin",
-      "location": {
-        "longitude": -1.688184,
-        "latitude": 49.6649275
-      },
-      "metadata": {
-        "address": "118 rue roger glinel, 50460 cherbourg en cotentin",
-        "phone_number": "+33233035710",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "69dc9519"
-    },
-    {
-      "departement": "50",
       "nom": "Pharmacie Des Matignon",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-matignon-granville",
       "location": {
@@ -376,6 +356,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "a86ca0d0"
+    },
+    {
+      "departement": "50",
+      "nom": "Pharmacie De Querqueville",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-querqueville-cherbourg-en-cotentin",
+      "location": {
+        "longitude": -1.688184,
+        "latitude": 49.6649275
+      },
+      "metadata": {
+        "address": "118 rue roger glinel, 50460 cherbourg en cotentin",
+        "phone_number": "+33233035710",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "69dc9519"
     },
     {
       "departement": "50",

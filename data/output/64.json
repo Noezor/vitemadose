@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:10:42.151642+02:00",
+  "last_updated": "2021-04-10T19:13:51.424543+02:00",
   "centres_disponibles": [
     {
       "departement": "64",
@@ -26,7 +26,7 @@
       "prochain_rdv": "2021-04-12T12:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 453,
+      "appointment_count": 452,
       "internal_id": "243113[]",
       "gid": "1078"
     },
@@ -110,7 +110,7 @@
       "prochain_rdv": "2021-04-12T14:26:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 36,
+      "appointment_count": 37,
       "internal_id": "243219[165183]",
       "gid": "545"
     },
@@ -200,6 +200,34 @@
     },
     {
       "departement": "64",
+      "nom": "Centre de Vaccination du CH d'ORTHEZ",
+      "url": "https://partners.doctolib.fr/hopital-public/orthez/centre-de-vaccination-covid-ch-orthez",
+      "location": {
+        "longitude": -0.771674,
+        "latitude": 43.4854
+      },
+      "metadata": {
+        "address": "0 rue du Moulin, 64300 Orthez",
+        "phone_number": "+33559697070",
+        "business_hours": {
+          "lundi": "09:00-11:45/14h-16h45",
+          "mardi": "09:00-11:45/14h-16h45",
+          "mercredi": "09:00-11:45/14h-16h45",
+          "jeudi": "09:00-11:45/14h-16h45",
+          "vendredi": "09:00-11:45/14h-16h45",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-19T20:15:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "243138[]",
+      "gid": "472"
+    },
+    {
+      "departement": "64",
       "nom": "Centre de vaccination de Bidache",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/bidache/centre-de-vaccination-covid-du-pays-de-bidache?pid=practice-181230",
       "location": {
@@ -252,62 +280,6 @@
       "appointment_count": 19,
       "internal_id": "265112[181607]",
       "gid": "2346"
-    },
-    {
-      "departement": "64",
-      "nom": "Centre de Vaccination du CH d'ORTHEZ",
-      "url": "https://partners.doctolib.fr/hopital-public/orthez/centre-de-vaccination-covid-ch-orthez",
-      "location": {
-        "longitude": -0.771674,
-        "latitude": 43.4854
-      },
-      "metadata": {
-        "address": "0 rue du Moulin, 64300 Orthez",
-        "phone_number": "+33559697070",
-        "business_hours": {
-          "lundi": "09:00-11:45/14h-16h45",
-          "mardi": "09:00-11:45/14h-16h45",
-          "mercredi": "09:00-11:45/14h-16h45",
-          "jeudi": "09:00-11:45/14h-16h45",
-          "vendredi": "09:00-11:45/14h-16h45",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-05-06T17:00:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 36,
-      "internal_id": "243138[]",
-      "gid": "472"
-    },
-    {
-      "departement": "64",
-      "nom": "Centre de vaccination de Biarritz - Casino Municipal",
-      "url": "https://partners.doctolib.fr/centre-de-sante/biarritz/centres-de-vaccination-de-la-ville-de-biarritz",
-      "location": {
-        "longitude": -1.55936,
-        "latitude": 43.4834
-      },
-      "metadata": {
-        "address": "1 Avenue Edouard VII, 64200 Biarritz",
-        "phone_number": "+33800726064",
-        "business_hours": {
-          "lundi": "12:00-16:00",
-          "mardi": "12:00-16:00",
-          "mercredi": "12:00-16:00",
-          "jeudi": "12:00-16:00",
-          "vendredi": "12:00-16:00",
-          "samedi": "12:00-16:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-05-07T14:40:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "243347[]",
-      "gid": "1067"
     },
     {
       "departement": "64",
@@ -448,6 +420,34 @@
       "appointment_count": 0,
       "internal_id": "240763[172177]",
       "gid": "183"
+    },
+    {
+      "departement": "64",
+      "nom": "Centre de vaccination de Biarritz - Casino Municipal",
+      "url": "https://partners.doctolib.fr/centre-de-sante/biarritz/centres-de-vaccination-de-la-ville-de-biarritz",
+      "location": {
+        "longitude": -1.55936,
+        "latitude": 43.4834
+      },
+      "metadata": {
+        "address": "1 Avenue Edouard VII, 64200 Biarritz",
+        "phone_number": "+33800726064",
+        "business_hours": {
+          "lundi": "12:00-16:00",
+          "mardi": "12:00-16:00",
+          "mercredi": "12:00-16:00",
+          "jeudi": "12:00-16:00",
+          "vendredi": "12:00-16:00",
+          "samedi": "12:00-16:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243347[]",
+      "gid": "1067"
     },
     {
       "departement": "64",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:10:42.134878+02:00",
+  "last_updated": "2021-04-10T19:13:51.409796+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -590,26 +590,6 @@
     },
     {
       "departement": "51",
-      "nom": "Pharmacie Croix Dampierre",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-croix-dampierre-chalons-en-champagne",
-      "location": {
-        "longitude": 4.3858888,
-        "latitude": 48.9422828
-      },
-      "metadata": {
-        "address": "AV DU PRESIDENT ROOSEVELT CC CROIX DAMPIERRE, 51000 CHALONS EN CHAMPAGNE",
-        "phone_number": "+33326219000",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "51142bd5"
-    },
-    {
-      "departement": "51",
       "nom": "Pharmacie Talleyrand",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-talleyrand-reims",
       "location": {
@@ -627,6 +607,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "9022c2dc"
+    },
+    {
+      "departement": "51",
+      "nom": "Pharmacie Croix Dampierre",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-croix-dampierre-chalons-en-champagne",
+      "location": {
+        "longitude": 4.3858888,
+        "latitude": 48.9422828
+      },
+      "metadata": {
+        "address": "AV DU PRESIDENT ROOSEVELT CC CROIX DAMPIERRE, 51000 CHALONS EN CHAMPAGNE",
+        "phone_number": "+33326219000",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "51142bd5"
     },
     {
       "departement": "51",

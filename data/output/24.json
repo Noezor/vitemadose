@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:10:42.103126+02:00",
+  "last_updated": "2021-04-10T19:13:51.384572+02:00",
   "centres_disponibles": [
     {
       "departement": "24",
@@ -32,34 +32,6 @@
     },
     {
       "departement": "24",
-      "nom": "Centre de Vaccination CH Rib\u00e9rac",
-      "url": "https://partners.doctolib.fr/hopital-public/riberac/centre-vaccination-ch-riberac-chicrdd",
-      "location": {
-        "longitude": 0.340622,
-        "latitude": 45.2452
-      },
-      "metadata": {
-        "address": "23 Rue Jean Moulin, 24600 Rib\u00e9rac",
-        "phone_number": "+33553926203 ",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "09:00-12:00/14:00-17:00",
-          "mercredi": "09:00-12:00/14:00-17:00",
-          "jeudi": "09:00-12:00/14:00-17:00",
-          "vendredi": "09:00-12:00/14:00-17:00",
-          "samedi": "09:00-12:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-16T16:12:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 3,
-      "internal_id": "241906[]",
-      "gid": "978"
-    },
-    {
-      "departement": "24",
       "nom": "Centre de vaccination COVID-19 Eymet",
       "url": "https://partners.doctolib.fr/centre-de-sante/eymet/centre-de-vaccination-covid-19-eymet",
       "location": {
@@ -78,10 +50,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-27T16:05:00.000+02:00",
+      "prochain_rdv": "2021-04-27T16:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 44,
+      "appointment_count": 43,
       "internal_id": "264649[]",
       "gid": "d264649"
     },
@@ -199,33 +171,6 @@
     },
     {
       "departement": "24",
-      "nom": "EHPAD de La Madeleine",
-      "url": "",
-      "location": {
-        "longitude": 0.478498,
-        "latitude": 44.8473
-      },
-      "metadata": {
-        "address": "40 Rue du Mar\u00e9chal Joffre, 24100 Bergerac",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1619"
-    },
-    {
-      "departement": "24",
       "nom": "EHPAD La Madeleine",
       "url": "https://partners.doctolib.fr/centre-de-sante/bergerac/centre-de-vaccination-covid-19-ehpad-la-madeleine?pid=practice-174840",
       "location": {
@@ -250,6 +195,33 @@
       "appointment_count": 0,
       "internal_id": "255520[174840]",
       "gid": "1618"
+    },
+    {
+      "departement": "24",
+      "nom": "EHPAD de La Madeleine",
+      "url": "",
+      "location": {
+        "longitude": 0.478498,
+        "latitude": 44.8473
+      },
+      "metadata": {
+        "address": "40 Rue du Mar\u00e9chal Joffre, 24100 Bergerac",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1619"
     },
     {
       "departement": "24",
@@ -334,21 +306,20 @@
     },
     {
       "departement": "24",
-      "nom": "Maison de sant\u00e9 du Pays Montponnais",
-      "url": "https://partners.doctolib.fr/centre-de-sante/montpon-menesterol/centre-de-vaccination-covid-19-montpon-menestrol?pid=practice-170938",
+      "nom": "Clinique Pasteur & CPTS",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/bergerac/centre-de-vaccination-covid-19-clinique-pasteur-bergerac-elsan?pid=practice-172067",
       "location": {
-        "longitude": 0.159106,
-        "latitude": 45.0032
+        "longitude": 0.489893,
+        "latitude": 44.8512
       },
       "metadata": {
-        "address": "8 Rue du 19 Mars 1962, 24700 Montpon-M\u00e9nest\u00e9rol",
-        "phone_number": "05 53 80 34 30",
+        "address": "54 Rue du Professeur Pozzi, 24100 Bergerac",
         "business_hours": {
-          "lundi": "9h-13h/14h-18h",
-          "mardi": "9h-13h/14h-18h",
-          "mercredi": "9h-13h/14h-18h",
-          "jeudi": "9h-13h/14h-18h",
-          "vendredi": "9h-13h/14h-18h",
+          "lundi": "13:00-17:00",
+          "mardi": "13:00-17:00",
+          "mercredi": "13:00-17:00",
+          "jeudi": "13:00-17:00",
+          "vendredi": "13:00-17:00",
           "samedi": "ferm\u00e9",
           "dimanche": "ferm\u00e9"
         }
@@ -357,8 +328,8 @@
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": "250585[170938]",
-      "gid": "1407"
+      "internal_id": "251967[172067]",
+      "gid": "1433"
     },
     {
       "departement": "24",
@@ -389,20 +360,21 @@
     },
     {
       "departement": "24",
-      "nom": "Clinique Pasteur & CPTS",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/bergerac/centre-de-vaccination-covid-19-clinique-pasteur-bergerac-elsan?pid=practice-172067",
+      "nom": "Maison de sant\u00e9 du Pays Montponnais",
+      "url": "https://partners.doctolib.fr/centre-de-sante/montpon-menesterol/centre-de-vaccination-covid-19-montpon-menestrol?pid=practice-170938",
       "location": {
-        "longitude": 0.489893,
-        "latitude": 44.8512
+        "longitude": 0.159106,
+        "latitude": 45.0032
       },
       "metadata": {
-        "address": "54 Rue du Professeur Pozzi, 24100 Bergerac",
+        "address": "8 Rue du 19 Mars 1962, 24700 Montpon-M\u00e9nest\u00e9rol",
+        "phone_number": "05 53 80 34 30",
         "business_hours": {
-          "lundi": "13:00-17:00",
-          "mardi": "13:00-17:00",
-          "mercredi": "13:00-17:00",
-          "jeudi": "13:00-17:00",
-          "vendredi": "13:00-17:00",
+          "lundi": "9h-13h/14h-18h",
+          "mardi": "9h-13h/14h-18h",
+          "mercredi": "9h-13h/14h-18h",
+          "jeudi": "9h-13h/14h-18h",
+          "vendredi": "9h-13h/14h-18h",
           "samedi": "ferm\u00e9",
           "dimanche": "ferm\u00e9"
         }
@@ -411,8 +383,8 @@
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": "251967[172067]",
-      "gid": "1433"
+      "internal_id": "250585[170938]",
+      "gid": "1407"
     },
     {
       "departement": "24",
@@ -634,6 +606,34 @@
       "appointment_count": 0,
       "internal_id": "265515[181858]",
       "gid": "2277"
+    },
+    {
+      "departement": "24",
+      "nom": "Centre de Vaccination CH Rib\u00e9rac",
+      "url": "https://partners.doctolib.fr/hopital-public/riberac/centre-vaccination-ch-riberac-chicrdd",
+      "location": {
+        "longitude": 0.340622,
+        "latitude": 45.2452
+      },
+      "metadata": {
+        "address": "23 Rue Jean Moulin, 24600 Rib\u00e9rac",
+        "phone_number": "+33553926203 ",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "09:00-12:00/14:00-17:00",
+          "mercredi": "09:00-12:00/14:00-17:00",
+          "jeudi": "09:00-12:00/14:00-17:00",
+          "vendredi": "09:00-12:00/14:00-17:00",
+          "samedi": "09:00-12:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241906[]",
+      "gid": "978"
     },
     {
       "departement": "24",

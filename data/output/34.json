@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:10:42.117008+02:00",
+  "last_updated": "2021-04-10T19:13:51.395929+02:00",
   "centres_disponibles": [
     {
       "departement": "34",
@@ -23,40 +23,12 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-11T16:45:00.000+02:00",
+      "prochain_rdv": "2021-04-11T09:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 1,
+      "appointment_count": 4,
       "internal_id": "242471[]",
       "gid": "603"
-    },
-    {
-      "departement": "34",
-      "nom": "VAILHAUQUES Service de Sant\u00e9 SDIS 34",
-      "url": "https://partners.doctolib.fr/centre-de-sante/vailhauques/centre-de-vaccination-covid-de-vailhauques",
-      "location": {
-        "longitude": 3.73874,
-        "latitude": 43.6439
-      },
-      "metadata": {
-        "address": "150 Rue Super Nova, 34570 Vailhauqu\u00e8s",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "14:00-17:00",
-          "mardi": "14:00-17:00",
-          "mercredi": "14:00-17:00",
-          "jeudi": "14:00-17:00",
-          "vendredi": "14:00-17:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-14T17:15:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 5,
-      "internal_id": "243097[]",
-      "gid": "348"
     }
   ],
   "centres_indisponibles": [
@@ -230,62 +202,6 @@
     },
     {
       "departement": "34",
-      "nom": "Centre de vaccination - Clinique St Louis de Ganges",
-      "url": "https://partners.doctolib.fr/centre-depistage-covid/ganges/centres-de-vaccination-cap-sante",
-      "location": {
-        "longitude": 3.70327,
-        "latitude": 43.9325
-      },
-      "metadata": {
-        "address": "2 Place Joseph Boudouresques, 34190 Ganges",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "13:00-17:00",
-          "mercredi": "13:00-17:00",
-          "jeudi": "13:00-18:30",
-          "vendredi": "13:00-18:30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242635[164568]",
-      "gid": "559"
-    },
-    {
-      "departement": "34",
-      "nom": "Centre de vaccination St Martin de Londres",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saint-martin-de-londres/centre-de-vaccination-covid-saint-martin-de-londres?pid=practice-165713",
-      "location": {
-        "longitude": 3.73291,
-        "latitude": 43.7912
-      },
-      "metadata": {
-        "address": " Place de la Mairie (Salle des rencontres), 34380 Saint-Martin-de-Londres",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "9:00-13:00 / 14:00-18:00",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "244041[165713]",
-      "gid": "1257"
-    },
-    {
-      "departement": "34",
       "nom": "S\u00e8te Centre de vaccination",
       "url": "https://partners.doctolib.fr/centre-de-sante/sete/centre-de-vaccination-cpts-du-bassin-de-thau",
       "location": {
@@ -339,6 +255,62 @@
       "appointment_count": 0,
       "internal_id": "242189[]",
       "gid": "344"
+    },
+    {
+      "departement": "34",
+      "nom": "Centre de vaccination St Martin de Londres",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-martin-de-londres/centre-de-vaccination-covid-saint-martin-de-londres?pid=practice-165713",
+      "location": {
+        "longitude": 3.73291,
+        "latitude": 43.7912
+      },
+      "metadata": {
+        "address": " Place de la Mairie (Salle des rencontres), 34380 Saint-Martin-de-Londres",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "9:00-13:00 / 14:00-18:00",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244041[165713]",
+      "gid": "1257"
+    },
+    {
+      "departement": "34",
+      "nom": "Centre de vaccination - Clinique St Louis de Ganges",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/ganges/centres-de-vaccination-cap-sante",
+      "location": {
+        "longitude": 3.70327,
+        "latitude": 43.9325
+      },
+      "metadata": {
+        "address": "2 Place Joseph Boudouresques, 34190 Ganges",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "13:00-17:00",
+          "mercredi": "13:00-17:00",
+          "jeudi": "13:00-18:30",
+          "vendredi": "13:00-18:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242635[164568]",
+      "gid": "559"
     },
     {
       "departement": "34",
@@ -649,6 +621,34 @@
     },
     {
       "departement": "34",
+      "nom": "VAILHAUQUES Service de Sant\u00e9 SDIS 34",
+      "url": "https://partners.doctolib.fr/centre-de-sante/vailhauques/centre-de-vaccination-covid-de-vailhauques",
+      "location": {
+        "longitude": 3.73874,
+        "latitude": 43.6439
+      },
+      "metadata": {
+        "address": "150 Rue Super Nova, 34570 Vailhauqu\u00e8s",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "14:00-17:00",
+          "mardi": "14:00-17:00",
+          "mercredi": "14:00-17:00",
+          "jeudi": "14:00-17:00",
+          "vendredi": "14:00-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243097[]",
+      "gid": "348"
+    },
+    {
+      "departement": "34",
       "nom": "BEDARIEUX Clinique 3 Vall\u00e9es",
       "url": "https://partners.doctolib.fr/centre-depistage-covid/bedarieux/centre-de-vaccination-polyclinique-des-3-vallees-cap-sante",
       "location": {
@@ -891,26 +891,6 @@
     },
     {
       "departement": "34",
-      "nom": "Pharmacie Du Vidourle",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-du-vidourle-lunel",
-      "location": {
-        "longitude": 4.1423,
-        "latitude": 43.67243
-      },
-      "metadata": {
-        "address": "391 boulevard sainte claire, 34400 Lunel",
-        "phone_number": "+33467710245",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "08a56cee"
-    },
-    {
-      "departement": "34",
       "nom": "Pharmacie Des Herbes De Saint Jean",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-herbes-de-saint-jean-saint-jean-de-vedas",
       "location": {
@@ -928,6 +908,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "5e85a894"
+    },
+    {
+      "departement": "34",
+      "nom": "Pharmacie Des Vignes",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-vignes-montpellier",
+      "location": {
+        "longitude": 3.8577281,
+        "latitude": 43.6143535
+      },
+      "metadata": {
+        "address": "31 avenue Ecole Agriculture G. Buchet, 34000 MONTPELLIER",
+        "phone_number": "+33467630785",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "b07ad721"
     },
     {
       "departement": "34",
@@ -951,15 +951,15 @@
     },
     {
       "departement": "34",
-      "nom": "Pharmacie Des Vignes",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-vignes-montpellier",
+      "nom": "Pharmacie Du Vidourle",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-du-vidourle-lunel",
       "location": {
-        "longitude": 3.8577281,
-        "latitude": 43.6143535
+        "longitude": 4.1423,
+        "latitude": 43.67243
       },
       "metadata": {
-        "address": "31 avenue Ecole Agriculture G. Buchet, 34000 MONTPELLIER",
-        "phone_number": "+33467630785",
+        "address": "391 boulevard sainte claire, 34400 Lunel",
+        "phone_number": "+33467710245",
         "business_hours": null
       },
       "prochain_rdv": null,
@@ -967,7 +967,7 @@
       "type": "drugstore",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "b07ad721"
+      "gid": "08a56cee"
     },
     {
       "departement": "34",

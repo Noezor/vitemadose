@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:10:42.118835+02:00",
+  "last_updated": "2021-04-10T19:13:51.397431+02:00",
   "centres_disponibles": [
     {
       "departement": "35",
@@ -22,40 +22,12 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-12T13:57:00.000+02:00",
+      "prochain_rdv": "2021-04-12T13:39:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 234,
+      "appointment_count": 230,
       "internal_id": "265186[181675]",
       "gid": "2397"
-    },
-    {
-      "departement": "35",
-      "nom": "RENNES Le Libert\u00e9",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/rennes/centre-de-vaccination-covid-19-rennes-liberte",
-      "location": {
-        "longitude": -1.67676,
-        "latitude": 48.1069
-      },
-      "metadata": {
-        "address": "1 Esplanade G\u00e9n\u00e9ral de Gaulle, 35000 Rennes",
-        "phone_number": "+33805690821",
-        "business_hours": {
-          "lundi": "10h00-18h30",
-          "mardi": "8h00-18h30",
-          "mercredi": "8h00-18h30",
-          "jeudi": "8h00-18h30",
-          "vendredi": "8h00-18h30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-15T09:40:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "242679[]",
-      "gid": "892"
     },
     {
       "departement": "35",
@@ -190,10 +162,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-27T12:55:00.000+02:00",
+      "prochain_rdv": "2021-04-27T13:05:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 350,
+      "appointment_count": 349,
       "internal_id": "252809[178662]",
       "gid": "2217"
     },
@@ -366,6 +338,34 @@
       "appointment_count": 0,
       "internal_id": "241927[]",
       "gid": "411"
+    },
+    {
+      "departement": "35",
+      "nom": "RENNES Le Libert\u00e9",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/rennes/centre-de-vaccination-covid-19-rennes-liberte",
+      "location": {
+        "longitude": -1.67676,
+        "latitude": 48.1069
+      },
+      "metadata": {
+        "address": "1 Esplanade G\u00e9n\u00e9ral de Gaulle, 35000 Rennes",
+        "phone_number": "+33805690821",
+        "business_hours": {
+          "lundi": "10h00-18h30",
+          "mardi": "8h00-18h30",
+          "mercredi": "8h00-18h30",
+          "jeudi": "8h00-18h30",
+          "vendredi": "8h00-18h30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242679[]",
+      "gid": "892"
     },
     {
       "departement": "35",
@@ -620,33 +620,6 @@
     },
     {
       "departement": "35",
-      "nom": "CP - UCSA - Centre p\u00e9nitentiaire des Hommes Rennes-Vezin / Centre p\u00e9nitentiaire de Rennes-V\u00e9zin le Coquet",
-      "url": "",
-      "location": {
-        "longitude": -1.73923,
-        "latitude": 48.1074
-      },
-      "metadata": {
-        "address": " Rue du Petit Pr\u00e9, 35132 Vezin-le-Coquet",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1795"
-    },
-    {
-      "departement": "35",
       "nom": "CP - UCSA  Centre P\u00e9nitentiaire des Femmes - Rennes / Centre p\u00e9nitentiaire de Rennes-V\u00e9zin le Coquet",
       "url": "",
       "location": {
@@ -671,6 +644,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1796"
+    },
+    {
+      "departement": "35",
+      "nom": "CP - UCSA - Centre p\u00e9nitentiaire des Hommes Rennes-Vezin / Centre p\u00e9nitentiaire de Rennes-V\u00e9zin le Coquet",
+      "url": "",
+      "location": {
+        "longitude": -1.73923,
+        "latitude": 48.1074
+      },
+      "metadata": {
+        "address": " Rue du Petit Pr\u00e9, 35132 Vezin-le-Coquet",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1795"
     },
     {
       "departement": "35",

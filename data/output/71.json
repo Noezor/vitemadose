@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:10:42.158610+02:00",
+  "last_updated": "2021-04-10T19:13:51.431231+02:00",
   "centres_disponibles": [
     {
       "departement": "71",
@@ -79,7 +79,7 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-24T13:18:00.000+02:00",
+      "prochain_rdv": "2021-04-24T13:36:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 357,
@@ -278,7 +278,7 @@
       "prochain_rdv": "2021-05-06T09:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 68,
+      "appointment_count": 64,
       "internal_id": "265228[181055]",
       "gid": "2370"
     },
@@ -331,10 +331,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-10T14:42:00.000+02:00",
+      "prochain_rdv": "2021-05-10T14:48:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 230,
+      "appointment_count": 227,
       "internal_id": "242421[]",
       "gid": "620"
     },
@@ -390,7 +390,7 @@
       "prochain_rdv": "2021-05-11T13:36:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 166,
+      "appointment_count": 167,
       "internal_id": "242411[]",
       "gid": "555"
     },
@@ -591,33 +591,6 @@
     },
     {
       "departement": "71",
-      "nom": "Grand centre 71N",
-      "url": "",
-      "location": {
-        "longitude": 4.85352,
-        "latitude": 46.7808
-      },
-      "metadata": {
-        "address": "3 Place de l\u2019Hotel de Ville, 71100 Chalon-sur-Sa\u00f4ne",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "2232"
-    },
-    {
-      "departement": "71",
       "nom": "Grand centre 71S",
       "url": "",
       "location": {
@@ -642,6 +615,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "2233"
+    },
+    {
+      "departement": "71",
+      "nom": "Grand centre 71N",
+      "url": "",
+      "location": {
+        "longitude": 4.85352,
+        "latitude": 46.7808
+      },
+      "metadata": {
+        "address": "3 Place de l\u2019Hotel de Ville, 71100 Chalon-sur-Sa\u00f4ne",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "2232"
     },
     {
       "departement": "71",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:10:42.155484+02:00",
+  "last_updated": "2021-04-10T19:13:51.428143+02:00",
   "centres_disponibles": [
     {
       "departement": "68",
@@ -23,10 +23,10 @@
           "dimanche": "non pr\u00e9cis\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-13T11:14:00.000+02:00",
+      "prochain_rdv": "2021-04-13T11:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 22,
+      "appointment_count": 21,
       "internal_id": "244266[]",
       "gid": "1206"
     },
@@ -51,10 +51,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-17T15:30:00.000+02:00",
+      "prochain_rdv": "2021-04-17T15:35:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 15,
+      "appointment_count": 14,
       "internal_id": "262621[179615]",
       "gid": "2343"
     },
@@ -246,10 +246,10 @@
           "dimanche": "non pr\u00e9cis\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-12T13:50:00.000+02:00",
+      "prochain_rdv": "2021-05-12T13:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 28,
+      "appointment_count": 29,
       "internal_id": "242936[]",
       "gid": "1012"
     }
@@ -397,34 +397,6 @@
     },
     {
       "departement": "68",
-      "nom": "Centre de vaccination de Ste Marie Aux Mines",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/sainte-marie-aux-mines/vaccination-covid-19-du-val-d-argent-vaccination-covid-19-sainte-marie-aux-mines",
-      "location": {
-        "longitude": 7.18098,
-        "latitude": 48.2444
-      },
-      "metadata": {
-        "address": "5 Rue Kroeber Imlin, 68160 Sainte-Marie-aux-Mines",
-        "phone_number": "+33970818161",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "13:30-17:30",
-          "mercredi": "13:30-17:30",
-          "jeudi": "13:30-17:30",
-          "vendredi": "13:30-17:30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "248240[]",
-      "gid": "1352"
-    },
-    {
-      "departement": "68",
       "nom": "Centre de vaccination de R\u00e9guisheim",
       "url": "https://partners.doctolib.fr/centre-de-sante/reguisheim/centre-de-vaccination-covid-19-espace-trois-coeur-reguisheim?pid=practice-166677",
       "location": {
@@ -450,6 +422,34 @@
       "appointment_count": 0,
       "internal_id": "245204[166677]",
       "gid": "1276"
+    },
+    {
+      "departement": "68",
+      "nom": "Centre de vaccination de Ste Marie Aux Mines",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/sainte-marie-aux-mines/vaccination-covid-19-du-val-d-argent-vaccination-covid-19-sainte-marie-aux-mines",
+      "location": {
+        "longitude": 7.18098,
+        "latitude": 48.2444
+      },
+      "metadata": {
+        "address": "5 Rue Kroeber Imlin, 68160 Sainte-Marie-aux-Mines",
+        "phone_number": "+33970818161",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "13:30-17:30",
+          "mercredi": "13:30-17:30",
+          "jeudi": "13:30-17:30",
+          "vendredi": "13:30-17:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "248240[]",
+      "gid": "1352"
     },
     {
       "departement": "68",
@@ -508,33 +508,6 @@
     },
     {
       "departement": "68",
-      "nom": "MA - USN1 Mulhouse / Maison d'Arr\u00eat de Mulhouse",
-      "url": "",
-      "location": {
-        "longitude": 7.3444,
-        "latitude": 47.7534
-      },
-      "metadata": {
-        "address": "59 Avenue Robert Schuman, 68100 Mulhouse",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1828"
-    },
-    {
-      "departement": "68",
       "nom": "MC - US d'Ensisheim / Maison centrale d'Ensisheim",
       "url": "",
       "location": {
@@ -559,6 +532,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1826"
+    },
+    {
+      "departement": "68",
+      "nom": "MA - USN1 Mulhouse / Maison d'Arr\u00eat de Mulhouse",
+      "url": "",
+      "location": {
+        "longitude": 7.3444,
+        "latitude": 47.7534
+      },
+      "metadata": {
+        "address": "59 Avenue Robert Schuman, 68100 Mulhouse",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1828"
     },
     {
       "departement": "68",

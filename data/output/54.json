@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:10:42.136817+02:00",
+  "last_updated": "2021-04-10T19:13:51.411518+02:00",
   "centres_disponibles": [
     {
       "departement": "54",
@@ -26,7 +26,7 @@
       "prochain_rdv": "2021-04-12T09:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 117,
+      "appointment_count": 115,
       "internal_id": "241211[163347-163348-163350-163351-163443-163349-163352-163827-163828-165715-165708-165799-167645-167648-167649-167650-173391-173392-173394-175255-175229-175513-175228-176288-169974-163781-179400-167641-181849-178399-181845-181848-181673-165822]",
       "gid": "89"
     },
@@ -51,10 +51,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-14T13:06:00.000+02:00",
+      "prochain_rdv": "2021-04-14T16:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 25,
+      "appointment_count": 22,
       "internal_id": "241211[167645]",
       "gid": "2011"
     },
@@ -88,6 +88,34 @@
     }
   ],
   "centres_indisponibles": [
+    {
+      "departement": "54",
+      "nom": "Laxou - CPN",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?speciality_id=5494&pid=practice-162995&enable_cookies_consent=1",
+      "location": {
+        "longitude": 6.13817,
+        "latitude": 48.6781
+      },
+      "metadata": {
+        "address": "1 Rue du Dr Archambault, 54520 Laxou",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "9:00-12:00/13:00-17:00",
+          "mardi": "9:00-12:00/13:00-17:00",
+          "mercredi": "9:00-12:00/13:00-17:00",
+          "jeudi": "9:00-12:00/13:00-17:00",
+          "vendredi": "9:00-12:00/13:00-17:00",
+          "samedi": "9:00-12:00/13:00-17:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": null,
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "943"
+    },
     {
       "departement": "54",
       "nom": "Site de vaccination du Saintois",
@@ -255,34 +283,6 @@
       "appointment_count": 0,
       "internal_id": "241211[173394]",
       "gid": "2020"
-    },
-    {
-      "departement": "54",
-      "nom": "Nancy - H\u00f4pital Central",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-162190&enable_cookies_consent=1",
-      "location": {
-        "longitude": 6.19336,
-        "latitude": 48.6839
-      },
-      "metadata": {
-        "address": " Rue Lionnois, 54000 Nancy",
-        "phone_number": "+33383851300",
-        "business_hours": {
-          "lundi": "9:00-17:00",
-          "mardi": "9:00-17:00",
-          "mercredi": "9:00-17:00",
-          "jeudi": "9:00-17:00",
-          "vendredi": "9:00-17:00",
-          "samedi": "non renseign\u00e9",
-          "dimanche": "non renseign\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": null,
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1255"
     },
     {
       "departement": "54",
@@ -706,6 +706,34 @@
     },
     {
       "departement": "54",
+      "nom": "Nancy - Centre Prouv\u00e9",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-163350",
+      "location": {
+        "longitude": 6.17679,
+        "latitude": 48.6876
+      },
+      "metadata": {
+        "address": "1 Pl de la Republique, 54000 Nancy",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "09:00-13:00/14:00-18:00",
+          "mardi": "09:00-13:00/14:00-18:00",
+          "mercredi": "09:00-13:00/14:00-18:00",
+          "jeudi": "09:00-13:00/14:00-18:00",
+          "vendredi": "09:00-13:00/14:00-18:00",
+          "samedi": "non pr\u00e9cis\u00e9",
+          "dimanche": "non pr\u00e9cis\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[163350]",
+      "gid": "874"
+    },
+    {
+      "departement": "54",
       "nom": "Centre Hospitalier Mont Saint Martin (3\u00e8me \u00e9tage)",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-165708",
       "location": {
@@ -759,34 +787,6 @@
       "appointment_count": 0,
       "internal_id": "242386[]",
       "gid": "1341"
-    },
-    {
-      "departement": "54",
-      "nom": "Nancy - Centre Prouv\u00e9",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-163350",
-      "location": {
-        "longitude": 6.17679,
-        "latitude": 48.6876
-      },
-      "metadata": {
-        "address": "1 Pl de la Republique, 54000 Nancy",
-        "phone_number": "+33383851300",
-        "business_hours": {
-          "lundi": "09:00-13:00/14:00-18:00",
-          "mardi": "09:00-13:00/14:00-18:00",
-          "mercredi": "09:00-13:00/14:00-18:00",
-          "jeudi": "09:00-13:00/14:00-18:00",
-          "vendredi": "09:00-13:00/14:00-18:00",
-          "samedi": "non pr\u00e9cis\u00e9",
-          "dimanche": "non pr\u00e9cis\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241211[163350]",
-      "gid": "874"
     },
     {
       "departement": "54",

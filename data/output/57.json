@@ -1,63 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:10:42.140154+02:00",
+  "last_updated": "2021-04-10T19:13:51.414443+02:00",
   "centres_disponibles": [
-    {
-      "departement": "57",
-      "nom": "Centre de vaccination de Metz - HIA LEGOUEST - 2",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/metz/centre-de-vaccination-n-2-hia-legouest?pid=practice-172148",
-      "location": {
-        "longitude": 6.18639,
-        "latitude": 49.1133
-      },
-      "metadata": {
-        "address": " Rue des Fr\u00e8res Lacretelle, 57070 Metz",
-        "phone_number": "+33387345345",
-        "business_hours": {
-          "lundi": "9:00-17:00",
-          "mardi": "9:00-17:00",
-          "mercredi": "9:00-17:00",
-          "jeudi": "9:00-17:00",
-          "vendredi": "9:00-17:00",
-          "samedi": "9:00-17:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-15T10:55:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "252128[172148]",
-      "gid": "1513"
-    },
-    {
-      "departement": "57",
-      "nom": "Centre de vaccination de Saint-Avold - SOS Sant\u00e9",
-      "url": "https://partners.doctolib.fr/espic-etablissement-de-sante-prive-d-interet-collectif/st-avold/centre-de-vaccination-covid-hopital-de-saint-avold",
-      "location": {
-        "longitude": 6.72429,
-        "latitude": 49.1116
-      },
-      "metadata": {
-        "address": " Rue Ambroise Par\u00e9, 57500 Saint-Avold",
-        "phone_number": "+33387918170 ",
-        "business_hours": {
-          "lundi": "08:00-17:00",
-          "mardi": "08:00-17:00",
-          "mercredi": "08:00-17:00",
-          "jeudi": "08:00-17:00",
-          "vendredi": "08:00-17:00",
-          "samedi": "08:00-12:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-16T14:00:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "242615[]",
-      "gid": "1114"
-    },
     {
       "departement": "57",
       "nom": "Centre de vaccination de R\u00e9milly",
@@ -79,10 +23,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-28T12:15:00.000+02:00",
+      "prochain_rdv": "2021-04-28T15:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 137,
+      "appointment_count": 139,
       "internal_id": "254139[173661]",
       "gid": "1752"
     },
@@ -116,6 +60,34 @@
     }
   ],
   "centres_indisponibles": [
+    {
+      "departement": "57",
+      "nom": "Centre de vaccination de Metz - HIA LEGOUEST - 2",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/metz/centre-de-vaccination-n-2-hia-legouest?pid=practice-172148",
+      "location": {
+        "longitude": 6.18639,
+        "latitude": 49.1133
+      },
+      "metadata": {
+        "address": " Rue des Fr\u00e8res Lacretelle, 57070 Metz",
+        "phone_number": "+33387345345",
+        "business_hours": {
+          "lundi": "9:00-17:00",
+          "mardi": "9:00-17:00",
+          "mercredi": "9:00-17:00",
+          "jeudi": "9:00-17:00",
+          "vendredi": "9:00-17:00",
+          "samedi": "9:00-17:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "252128[172148]",
+      "gid": "1513"
+    },
     {
       "departement": "57",
       "nom": "Centre de vaccination de Metz - UNEOS - Site Belle Isle",
@@ -678,6 +650,34 @@
     },
     {
       "departement": "57",
+      "nom": "Centre de vaccination de Saint-Avold - SOS Sant\u00e9",
+      "url": "https://partners.doctolib.fr/espic-etablissement-de-sante-prive-d-interet-collectif/st-avold/centre-de-vaccination-covid-hopital-de-saint-avold",
+      "location": {
+        "longitude": 6.72429,
+        "latitude": 49.1116
+      },
+      "metadata": {
+        "address": " Rue Ambroise Par\u00e9, 57500 Saint-Avold",
+        "phone_number": "+33387918170 ",
+        "business_hours": {
+          "lundi": "08:00-17:00",
+          "mardi": "08:00-17:00",
+          "mercredi": "08:00-17:00",
+          "jeudi": "08:00-17:00",
+          "vendredi": "08:00-17:00",
+          "samedi": "08:00-12:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242615[]",
+      "gid": "1114"
+    },
+    {
+      "departement": "57",
       "nom": "Centre de vaccination de Thionville - Clinique Notre-Dame",
       "url": "https://partners.doctolib.fr/clinique-privee/thionville/centre-de-vaccination-thionville-elsan",
       "location": {
@@ -817,33 +817,6 @@
     },
     {
       "departement": "57",
-      "nom": "CP - US / Centre P\u00e9nitentiaire de Metz",
-      "url": "",
-      "location": {
-        "longitude": 6.19126,
-        "latitude": 49.0781
-      },
-      "metadata": {
-        "address": "1 Rue de la Source, 57000 Metz",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1824"
-    },
-    {
-      "departement": "57",
       "nom": "MA - US DE SARREGUEMINES / Maison d'Arr\u00eat de Sarreguemines",
       "url": "",
       "location": {
@@ -868,6 +841,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1823"
+    },
+    {
+      "departement": "57",
+      "nom": "CP - US / Centre P\u00e9nitentiaire de Metz",
+      "url": "",
+      "location": {
+        "longitude": 6.19126,
+        "latitude": 49.0781
+      },
+      "metadata": {
+        "address": "1 Rue de la Source, 57000 Metz",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1824"
     },
     {
       "departement": "57",

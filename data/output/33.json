@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:10:42.114665+02:00",
+  "last_updated": "2021-04-10T19:13:51.394368+02:00",
   "centres_disponibles": [
     {
       "departement": "33",
@@ -53,7 +53,7 @@
       "prochain_rdv": "2021-04-12T17:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 298,
+      "appointment_count": 300,
       "internal_id": "242928[]",
       "gid": "992"
     },
@@ -142,6 +142,34 @@
     },
     {
       "departement": "33",
+      "nom": "CENTRE DE VACCINATION DU GRAND CUBZAGUAIS",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-andre-de-cubzac/centre-de-vaccination-du-grand-cubzaguais?pid=practice-179089",
+      "location": {
+        "longitude": -0.450703,
+        "latitude": 44.9883
+      },
+      "metadata": {
+        "address": "67 Rue Henri Grou\u00e8s dit Abb\u00e9 Pierre, 33240 Saint-Andr\u00e9-de-Cubzac",
+        "phone_number": "33532630142",
+        "business_hours": {
+          "lundi": "09:00-12:30/13:30-17:00",
+          "mardi": "09:00-12:30/13:30-17:00",
+          "mercredi": "09:00-12:30/13:30-17:00",
+          "jeudi": "09:00-12:30/13:30-17:00",
+          "vendredi": "09:00-12:30/13:30-17:00",
+          "samedi": "09:00-12:30/13:30-17:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-15T10:36:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 62,
+      "internal_id": "262000[179089]",
+      "gid": "2221"
+    },
+    {
+      "departement": "33",
       "nom": "Centre de vaccination Covid-19 - Castillon Pujols",
       "url": "https://partners.doctolib.fr/centre-de-sante/castillon-pujols/centre-de-vaccination-covid-19-castillon-pujols",
       "location": {
@@ -160,10 +188,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-15T12:10:00.000+02:00",
+      "prochain_rdv": "2021-04-15T12:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 46,
+      "appointment_count": 45,
       "internal_id": "263487[]",
       "gid": "d263487"
     },
@@ -275,7 +303,7 @@
       "prochain_rdv": "2021-05-12T11:05:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 173,
+      "appointment_count": 172,
       "internal_id": "243183[]",
       "gid": "146"
     }
@@ -477,61 +505,6 @@
     },
     {
       "departement": "33",
-      "nom": "Centre de vaccination Lormont Carriet",
-      "url": "",
-      "location": {
-        "longitude": -0.525227,
-        "latitude": 44.8819
-      },
-      "metadata": {
-        "address": "3 Place Fran\u00e7ois Magendie, 33310 Lormont",
-        "business_hours": {
-          "lundi": "08:00-12:00/14:00-18:00",
-          "mardi": "08:00-12:00/14:00-18:00",
-          "mercredi": "08:00-12:00/14:00-18:00",
-          "jeudi": "08:00-12:00/14:00-18:00",
-          "vendredi": "08:00-12:00/14:00-18:00",
-          "samedi": "08:00-12:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1637"
-    },
-    {
-      "departement": "33",
-      "nom": "CENTRE DE VACCINATION DU GRAND CUBZAGUAIS",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saint-andre-de-cubzac/centre-de-vaccination-du-grand-cubzaguais?pid=practice-179089",
-      "location": {
-        "longitude": -0.450703,
-        "latitude": 44.9883
-      },
-      "metadata": {
-        "address": "67 Rue Henri Grou\u00e8s dit Abb\u00e9 Pierre, 33240 Saint-Andr\u00e9-de-Cubzac",
-        "phone_number": "33532630142",
-        "business_hours": {
-          "lundi": "09:00-12:30/13:30-17:00",
-          "mardi": "09:00-12:30/13:30-17:00",
-          "mercredi": "09:00-12:30/13:30-17:00",
-          "jeudi": "09:00-12:30/13:30-17:00",
-          "vendredi": "09:00-12:30/13:30-17:00",
-          "samedi": "09:00-12:30/13:30-17:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "262000[179089]",
-      "gid": "2221"
-    },
-    {
-      "departement": "33",
       "nom": "Centre de vaccination - Domaine des Lug\u00e9es",
       "url": "https://partners.doctolib.fr/centre-de-sante/ares/centre-de-vaccination-covid-19-nord-bassin-ville-d-ares?pid=practice-171900",
       "location": {
@@ -559,30 +532,30 @@
     },
     {
       "departement": "33",
-      "nom": "Centre de vaccination Haute Gironde - CARS",
-      "url": "https://partners.doctolib.fr/centre-de-sante/cars/centre-de-vaccination-de-la-haute-gironde?pid=practice-170371",
+      "nom": "Centre de vaccination Lormont Carriet",
+      "url": "",
       "location": {
-        "longitude": -0.619462,
-        "latitude": 45.1298
+        "longitude": -0.525227,
+        "latitude": 44.8819
       },
       "metadata": {
-        "address": "5 Le Bourg, 33390 Cars",
+        "address": "3 Place Fran\u00e7ois Magendie, 33310 Lormont",
         "business_hours": {
-          "lundi": "09:00-12:30/13:00-17:00",
-          "mardi": "09:00-12:30/13:00-17:00",
-          "mercredi": "09:00-12:30/13:00-17:00",
-          "jeudi": "09:00-12:30/13:00-17:00",
-          "vendredi": "09:00-12:30/13:00-17:00",
-          "samedi": "09:00-12:00",
+          "lundi": "08:00-12:00/14:00-18:00",
+          "mardi": "08:00-12:00/14:00-18:00",
+          "mercredi": "08:00-12:00/14:00-18:00",
+          "jeudi": "08:00-12:00/14:00-18:00",
+          "vendredi": "08:00-12:00/14:00-18:00",
+          "samedi": "08:00-12:00",
           "dimanche": "ferm\u00e9"
         }
       },
       "prochain_rdv": null,
-      "plateforme": "Doctolib",
+      "plateforme": "Autre",
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": "249917[170371]",
-      "gid": "1719"
+      "internal_id": null,
+      "gid": "1637"
     },
     {
       "departement": "33",
@@ -611,6 +584,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1721"
+    },
+    {
+      "departement": "33",
+      "nom": "Centre de vaccination Haute Gironde - CARS",
+      "url": "https://partners.doctolib.fr/centre-de-sante/cars/centre-de-vaccination-de-la-haute-gironde?pid=practice-170371",
+      "location": {
+        "longitude": -0.619462,
+        "latitude": 45.1298
+      },
+      "metadata": {
+        "address": "5 Le Bourg, 33390 Cars",
+        "business_hours": {
+          "lundi": "09:00-12:30/13:00-17:00",
+          "mardi": "09:00-12:30/13:00-17:00",
+          "mercredi": "09:00-12:30/13:00-17:00",
+          "jeudi": "09:00-12:30/13:00-17:00",
+          "vendredi": "09:00-12:30/13:00-17:00",
+          "samedi": "09:00-12:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "249917[170371]",
+      "gid": "1719"
     },
     {
       "departement": "33",
@@ -998,86 +998,6 @@
     },
     {
       "departement": "33",
-      "nom": "Lamothe-Landerron",
-      "url": "https://app.ordoclic.fr/app/pharmacie/lamothe-landerron-lamothe-landerron",
-      "location": {
-        "longitude": 0.0418304,
-        "latitude": 44.5651157
-      },
-      "metadata": {
-        "address": "3 route de Bordeaux lieu dit Les Granges Sud, 33190 Lamothe Landerron",
-        "phone_number": "+33556617126",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "162a0c72"
-    },
-    {
-      "departement": "33",
-      "nom": "Pharmacie De La Jalle",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-la-jalle-saint-medard-en-jalles",
-      "location": {
-        "longitude": -0.6973977,
-        "latitude": 44.8859084
-      },
-      "metadata": {
-        "address": "34 Avenue Descartes, 33160 Saint-M\u00e9dard-en-Jalles",
-        "phone_number": "+33556957030",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1112df05"
-    },
-    {
-      "departement": "33",
-      "nom": "Pharmacie Des Dionysiens",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-dionysiens-saint-denis-de-pile",
-      "location": {
-        "longitude": -0.2011825,
-        "latitude": 44.9921997
-      },
-      "metadata": {
-        "address": "35 Avenue Francois Mitterrand, 33910 Saint-Denis-de-Pile",
-        "phone_number": "+33557550545",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "39764dba"
-    },
-    {
-      "departement": "33",
-      "nom": "Pharmacie Guillot",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-guillot-artigues-pres-bordeaux",
-      "location": {
-        "longitude": -0.4729472,
-        "latitude": 44.865377
-      },
-      "metadata": {
-        "address": "3 AV DU PERIGORD, 33370 ARTIGUES PRES BORDEAUX",
-        "phone_number": "+33557340542",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "356fc43b"
-    },
-    {
-      "departement": "33",
       "nom": "Pharmacie Delahaye Eurl",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-delahaye-eurl-saint-aubin-de-medoc",
       "location": {
@@ -1114,6 +1034,86 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "f01a7e60"
+    },
+    {
+      "departement": "33",
+      "nom": "Pharmacie De La Jalle",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-la-jalle-saint-medard-en-jalles",
+      "location": {
+        "longitude": -0.6973977,
+        "latitude": 44.8859084
+      },
+      "metadata": {
+        "address": "34 Avenue Descartes, 33160 Saint-M\u00e9dard-en-Jalles",
+        "phone_number": "+33556957030",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1112df05"
+    },
+    {
+      "departement": "33",
+      "nom": "Lamothe-Landerron",
+      "url": "https://app.ordoclic.fr/app/pharmacie/lamothe-landerron-lamothe-landerron",
+      "location": {
+        "longitude": 0.0418304,
+        "latitude": 44.5651157
+      },
+      "metadata": {
+        "address": "3 route de Bordeaux lieu dit Les Granges Sud, 33190 Lamothe Landerron",
+        "phone_number": "+33556617126",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "162a0c72"
+    },
+    {
+      "departement": "33",
+      "nom": "Pharmacie Guillot",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-guillot-artigues-pres-bordeaux",
+      "location": {
+        "longitude": -0.4729472,
+        "latitude": 44.865377
+      },
+      "metadata": {
+        "address": "3 AV DU PERIGORD, 33370 ARTIGUES PRES BORDEAUX",
+        "phone_number": "+33557340542",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "356fc43b"
+    },
+    {
+      "departement": "33",
+      "nom": "Pharmacie Des Dionysiens",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-dionysiens-saint-denis-de-pile",
+      "location": {
+        "longitude": -0.2011825,
+        "latitude": 44.9921997
+      },
+      "metadata": {
+        "address": "35 Avenue Francois Mitterrand, 33910 Saint-Denis-de-Pile",
+        "phone_number": "+33557550545",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "39764dba"
     },
     {
       "departement": "33",

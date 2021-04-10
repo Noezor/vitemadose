@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:10:42.086594+02:00",
+  "last_updated": "2021-04-10T19:13:51.370753+02:00",
   "centres_disponibles": [
     {
       "departement": "07",
@@ -51,10 +51,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-03T16:50:00.000+02:00",
+      "prochain_rdv": "2021-05-04T10:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 424,
+      "appointment_count": 423,
       "internal_id": "241919[]",
       "gid": "240"
     },
@@ -79,10 +79,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-17T16:35:00.000+02:00",
+      "prochain_rdv": "2021-05-17T16:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 8,
+      "appointment_count": 7,
       "internal_id": "246862[167899]",
       "gid": "1412"
     }
@@ -118,33 +118,6 @@
     },
     {
       "departement": "07",
-      "nom": "Centre de vaccination \u00e9ph\u00e9m\u00e8re du Val d'Ay",
-      "url": "",
-      "location": {
-        "longitude": 4.6247,
-        "latitude": 45.1555
-      },
-      "metadata": {
-        "address": "160 Rue de Peyrard, 07290 Satillieu",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "2327"
-    },
-    {
-      "departement": "07",
       "nom": "CENTRE HOSPITALIER D'ARDECHE NORD (Professionnels de sant\u00e9 uniquement)",
       "url": "https://www.maiia.com/centre-hospitalier-(ch)/07100-annonay/centre-hospitalier-d-ardeche-nord-",
       "location": {
@@ -170,6 +143,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "237"
+    },
+    {
+      "departement": "07",
+      "nom": "Centre de vaccination \u00e9ph\u00e9m\u00e8re du Val d'Ay",
+      "url": "",
+      "location": {
+        "longitude": 4.6247,
+        "latitude": 45.1555
+      },
+      "metadata": {
+        "address": "160 Rue de Peyrard, 07290 Satillieu",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "2327"
     },
     {
       "departement": "07",

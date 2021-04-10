@@ -1,7 +1,34 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:10:42.125455+02:00",
+  "last_updated": "2021-04-10T19:13:51.403844+02:00",
   "centres_disponibles": [
+    {
+      "departement": "42",
+      "nom": "Centre Hyg\u00e9e \u2013 Vaccination Moderna",
+      "url": "https://partners.doctolib.fr/hopital-public/saint-priest-en-jarez/centre-hygee-vaccination-moderna",
+      "location": {
+        "longitude": 4.3604699,
+        "latitude": 45.4798076
+      },
+      "metadata": {
+        "address": "1 Chemin de la Marandi\u00e8re, 42270 Saint-Priest-en-Jarez",
+        "business_hours": {
+          "lundi": "09:00-18:00",
+          "mardi": "09:00-18:00",
+          "mercredi": "09:00-18:00",
+          "jeudi": "09:00-18:00",
+          "vendredi": "09:00-18:00",
+          "samedi": "09:00-18:00",
+          "dimanche": "09:00-18:00"
+        }
+      },
+      "prochain_rdv": "2021-04-11T09:00:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 290,
+      "internal_id": "251571[]",
+      "gid": "d251571"
+    },
     {
       "departement": "42",
       "nom": "Grand centre Saint-Etienne  Salle Omnisport",
@@ -23,7 +50,7 @@
           "dimanche": "09:00-18:00"
         }
       },
-      "prochain_rdv": "2021-04-12T11:40:00.000+02:00",
+      "prochain_rdv": "2021-04-11T12:35:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 627,
@@ -54,36 +81,9 @@
       "prochain_rdv": "2021-04-12T13:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 288,
+      "appointment_count": 289,
       "internal_id": "251571[169578]",
       "gid": "1488"
-    },
-    {
-      "departement": "42",
-      "nom": "Centre Hyg\u00e9e \u2013 Vaccination Moderna",
-      "url": "https://partners.doctolib.fr/hopital-public/saint-priest-en-jarez/centre-hygee-vaccination-moderna",
-      "location": {
-        "longitude": 4.3604699,
-        "latitude": 45.4798076
-      },
-      "metadata": {
-        "address": "1 Chemin de la Marandi\u00e8re, 42270 Saint-Priest-en-Jarez",
-        "business_hours": {
-          "lundi": "09:00-18:00",
-          "mardi": "09:00-18:00",
-          "mercredi": "09:00-18:00",
-          "jeudi": "09:00-18:00",
-          "vendredi": "09:00-18:00",
-          "samedi": "09:00-18:00",
-          "dimanche": "09:00-18:00"
-        }
-      },
-      "prochain_rdv": "2021-04-12T13:10:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 289,
-      "internal_id": "251571[]",
-      "gid": "d251571"
     },
     {
       "departement": "42",
@@ -137,7 +137,7 @@
       "prochain_rdv": "2021-04-15T17:15:00.000000Z",
       "plateforme": "Maiia",
       "type": "vaccination-center",
-      "appointment_count": 9,
+      "appointment_count": 8,
       "internal_id": null,
       "gid": "821"
     },
@@ -193,7 +193,7 @@
       "prochain_rdv": "2021-04-23T16:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 32,
+      "appointment_count": 30,
       "internal_id": "249030[168936]",
       "gid": "180"
     },
@@ -221,7 +221,7 @@
       "prochain_rdv": "2021-04-23T16:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 32,
+      "appointment_count": 30,
       "internal_id": "249030[]",
       "gid": "d249030"
     },
@@ -246,10 +246,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-27T09:40:00.000+02:00",
+      "prochain_rdv": "2021-04-27T09:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 274,
+      "appointment_count": 272,
       "internal_id": "241654[180917]",
       "gid": "823"
     },
@@ -277,7 +277,7 @@
       "prochain_rdv": "2021-04-30T18:15:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 99,
+      "appointment_count": 98,
       "internal_id": "264489[]",
       "gid": "d264489"
     },
@@ -308,6 +308,34 @@
       "appointment_count": 1,
       "internal_id": "243348[165752]",
       "gid": "1220"
+    },
+    {
+      "departement": "42",
+      "nom": "Ville de Montbrison - salle de l'Orangerie - Jardin d'Allard",
+      "url": "https://partners.doctolib.fr/centre-de-sante/montbrison/centre-de-vaccination-covid-ville-de-montbrison?pid=practice-166002",
+      "location": {
+        "longitude": 4.05847,
+        "latitude": 45.6074
+      },
+      "metadata": {
+        "address": " Avenue d'Allard, 42600 Montbrison",
+        "phone_number": "+33477962000",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "09:00-17:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-11T11:40:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 2,
+      "internal_id": "244292[166002]",
+      "gid": "1222"
     }
   ],
   "centres_indisponibles": [
@@ -586,34 +614,6 @@
       "appointment_count": 0,
       "internal_id": "262833[179779]",
       "gid": "2242"
-    },
-    {
-      "departement": "42",
-      "nom": "Ville de Montbrison - salle de l'Orangerie - Jardin d'Allard",
-      "url": "https://partners.doctolib.fr/centre-de-sante/montbrison/centre-de-vaccination-covid-ville-de-montbrison?pid=practice-166002",
-      "location": {
-        "longitude": 4.05847,
-        "latitude": 45.6074
-      },
-      "metadata": {
-        "address": " Avenue d'Allard, 42600 Montbrison",
-        "phone_number": "+33477962000",
-        "business_hours": {
-          "lundi": "09:00-17:00",
-          "mardi": "09:00-17:00",
-          "mercredi": "09:00-17:00",
-          "jeudi": "09:00-17:00",
-          "vendredi": "09:00-17:00",
-          "samedi": "09:00-17:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "244292[166002]",
-      "gid": "1222"
     },
     {
       "departement": "42",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:10:42.148467+02:00",
+  "last_updated": "2021-04-10T19:13:51.421749+02:00",
   "centres_disponibles": [
     {
       "departement": "62",
@@ -25,7 +25,7 @@
       "prochain_rdv": "2021-04-11T08:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 71,
+      "appointment_count": 72,
       "internal_id": "258354[176735]",
       "gid": "1952"
     },
@@ -49,7 +49,7 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-11T08:30:00.000+02:00",
+      "prochain_rdv": "2021-04-11T08:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 53,
@@ -160,7 +160,7 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-11T12:00:00.000+02:00",
+      "prochain_rdv": "2021-04-11T11:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 5,
@@ -190,7 +190,7 @@
       "prochain_rdv": "2021-04-11T12:55:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 159,
+      "appointment_count": 158,
       "internal_id": "258280[]",
       "gid": "d258280"
     },
@@ -242,7 +242,7 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-12T12:40:00.000+02:00",
+      "prochain_rdv": "2021-04-12T12:55:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 315,
@@ -792,6 +792,34 @@
     },
     {
       "departement": "62",
+      "nom": "Centre de vaccination - CHRSO et CPTS Audomaroise, Salle des sports du pavillon 3 \u2013 CH St Omer",
+      "url": "https://partners.doctolib.fr/hopital-public/saint-omer/ch-region-st-omer-centre-de-vaccination-covid-19?pid=practice-164177",
+      "location": {
+        "longitude": 2.24448,
+        "latitude": 50.7001
+      },
+      "metadata": {
+        "address": " Rue de Blendecques, 62570 Helfaut",
+        "phone_number": "03 92 04 34 71 ",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242389[164177]",
+      "gid": "396"
+    },
+    {
+      "departement": "62",
       "nom": "Centre de vaccination - Centre SDIS Avesnes Le Comte, Salle Jacques Nirdol",
       "url": "https://partners.doctolib.fr/centre-de-sante/bruay-la-buissiere/centre-de-vaccination-covid-pas-de-calais?pid=practice-164609",
       "location": {
@@ -845,34 +873,6 @@
       "appointment_count": 0,
       "internal_id": "242643[164610]",
       "gid": "1104"
-    },
-    {
-      "departement": "62",
-      "nom": "Centre de vaccination - CHRSO et CPTS Audomaroise, Salle des sports du pavillon 3 \u2013 CH St Omer",
-      "url": "https://partners.doctolib.fr/hopital-public/saint-omer/ch-region-st-omer-centre-de-vaccination-covid-19?pid=practice-164177",
-      "location": {
-        "longitude": 2.24448,
-        "latitude": 50.7001
-      },
-      "metadata": {
-        "address": " Rue de Blendecques, 62570 Helfaut",
-        "phone_number": "03 92 04 34 71 ",
-        "business_hours": {
-          "lundi": "",
-          "mardi": "",
-          "mercredi": "",
-          "jeudi": "",
-          "vendredi": "",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242389[164177]",
-      "gid": "396"
     },
     {
       "departement": "62",
@@ -1265,33 +1265,6 @@
     },
     {
       "departement": "62",
-      "nom": "CP - US du centre hospitalier de la R\u00e9gion de Saint-Omer / Centre P\u00e9nitentiaire de Longuenesse",
-      "url": "",
-      "location": {
-        "longitude": 2.23624,
-        "latitude": 50.7305
-      },
-      "metadata": {
-        "address": " Chemin du Plateau des Bruy\u00e8res, 62219 Longuenesse",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1845"
-    },
-    {
-      "departement": "62",
       "nom": "MA - US DE BETHUNE / Maison d'Arr\u00eat de B\u00e9thune",
       "url": "",
       "location": {
@@ -1319,23 +1292,30 @@
     },
     {
       "departement": "62",
-      "nom": "Pharmacie Test",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-test-rebreuve-sur-canche",
+      "nom": "CP - US du centre hospitalier de la R\u00e9gion de Saint-Omer / Centre P\u00e9nitentiaire de Longuenesse",
+      "url": "",
       "location": {
-        "longitude": 2.34151,
-        "latitude": 50.2680999
+        "longitude": 2.23624,
+        "latitude": 50.7305
       },
       "metadata": {
-        "address": "Rue de L, 62270 Rebreuve-sur-Canche",
-        "phone_number": "+33631244223",
-        "business_hours": null
+        "address": " Chemin du Plateau des Bruy\u00e8res, 62219 Longuenesse",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
       },
       "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
+      "plateforme": "Autre",
+      "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "12fcfc61"
+      "gid": "1845"
     },
     {
       "departement": "62",
@@ -1356,26 +1336,6 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "f1e18603"
-    },
-    {
-      "departement": "62",
-      "nom": "Pharmacie Du Transvaal",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-du-transvaal-divion",
-      "location": {
-        "longitude": 2.5027179,
-        "latitude": 50.467781
-      },
-      "metadata": {
-        "address": "84 RUE ACHILLE BODELOT, 62460 DIVION",
-        "phone_number": "+33321536177",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "0a9c8360"
     },
     {
       "departement": "62",
@@ -1416,6 +1376,46 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "e9c4990e"
+    },
+    {
+      "departement": "62",
+      "nom": "Pharmacie Du Transvaal",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-du-transvaal-divion",
+      "location": {
+        "longitude": 2.5027179,
+        "latitude": 50.467781
+      },
+      "metadata": {
+        "address": "84 RUE ACHILLE BODELOT, 62460 DIVION",
+        "phone_number": "+33321536177",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "0a9c8360"
+    },
+    {
+      "departement": "62",
+      "nom": "Pharmacie Test",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-test-rebreuve-sur-canche",
+      "location": {
+        "longitude": 2.34151,
+        "latitude": 50.2680999
+      },
+      "metadata": {
+        "address": "Rue de L, 62270 Rebreuve-sur-Canche",
+        "phone_number": "+33631244223",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "12fcfc61"
     },
     {
       "departement": "62",

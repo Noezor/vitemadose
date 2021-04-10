@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:10:42.121468+02:00",
+  "last_updated": "2021-04-10T19:13:51.399872+02:00",
   "centres_disponibles": [
     {
       "departement": "38",
@@ -23,40 +23,12 @@
           "dimanche": "09:00-18:30"
         }
       },
-      "prochain_rdv": "2021-04-11T17:20:00.000000+0200",
+      "prochain_rdv": "2021-04-11T13:25:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
       "appointment_count": 2248,
       "internal_id": null,
       "gid": "2248"
-    },
-    {
-      "departement": "38",
-      "nom": "Centre de vaccination du Gr\u00e9sivaudan - Salle polyvalente",
-      "url": "https://vaccination-covid.keldoc.com/centre-municipal-de-sante/le-versoud-38420/salle-polyvalente-le-versoud/centre-de-vaccination-de-la-salle-polyvalente-le-versoud",
-      "location": {
-        "longitude": 5.87468,
-        "latitude": 45.2249
-      },
-      "metadata": {
-        "address": "4 Rue Paul Gauguin, 38420 Le Versoud",
-        "phone_number": "+33476003134",
-        "business_hours": {
-          "lundi": "13:00-17:30",
-          "mardi": "ferm\u00e9",
-          "mercredi": "13:00-17:30",
-          "jeudi": "13:00-17:00",
-          "vendredi": "13:00-17:30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-12T13:30:00.000000+0200",
-      "plateforme": "Keldoc",
-      "type": "vaccination-center",
-      "appointment_count": 275,
-      "internal_id": null,
-      "gid": "1340"
     },
     {
       "departement": "38",
@@ -85,6 +57,34 @@
       "appointment_count": 133,
       "internal_id": null,
       "gid": "153"
+    },
+    {
+      "departement": "38",
+      "nom": "Centre hospitalier universitaire de Grenoble CHUGA (RDC du Pavillon Chatin, face au b\u00e2timent de la Direction G\u00e9n\u00e9rale)",
+      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier-universitaire/la-tronche-38700/centre-hospitalier-universitaire-grenoble-nord/centre-de-vaccination-du-chu-grenoble-nord",
+      "location": {
+        "longitude": 5.74771,
+        "latitude": 45.2004
+      },
+      "metadata": {
+        "address": "8 Chemin Duhamel, 38700 La Tronche",
+        "phone_number": "+33476003134",
+        "business_hours": {
+          "lundi": "08:30-13:00/13:30-18:30",
+          "mardi": "08:30-13:00/13:30-18:30",
+          "mercredi": "08:30-13:00/13:30-18:30",
+          "jeudi": "08:30-13:00/13:30-18:30",
+          "vendredi": "08:30-13:00/13:30-18:30",
+          "samedi": "08:30-13:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-14T11:55:00.000000+0200",
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 839,
+      "internal_id": null,
+      "gid": "149"
     },
     {
       "departement": "38",
@@ -172,6 +172,34 @@
     },
     {
       "departement": "38",
+      "nom": "Centre de vaccination du Gr\u00e9sivaudan - Salle polyvalente",
+      "url": "https://vaccination-covid.keldoc.com/centre-municipal-de-sante/le-versoud-38420/salle-polyvalente-le-versoud/centre-de-vaccination-de-la-salle-polyvalente-le-versoud",
+      "location": {
+        "longitude": 5.87468,
+        "latitude": 45.2249
+      },
+      "metadata": {
+        "address": "4 Rue Paul Gauguin, 38420 Le Versoud",
+        "phone_number": "+33476003134",
+        "business_hours": {
+          "lundi": "13:00-17:30",
+          "mardi": "ferm\u00e9",
+          "mercredi": "13:00-17:30",
+          "jeudi": "13:00-17:00",
+          "vendredi": "13:00-17:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-19T09:50:00.000000+0200",
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 273,
+      "internal_id": null,
+      "gid": "1340"
+    },
+    {
+      "departement": "38",
       "nom": "Communaut\u00e9 professionnelle territoriale de sant\u00e9 (CPTS) Sud est Grenoblois - Salle des f\u00eates",
       "url": "https://vaccination-covid.keldoc.com/cabinet-medical/eybens-80000/cpts-sud-est-grenoblois/centre-de-vaccination-du-cpts-sud-est-grenoblois",
       "location": {
@@ -219,12 +247,40 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-20T11:50:00.000+02:00",
+      "prochain_rdv": "2021-04-20T12:05:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 367,
+      "appointment_count": 366,
       "internal_id": "242219[]",
       "gid": "663"
+    },
+    {
+      "departement": "38",
+      "nom": "Centre de vaccination de Grenoble - Centre d\u00e9partemental de sant\u00e9",
+      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/grenoble-38000/centre-departemental-de-sante-du-chu-grenoble/centre-departemental-de-sante-du-chu-grenoble",
+      "location": {
+        "longitude": 5.73061,
+        "latitude": 45.1817
+      },
+      "metadata": {
+        "address": "23 Avenue Albert 1er de Belgique, 38000 Grenoble",
+        "phone_number": "+33476003134",
+        "business_hours": {
+          "lundi": "09:00-12:00/14:00-17:00",
+          "mardi": "09:00-12:00/14:00-17:00",
+          "mercredi": "09:00-12:00/14:00-17:00",
+          "jeudi": "09:00-12:00/14:00-17:00",
+          "vendredi": "09:00-12:00/14:00-17:00",
+          "samedi": "09:00-12:00/14:00-17:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-23T11:50:00.000000+0200",
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 96,
+      "internal_id": null,
+      "gid": "677"
     },
     {
       "departement": "38",
@@ -397,87 +453,30 @@
     },
     {
       "departement": "38",
-      "nom": "Centre de vaccination de Grenoble - Centre d\u00e9partemental de sant\u00e9",
-      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/grenoble-38000/centre-departemental-de-sante-du-chu-grenoble/centre-departemental-de-sante-du-chu-grenoble",
+      "nom": "Centre de vaccination COVID - Centre hospitalier de Vienne - (Professionnels de sant\u00e9 uniquement)",
+      "url": "https://partners.doctolib.fr/hopital-public/vienne/centre-de-vaccination-covid-19-ch-vienne?pid=practice-165717",
       "location": {
-        "longitude": 5.73061,
-        "latitude": 45.1817
+        "longitude": 4.87999,
+        "latitude": 45.5337
       },
       "metadata": {
-        "address": "23 Avenue Albert 1er de Belgique, 38000 Grenoble",
-        "phone_number": "+33476003134",
+        "address": " Mont Salomon, 38200 Vienne",
         "business_hours": {
-          "lundi": "09:00-12:00/14:00-17:00",
-          "mardi": "09:00-12:00/14:00-17:00",
-          "mercredi": "09:00-12:00/14:00-17:00",
-          "jeudi": "09:00-12:00/14:00-17:00",
-          "vendredi": "09:00-12:00/14:00-17:00",
-          "samedi": "09:00-12:00/14:00-17:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": null,
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "677"
-    },
-    {
-      "departement": "38",
-      "nom": "Centre hospitalier universitaire de Grenoble CHUGA (RDC du Pavillon Chatin, face au b\u00e2timent de la Direction G\u00e9n\u00e9rale)",
-      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier-universitaire/la-tronche-38700/centre-hospitalier-universitaire-grenoble-nord/centre-de-vaccination-du-chu-grenoble-nord ",
-      "location": {
-        "longitude": 5.74771,
-        "latitude": 45.2004
-      },
-      "metadata": {
-        "address": "8 Chemin Duhamel, 38700 La Tronche",
-        "phone_number": "+33476003134",
-        "business_hours": {
-          "lundi": "08:30-13:00/13:30-18:30",
-          "mardi": "08:30-13:00/13:30-18:30",
-          "mercredi": "08:30-13:00/13:30-18:30",
-          "jeudi": "08:30-13:00/13:30-18:30",
-          "vendredi": "08:30-13:00/13:30-18:30",
-          "samedi": "08:30-13:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": null,
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "149"
-    },
-    {
-      "departement": "38",
-      "nom": "Centre de vaccination de Bourgoin-Jallieu - Salle polyvalente",
-      "url": "https://vaccination-covid.keldoc.com/clinique/bourgoin-jallieu-38300/espace-senior-bourgoin-jallieu",
-      "location": {
-        "longitude": 5.29115,
-        "latitude": 45.5875
-      },
-      "metadata": {
-        "address": "92 Avenue Professeur Tixier, 38300 Bourgoin-Jallieu",
-        "phone_number": "+33476003134",
-        "business_hours": {
-          "lundi": "09:00-12:00/13:30-16:30",
-          "mardi": "09:00-12:00/13:30-16:30",
-          "mercredi": "09:00-12:00/13:30-16:30",
-          "jeudi": "09:00-12:00/13:30-16:30",
-          "vendredi": "09:00-15:00",
+          "lundi": "13:00-16:00",
+          "mardi": "ferm\u00e913:00-16:00",
+          "mercredi": "13:00-16:00",
+          "jeudi": "13:00-16:00",
+          "vendredi": "13:00-16:00",
           "samedi": "ferm\u00e9",
           "dimanche": "ferm\u00e9"
         }
       },
       "prochain_rdv": null,
-      "plateforme": "Keldoc",
+      "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": null,
-      "gid": "680"
+      "internal_id": "243833[165717]",
+      "gid": "1403"
     },
     {
       "departement": "38",
@@ -509,30 +508,31 @@
     },
     {
       "departement": "38",
-      "nom": "Centre de vaccination COVID - Centre hospitalier de Vienne - (Professionnels de sant\u00e9 uniquement)",
-      "url": "https://partners.doctolib.fr/hopital-public/vienne/centre-de-vaccination-covid-19-ch-vienne?pid=practice-165717",
+      "nom": "Centre de vaccination de Bourgoin-Jallieu - Salle polyvalente",
+      "url": "https://vaccination-covid.keldoc.com/clinique/bourgoin-jallieu-38300/espace-senior-bourgoin-jallieu",
       "location": {
-        "longitude": 4.87999,
-        "latitude": 45.5337
+        "longitude": 5.29115,
+        "latitude": 45.5875
       },
       "metadata": {
-        "address": " Mont Salomon, 38200 Vienne",
+        "address": "92 Avenue Professeur Tixier, 38300 Bourgoin-Jallieu",
+        "phone_number": "+33476003134",
         "business_hours": {
-          "lundi": "13:00-16:00",
-          "mardi": "ferm\u00e913:00-16:00",
-          "mercredi": "13:00-16:00",
-          "jeudi": "13:00-16:00",
-          "vendredi": "13:00-16:00",
+          "lundi": "09:00-12:00/13:30-16:30",
+          "mardi": "09:00-12:00/13:30-16:30",
+          "mercredi": "09:00-12:00/13:30-16:30",
+          "jeudi": "09:00-12:00/13:30-16:30",
+          "vendredi": "09:00-15:00",
           "samedi": "ferm\u00e9",
           "dimanche": "ferm\u00e9"
         }
       },
       "prochain_rdv": null,
-      "plateforme": "Doctolib",
+      "plateforme": "Keldoc",
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": "243833[165717]",
-      "gid": "1403"
+      "internal_id": null,
+      "gid": "680"
     },
     {
       "departement": "38",

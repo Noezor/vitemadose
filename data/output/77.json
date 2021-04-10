@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:10:42.168376+02:00",
+  "last_updated": "2021-04-10T19:13:51.439653+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -113,6 +113,33 @@
     },
     {
       "departement": "77",
+      "nom": "CHSSM-Site de Fontainebleau",
+      "url": "",
+      "location": {
+        "longitude": 2.6963,
+        "latitude": 48.4119
+      },
+      "metadata": {
+        "address": "55 Boulevard du Mar\u00e9chal Joffre, 77300 Fontainebleau",
+        "business_hours": {
+          "lundi": "8H30-17H30",
+          "mardi": "8H30-17H30",
+          "mercredi": "8H30-17H30",
+          "jeudi": "8H30-17H30",
+          "vendredi": "8H30-17H30",
+          "samedi": "",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1475"
+    },
+    {
+      "departement": "77",
       "nom": "Centre de vaccination GHSIF MELUN - Site de Brie Comte Robert",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/brie-comte-robert/centre-de-vaccination-de-la-brie",
       "location": {
@@ -138,33 +165,6 @@
       "appointment_count": 0,
       "internal_id": "242998[]",
       "gid": "860"
-    },
-    {
-      "departement": "77",
-      "nom": "CHSSM-Site de Fontainebleau",
-      "url": "",
-      "location": {
-        "longitude": 2.6963,
-        "latitude": 48.4119
-      },
-      "metadata": {
-        "address": "55 Boulevard du Mar\u00e9chal Joffre, 77300 Fontainebleau",
-        "business_hours": {
-          "lundi": "8H30-17H30",
-          "mardi": "8H30-17H30",
-          "mercredi": "8H30-17H30",
-          "jeudi": "8H30-17H30",
-          "vendredi": "8H30-17H30",
-          "samedi": "",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1475"
     },
     {
       "departement": "77",
@@ -827,26 +827,6 @@
     },
     {
       "departement": "77",
-      "nom": "Pharmacie De Saint Soupplets",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-saint-soupplets-saint-soupplets",
-      "location": {
-        "longitude": 2.802476,
-        "latitude": 49.0357062
-      },
-      "metadata": {
-        "address": "35 rue du Bourget, 77165 Saint Soupplets",
-        "phone_number": "+33160015039",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "27db055c"
-    },
-    {
-      "departement": "77",
       "nom": "Pharmacie Principale Nangis",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-principale-nangis-nangis",
       "location": {
@@ -903,6 +883,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "fa5e825c"
+    },
+    {
+      "departement": "77",
+      "nom": "Pharmacie De Saint Soupplets",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-saint-soupplets-saint-soupplets",
+      "location": {
+        "longitude": 2.802476,
+        "latitude": 49.0357062
+      },
+      "metadata": {
+        "address": "35 rue du Bourget, 77165 Saint Soupplets",
+        "phone_number": "+33160015039",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "27db055c"
     },
     {
       "departement": "77",

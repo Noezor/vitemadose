@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:10:42.096463+02:00",
+  "last_updated": "2021-04-10T19:13:51.378942+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -339,34 +339,6 @@
     },
     {
       "departement": "17",
-      "nom": "CH LA ROCHELLE (r\u00e9serv\u00e9 aux professionnels de sant\u00e9)",
-      "url": "https://partners.doctolib.fr/hopital-public/la-rochelle/centre-de-vaccination-de-la-rochelle?pid=practice-162596",
-      "location": {
-        "longitude": -1.14426,
-        "latitude": 46.1585
-      },
-      "metadata": {
-        "address": " Rue du Docteur Albert Schweitzer, 17000 La Rochelle",
-        "phone_number": "+33546456666",
-        "business_hours": {
-          "lundi": "09:00-16:30",
-          "mardi": "09:00-16:30",
-          "mercredi": "09:00-16:30",
-          "jeudi": "09:00-16:30",
-          "vendredi": "09:00-16:30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "240698[162596]",
-      "gid": "69"
-    },
-    {
-      "departement": "17",
       "nom": "Centre de Vaccination Saint Jean d'Ang\u00e9ly",
       "url": "https://partners.doctolib.fr/hopital-public/saint-jean-d-angely/centre-de-vaccination-covid-19-saint-jean-d-angely",
       "location": {
@@ -392,6 +364,34 @@
       "appointment_count": 0,
       "internal_id": "242637[]",
       "gid": "922"
+    },
+    {
+      "departement": "17",
+      "nom": "CH LA ROCHELLE (r\u00e9serv\u00e9 aux professionnels de sant\u00e9)",
+      "url": "https://partners.doctolib.fr/hopital-public/la-rochelle/centre-de-vaccination-de-la-rochelle?pid=practice-162596",
+      "location": {
+        "longitude": -1.14426,
+        "latitude": 46.1585
+      },
+      "metadata": {
+        "address": " Rue du Docteur Albert Schweitzer, 17000 La Rochelle",
+        "phone_number": "+33546456666",
+        "business_hours": {
+          "lundi": "09:00-16:30",
+          "mardi": "09:00-16:30",
+          "mercredi": "09:00-16:30",
+          "jeudi": "09:00-16:30",
+          "vendredi": "09:00-16:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240698[162596]",
+      "gid": "69"
     },
     {
       "departement": "17",
@@ -591,33 +591,6 @@
     },
     {
       "departement": "17",
-      "nom": "MA - US de SAINTES / Maison d'Arr\u00eat de Saintes",
-      "url": "",
-      "location": {
-        "longitude": -0.625664,
-        "latitude": 45.7457
-      },
-      "metadata": {
-        "address": "59 bis Rue de l?Arc de Triomphe, 17100 Saintes",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1880"
-    },
-    {
-      "departement": "17",
       "nom": "MA - US / Maison d'Arr\u00eat de Rochefort",
       "url": "",
       "location": {
@@ -642,6 +615,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1881"
+    },
+    {
+      "departement": "17",
+      "nom": "MA - US de SAINTES / Maison d'Arr\u00eat de Saintes",
+      "url": "",
+      "location": {
+        "longitude": -0.625664,
+        "latitude": 45.7457
+      },
+      "metadata": {
+        "address": "59 bis Rue de l?Arc de Triomphe, 17100 Saintes",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1880"
     },
     {
       "departement": "17",
@@ -700,26 +700,6 @@
     },
     {
       "departement": "17",
-      "nom": "Pharmacie Chretien",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-chretien--marennes",
-      "location": {
-        "longitude": -1.1063975,
-        "latitude": 45.8236445
-      },
-      "metadata": {
-        "address": "98 rue G Clemenceau, 17320 Marennes",
-        "phone_number": "+33546851413",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "0c5feaac"
-    },
-    {
-      "departement": "17",
       "nom": "Pharmacie Des Augustins",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-augustins-st-savinien",
       "location": {
@@ -757,6 +737,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "836ca4db"
+    },
+    {
+      "departement": "17",
+      "nom": "Pharmacie Chretien",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-chretien--marennes",
+      "location": {
+        "longitude": -1.1063975,
+        "latitude": 45.8236445
+      },
+      "metadata": {
+        "address": "98 rue G Clemenceau, 17320 Marennes",
+        "phone_number": "+33546851413",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "0c5feaac"
     },
     {
       "departement": "17",

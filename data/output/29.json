@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:10:42.108057+02:00",
+  "last_updated": "2021-04-10T19:13:51.388877+02:00",
   "centres_disponibles": [
     {
       "departement": "29",
@@ -26,7 +26,7 @@
       "prochain_rdv": "2021-04-16T18:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 21,
+      "appointment_count": 1,
       "internal_id": "241076[]",
       "gid": "256"
     },
@@ -54,37 +54,9 @@
       "prochain_rdv": "2021-04-16T18:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 21,
+      "appointment_count": 1,
       "internal_id": "241076[171984]",
       "gid": "1649"
-    },
-    {
-      "departement": "29",
-      "nom": "CROZON_Maison du temps libre",
-      "url": "https://partners.doctolib.fr/centre-de-sante/chateaulin/centre-de-vaccination-covid-19-chateaulin-crozon?pid=practice-164946",
-      "location": {
-        "longitude": -4.49194,
-        "latitude": 48.2478
-      },
-      "metadata": {
-        "address": "7 Rue de la Gare, 29160 Crozon",
-        "phone_number": "+33257180061",
-        "business_hours": {
-          "lundi": "08:30-17:30",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "08:30-17:30",
-          "vendredi": "ferm\u00e9",
-          "samedi": "08:30-17:30",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-17T13:45:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "242649[164946]",
-      "gid": "2393"
     },
     {
       "departement": "29",
@@ -135,7 +107,7 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-01T11:35:00.000000Z",
+      "prochain_rdv": "2021-05-01T12:20:00.000000Z",
       "plateforme": "Maiia",
       "type": "vaccination-center",
       "appointment_count": 1,
@@ -163,7 +135,7 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-01T11:35:00.000000Z",
+      "prochain_rdv": "2021-05-01T12:20:00.000000Z",
       "plateforme": "Maiia",
       "type": "vaccination-center",
       "appointment_count": 1,
@@ -643,6 +615,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "2220"
+    },
+    {
+      "departement": "29",
+      "nom": "CROZON_Maison du temps libre",
+      "url": "https://partners.doctolib.fr/centre-de-sante/chateaulin/centre-de-vaccination-covid-19-chateaulin-crozon?pid=practice-164946",
+      "location": {
+        "longitude": -4.49194,
+        "latitude": 48.2478
+      },
+      "metadata": {
+        "address": "7 Rue de la Gare, 29160 Crozon",
+        "phone_number": "+33257180061",
+        "business_hours": {
+          "lundi": "08:30-17:30",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "08:30-17:30",
+          "vendredi": "ferm\u00e9",
+          "samedi": "08:30-17:30",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242649[164946]",
+      "gid": "2393"
     },
     {
       "departement": "29",

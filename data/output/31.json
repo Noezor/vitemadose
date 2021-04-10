@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:10:42.112240+02:00",
+  "last_updated": "2021-04-10T19:13:51.391927+02:00",
   "centres_disponibles": [
     {
       "departement": "31",
@@ -222,7 +222,7 @@
       "prochain_rdv": "2021-04-15T15:05:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 155,
+      "appointment_count": 152,
       "internal_id": null,
       "gid": "622"
     },
@@ -306,7 +306,7 @@
       "prochain_rdv": "2021-04-19T16:55:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 326,
+      "appointment_count": 325,
       "internal_id": null,
       "gid": "599"
     },
@@ -415,10 +415,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-07T14:45:00.000000+0200",
+      "prochain_rdv": "2021-05-10T11:50:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 20,
+      "appointment_count": 18,
       "internal_id": null,
       "gid": "675"
     },
@@ -650,34 +650,6 @@
     },
     {
       "departement": "31",
-      "nom": "CDV31 Saint Gaudens",
-      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/saint-gaudens-31800/saint-gaudens/centre-de-vaccination-de-saint-gaudens",
-      "location": {
-        "longitude": 0.724206,
-        "latitude": 43.1096
-      },
-      "metadata": {
-        "address": "2 Place du Foirail, 31800 Saint-Gaudens",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "14:00-18:00",
-          "mardi": "14:00-18:00",
-          "mercredi": "14:00-18:00",
-          "jeudi": "14:00-18:00",
-          "vendredi": "14:00-18:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Keldoc",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "752"
-    },
-    {
-      "departement": "31",
       "nom": "CDV31 Saint B\u00e9at",
       "url": "https://vaccination-covid.keldoc.com/cabinet-medical/st-beat-31440/saint-beat/centre-de-vaccination-de-saint-beat",
       "location": {
@@ -703,6 +675,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "732"
+    },
+    {
+      "departement": "31",
+      "nom": "CDV31 Saint Gaudens",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/saint-gaudens-31800/saint-gaudens/centre-de-vaccination-de-saint-gaudens",
+      "location": {
+        "longitude": 0.724206,
+        "latitude": 43.1096
+      },
+      "metadata": {
+        "address": "2 Place du Foirail, 31800 Saint-Gaudens",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "14:00-18:00",
+          "mardi": "14:00-18:00",
+          "mercredi": "14:00-18:00",
+          "jeudi": "14:00-18:00",
+          "vendredi": "14:00-18:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "752"
     },
     {
       "departement": "31",
@@ -874,34 +874,6 @@
     },
     {
       "departement": "31",
-      "nom": "CDV31 CHU Toulouse La Grave",
-      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier-universitaire/toulouse-31059/centre-hospitalier-universitaire-toulouse-la-grave-hotel-dieu/centre-de-vaccination-du-centre-hospitalier-universitaire-toulouse-la-grave-hotel-dieu",
-      "location": {
-        "longitude": 1.43413,
-        "latitude": 43.6008
-      },
-      "metadata": {
-        "address": " Place Lange, 31300 Toulouse",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "9:00-16:30",
-          "vendredi": "9:00-16:30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Keldoc",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "676"
-    },
-    {
-      "departement": "31",
       "nom": "CDV31 Saint Orens De Gameville",
       "url": "https://vaccination-covid.keldoc.com/cabinet-medical/st-orens-de-gameville-31650/saint-orens-de-gameville/centre-de-vaccination-de-saint-orens-de-gameville",
       "location": {
@@ -927,6 +899,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "626"
+    },
+    {
+      "departement": "31",
+      "nom": "CDV31 CHU Toulouse La Grave",
+      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier-universitaire/toulouse-31059/centre-hospitalier-universitaire-toulouse-la-grave-hotel-dieu/centre-de-vaccination-du-centre-hospitalier-universitaire-toulouse-la-grave-hotel-dieu",
+      "location": {
+        "longitude": 1.43413,
+        "latitude": 43.6008
+      },
+      "metadata": {
+        "address": " Place Lange, 31300 Toulouse",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "9:00-16:30",
+          "vendredi": "9:00-16:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "676"
     },
     {
       "departement": "31",

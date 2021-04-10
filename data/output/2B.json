@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:10:42.110404+02:00",
+  "last_updated": "2021-04-10T19:13:51.390372+02:00",
   "centres_disponibles": [
     {
       "departement": "2B",
@@ -23,10 +23,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-11T11:20:00.000+02:00",
+      "prochain_rdv": "2021-04-11T11:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 220,
+      "appointment_count": 221,
       "internal_id": "243438[165353]",
       "gid": "1076"
     },
@@ -286,33 +286,6 @@
     },
     {
       "departement": "2B",
-      "nom": "CD - US DE CASABIANDA / Centre de D\u00e9tention de Casabianda-Al\u00e9ria",
-      "url": "",
-      "location": {
-        "longitude": 9.49263,
-        "latitude": 42.1151
-      },
-      "metadata": {
-        "address": " Casabianda, 20270 Al\u00e9ria",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1807"
-    },
-    {
-      "departement": "2B",
       "nom": "CP - US DE BORGO / Centre de D\u00e9tention de Casabianda-Al\u00e9ria",
       "url": "",
       "location": {
@@ -337,6 +310,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1808"
+    },
+    {
+      "departement": "2B",
+      "nom": "CD - US DE CASABIANDA / Centre de D\u00e9tention de Casabianda-Al\u00e9ria",
+      "url": "",
+      "location": {
+        "longitude": 9.49263,
+        "latitude": 42.1151
+      },
+      "metadata": {
+        "address": " Casabianda, 20270 Al\u00e9ria",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1807"
     }
   ]
 }

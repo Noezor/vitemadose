@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:10:42.166931+02:00",
+  "last_updated": "2021-04-10T19:13:51.438366+02:00",
   "centres_disponibles": [
     {
       "departement": "76",
@@ -51,7 +51,7 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-13T15:45:00.000+02:00",
+      "prochain_rdv": "2021-04-13T15:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 48,
@@ -82,7 +82,7 @@
       "prochain_rdv": "2021-04-13T16:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 3,
+      "appointment_count": 2,
       "internal_id": "242321[]",
       "gid": "801"
     },
@@ -135,10 +135,10 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-14T14:40:00.000+02:00",
+      "prochain_rdv": "2021-04-14T14:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 254,
+      "appointment_count": 253,
       "internal_id": "242080[181348]",
       "gid": "2360"
     },
@@ -219,10 +219,10 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-28T16:40:00.000+02:00",
+      "prochain_rdv": "2021-04-28T17:35:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 25,
+      "appointment_count": 21,
       "internal_id": "264690[181232]",
       "gid": "2359"
     },
@@ -730,26 +730,6 @@
     },
     {
       "departement": "76",
-      "nom": "Grande Pharmacie Thiers",
-      "url": "https://app.ordoclic.fr/app/pharmacie/grande-pharmacie-thiers-le-havre",
-      "location": {
-        "longitude": 0.1117815,
-        "latitude": 49.4969659
-      },
-      "metadata": {
-        "address": "42 Avenue Ren\u00e9 Coty, 76600 Le Havre",
-        "phone_number": "+33235211010",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "4a091c0d"
-    },
-    {
-      "departement": "76",
       "nom": "Pharmacie Cauchoise",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-cauchoise-rouen",
       "location": {
@@ -767,6 +747,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "63a7b39a"
+    },
+    {
+      "departement": "76",
+      "nom": "Grande Pharmacie Thiers",
+      "url": "https://app.ordoclic.fr/app/pharmacie/grande-pharmacie-thiers-le-havre",
+      "location": {
+        "longitude": 0.1117815,
+        "latitude": 49.4969659
+      },
+      "metadata": {
+        "address": "42 Avenue Ren\u00e9 Coty, 76600 Le Havre",
+        "phone_number": "+33235211010",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "4a091c0d"
     },
     {
       "departement": "76",
@@ -825,6 +825,33 @@
     },
     {
       "departement": "76",
+      "nom": "Pharmacie Jouvenet",
+      "url": "https://partners.doctolib.fr/pharmacie/rouen/pharmacie-jouvenet",
+      "location": {
+        "longitude": 1.1040361,
+        "latitude": 49.4500539
+      },
+      "metadata": {
+        "address": "26 Rue de Bihorel, 76000 Rouen",
+        "business_hours": {
+          "lundi": "08:30-12:30, 14:00-19:30",
+          "mardi": "08:30-12:30, 14:00-19:30",
+          "mercredi": "08:30-12:30, 14:00-19:30",
+          "jeudi": "08:30-12:30, 14:00-19:30",
+          "vendredi": "08:30-12:30, 14:00-19:30",
+          "samedi": "09:00-13:00, 14:00-18:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "241092[]",
+      "gid": "d241092"
+    },
+    {
+      "departement": "76",
       "nom": "Dr Nicolas Desoubry",
       "url": "https://partners.doctolib.fr/medecin-generaliste/quincampoix/nicolas-desoubry",
       "location": {
@@ -850,33 +877,6 @@
       "appointment_count": 0,
       "internal_id": "98333[]",
       "gid": "d98333"
-    },
-    {
-      "departement": "76",
-      "nom": "Pharmacie Jouvenet",
-      "url": "https://partners.doctolib.fr/pharmacie/rouen/pharmacie-jouvenet",
-      "location": {
-        "longitude": 1.1040361,
-        "latitude": 49.4500539
-      },
-      "metadata": {
-        "address": "26 Rue de Bihorel, 76000 Rouen",
-        "business_hours": {
-          "lundi": "08:30-12:30, 14:00-19:30",
-          "mardi": "08:30-12:30, 14:00-19:30",
-          "mercredi": "08:30-12:30, 14:00-19:30",
-          "jeudi": "08:30-12:30, 14:00-19:30",
-          "vendredi": "08:30-12:30, 14:00-19:30",
-          "samedi": "09:00-13:00, 14:00-18:30",
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": "241092[]",
-      "gid": "d241092"
     },
     {
       "departement": "76",

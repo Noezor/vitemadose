@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:10:42.154065+02:00",
+  "last_updated": "2021-04-10T19:13:51.426763+02:00",
   "centres_disponibles": [
     {
       "departement": "67",
@@ -26,7 +26,7 @@
       "prochain_rdv": "2021-04-13T13:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 8,
+      "appointment_count": 11,
       "internal_id": "243081[]",
       "gid": "1225"
     },
@@ -57,34 +57,6 @@
       "appointment_count": 7,
       "internal_id": "243060[164920]",
       "gid": "1226"
-    },
-    {
-      "departement": "67",
-      "nom": "Centre de vaccination Reichstett",
-      "url": "https://partners.doctolib.fr/centre-de-sante/reichstett/centre-de-vaccination-covid-19-ville-de-reichstett?pid=practice-180903",
-      "location": {
-        "longitude": 7.75065,
-        "latitude": 48.6468
-      },
-      "metadata": {
-        "address": " , 67116 Reichstett",
-        "phone_number": "09.70.81.81.61 ",
-        "business_hours": {
-          "lundi": "17h30 \u00e0 20h30",
-          "mardi": "17h30 \u00e0 20h30",
-          "mercredi": "17h30 \u00e0 20h30",
-          "jeudi": "17h30 \u00e0 20h30",
-          "vendredi": "17h30 \u00e0 20h30",
-          "samedi": "9h00 \u00e0 12h30",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-14T08:50:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 4,
-      "internal_id": "264255[180903]",
-      "gid": "2375"
     },
     {
       "departement": "67",
@@ -163,6 +135,34 @@
     },
     {
       "departement": "67",
+      "nom": "Centre de vaccination Reichstett",
+      "url": "https://partners.doctolib.fr/centre-de-sante/reichstett/centre-de-vaccination-covid-19-ville-de-reichstett?pid=practice-180903",
+      "location": {
+        "longitude": 7.75065,
+        "latitude": 48.6468
+      },
+      "metadata": {
+        "address": " , 67116 Reichstett",
+        "phone_number": "09.70.81.81.61 ",
+        "business_hours": {
+          "lundi": "17h30 \u00e0 20h30",
+          "mardi": "17h30 \u00e0 20h30",
+          "mercredi": "17h30 \u00e0 20h30",
+          "jeudi": "17h30 \u00e0 20h30",
+          "vendredi": "17h30 \u00e0 20h30",
+          "samedi": "9h00 \u00e0 12h30",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-26T10:40:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 34,
+      "internal_id": "264255[180903]",
+      "gid": "2375"
+    },
+    {
+      "departement": "67",
       "nom": "Centre de vaccination Truchtersheim",
       "url": "https://partners.doctolib.fr/centre-de-sante/truchtersheim/centre-de-vaccination-covid-19-truchtersheim?pid=practice-179527",
       "location": {
@@ -182,10 +182,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-26T16:30:00.000+02:00",
+      "prochain_rdv": "2021-04-26T16:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 212,
+      "appointment_count": 213,
       "internal_id": "262495[179527]",
       "gid": "2372"
     },
@@ -962,33 +962,6 @@
     },
     {
       "departement": "67",
-      "nom": "Dr Pascal Herbin",
-      "url": "https://partners.doctolib.fr/medecin-generaliste/lampertheim/pascal-herbin",
-      "location": {
-        "longitude": 7.68679810000003,
-        "latitude": 48.6488602
-      },
-      "metadata": {
-        "address": "5 Rue des Lobelies, 67450 Lampertheim",
-        "business_hours": {
-          "lundi": "09:00-13:00, 14:00-19:00",
-          "mardi": "09:00-13:00, 14:00-19:00",
-          "mercredi": "09:00-13:00, 09:30-12:00",
-          "jeudi": "09:00-13:00, 14:00-19:00",
-          "vendredi": "09:00-13:00, 14:00-19:00",
-          "samedi": null,
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "general-practitioner",
-      "appointment_count": 0,
-      "internal_id": "140760[]",
-      "gid": "d140760"
-    },
-    {
-      "departement": "67",
       "nom": "Pharmacie Lafayette du Corbeau",
       "url": "https://partners.doctolib.fr/pharmacie/strasbourg/pharmacie-lafayette-du-corbeau",
       "location": {
@@ -1014,6 +987,33 @@
       "appointment_count": 0,
       "internal_id": "258148[]",
       "gid": "d258148"
+    },
+    {
+      "departement": "67",
+      "nom": "Dr Pascal Herbin",
+      "url": "https://partners.doctolib.fr/medecin-generaliste/lampertheim/pascal-herbin",
+      "location": {
+        "longitude": 7.68679810000003,
+        "latitude": 48.6488602
+      },
+      "metadata": {
+        "address": "5 Rue des Lobelies, 67450 Lampertheim",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-19:00",
+          "mardi": "09:00-13:00, 14:00-19:00",
+          "mercredi": "09:00-13:00, 09:30-12:00",
+          "jeudi": "09:00-13:00, 14:00-19:00",
+          "vendredi": "09:00-13:00, 14:00-19:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "general-practitioner",
+      "appointment_count": 0,
+      "internal_id": "140760[]",
+      "gid": "d140760"
     },
     {
       "departement": "67",

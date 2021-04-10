@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:10:42.091498+02:00",
+  "last_updated": "2021-04-10T19:13:51.374417+02:00",
   "centres_disponibles": [
     {
       "departement": "13",
@@ -69,7 +69,7 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-13T09:00:00.000+02:00",
+      "prochain_rdv": "2021-04-13T10:25:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 58,
@@ -219,10 +219,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-20T12:40:00.000+02:00",
+      "prochain_rdv": "2021-04-20T12:35:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 236,
+      "appointment_count": 238,
       "internal_id": "243270[164400]",
       "gid": "438"
     },
@@ -331,7 +331,7 @@
           "dimanche": "09h00-13h00 / 14h00-18h00 "
         }
       },
-      "prochain_rdv": "2021-04-24T16:45:00.000000Z",
+      "prochain_rdv": "2021-04-24T16:50:00.000000Z",
       "plateforme": "Maiia",
       "type": "vaccination-center",
       "appointment_count": 25,
@@ -362,7 +362,7 @@
       "prochain_rdv": "2021-04-26T10:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 265,
+      "appointment_count": 264,
       "internal_id": "243091[165061]",
       "gid": "1202"
     },
@@ -594,34 +594,6 @@
     },
     {
       "departement": "13",
-      "nom": "Centre de Vaccination Miramas Saint-Chamas - Salle des f\u00eates de Miramas",
-      "url": "https://www.maiia.com/centre-de-vaccination/13140-miramas/centre-de-vaccination-de-miramas-saint-chamas",
-      "location": {
-        "longitude": 5.00027,
-        "latitude": 43.5957
-      },
-      "metadata": {
-        "address": " Rue des Lauriers, 13140 Miramas",
-        "phone_number": "+33490172677",
-        "business_hours": {
-          "lundi": "13h/17h\u00a0",
-          "mardi": "13h/17h\u00a0",
-          "mercredi": "13h/17h\u00a0",
-          "jeudi": "13h/17h\u00a0",
-          "vendredi": "13h/17h\u00a0",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Maiia",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "845"
-    },
-    {
-      "departement": "13",
       "nom": "H\u00f4tel de Ville de Marseille",
       "url": "https://www.maiia.com/centre-de-vaccination/13002-marseille/centre-de-vaccination-covid---hotel-de-ville---ville-de-marseille",
       "location": {
@@ -647,6 +619,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1048"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre de Vaccination Miramas Saint-Chamas - Salle des f\u00eates de Miramas",
+      "url": "https://www.maiia.com/centre-de-vaccination/13140-miramas/centre-de-vaccination-de-miramas-saint-chamas",
+      "location": {
+        "longitude": 5.00027,
+        "latitude": 43.5957
+      },
+      "metadata": {
+        "address": " Rue des Lauriers, 13140 Miramas",
+        "phone_number": "+33490172677",
+        "business_hours": {
+          "lundi": "13h/17h\u00a0",
+          "mardi": "13h/17h\u00a0",
+          "mercredi": "13h/17h\u00a0",
+          "jeudi": "13h/17h\u00a0",
+          "vendredi": "13h/17h\u00a0",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "845"
     },
     {
       "departement": "13",
@@ -872,34 +872,6 @@
     },
     {
       "departement": "13",
-      "nom": "P\u00f4le de sant\u00e9 Aubagne CD 13",
-      "url": "https://partners.doctolib.fr/centre-de-sante/aubagne/centre-de-vaccination-covid-pole-de-sante-aubagne",
-      "location": {
-        "longitude": 5.56603,
-        "latitude": 43.2945
-      },
-      "metadata": {
-        "address": "10 Avenue Antide Boyer, 13400 Aubagne",
-        "phone_number": "04 13 31 38 00",
-        "business_hours": {
-          "lundi": "14H - 16H",
-          "mardi": "14H - 16H",
-          "mercredi": "14H - 16H",
-          "jeudi": "14H - 16H",
-          "vendredi": "14H - 16H",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "244059[]",
-      "gid": "1141"
-    },
-    {
-      "departement": "13",
       "nom": "Centre de vaccination CPTS VAL DURANCE",
       "url": "https://partners.doctolib.fr/centre-de-sante/senas/centre-de-vaccination-covid-cpts-val-durance",
       "location": {
@@ -925,6 +897,34 @@
       "appointment_count": 0,
       "internal_id": "243963[]",
       "gid": "1029"
+    },
+    {
+      "departement": "13",
+      "nom": "P\u00f4le de sant\u00e9 Aubagne CD 13",
+      "url": "https://partners.doctolib.fr/centre-de-sante/aubagne/centre-de-vaccination-covid-pole-de-sante-aubagne",
+      "location": {
+        "longitude": 5.56603,
+        "latitude": 43.2945
+      },
+      "metadata": {
+        "address": "10 Avenue Antide Boyer, 13400 Aubagne",
+        "phone_number": "04 13 31 38 00",
+        "business_hours": {
+          "lundi": "14H - 16H",
+          "mardi": "14H - 16H",
+          "mercredi": "14H - 16H",
+          "jeudi": "14H - 16H",
+          "vendredi": "14H - 16H",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244059[]",
+      "gid": "1141"
     },
     {
       "departement": "13",
@@ -1312,14 +1312,14 @@
     },
     {
       "departement": "13",
-      "nom": "SAS - US SAS / Etablissement sp\u00e9cialis\u00e9 pour mineurs de Marseille",
+      "nom": "CD - US de Salon-de-Provence / Centre de D\u00e9tention de Salon-de-Provence",
       "url": "",
       "location": {
-        "longitude": 5.48264,
-        "latitude": 43.2898
+        "longitude": 5.06226,
+        "latitude": 43.6401
       },
       "metadata": {
-        "address": " Mont\u00e9e Commandant de Robien, 13011 Marseille",
+        "address": " Salon-de-Provence, 13300 Salon-de-Provence",
         "business_hours": {
           "lundi": "Ferm\u00e9 au public",
           "mardi": "Ferm\u00e9 au public",
@@ -1335,7 +1335,7 @@
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "1921"
+      "gid": "1918"
     },
     {
       "departement": "13",
@@ -1366,14 +1366,14 @@
     },
     {
       "departement": "13",
-      "nom": "CD - US de Salon-de-Provence / Centre de D\u00e9tention de Salon-de-Provence",
+      "nom": "MC - USMP MC Arles / Maison Centrale d'Arles",
       "url": "",
       "location": {
-        "longitude": 5.06226,
-        "latitude": 43.6401
+        "longitude": 4.63679,
+        "latitude": 43.7091
       },
       "metadata": {
-        "address": " Salon-de-Provence, 13300 Salon-de-Provence",
+        "address": "2 Rue Joseph Seguin, 13200 Arles",
         "business_hours": {
           "lundi": "Ferm\u00e9 au public",
           "mardi": "Ferm\u00e9 au public",
@@ -1389,7 +1389,34 @@
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "1918"
+      "gid": "1922"
+    },
+    {
+      "departement": "13",
+      "nom": "SAS - US SAS / Etablissement sp\u00e9cialis\u00e9 pour mineurs de Marseille",
+      "url": "",
+      "location": {
+        "longitude": 5.48264,
+        "latitude": 43.2898
+      },
+      "metadata": {
+        "address": " Mont\u00e9e Commandant de Robien, 13011 Marseille",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1921"
     },
     {
       "departement": "13",
@@ -1420,33 +1447,6 @@
     },
     {
       "departement": "13",
-      "nom": "MC - USMP MC Arles / Maison Centrale d'Arles",
-      "url": "",
-      "location": {
-        "longitude": 4.63679,
-        "latitude": 43.7091
-      },
-      "metadata": {
-        "address": "2 Rue Joseph Seguin, 13200 Arles",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1922"
-    },
-    {
-      "departement": "13",
       "nom": "Centre de secours de la basse vall\u00e9e de l\u2019Arc",
       "url": "https://partners.doctolib.fr/centre-de-sante/coudoux/centre-de-vaccination-covid-19-centre-de-secours-de-basse-vallee-de-l-arc?pid=practice-175327",
       "location": {
@@ -1472,66 +1472,6 @@
       "appointment_count": 0,
       "internal_id": "256205[175327]",
       "gid": "1987"
-    },
-    {
-      "departement": "13",
-      "nom": "Pharmacie Lanconnaise",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-lanconnaise-lancon-provence",
-      "location": {
-        "longitude": 5.1271988,
-        "latitude": 43.5893076
-      },
-      "metadata": {
-        "address": "17 bis bd Victor HUGO, 13680 LANCON PROVENCE",
-        "phone_number": "+33490427434",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1e0e040c"
-    },
-    {
-      "departement": "13",
-      "nom": "Pharmacie Lyautey",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-lyautey-carnoux-en-provence",
-      "location": {
-        "longitude": 5.566168999999999,
-        "latitude": 43.25568699999999
-      },
-      "metadata": {
-        "address": "18 boulevard du Marechal Juin, 13470 Carnoux en Provence",
-        "phone_number": "+33442737157",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "20569042"
-    },
-    {
-      "departement": "13",
-      "nom": "Herboristerie Petit",
-      "url": "https://app.ordoclic.fr/app/pharmacie/herboristerie-petit-marseille",
-      "location": {
-        "longitude": 5.3866736,
-        "latitude": 43.3002622
-      },
-      "metadata": {
-        "address": "24 Cours Joseph Thierry, 13001 Marseille",
-        "phone_number": "+33491623303",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "41b5a8e4"
     },
     {
       "departement": "13",
@@ -1630,6 +1570,66 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "f830ef23"
+    },
+    {
+      "departement": "13",
+      "nom": "Pharmacie Lanconnaise",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-lanconnaise-lancon-provence",
+      "location": {
+        "longitude": 5.1271988,
+        "latitude": 43.5893076
+      },
+      "metadata": {
+        "address": "17 bis bd Victor HUGO, 13680 LANCON PROVENCE",
+        "phone_number": "+33490427434",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1e0e040c"
+    },
+    {
+      "departement": "13",
+      "nom": "Pharmacie Lyautey",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-lyautey-carnoux-en-provence",
+      "location": {
+        "longitude": 5.566168999999999,
+        "latitude": 43.25568699999999
+      },
+      "metadata": {
+        "address": "18 boulevard du Marechal Juin, 13470 Carnoux en Provence",
+        "phone_number": "+33442737157",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "20569042"
+    },
+    {
+      "departement": "13",
+      "nom": "Herboristerie Petit",
+      "url": "https://app.ordoclic.fr/app/pharmacie/herboristerie-petit-marseille",
+      "location": {
+        "longitude": 5.3866736,
+        "latitude": 43.3002622
+      },
+      "metadata": {
+        "address": "24 Cours Joseph Thierry, 13001 Marseille",
+        "phone_number": "+33491623303",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "41b5a8e4"
     },
     {
       "departement": "13",

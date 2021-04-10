@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:10:42.173324+02:00",
+  "last_updated": "2021-04-10T19:13:51.444323+02:00",
   "centres_disponibles": [
     {
       "departement": "81",
@@ -54,7 +54,7 @@
       "prochain_rdv": "2021-04-13T12:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 233,
+      "appointment_count": 231,
       "internal_id": "242019[164315]",
       "gid": "1186"
     },
@@ -82,7 +82,7 @@
       "prochain_rdv": "2021-04-13T13:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 199,
+      "appointment_count": 194,
       "internal_id": "242019[164002]",
       "gid": "370"
     },
@@ -110,7 +110,7 @@
       "prochain_rdv": "2021-04-13T15:15:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 25,
+      "appointment_count": 24,
       "internal_id": "243490[165296]",
       "gid": "895"
     },
@@ -314,14 +314,14 @@
     },
     {
       "departement": "81",
-      "nom": "MA - US  Albi / Maison d'Arr\u00eat d'Albi",
+      "nom": "EPM - US EPM LAVAUR / Centre de D\u00e9tention de Saint-Sulpice-la-Pointe",
       "url": "",
       "location": {
-        "longitude": 2.12428,
-        "latitude": 43.9175
+        "longitude": 1.69325,
+        "latitude": 43.7762
       },
       "metadata": {
-        "address": "30 Rue Andr\u00e9 Imbert, 81000 Albi",
+        "address": "17 Chemin des Pescayres, 81370 Saint-Sulpice-la-Pointe",
         "business_hours": {
           "lundi": "Ferm\u00e9 au public",
           "mardi": "Ferm\u00e9 au public",
@@ -337,7 +337,7 @@
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "1909"
+      "gid": "1910"
     },
     {
       "departement": "81",
@@ -368,14 +368,14 @@
     },
     {
       "departement": "81",
-      "nom": "EPM - US EPM LAVAUR / Centre de D\u00e9tention de Saint-Sulpice-la-Pointe",
+      "nom": "MA - US  Albi / Maison d'Arr\u00eat d'Albi",
       "url": "",
       "location": {
-        "longitude": 1.69325,
-        "latitude": 43.7762
+        "longitude": 2.12428,
+        "latitude": 43.9175
       },
       "metadata": {
-        "address": "17 Chemin des Pescayres, 81370 Saint-Sulpice-la-Pointe",
+        "address": "30 Rue Andr\u00e9 Imbert, 81000 Albi",
         "business_hours": {
           "lundi": "Ferm\u00e9 au public",
           "mardi": "Ferm\u00e9 au public",
@@ -391,7 +391,7 @@
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "1910"
+      "gid": "1909"
     },
     {
       "departement": "81",

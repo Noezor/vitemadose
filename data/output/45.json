@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:10:42.129589+02:00",
+  "last_updated": "2021-04-10T19:13:51.406175+02:00",
   "centres_disponibles": [
     {
       "departement": "45",
@@ -32,34 +32,6 @@
     },
     {
       "departement": "45",
-      "nom": "Salle Fernand Pellicer - Orl\u00e9ans La Source",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/orleans/centre-de-vaccination-covid-fernand-pellicer-d-orleans",
-      "location": {
-        "longitude": 1.93344,
-        "latitude": 47.8343
-      },
-      "metadata": {
-        "address": " Rue Edouard Branly, 45100 Orl\u00e9ans",
-        "phone_number": "+33805021400",
-        "business_hours": {
-          "lundi": "14h-17h",
-          "mardi": "9h-17h",
-          "mercredi": "9h-17h",
-          "jeudi": "9h-17h",
-          "vendredi": "9h-17h",
-          "samedi": "en cours de d\u00e9finition",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-13T14:30:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "243107[]",
-      "gid": "609"
-    },
-    {
-      "departement": "45",
       "nom": "CHR Orl\u00e9ans La Source - r\u00e9serv\u00e9 aux professionnels de sant\u00e9",
       "url": "https://partners.doctolib.fr/hopital-public/orleans/centre-de-vaccination-covid-chr-orleans-la-source",
       "location": {
@@ -87,6 +59,34 @@
     },
     {
       "departement": "45",
+      "nom": "Salle Fernand Pellicer - Orl\u00e9ans La Source",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/orleans/centre-de-vaccination-covid-fernand-pellicer-d-orleans",
+      "location": {
+        "longitude": 1.93344,
+        "latitude": 47.8343
+      },
+      "metadata": {
+        "address": " Rue Edouard Branly, 45100 Orl\u00e9ans",
+        "phone_number": "+33805021400",
+        "business_hours": {
+          "lundi": "14h-17h",
+          "mardi": "9h-17h",
+          "mercredi": "9h-17h",
+          "jeudi": "9h-17h",
+          "vendredi": "9h-17h",
+          "samedi": "en cours de d\u00e9finition",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-26T10:00:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 52,
+      "internal_id": "243107[]",
+      "gid": "609"
+    },
+    {
+      "departement": "45",
       "nom": "Grand centre de vaccination - Olivet - Centre sportif du Larry",
       "url": "https://partners.doctolib.fr/centre-de-sante/olivet/centre-de-vaccination-covid-19-vaccinodrome-d-olivet?pid=practice-181158",
       "location": {
@@ -106,10 +106,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-27T16:15:00.000+02:00",
+      "prochain_rdv": "2021-04-27T15:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 195,
+      "appointment_count": 198,
       "internal_id": "264587[181158]",
       "gid": "2152"
     }
@@ -338,33 +338,6 @@
     },
     {
       "departement": "45",
-      "nom": "Dispensaire Porte Madeleine - r\u00e9serv\u00e9 aux professionnels de sant\u00e9",
-      "url": "https://partners.doctolib.fr/hopital-public/orleans/centre-de-vaccination-covid-chr-orleans-porte-madeleine",
-      "location": {
-        "longitude": 1.89693,
-        "latitude": 47.9017
-      },
-      "metadata": {
-        "address": "1 Rue Porte Madeleine, 45000 Orl\u00e9ans",
-        "business_hours": {
-          "lundi": "ouvert",
-          "mardi": "ouvert",
-          "mercredi": "ouvert",
-          "jeudi": "ouvert",
-          "vendredi": "ouvert",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242009[]",
-      "gid": "1356"
-    },
-    {
-      "departement": "45",
       "nom": "CH de Gien - r\u00e9serv\u00e9 aux professionnels de sant\u00e9",
       "url": "https://partners.doctolib.fr/hopital-public/gien/centre-de-vaccination-covid-hopital-de-gien",
       "location": {
@@ -389,6 +362,33 @@
       "appointment_count": 0,
       "internal_id": "242166[]",
       "gid": "1358"
+    },
+    {
+      "departement": "45",
+      "nom": "Dispensaire Porte Madeleine - r\u00e9serv\u00e9 aux professionnels de sant\u00e9",
+      "url": "https://partners.doctolib.fr/hopital-public/orleans/centre-de-vaccination-covid-chr-orleans-porte-madeleine",
+      "location": {
+        "longitude": 1.89693,
+        "latitude": 47.9017
+      },
+      "metadata": {
+        "address": "1 Rue Porte Madeleine, 45000 Orl\u00e9ans",
+        "business_hours": {
+          "lundi": "ouvert",
+          "mardi": "ouvert",
+          "mercredi": "ouvert",
+          "jeudi": "ouvert",
+          "vendredi": "ouvert",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242009[]",
+      "gid": "1356"
     },
     {
       "departement": "45",

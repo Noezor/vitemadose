@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:10:42.110939+02:00",
+  "last_updated": "2021-04-10T19:13:51.390898+02:00",
   "centres_disponibles": [
     {
       "departement": "30",
@@ -57,34 +57,6 @@
       "appointment_count": 20,
       "internal_id": "51379[]",
       "gid": "d51379"
-    },
-    {
-      "departement": "30",
-      "nom": "Centre de vaccination Espace D\u00e9sir\u00e9 Rousset",
-      "url": "https://www.doctolib.fr/centre-de-sante/quissac/centre-de-vaccination-covid-19-ville-de-quissac",
-      "location": {
-        "longitude": 4.00082,
-        "latitude": 43.9097
-      },
-      "metadata": {
-        "address": "19 Avenue du 11 Novembre, 30260 Quissac",
-        "phone_number": "0800541919",
-        "business_hours": {
-          "lundi": "13:30 - 17:30",
-          "mardi": "13:30 - 17:30",
-          "mercredi": "13:30 - 17:30",
-          "jeudi": "13:30 - 17:30",
-          "vendredi": "13:30 - 17:30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-14T16:30:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "264364[]",
-      "gid": "2409"
     },
     {
       "departement": "30",
@@ -168,6 +140,34 @@
       "appointment_count": 15,
       "internal_id": "241964[163873]",
       "gid": "215"
+    },
+    {
+      "departement": "30",
+      "nom": "Centre de vaccination Espace D\u00e9sir\u00e9 Rousset",
+      "url": "https://www.doctolib.fr/centre-de-sante/quissac/centre-de-vaccination-covid-19-ville-de-quissac",
+      "location": {
+        "longitude": 4.00082,
+        "latitude": 43.9097
+      },
+      "metadata": {
+        "address": "19 Avenue du 11 Novembre, 30260 Quissac",
+        "phone_number": "0800541919",
+        "business_hours": {
+          "lundi": "13:30 - 17:30",
+          "mardi": "13:30 - 17:30",
+          "mercredi": "13:30 - 17:30",
+          "jeudi": "13:30 - 17:30",
+          "vendredi": "13:30 - 17:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-28T16:50:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 59,
+      "internal_id": "264364[]",
+      "gid": "2409"
     },
     {
       "departement": "30",
@@ -719,26 +719,6 @@
     },
     {
       "departement": "30",
-      "nom": "Grande Pharmacie Du Talabot",
-      "url": "https://app.ordoclic.fr/app/pharmacie/grande-pharmacie-du-talabot-nimes",
-      "location": {
-        "longitude": 4.372371999999999,
-        "latitude": 43.83867009999999
-      },
-      "metadata": {
-        "address": "53 rue de Beaucaire, 30000 nimes",
-        "phone_number": "+33466679942",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "23254772"
-    },
-    {
-      "departement": "30",
       "nom": "Pharmacie Agn\u00e8s Praden",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-agnes-praden-ales",
       "location": {
@@ -756,6 +736,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "240b97b1"
+    },
+    {
+      "departement": "30",
+      "nom": "Grande Pharmacie Du Talabot",
+      "url": "https://app.ordoclic.fr/app/pharmacie/grande-pharmacie-du-talabot-nimes",
+      "location": {
+        "longitude": 4.372371999999999,
+        "latitude": 43.83867009999999
+      },
+      "metadata": {
+        "address": "53 rue de Beaucaire, 30000 nimes",
+        "phone_number": "+33466679942",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "23254772"
     },
     {
       "departement": "30",

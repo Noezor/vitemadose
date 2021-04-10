@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:10:42.094011+02:00",
+  "last_updated": "2021-04-10T19:13:51.376911+02:00",
   "centres_disponibles": [
     {
       "departement": "14",
@@ -79,67 +79,12 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-17T14:50:00.000+02:00",
+      "prochain_rdv": "2021-04-17T17:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 31,
+      "appointment_count": 30,
       "internal_id": "241850[]",
       "gid": "159"
-    },
-    {
-      "departement": "14",
-      "nom": "CHU DE CAEN NORMANDIE",
-      "url": "https://partners.doctolib.fr/hopital-public/caen/chu-caen-vaccination-covid",
-      "location": {
-        "longitude": -0.357382,
-        "latitude": 49.2045
-      },
-      "metadata": {
-        "address": " avenue C\u00f4te de Nacre, 14000 Caen",
-        "phone_number": "+33279461156",
-        "business_hours": {
-          "lundi": "",
-          "mardi": "",
-          "mercredi": "",
-          "jeudi": "",
-          "vendredi": "",
-          "samedi": "",
-          "dimanche": ""
-        }
-      },
-      "prochain_rdv": "2021-04-20T13:30:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 106,
-      "internal_id": "242029[]",
-      "gid": "17"
-    },
-    {
-      "departement": "14",
-      "nom": "Equipe Mobile R\u00e9sidences Autonomie et Territoire Calvados",
-      "url": "https://partners.doctolib.fr/hopital-public/caen/chu-caen-vaccination-covid?pid=practice-163773",
-      "location": {
-        "longitude": -0.362889,
-        "latitude": 49.2101
-      },
-      "metadata": {
-        "address": " Avenue de la Cote de Nacre, 14000 Caen",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-20T13:30:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 106,
-      "internal_id": "242029[163773]",
-      "gid": "1346"
     },
     {
       "departement": "14",
@@ -190,15 +135,43 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-05-06T10:30:00.000+02:00",
+      "prochain_rdv": "2021-05-06T10:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 3,
+      "appointment_count": 2,
       "internal_id": "240967[]",
       "gid": "161"
     }
   ],
   "centres_indisponibles": [
+    {
+      "departement": "14",
+      "nom": "CHU DE CAEN NORMANDIE",
+      "url": "https://partners.doctolib.fr/hopital-public/caen/chu-caen-vaccination-covid",
+      "location": {
+        "longitude": -0.357382,
+        "latitude": 49.2045
+      },
+      "metadata": {
+        "address": " avenue C\u00f4te de Nacre, 14000 Caen",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242029[]",
+      "gid": "17"
+    },
     {
       "departement": "14",
       "nom": "Centre de vaccination M\u00e9zidon Vall\u00e9e d'Auge",
@@ -282,6 +255,33 @@
       "appointment_count": 0,
       "internal_id": "242565[178802]",
       "gid": "2330"
+    },
+    {
+      "departement": "14",
+      "nom": "Equipe Mobile R\u00e9sidences Autonomie et Territoire Calvados",
+      "url": "https://partners.doctolib.fr/hopital-public/caen/chu-caen-vaccination-covid?pid=practice-163773",
+      "location": {
+        "longitude": -0.362889,
+        "latitude": 49.2101
+      },
+      "metadata": {
+        "address": " Avenue de la Cote de Nacre, 14000 Caen",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242029[163773]",
+      "gid": "1346"
     },
     {
       "departement": "14",
@@ -507,26 +507,6 @@
     },
     {
       "departement": "14",
-      "nom": "Pharmacie Treich",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-treich-demouville-1",
-      "location": {
-        "longitude": -0.2706907,
-        "latitude": 49.1785092
-      },
-      "metadata": {
-        "address": "13 rue du Centre, 14840 D\u00e9mouville",
-        "phone_number": "+33231723626",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "30383026"
-    },
-    {
-      "departement": "14",
       "nom": "Pharmacie Ferran",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-ferran-mondeville",
       "location": {
@@ -567,26 +547,6 @@
     },
     {
       "departement": "14",
-      "nom": "Pharmacie De L'Avenir",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-l'avenir-orbec",
-      "location": {
-        "longitude": 0.4058560000000001,
-        "latitude": 49.022737
-      },
-      "metadata": {
-        "address": "127 rue Grande, 14290 Orbec",
-        "phone_number": "+33231328949",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "6f564914"
-    },
-    {
-      "departement": "14",
       "nom": "Pharmacie Decoutere",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-decoutere-argences",
       "location": {
@@ -604,6 +564,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "797a4682"
+    },
+    {
+      "departement": "14",
+      "nom": "Pharmacie De L'Avenir",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-l'avenir-orbec",
+      "location": {
+        "longitude": 0.4058560000000001,
+        "latitude": 49.022737
+      },
+      "metadata": {
+        "address": "127 rue Grande, 14290 Orbec",
+        "phone_number": "+33231328949",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "6f564914"
     },
     {
       "departement": "14",
@@ -644,6 +624,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "da299e28"
+    },
+    {
+      "departement": "14",
+      "nom": "Pharmacie Treich",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-treich-demouville-1",
+      "location": {
+        "longitude": -0.2706907,
+        "latitude": 49.1785092
+      },
+      "metadata": {
+        "address": "13 rue du Centre, 14840 D\u00e9mouville",
+        "phone_number": "+33231723626",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "30383026"
     },
     {
       "departement": "14",

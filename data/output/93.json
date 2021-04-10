@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:10:42.185972+02:00",
+  "last_updated": "2021-04-10T19:13:51.455656+02:00",
   "centres_disponibles": [
     {
       "departement": "93",
@@ -106,10 +106,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-14T15:00:00.000+02:00",
+      "prochain_rdv": "2021-04-14T15:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 82,
+      "appointment_count": 81,
       "internal_id": "255921[]",
       "gid": "d255921"
     },
@@ -668,33 +668,6 @@
     },
     {
       "departement": "93",
-      "nom": "EMV Avicennes",
-      "url": "",
-      "location": {
-        "longitude": 2.42826,
-        "latitude": 48.9151
-      },
-      "metadata": {
-        "address": "34 Rue Jean Gr\u00e9millon, 93000 Bobigny",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1760"
-    },
-    {
-      "departement": "93",
       "nom": "Centre de vaccination - B\u00e2timent Charlotte Petit",
       "url": "https://partners.doctolib.fr/centre-de-sante/clichy-sous-bois/centre-municipal-de-vaccination-covid-charlotte-petit?pid=practice-165986",
       "location": {
@@ -720,6 +693,33 @@
       "appointment_count": 0,
       "internal_id": "244262[165986]",
       "gid": "1658"
+    },
+    {
+      "departement": "93",
+      "nom": "EMV Avicennes",
+      "url": "",
+      "location": {
+        "longitude": 2.42826,
+        "latitude": 48.9151
+      },
+      "metadata": {
+        "address": "34 Rue Jean Gr\u00e9millon, 93000 Bobigny",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1760"
     },
     {
       "departement": "93",
@@ -750,33 +750,6 @@
     },
     {
       "departement": "93",
-      "nom": "EMV Romainville",
-      "url": "",
-      "location": {
-        "longitude": 2.43039,
-        "latitude": 48.8804
-      },
-      "metadata": {
-        "address": "91 Rue Saint - Germain, 93230 Romainville",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1660"
-    },
-    {
-      "departement": "93",
       "nom": "Centre de vaccination - Gymnase Guimier",
       "url": "https://partners.doctolib.fr/centre-de-sante/tremblay-en-france/gymnase-jean-guimier-centre-de-vaccination-covid-19?pid=practice-175982",
       "location": {
@@ -804,14 +777,14 @@
     },
     {
       "departement": "93",
-      "nom": "Vaccinodrome St Denis",
+      "nom": "EMV Romainville",
       "url": "",
       "location": {
-        "longitude": 2.35384,
-        "latitude": 48.945
+        "longitude": 2.43039,
+        "latitude": 48.8804
       },
       "metadata": {
-        "address": "10 Avenue du Colonel Fabien, 93200 Saint-Denis",
+        "address": "91 Rue Saint - Germain, 93230 Romainville",
         "business_hours": {
           "lundi": "ferm\u00e9",
           "mardi": "ferm\u00e9",
@@ -827,7 +800,7 @@
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "1689"
+      "gid": "1660"
     },
     {
       "departement": "93",
@@ -856,6 +829,33 @@
       "appointment_count": 0,
       "internal_id": "255882[175106]",
       "gid": "1659"
+    },
+    {
+      "departement": "93",
+      "nom": "Vaccinodrome St Denis",
+      "url": "",
+      "location": {
+        "longitude": 2.35384,
+        "latitude": 48.945
+      },
+      "metadata": {
+        "address": "10 Avenue du Colonel Fabien, 93200 Saint-Denis",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1689"
     },
     {
       "departement": "93",
@@ -1467,33 +1467,6 @@
     },
     {
       "departement": "93",
-      "nom": "Centre de vaccination h\u00f4pital Jean Verdier - AP-HP",
-      "url": "https://partners.doctolib.fr/hopital-public/bondy/centre-de-vaccination-hopital-jean-verdier",
-      "location": {
-        "longitude": 2.488053,
-        "latitude": 48.909873
-      },
-      "metadata": {
-        "address": "Avenue du 14 Juillet, 93140 Bondy",
-        "business_hours": {
-          "lundi": null,
-          "mardi": null,
-          "mercredi": null,
-          "jeudi": null,
-          "vendredi": null,
-          "samedi": null,
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "261700[]",
-      "gid": "d261700"
-    },
-    {
-      "departement": "93",
       "nom": "Sant\u00e9 Plus - Centre Saint Denis",
       "url": "https://partners.doctolib.fr/centre-de-sante/saint-denis/sante-plus-centre-saint-denis",
       "location": {
@@ -1519,6 +1492,33 @@
       "appointment_count": 0,
       "internal_id": "163294[]",
       "gid": "d163294"
+    },
+    {
+      "departement": "93",
+      "nom": "Centre de vaccination h\u00f4pital Jean Verdier - AP-HP",
+      "url": "https://partners.doctolib.fr/hopital-public/bondy/centre-de-vaccination-hopital-jean-verdier",
+      "location": {
+        "longitude": 2.488053,
+        "latitude": 48.909873
+      },
+      "metadata": {
+        "address": "Avenue du 14 Juillet, 93140 Bondy",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "261700[]",
+      "gid": "d261700"
     },
     {
       "departement": "93",
