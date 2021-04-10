@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.162252+02:00",
+  "last_updated": "2021-04-10T19:23:47.343478+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -424,33 +424,6 @@
     },
     {
       "departement": "25",
-      "nom": "MA - US de Montb\u00e9liard / Maison d'Arr\u00eat de Montb\u00e9liard",
-      "url": "",
-      "location": {
-        "longitude": 6.79673,
-        "latitude": 47.514
-      },
-      "metadata": {
-        "address": "2 Rue du Bois Bourgeois, 25200 Montb\u00e9liard",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1790"
-    },
-    {
-      "departement": "25",
       "nom": "MA - US de Belfort / Maison d'Arr\u00eat de Montb\u00e9liard",
       "url": "",
       "location": {
@@ -475,6 +448,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1791"
+    },
+    {
+      "departement": "25",
+      "nom": "MA - US de Montb\u00e9liard / Maison d'Arr\u00eat de Montb\u00e9liard",
+      "url": "",
+      "location": {
+        "longitude": 6.79673,
+        "latitude": 47.514
+      },
+      "metadata": {
+        "address": "2 Rue du Bois Bourgeois, 25200 Montb\u00e9liard",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1790"
     },
     {
       "departement": "25",

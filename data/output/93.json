@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.263503+02:00",
+  "last_updated": "2021-04-10T19:23:47.425625+02:00",
   "centres_disponibles": [
     {
       "departement": "93",
@@ -391,33 +391,6 @@
     },
     {
       "departement": "93",
-      "nom": "EMV Aubervilliers",
-      "url": "",
-      "location": {
-        "longitude": 2.3847,
-        "latitude": 48.9105
-      },
-      "metadata": {
-        "address": "5 Rue Edouard Poisson, 93300 Aubervilliers",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1578"
-    },
-    {
-      "departement": "93",
       "nom": "Salle des f\u00eates Marcel Pagnol",
       "url": "https://partners.doctolib.fr/centre-de-sante/neuilly-sur-marne/centre-de-vaccination-covid-marne-plaisance",
       "location": {
@@ -443,6 +416,33 @@
       "appointment_count": 0,
       "internal_id": "242794[163853]",
       "gid": "608"
+    },
+    {
+      "departement": "93",
+      "nom": "EMV Aubervilliers",
+      "url": "",
+      "location": {
+        "longitude": 2.3847,
+        "latitude": 48.9105
+      },
+      "metadata": {
+        "address": "5 Rue Edouard Poisson, 93300 Aubervilliers",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1578"
     },
     {
       "departement": "93",
@@ -584,34 +584,6 @@
     },
     {
       "departement": "93",
-      "nom": "Coll\u00e8ge Courbet",
-      "url": "https://partners.doctolib.fr/centre-de-sante/pierrefitte-sur-seine/centre-de-vaccination-covid-espace-partage-college-gustave-courbet",
-      "location": {
-        "longitude": 2.36085,
-        "latitude": 48.9503
-      },
-      "metadata": {
-        "address": "17 Rue Fran\u00e7ois Mitterrand, 93380 Pierrefitte-sur-Seine",
-        "phone_number": "01 43 93 10 11",
-        "business_hours": {
-          "lundi": "9h-17h",
-          "mardi": "9h-17h",
-          "mercredi": "9h-17h",
-          "jeudi": "9h-17h",
-          "vendredi": "9h-17h",
-          "samedi": "9h-17h",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242187[]",
-      "gid": "621"
-    },
-    {
-      "departement": "93",
       "nom": "Centre de vaccination - salle municipale l'Embarcad\u00e8re",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/aubervilliers/centre-de-vaccination-covid-19-de-la-ville-d-aubervilliers?pid=practice-163722",
       "location": {
@@ -637,6 +609,34 @@
       "appointment_count": 0,
       "internal_id": "251818[163722]",
       "gid": "614"
+    },
+    {
+      "departement": "93",
+      "nom": "Coll\u00e8ge Courbet",
+      "url": "https://partners.doctolib.fr/centre-de-sante/pierrefitte-sur-seine/centre-de-vaccination-covid-espace-partage-college-gustave-courbet",
+      "location": {
+        "longitude": 2.36085,
+        "latitude": 48.9503
+      },
+      "metadata": {
+        "address": "17 Rue Fran\u00e7ois Mitterrand, 93380 Pierrefitte-sur-Seine",
+        "phone_number": "01 43 93 10 11",
+        "business_hours": {
+          "lundi": "9h-17h",
+          "mardi": "9h-17h",
+          "mercredi": "9h-17h",
+          "jeudi": "9h-17h",
+          "vendredi": "9h-17h",
+          "samedi": "9h-17h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242187[]",
+      "gid": "621"
     },
     {
       "departement": "93",
@@ -668,6 +668,33 @@
     },
     {
       "departement": "93",
+      "nom": "EMV Avicennes",
+      "url": "",
+      "location": {
+        "longitude": 2.42826,
+        "latitude": 48.9151
+      },
+      "metadata": {
+        "address": "34 Rue Jean Gr\u00e9millon, 93000 Bobigny",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1760"
+    },
+    {
+      "departement": "93",
       "nom": "Centre de vaccination - B\u00e2timent Charlotte Petit",
       "url": "https://partners.doctolib.fr/centre-de-sante/clichy-sous-bois/centre-municipal-de-vaccination-covid-charlotte-petit?pid=practice-165986",
       "location": {
@@ -693,33 +720,6 @@
       "appointment_count": 0,
       "internal_id": "244262[165986]",
       "gid": "1658"
-    },
-    {
-      "departement": "93",
-      "nom": "EMV Avicennes",
-      "url": "",
-      "location": {
-        "longitude": 2.42826,
-        "latitude": 48.9151
-      },
-      "metadata": {
-        "address": "34 Rue Jean Gr\u00e9millon, 93000 Bobigny",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1760"
     },
     {
       "departement": "93",

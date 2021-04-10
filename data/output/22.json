@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.159048+02:00",
+  "last_updated": "2021-04-10T19:23:47.340852+02:00",
   "centres_disponibles": [
     {
       "departement": "22",
@@ -26,7 +26,7 @@
       "prochain_rdv": "2021-04-14T09:10:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 1045,
+      "appointment_count": 1043,
       "internal_id": null,
       "gid": "893"
     },
@@ -54,7 +54,7 @@
       "prochain_rdv": "2021-04-19T09:25:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 49,
+      "appointment_count": 50,
       "internal_id": null,
       "gid": "890"
     },
@@ -79,10 +79,10 @@
           "dimanche": "non pr\u00e9cis\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-21T14:45:00.000000+0200",
+      "prochain_rdv": "2021-04-23T11:00:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 2,
+      "appointment_count": 1,
       "internal_id": null,
       "gid": "886"
     },
@@ -311,33 +311,6 @@
     },
     {
       "departement": "22",
-      "nom": "CH PAIMPOL (r\u00e9serv\u00e9 aux professionnels des secteurs de la sant\u00e9 et du m\u00e9dico-social)",
-      "url": "https://vaccination-covid.keldoc.com/maladies-infectieuses/paimpol-22500/equipe-d-infectiologie-2?cabinet=16557",
-      "location": {
-        "longitude": -3.03561,
-        "latitude": 48.7733
-      },
-      "metadata": {
-        "address": "36 Chemin de Kerpuns, 22500 Paimpol",
-        "business_hours": {
-          "lundi": "9h30-17h30",
-          "mardi": "9h30-17h30",
-          "mercredi": "9h30-17h30",
-          "jeudi": "9h30-17h30",
-          "vendredi": "9h30-17h30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": null,
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "257"
-    },
-    {
-      "departement": "22",
       "nom": "LANVOLLON - Salle Armor Argoat",
       "url": "https://vaccination-covid.keldoc.com/cabinet-medical/lanvollon-22290/ville-de-lanvollon/centre-de-vaccination-de-la-ville-de-lanvollon",
       "location": {
@@ -363,6 +336,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1303"
+    },
+    {
+      "departement": "22",
+      "nom": "CH PAIMPOL (r\u00e9serv\u00e9 aux professionnels des secteurs de la sant\u00e9 et du m\u00e9dico-social)",
+      "url": "https://vaccination-covid.keldoc.com/maladies-infectieuses/paimpol-22500/equipe-d-infectiologie-2?cabinet=16557",
+      "location": {
+        "longitude": -3.03561,
+        "latitude": 48.7733
+      },
+      "metadata": {
+        "address": "36 Chemin de Kerpuns, 22500 Paimpol",
+        "business_hours": {
+          "lundi": "9h30-17h30",
+          "mardi": "9h30-17h30",
+          "mercredi": "9h30-17h30",
+          "jeudi": "9h30-17h30",
+          "vendredi": "9h30-17h30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": null,
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "257"
     },
     {
       "departement": "22",

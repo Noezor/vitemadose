@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.230040+02:00",
+  "last_updated": "2021-04-10T19:23:47.398855+02:00",
   "centres_disponibles": [
     {
       "departement": "73",
@@ -112,6 +112,34 @@
     },
     {
       "departement": "73",
+      "nom": "Centre de vaccination COVID - MOUTIERS",
+      "url": "https://partners.doctolib.fr/hopital-public/moutiers/centre-de-vaccination-covid-de-moutiers",
+      "location": {
+        "longitude": 6.53081,
+        "latitude": 45.4872
+      },
+      "metadata": {
+        "address": "258 Av des Xvieme Jeux Olympiques d\u2019Hiver, 73600 Mo\u00fbtiers",
+        "phone_number": "+33755582711",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "14:00-18:00",
+          "mercredi": "14:00-18:00",
+          "jeudi": "14:00-18:00",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-16T11:25:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "245207[]",
+      "gid": "708"
+    },
+    {
+      "departement": "73",
       "nom": "Centre de vaccination Covid 19 - Savoie - Parc des expositions Chamb\u00e9ry",
       "url": "https://partners.doctolib.fr/centre-de-sante/chambery/centre-de-vaccination-covid-19-savoie-parc-des-expositions-chambery",
       "location": {
@@ -130,10 +158,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-19T10:45:00.000+02:00",
+      "prochain_rdv": "2021-04-19T11:34:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 426,
+      "appointment_count": 423,
       "internal_id": "264576[]",
       "gid": "d264576"
     },
@@ -161,7 +189,7 @@
       "prochain_rdv": "2021-04-20T13:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 48,
+      "appointment_count": 46,
       "internal_id": "242539[]",
       "gid": "673"
     },
@@ -195,62 +223,6 @@
     },
     {
       "departement": "73",
-      "nom": "Centre de vaccination COVID - MOUTIERS",
-      "url": "https://partners.doctolib.fr/hopital-public/moutiers/centre-de-vaccination-covid-de-moutiers",
-      "location": {
-        "longitude": 6.53081,
-        "latitude": 45.4872
-      },
-      "metadata": {
-        "address": "258 Av des Xvieme Jeux Olympiques d\u2019Hiver, 73600 Mo\u00fbtiers",
-        "phone_number": "+33755582711",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "14:00-18:00",
-          "mercredi": "14:00-18:00",
-          "jeudi": "14:00-18:00",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-21T11:15:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 66,
-      "internal_id": "245207[]",
-      "gid": "708"
-    },
-    {
-      "departement": "73",
-      "nom": "Centre de vaccination COVID - SAINT JEAN DE MAURIENNE",
-      "url": "https://partners.doctolib.fr/hopital-public/saint-jean-de-maurienne/centre-hospitalier-vallee-de-la-maurienne-vaccination-covid?pid=practice-164286%3fspeciality_id%3d5494",
-      "location": {
-        "longitude": 6.34173,
-        "latitude": 45.2776
-      },
-      "metadata": {
-        "address": "169 R des Ecoles, 73300 Saint-Jean-de-Maurienne",
-        "phone_number": "+33479207142",
-        "business_hours": {
-          "lundi": "ouvert",
-          "mardi": "ouvert",
-          "mercredi": "ouvert",
-          "jeudi": "ouvert",
-          "vendredi": "ouvert",
-          "samedi": "ouvert",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-21T11:30:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 136,
-      "internal_id": "242315[176677]",
-      "gid": "700"
-    },
-    {
-      "departement": "73",
       "nom": "Centre de vaccination Saint Jean de Maurienne",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/saint-jean-de-maurienne/centre-hospitalier-vallee-de-la-maurienne-vaccination-covid",
       "location": {
@@ -275,6 +247,34 @@
       "appointment_count": 136,
       "internal_id": "242315[]",
       "gid": "d242315"
+    },
+    {
+      "departement": "73",
+      "nom": "Centre de vaccination COVID - SAINT JEAN DE MAURIENNE",
+      "url": "https://partners.doctolib.fr/hopital-public/saint-jean-de-maurienne/centre-hospitalier-vallee-de-la-maurienne-vaccination-covid?pid=practice-164286%3fspeciality_id%3d5494",
+      "location": {
+        "longitude": 6.34173,
+        "latitude": 45.2776
+      },
+      "metadata": {
+        "address": "169 R des Ecoles, 73300 Saint-Jean-de-Maurienne",
+        "phone_number": "+33479207142",
+        "business_hours": {
+          "lundi": "ouvert",
+          "mardi": "ouvert",
+          "mercredi": "ouvert",
+          "jeudi": "ouvert",
+          "vendredi": "ouvert",
+          "samedi": "ouvert",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-21T11:40:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 135,
+      "internal_id": "242315[176677]",
+      "gid": "700"
     }
   ],
   "centres_indisponibles": [
@@ -579,18 +579,18 @@
     },
     {
       "departement": "73",
-      "nom": "Centre de vaccination COVID Ad Hoc de Saint Alban Leysse",
-      "url": "https://partners.doctolib.fr/centre-de-sante/chambery/centre-de-vaccination-grand-chambery?pid=practice-178866",
+      "nom": "Centre de vaccination COVID Ad Hoc de COGNIN",
+      "url": "https://partners.doctolib.fr/centre-de-sante/chambery/centre-de-vaccination-grand-chambery?pid=practice-178865",
       "location": {
-        "longitude": 5.95943,
-        "latitude": 45.5788
+        "longitude": 5.89493,
+        "latitude": 45.5605
       },
       "metadata": {
-        "address": "6500 Av de la Mairie, 73230 Saint-Alban-Leysse",
+        "address": "16 R de la Forgerie, 73160 Cognin",
         "business_hours": {
-          "lundi": "OUVERT",
+          "lundi": "ferm\u00e9",
           "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
+          "mercredi": "08:45-12:05/13:45-17:05",
           "jeudi": "ferm\u00e9",
           "vendredi": "ferm\u00e9",
           "samedi": "ferm\u00e9",
@@ -602,7 +602,7 @@
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": "260816[178078-178862]",
-      "gid": "2128"
+      "gid": "2127"
     },
     {
       "departement": "73",
@@ -660,33 +660,6 @@
     },
     {
       "departement": "73",
-      "nom": "CP - US AITON / Maison d'Arr\u00eat de Chamb\u00e9ry",
-      "url": "",
-      "location": {
-        "longitude": 6.23114,
-        "latitude": 45.5648
-      },
-      "metadata": {
-        "address": " , 73000 CHAMBERY",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1780"
-    },
-    {
-      "departement": "73",
       "nom": "MA - US Maison d'Arr\u00eat de Chamb\u00e9ry / Maison d'Arr\u00eat de Chamb\u00e9ry",
       "url": "",
       "location": {
@@ -711,6 +684,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1779"
+    },
+    {
+      "departement": "73",
+      "nom": "CP - US AITON / Maison d'Arr\u00eat de Chamb\u00e9ry",
+      "url": "",
+      "location": {
+        "longitude": 6.23114,
+        "latitude": 45.5648
+      },
+      "metadata": {
+        "address": " , 73000 CHAMBERY",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1780"
     },
     {
       "departement": "73",

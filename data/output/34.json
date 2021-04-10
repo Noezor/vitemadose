@@ -1,36 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.176048+02:00",
-  "centres_disponibles": [
-    {
-      "departement": "34",
-      "nom": "GIGNAC CENTRE DE VACCINATION",
-      "url": "https://partners.doctolib.fr/centre-depistage-covid/gignac/cc-vallee-herault-vaccination-covid?pid=practice-164133%3fspeciality_id%3d5494",
-      "location": {
-        "longitude": 3.5449,
-        "latitude": 43.6501
-      },
-      "metadata": {
-        "address": "4 Chemin du Moulin de Carabotte, 34150 Gignac",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "9:00 13:00",
-          "mercredi": "9:00 13:00",
-          "jeudi": "9:00 13:00",
-          "vendredi": "9:00 13:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-12T13:10:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "242173[164133]",
-      "gid": "1019"
-    }
-  ],
+  "last_updated": "2021-04-10T19:23:47.355888+02:00",
+  "centres_disponibles": [],
   "centres_indisponibles": [
     {
       "departement": "34",
@@ -314,6 +285,34 @@
     },
     {
       "departement": "34",
+      "nom": "BEZIERS Centre Zinga Zanga (grande salle de spectacle)",
+      "url": "https://partners.doctolib.fr/centre-de-sante/beziers/centre-de-vaccination-publiques-de-la-ville-de-beziers",
+      "location": {
+        "longitude": 3.18991,
+        "latitude": 43.331
+      },
+      "metadata": {
+        "address": " Traverse de Colombiers, 34500 B\u00e9ziers",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "9:00-17:00",
+          "mardi": "9:00-17:00",
+          "mercredi": "9:00-17:00",
+          "jeudi": "9:00-17:00",
+          "vendredi": "9:00-17:00",
+          "samedi": "9:00-17:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242471[]",
+      "gid": "603"
+    },
+    {
+      "departement": "34",
       "nom": "MONTPELLIER Maison m\u00e9dicale de garde",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/montpellier/centre-de-vaccination-covid-19-maison-medicale-de-garde-jean-bouyer",
       "location": {
@@ -367,34 +366,6 @@
       "appointment_count": 0,
       "internal_id": "242597[]",
       "gid": "750"
-    },
-    {
-      "departement": "34",
-      "nom": "BEZIERS Centre Zinga Zanga (grande salle de spectacle)",
-      "url": "https://partners.doctolib.fr/centre-de-sante/beziers/centre-de-vaccination-publiques-de-la-ville-de-beziers",
-      "location": {
-        "longitude": 3.18991,
-        "latitude": 43.331
-      },
-      "metadata": {
-        "address": " Traverse de Colombiers, 34500 B\u00e9ziers",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "9:00-17:00",
-          "mardi": "9:00-17:00",
-          "mercredi": "9:00-17:00",
-          "jeudi": "9:00-17:00",
-          "vendredi": "9:00-17:00",
-          "samedi": "9:00-17:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242471[]",
-      "gid": "603"
     },
     {
       "departement": "34",
@@ -590,6 +561,34 @@
       "appointment_count": 0,
       "internal_id": "242603[]",
       "gid": "523"
+    },
+    {
+      "departement": "34",
+      "nom": "GIGNAC CENTRE DE VACCINATION",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/gignac/cc-vallee-herault-vaccination-covid?pid=practice-164133%3fspeciality_id%3d5494",
+      "location": {
+        "longitude": 3.5449,
+        "latitude": 43.6501
+      },
+      "metadata": {
+        "address": "4 Chemin du Moulin de Carabotte, 34150 Gignac",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "9:00 13:00",
+          "mercredi": "9:00 13:00",
+          "jeudi": "9:00 13:00",
+          "vendredi": "9:00 13:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242173[164133]",
+      "gid": "1019"
     },
     {
       "departement": "34",

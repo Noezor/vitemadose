@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.202624+02:00",
+  "last_updated": "2021-04-10T19:23:47.375698+02:00",
   "centres_disponibles": [
     {
       "departement": "55",
@@ -138,7 +138,7 @@
       "prochain_rdv": "2021-04-28T17:25:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 134,
+      "appointment_count": 135,
       "internal_id": "242246[]",
       "gid": "105"
     }
@@ -566,33 +566,6 @@
     },
     {
       "departement": "55",
-      "nom": "CD - US SAINT MIHIEL / Centre de D\u00e9tention de Montm\u00e9dy",
-      "url": "",
-      "location": {
-        "longitude": 5.37153,
-        "latitude": 49.5241
-      },
-      "metadata": {
-        "address": "18 Rue du Commandant M\u00e9nard, 55600 Montm\u00e9dy",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1820"
-    },
-    {
-      "departement": "55",
       "nom": "MA - US Bar le Duc / Maison d'Arr\u00eat de Bar-le-Duc",
       "url": "",
       "location": {
@@ -644,6 +617,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1821"
+    },
+    {
+      "departement": "55",
+      "nom": "CD - US SAINT MIHIEL / Centre de D\u00e9tention de Montm\u00e9dy",
+      "url": "",
+      "location": {
+        "longitude": 5.37153,
+        "latitude": 49.5241
+      },
+      "metadata": {
+        "address": "18 Rue du Commandant M\u00e9nard, 55600 Montm\u00e9dy",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1820"
     }
   ]
 }

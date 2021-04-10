@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.246983+02:00",
+  "last_updated": "2021-04-10T19:23:47.413622+02:00",
   "centres_disponibles": [
     {
       "departement": "83",
@@ -105,10 +105,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-13T15:20:00.000+02:00",
+      "prochain_rdv": "2021-04-13T15:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 8,
+      "appointment_count": 6,
       "internal_id": "249196[162560]",
       "gid": "2200"
     },
@@ -216,10 +216,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-23T10:50:00.000+02:00",
+      "prochain_rdv": "2021-04-23T09:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 227,
+      "appointment_count": 228,
       "internal_id": "243226[176700]",
       "gid": "1999"
     }
@@ -637,6 +637,33 @@
     },
     {
       "departement": "83",
+      "nom": "Centre Vaccination La Roquebrussanne",
+      "url": "",
+      "location": {
+        "longitude": 5.97857,
+        "latitude": 43.3381
+      },
+      "metadata": {
+        "address": "1017 Carraire du Pical, 83136 La Roquebrussanne",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "2303"
+    },
+    {
+      "departement": "83",
       "nom": "Centre vaccination La Garde",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-166708",
       "location": {
@@ -662,33 +689,6 @@
       "appointment_count": 0,
       "internal_id": "243226[166708]",
       "gid": "1278"
-    },
-    {
-      "departement": "83",
-      "nom": "Centre Vaccination La Roquebrussanne",
-      "url": "",
-      "location": {
-        "longitude": 5.97857,
-        "latitude": 43.3381
-      },
-      "metadata": {
-        "address": "1017 Carraire du Pical, 83136 La Roquebrussanne",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "2303"
     },
     {
       "departement": "83",
@@ -911,33 +911,6 @@
     },
     {
       "departement": "83",
-      "nom": "Centre de Vaccination Sainte Musse",
-      "url": "https://partners.doctolib.fr/hopital-public/toulon/centre-de-vaccination-covid-19-du-chits-toulon?pid=practice-169719",
-      "location": {
-        "longitude": 5.97545,
-        "latitude": 43.1252
-      },
-      "metadata": {
-        "address": "54 Rue Henri Sainte-Claire Deville, 83100 Toulon",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ouvert",
-          "dimanche": "ouvert"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "249196[169719]",
-      "gid": "2157"
-    },
-    {
-      "departement": "83",
       "nom": "Centre de Vaccination de SIX FOURS",
       "url": "",
       "location": {
@@ -962,6 +935,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "2160"
+    },
+    {
+      "departement": "83",
+      "nom": "Centre de Vaccination Sainte Musse",
+      "url": "https://partners.doctolib.fr/hopital-public/toulon/centre-de-vaccination-covid-19-du-chits-toulon?pid=practice-169719",
+      "location": {
+        "longitude": 5.97545,
+        "latitude": 43.1252
+      },
+      "metadata": {
+        "address": "54 Rue Henri Sainte-Claire Deville, 83100 Toulon",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ouvert",
+          "dimanche": "ouvert"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "249196[169719]",
+      "gid": "2157"
     },
     {
       "departement": "83",

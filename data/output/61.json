@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.213999+02:00",
+  "last_updated": "2021-04-10T19:23:47.384927+02:00",
   "centres_disponibles": [
     {
       "departement": "61",
@@ -82,7 +82,7 @@
       "prochain_rdv": "2021-04-20T17:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 12,
+      "appointment_count": 11,
       "internal_id": "241635[163785-164092-164101-164122-164388-163589-179245]",
       "gid": "540"
     },
@@ -110,7 +110,7 @@
       "prochain_rdv": "2021-04-24T16:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 10,
+      "appointment_count": 9,
       "internal_id": "241635[164122]",
       "gid": "765"
     },
@@ -256,33 +256,6 @@
     },
     {
       "departement": "61",
-      "nom": "CD - US du Centre Hospitalier d'Argentan / Centre de D\u00e9tention d'Argentan",
-      "url": "",
-      "location": {
-        "longitude": 0.008345,
-        "latitude": 48.7231
-      },
-      "metadata": {
-        "address": " Le Frichot, 61200 Argentan",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1873"
-    },
-    {
-      "departement": "61",
       "nom": "CP - US de Cond\u00e9 sur Sarthe / Centre P\u00e9nitentiaire Alen\u00e7on-Cond\u00e9-sur-Sarthe",
       "url": "",
       "location": {
@@ -307,6 +280,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1872"
+    },
+    {
+      "departement": "61",
+      "nom": "CD - US du Centre Hospitalier d'Argentan / Centre de D\u00e9tention d'Argentan",
+      "url": "",
+      "location": {
+        "longitude": 0.008345,
+        "latitude": 48.7231
+      },
+      "metadata": {
+        "address": " Le Frichot, 61200 Argentan",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1873"
     },
     {
       "departement": "61",

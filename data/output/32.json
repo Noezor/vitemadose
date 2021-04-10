@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.172800+02:00",
+  "last_updated": "2021-04-10T19:23:47.353091+02:00",
   "centres_disponibles": [
     {
       "departement": "32",
@@ -23,10 +23,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-15T11:30:00.000+02:00",
+      "prochain_rdv": "2021-04-15T11:15:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 82,
+      "appointment_count": 83,
       "internal_id": "243328[165034]",
       "gid": "2167"
     }
@@ -174,34 +174,6 @@
     },
     {
       "departement": "32",
-      "nom": "Salle omnisport LECTOURE",
-      "url": "https://partners.doctolib.fr/centre-de-sante/lectoure/centre-de-vaccination-covid-19-lectoure?pid=practice-166213",
-      "location": {
-        "longitude": 0.633919,
-        "latitude": 43.9347
-      },
-      "metadata": {
-        "address": " Avenue Jacques Descamps, 32700 Lectoure",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "09:00-12:00/14:00-17:00",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "244686[166213]",
-      "gid": "1196"
-    },
-    {
-      "departement": "32",
       "nom": "Hall des expositions EAUZE",
       "url": "https://partners.doctolib.fr/centre-de-sante/eauze/centre-de-vaccination-covid-19-eauze?pid=practice-166214",
       "location": {
@@ -227,6 +199,34 @@
       "appointment_count": 0,
       "internal_id": "244687[166214]",
       "gid": "1198"
+    },
+    {
+      "departement": "32",
+      "nom": "Salle omnisport LECTOURE",
+      "url": "https://partners.doctolib.fr/centre-de-sante/lectoure/centre-de-vaccination-covid-19-lectoure?pid=practice-166213",
+      "location": {
+        "longitude": 0.633919,
+        "latitude": 43.9347
+      },
+      "metadata": {
+        "address": " Avenue Jacques Descamps, 32700 Lectoure",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "09:00-12:00/14:00-17:00",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244686[166213]",
+      "gid": "1196"
     },
     {
       "departement": "32",

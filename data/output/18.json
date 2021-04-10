@@ -1,7 +1,35 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.153946+02:00",
+  "last_updated": "2021-04-10T19:23:47.336794+02:00",
   "centres_disponibles": [
+    {
+      "departement": "18",
+      "nom": "Centre de vaccination - Palais des sports du Prado",
+      "url": "https://partners.doctolib.fr/maison-de-sante/bourges/cpts-pays-de-bourge",
+      "location": {
+        "longitude": 2.38658,
+        "latitude": 47.0825
+      },
+      "metadata": {
+        "address": " Espace VIP - Rue du Champ de Foire, 18000 Bourges",
+        "phone_number": "+33805021400",
+        "business_hours": {
+          "lundi": "9h-3h/13h30-17h30",
+          "mardi": "9h-3h/13h30-17h30",
+          "mercredi": "9h-3h/13h30-17h30",
+          "jeudi": "9h-3h/13h30-17h30",
+          "vendredi": "9h-3h/13h30-17h30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-11T15:40:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 31,
+      "internal_id": "242578[]",
+      "gid": "41"
+    },
     {
       "departement": "18",
       "nom": "Centre de Vaccination Aubigny - Salle polyvalente - Les terrasses de la N\u00e8re",
@@ -60,34 +88,6 @@
     },
     {
       "departement": "18",
-      "nom": "Centre de vaccination - Palais des sports du Prado",
-      "url": "https://partners.doctolib.fr/maison-de-sante/bourges/cpts-pays-de-bourge",
-      "location": {
-        "longitude": 2.38658,
-        "latitude": 47.0825
-      },
-      "metadata": {
-        "address": " Espace VIP - Rue du Champ de Foire, 18000 Bourges",
-        "phone_number": "+33805021400",
-        "business_hours": {
-          "lundi": "9h-3h/13h30-17h30",
-          "mardi": "9h-3h/13h30-17h30",
-          "mercredi": "9h-3h/13h30-17h30",
-          "jeudi": "9h-3h/13h30-17h30",
-          "vendredi": "9h-3h/13h30-17h30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-23T16:50:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 30,
-      "internal_id": "242578[]",
-      "gid": "41"
-    },
-    {
-      "departement": "18",
       "nom": "Centre de vaccination Covid-19 - Saint-Doulchard",
       "url": "https://partners.doctolib.fr/centre-de-sante/saint-doulchard/centre-de-vaccination-covid-19-saint-doulchard",
       "location": {
@@ -134,10 +134,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-28T15:50:00.000+02:00",
+      "prochain_rdv": "2021-04-28T16:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 17,
+      "appointment_count": 16,
       "internal_id": "243520[164374]",
       "gid": "22"
     }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.227453+02:00",
+  "last_updated": "2021-04-10T19:23:47.396658+02:00",
   "centres_disponibles": [
     {
       "departement": "71",
@@ -29,34 +29,6 @@
       "appointment_count": 128,
       "internal_id": "263517[178060]",
       "gid": "2310"
-    },
-    {
-      "departement": "71",
-      "nom": "Centre de vaccination de La Clayette",
-      "url": "https://partners.doctolib.fr/centre-de-sante/la-clayette/centre-de-vaccination-covid-19-de-la-clayette?pid=practice-178056",
-      "location": {
-        "longitude": 4.31761,
-        "latitude": 46.2902
-      },
-      "metadata": {
-        "address": " Salle des f\u00eates - 80 rue Lamartine, 71800 La Clayette",
-        "phone_number": "+330806030149",
-        "business_hours": {
-          "lundi": "09:00-18:00",
-          "mardi": "09:00-18:00",
-          "mercredi": "09:00-18:00",
-          "jeudi": "09:00-18:00",
-          "vendredi": "09:00-18:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-23T09:18:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 3,
-      "internal_id": "263520[178056]",
-      "gid": "2313"
     },
     {
       "departement": "71",
@@ -200,34 +172,6 @@
     },
     {
       "departement": "71",
-      "nom": "Centre de Vaccination TOURNUS - H\u00f4pital Belnay",
-      "url": "https://partners.doctolib.fr/centre-de-sante/tournus/centre-de-vaccination-de-tournus",
-      "location": {
-        "longitude": 4.89282,
-        "latitude": 46.5674
-      },
-      "metadata": {
-        "address": "627  avenue Henri et Suzanne Vitrier, 71700 Tournus",
-        "phone_number": "+33806030149",
-        "business_hours": {
-          "lundi": "09:00-17:00",
-          "mardi": " 09:00-17:00",
-          "mercredi": "09:00-17:00",
-          "jeudi": "09:00-17:00",
-          "vendredi": "09:00-17:00",
-          "samedi": "09:00-17:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-05-03T11:06:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 129,
-      "internal_id": "242420[]",
-      "gid": "521"
-    },
-    {
-      "departement": "71",
       "nom": "Centre de vaccination de Cluny",
       "url": "https://partners.doctolib.fr/centre-de-sante/cluny/centre-de-vaccination-covid-19-de-cluny?pid=practice-178061",
       "location": {
@@ -253,6 +197,62 @@
       "appointment_count": 134,
       "internal_id": "263513[178061]",
       "gid": "2311"
+    },
+    {
+      "departement": "71",
+      "nom": "Centre de vaccination de La Clayette",
+      "url": "https://partners.doctolib.fr/centre-de-sante/la-clayette/centre-de-vaccination-covid-19-de-la-clayette?pid=practice-178056",
+      "location": {
+        "longitude": 4.31761,
+        "latitude": 46.2902
+      },
+      "metadata": {
+        "address": " Salle des f\u00eates - 80 rue Lamartine, 71800 La Clayette",
+        "phone_number": "+330806030149",
+        "business_hours": {
+          "lundi": "09:00-18:00",
+          "mardi": "09:00-18:00",
+          "mercredi": "09:00-18:00",
+          "jeudi": "09:00-18:00",
+          "vendredi": "09:00-18:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-05T11:42:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 37,
+      "internal_id": "263520[178056]",
+      "gid": "2313"
+    },
+    {
+      "departement": "71",
+      "nom": "Centre de Vaccination TOURNUS - H\u00f4pital Belnay",
+      "url": "https://partners.doctolib.fr/centre-de-sante/tournus/centre-de-vaccination-de-tournus",
+      "location": {
+        "longitude": 4.89282,
+        "latitude": 46.5674
+      },
+      "metadata": {
+        "address": "627  avenue Henri et Suzanne Vitrier, 71700 Tournus",
+        "phone_number": "+33806030149",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": " 09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "09:00-17:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-05T16:48:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 126,
+      "internal_id": "242420[]",
+      "gid": "521"
     },
     {
       "departement": "71",
@@ -334,7 +334,7 @@
       "prochain_rdv": "2021-05-06T13:18:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 69,
+      "appointment_count": 68,
       "internal_id": "242417[164356]",
       "gid": "602"
     },
@@ -362,7 +362,7 @@
       "prochain_rdv": "2021-05-10T11:12:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 228,
+      "appointment_count": 227,
       "internal_id": "242421[]",
       "gid": "620"
     },
@@ -443,10 +443,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-17T16:18:00.000+02:00",
+      "prochain_rdv": "2021-05-17T10:24:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 14,
+      "appointment_count": 15,
       "internal_id": "242413[]",
       "gid": "562"
     }
@@ -591,33 +591,6 @@
     },
     {
       "departement": "71",
-      "nom": "Grand centre 71N",
-      "url": "",
-      "location": {
-        "longitude": 4.85352,
-        "latitude": 46.7808
-      },
-      "metadata": {
-        "address": "3 Place de l\u2019Hotel de Ville, 71100 Chalon-sur-Sa\u00f4ne",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "2232"
-    },
-    {
-      "departement": "71",
       "nom": "Grand centre 71S",
       "url": "",
       "location": {
@@ -642,6 +615,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "2233"
+    },
+    {
+      "departement": "71",
+      "nom": "Grand centre 71N",
+      "url": "",
+      "location": {
+        "longitude": 4.85352,
+        "latitude": 46.7808
+      },
+      "metadata": {
+        "address": "3 Place de l\u2019Hotel de Ville, 71100 Chalon-sur-Sa\u00f4ne",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "2232"
     },
     {
       "departement": "71",

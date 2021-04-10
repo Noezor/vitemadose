@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.224583+02:00",
+  "last_updated": "2021-04-10T19:23:47.394331+02:00",
   "centres_disponibles": [
     {
       "departement": "69",
@@ -26,7 +26,7 @@
       "prochain_rdv": "2021-04-12T09:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 46,
+      "appointment_count": 33,
       "internal_id": "241965[163661]",
       "gid": "688"
     },
@@ -51,40 +51,12 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-18T17:10:00.000+02:00",
+      "prochain_rdv": "2021-04-12T16:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 7,
+      "appointment_count": 8,
       "internal_id": "263389[180202]",
       "gid": "2136"
-    },
-    {
-      "departement": "69",
-      "nom": "Centre de vaccination de l\u2019Ouest Lyonnais - B\u00e2timent Le Trait d\u2019Union",
-      "url": "https://partners.doctolib.fr/centre-de-sante/lyon/centre-de-vaccination-de-l-ouest-lyonnais?pid=practice-176810",
-      "location": {
-        "longitude": 4.7857,
-        "latitude": 45.7879
-      },
-      "metadata": {
-        "address": "29 b Avenue des Sources, 69009 Lyon",
-        "phone_number": "33423101010",
-        "business_hours": {
-          "lundi": "9:00  -  17:00",
-          "mardi": "9:00  -  17:00",
-          "mercredi": "9:00  -  17:00",
-          "jeudi": "9:00  -  17:00",
-          "vendredi": "9:00  -  17:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-28T14:20:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 64,
-      "internal_id": "258785[176810]",
-      "gid": "1693"
     },
     {
       "departement": "69",
@@ -107,12 +79,40 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-30T09:45:00.000+02:00",
+      "prochain_rdv": "2021-04-23T11:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 19,
+      "appointment_count": 1,
       "internal_id": "244533[]",
       "gid": "d244533"
+    },
+    {
+      "departement": "69",
+      "nom": "Centre de vaccination de l\u2019Ouest Lyonnais - B\u00e2timent Le Trait d\u2019Union",
+      "url": "https://partners.doctolib.fr/centre-de-sante/lyon/centre-de-vaccination-de-l-ouest-lyonnais?pid=practice-176810",
+      "location": {
+        "longitude": 4.7857,
+        "latitude": 45.7879
+      },
+      "metadata": {
+        "address": "29 b Avenue des Sources, 69009 Lyon",
+        "phone_number": "33423101010",
+        "business_hours": {
+          "lundi": "9:00  -  17:00",
+          "mardi": "9:00  -  17:00",
+          "mercredi": "9:00  -  17:00",
+          "jeudi": "9:00  -  17:00",
+          "vendredi": "9:00  -  17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-23T12:50:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 66,
+      "internal_id": "258785[176810]",
+      "gid": "1693"
     },
     {
       "departement": "69",
@@ -589,34 +589,6 @@
     },
     {
       "departement": "69",
-      "nom": "Centre de vaccination -H\u00f4pital Edouard Herriot-HCL",
-      "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-edouard-herriot-hcl-vaccination-covid?pid=practice-163794",
-      "location": {
-        "longitude": 4.88009,
-        "latitude": 45.7433
-      },
-      "metadata": {
-        "address": "5 Place d'Arsonval, 69003 Lyon",
-        "phone_number": "+33423101010",
-        "business_hours": {
-          "lundi": "08:00-20:00",
-          "mardi": "08:00-20:00",
-          "mercredi": "08:00-20:00",
-          "jeudi": "08:00-20:00",
-          "vendredi": "08:00-20:00",
-          "samedi": "08:30-17:30",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241950[163794]",
-      "gid": "222"
-    },
-    {
-      "departement": "69",
       "nom": "Centre de vaccination de Beauvallon - Salle des Varennes",
       "url": "",
       "location": {
@@ -642,6 +614,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "2260"
+    },
+    {
+      "departement": "69",
+      "nom": "Centre de vaccination -H\u00f4pital Edouard Herriot-HCL",
+      "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-edouard-herriot-hcl-vaccination-covid?pid=practice-163794",
+      "location": {
+        "longitude": 4.88009,
+        "latitude": 45.7433
+      },
+      "metadata": {
+        "address": "5 Place d'Arsonval, 69003 Lyon",
+        "phone_number": "+33423101010",
+        "business_hours": {
+          "lundi": "08:00-20:00",
+          "mardi": "08:00-20:00",
+          "mercredi": "08:00-20:00",
+          "jeudi": "08:00-20:00",
+          "vendredi": "08:00-20:00",
+          "samedi": "08:30-17:30",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241950[163794]",
+      "gid": "222"
     },
     {
       "departement": "69",
@@ -924,34 +924,6 @@
     },
     {
       "departement": "69",
-      "nom": "Centre de vaccination -H\u00f4pital Pierre Wertheimer - HCL",
-      "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-pierre-wertheimer-hcl-vaccination-covid?pid=practice-163796",
-      "location": {
-        "longitude": 4.89827,
-        "latitude": 45.7493
-      },
-      "metadata": {
-        "address": "55 Boulevard PINEL, 69500 Bron",
-        "phone_number": "+33423101010",
-        "business_hours": {
-          "lundi": "09:00-20:00",
-          "mardi": "09:00-20:00",
-          "mercredi": "09:00-20:00",
-          "jeudi": "09:00-20:00",
-          "vendredi": "09:00-20:00",
-          "samedi": "09:00-17:00",
-          "dimanche": "09:00-17:00"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241952[163796]",
-      "gid": "1181"
-    },
-    {
-      "departement": "69",
       "nom": "Centre de vaccination -H\u00f4pital Lyon sud - HCL",
       "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-lyon-sud-hcl-vaccination-covid?pid=practice-163795",
       "location": {
@@ -980,30 +952,31 @@
     },
     {
       "departement": "69",
-      "nom": "MA - US Corbas / Etablissement sp\u00e9cialis\u00e9 pour mineurs du Rh\u00f4ne",
-      "url": "",
+      "nom": "Centre de vaccination -H\u00f4pital Pierre Wertheimer - HCL",
+      "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-pierre-wertheimer-hcl-vaccination-covid?pid=practice-163796",
       "location": {
-        "longitude": 4.99769,
-        "latitude": 45.7605
+        "longitude": 4.89827,
+        "latitude": 45.7493
       },
       "metadata": {
-        "address": " Rue du Rambion, 69330 Meyzieu",
+        "address": "55 Boulevard PINEL, 69500 Bron",
+        "phone_number": "+33423101010",
         "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
+          "lundi": "09:00-20:00",
+          "mardi": "09:00-20:00",
+          "mercredi": "09:00-20:00",
+          "jeudi": "09:00-20:00",
+          "vendredi": "09:00-20:00",
+          "samedi": "09:00-17:00",
+          "dimanche": "09:00-17:00"
         }
       },
       "prochain_rdv": null,
-      "plateforme": "Autre",
+      "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1776"
+      "internal_id": "241952[163796]",
+      "gid": "1181"
     },
     {
       "departement": "69",
@@ -1031,6 +1004,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1777"
+    },
+    {
+      "departement": "69",
+      "nom": "MA - US Corbas / Etablissement sp\u00e9cialis\u00e9 pour mineurs du Rh\u00f4ne",
+      "url": "",
+      "location": {
+        "longitude": 4.99769,
+        "latitude": 45.7605
+      },
+      "metadata": {
+        "address": " Rue du Rambion, 69330 Meyzieu",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1776"
     },
     {
       "departement": "69",

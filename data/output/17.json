@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.152255+02:00",
+  "last_updated": "2021-04-10T19:23:47.335331+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -33,33 +33,6 @@
     },
     {
       "departement": "17",
-      "nom": "CH ROCHEFORT(r\u00e9serv\u00e9 aux professionnels de sant\u00e9)",
-      "url": "https://partners.doctolib.fr/hopital-public/rochefort/centre-hospitalier-de-rochefort-vaccination-covid",
-      "location": {
-        "longitude": -0.963273,
-        "latitude": 45.9671
-      },
-      "metadata": {
-        "address": "1 Avenue de Beligon, 17300 Rochefort",
-        "business_hours": {
-          "lundi": "09:00-12:30/13:30-16:50",
-          "mardi": "09:00-12:30/13:30-16:50",
-          "mercredi": "09:00-12:30/13:30-16:50",
-          "jeudi": "09:00-12:30/13:30-16:50",
-          "vendredi": "09:00-12:30/13:30-16:50",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241589[]",
-      "gid": "73"
-    },
-    {
-      "departement": "17",
       "nom": "CENTRE CLINIQUE PASTEUR ROYAN",
       "url": "https://partners.doctolib.fr/clinique-privee/royan/clinique-pasteur-vaccination-covid-19?pid=practice-165101",
       "location": {
@@ -85,6 +58,33 @@
       "appointment_count": 0,
       "internal_id": "243959[165101]",
       "gid": "921"
+    },
+    {
+      "departement": "17",
+      "nom": "CH ROCHEFORT(r\u00e9serv\u00e9 aux professionnels de sant\u00e9)",
+      "url": "https://partners.doctolib.fr/hopital-public/rochefort/centre-hospitalier-de-rochefort-vaccination-covid",
+      "location": {
+        "longitude": -0.963273,
+        "latitude": 45.9671
+      },
+      "metadata": {
+        "address": "1 Avenue de Beligon, 17300 Rochefort",
+        "business_hours": {
+          "lundi": "09:00-12:30/13:30-16:50",
+          "mardi": "09:00-12:30/13:30-16:50",
+          "mercredi": "09:00-12:30/13:30-16:50",
+          "jeudi": "09:00-12:30/13:30-16:50",
+          "vendredi": "09:00-12:30/13:30-16:50",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241589[]",
+      "gid": "73"
     },
     {
       "departement": "17",

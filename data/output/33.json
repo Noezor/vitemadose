@@ -1,35 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.173897+02:00",
+  "last_updated": "2021-04-10T19:23:47.354005+02:00",
   "centres_disponibles": [
-    {
-      "departement": "33",
-      "nom": "Centre de vaccination COVID -  Salle Ermitage Compostelle - Le Bouscat",
-      "url": "https://partners.doctolib.fr/centre-de-sante/le-bouscat/centre-de-vaccination-covid-ermitage",
-      "location": {
-        "longitude": -0.5975418,
-        "latitude": 44.8651743
-      },
-      "metadata": {
-        "address": "10 Rue Bertrand Hauret, 33110 Le Bouscat",
-        "phone_number": "05 56 17 50 99",
-        "business_hours": {
-          "lundi": null,
-          "mardi": null,
-          "mercredi": null,
-          "jeudi": null,
-          "vendredi": null,
-          "samedi": null,
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": "2021-04-12T13:18:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 69,
-      "internal_id": "262432[179472]",
-      "gid": "d262432"
-    },
     {
       "departement": "33",
       "nom": "Dr Bertrand DISCAZEAUX",
@@ -81,7 +53,7 @@
       "prochain_rdv": "2021-04-12T17:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 298,
+      "appointment_count": 299,
       "internal_id": "242928[]",
       "gid": "992"
     },
@@ -136,7 +108,7 @@
       "prochain_rdv": "2021-04-12T17:50:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 206,
+      "appointment_count": 205,
       "internal_id": null,
       "gid": "2297"
     },
@@ -188,10 +160,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-15T10:10:00.000+02:00",
+      "prochain_rdv": "2021-04-15T12:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 47,
+      "appointment_count": 44,
       "internal_id": "263487[]",
       "gid": "d263487"
     },
@@ -253,6 +225,34 @@
     },
     {
       "departement": "33",
+      "nom": "Centre de vaccination COVID -  Salle Ermitage Compostelle - Le Bouscat",
+      "url": "https://partners.doctolib.fr/centre-de-sante/le-bouscat/centre-de-vaccination-covid-ermitage",
+      "location": {
+        "longitude": -0.5975418,
+        "latitude": 44.8651743
+      },
+      "metadata": {
+        "address": "10 Rue Bertrand Hauret, 33110 Le Bouscat",
+        "phone_number": "05 56 17 50 99",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-22T12:48:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 458,
+      "internal_id": "262432[179472]",
+      "gid": "d262432"
+    },
+    {
+      "departement": "33",
       "nom": "Centre de vaccination - Domaine des Lug\u00e9es",
       "url": "https://partners.doctolib.fr/centre-de-sante/ares/centre-de-vaccination-covid-19-nord-bassin-ville-d-ares?pid=practice-171900",
       "location": {
@@ -271,10 +271,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-03T09:40:00.000+02:00",
+      "prochain_rdv": "2021-05-08T16:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 2,
+      "appointment_count": 1,
       "internal_id": "251731[171900]",
       "gid": "1615"
     },
@@ -504,33 +504,6 @@
     },
     {
       "departement": "33",
-      "nom": "Centre de vaccination Lormont Carriet",
-      "url": "",
-      "location": {
-        "longitude": -0.525227,
-        "latitude": 44.8819
-      },
-      "metadata": {
-        "address": "3 Place Fran\u00e7ois Magendie, 33310 Lormont",
-        "business_hours": {
-          "lundi": "08:00-12:00/14:00-18:00",
-          "mardi": "08:00-12:00/14:00-18:00",
-          "mercredi": "08:00-12:00/14:00-18:00",
-          "jeudi": "08:00-12:00/14:00-18:00",
-          "vendredi": "08:00-12:00/14:00-18:00",
-          "samedi": "08:00-12:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1637"
-    },
-    {
-      "departement": "33",
       "nom": "CENTRE DE VACCINATION DU GRAND CUBZAGUAIS",
       "url": "https://partners.doctolib.fr/centre-de-sante/saint-andre-de-cubzac/centre-de-vaccination-du-grand-cubzaguais?pid=practice-179089",
       "location": {
@@ -559,30 +532,30 @@
     },
     {
       "departement": "33",
-      "nom": "Centre de vaccination Haute Gironde - CARS",
-      "url": "https://partners.doctolib.fr/centre-de-sante/cars/centre-de-vaccination-de-la-haute-gironde?pid=practice-170371",
+      "nom": "Centre de vaccination Lormont Carriet",
+      "url": "",
       "location": {
-        "longitude": -0.619462,
-        "latitude": 45.1298
+        "longitude": -0.525227,
+        "latitude": 44.8819
       },
       "metadata": {
-        "address": "5 Le Bourg, 33390 Cars",
+        "address": "3 Place Fran\u00e7ois Magendie, 33310 Lormont",
         "business_hours": {
-          "lundi": "09:00-12:30/13:00-17:00",
-          "mardi": "09:00-12:30/13:00-17:00",
-          "mercredi": "09:00-12:30/13:00-17:00",
-          "jeudi": "09:00-12:30/13:00-17:00",
-          "vendredi": "09:00-12:30/13:00-17:00",
-          "samedi": "09:00-12:00",
+          "lundi": "08:00-12:00/14:00-18:00",
+          "mardi": "08:00-12:00/14:00-18:00",
+          "mercredi": "08:00-12:00/14:00-18:00",
+          "jeudi": "08:00-12:00/14:00-18:00",
+          "vendredi": "08:00-12:00/14:00-18:00",
+          "samedi": "08:00-12:00",
           "dimanche": "ferm\u00e9"
         }
       },
       "prochain_rdv": null,
-      "plateforme": "Doctolib",
+      "plateforme": "Autre",
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": "249917[170371]",
-      "gid": "1719"
+      "internal_id": null,
+      "gid": "1637"
     },
     {
       "departement": "33",
@@ -611,6 +584,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1721"
+    },
+    {
+      "departement": "33",
+      "nom": "Centre de vaccination Haute Gironde - CARS",
+      "url": "https://partners.doctolib.fr/centre-de-sante/cars/centre-de-vaccination-de-la-haute-gironde?pid=practice-170371",
+      "location": {
+        "longitude": -0.619462,
+        "latitude": 45.1298
+      },
+      "metadata": {
+        "address": "5 Le Bourg, 33390 Cars",
+        "business_hours": {
+          "lundi": "09:00-12:30/13:00-17:00",
+          "mardi": "09:00-12:30/13:00-17:00",
+          "mercredi": "09:00-12:30/13:00-17:00",
+          "jeudi": "09:00-12:30/13:00-17:00",
+          "vendredi": "09:00-12:30/13:00-17:00",
+          "samedi": "09:00-12:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "249917[170371]",
+      "gid": "1719"
     },
     {
       "departement": "33",

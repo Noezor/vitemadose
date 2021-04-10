@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.192044+02:00",
+  "last_updated": "2021-04-10T19:23:47.366444+02:00",
   "centres_disponibles": [
     {
       "departement": "44",
@@ -22,10 +22,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-13T11:12:00.000+02:00",
+      "prochain_rdv": "2021-04-13T11:24:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "drugstore",
-      "appointment_count": 110,
+      "appointment_count": 109,
       "internal_id": "226834[151568]",
       "gid": "d226834"
     },
@@ -85,6 +85,34 @@
     },
     {
       "departement": "44",
+      "nom": "Centre de Vaccination - BLAIN - Salle des f\u00eates",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/blain/centre-de-vaccination-de-la-salle-des-fetes-de-blain",
+      "location": {
+        "longitude": -1.76531,
+        "latitude": 47.4736
+      },
+      "metadata": {
+        "address": "6b Rue Pierre Morin, 44130 Blain",
+        "phone_number": "+33806000344",
+        "business_hours": {
+          "lundi": "9h-12h / 14h-17h",
+          "mardi": "9h-12h / 14h-17h",
+          "mercredi": "9h-12h / 14h-17h",
+          "jeudi": "9h-12h / 14h-17h",
+          "vendredi": "9h-12h / 14h-17h",
+          "samedi": "9h-12h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-21T11:18:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 41,
+      "internal_id": "242017[]",
+      "gid": "500"
+    },
+    {
+      "departement": "44",
       "nom": "Centre de Vaccination - REZE - Confluent",
       "url": "https://partners.doctolib.fr/clinique-privee/nantes/centre-de-vaccination-covid-hopital-prive-confluent",
       "location": {
@@ -107,40 +135,12 @@
       "prochain_rdv": "2021-04-23T09:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 88,
+      "appointment_count": 87,
       "internal_id": "242265[]",
       "gid": "716"
     }
   ],
   "centres_indisponibles": [
-    {
-      "departement": "44",
-      "nom": "Centre de Vaccination - LA BAULE - Espace Jean Gaillardon",
-      "url": "https://partners.doctolib.fr/centre-de-sante/la-baule-escoublac/cap-atlantique-la-baule-escoublac?pid=practice-164467",
-      "location": {
-        "longitude": -2.39621,
-        "latitude": 47.2903
-      },
-      "metadata": {
-        "address": " Place des Salines, 44500 La Baule-Escoublac",
-        "phone_number": "+33806000344",
-        "business_hours": {
-          "lundi": "9h / 17h",
-          "mardi": "9h / 17h",
-          "mercredi": "9h / 17h",
-          "jeudi": "9h / 17h",
-          "vendredi": "9h / 17h",
-          "samedi": "9h/17h",
-          "dimanche": "9h/17h"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242993[164467]",
-      "gid": "1477"
-    },
     {
       "departement": "44",
       "nom": "Centre de vaccination - SAINT PHILBERT de GRAND LIEU - Salle des Marais",
@@ -168,6 +168,34 @@
       "appointment_count": 0,
       "internal_id": "257108[175993]",
       "gid": "1597"
+    },
+    {
+      "departement": "44",
+      "nom": "Centre de Vaccination - LA BAULE - Espace Jean Gaillardon",
+      "url": "https://partners.doctolib.fr/centre-de-sante/la-baule-escoublac/cap-atlantique-la-baule-escoublac?pid=practice-164467",
+      "location": {
+        "longitude": -2.39621,
+        "latitude": 47.2903
+      },
+      "metadata": {
+        "address": " Place des Salines, 44500 La Baule-Escoublac",
+        "phone_number": "+33806000344",
+        "business_hours": {
+          "lundi": "9h / 17h",
+          "mardi": "9h / 17h",
+          "mercredi": "9h / 17h",
+          "jeudi": "9h / 17h",
+          "vendredi": "9h / 17h",
+          "samedi": "9h/17h",
+          "dimanche": "9h/17h"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242993[164467]",
+      "gid": "1477"
     },
     {
       "departement": "44",
@@ -336,34 +364,6 @@
       "appointment_count": 0,
       "internal_id": "259530[177634]",
       "gid": "2052"
-    },
-    {
-      "departement": "44",
-      "nom": "Centre de Vaccination - BLAIN - Salle des f\u00eates",
-      "url": "https://partners.doctolib.fr/centre-depistage-covid/blain/centre-de-vaccination-de-la-salle-des-fetes-de-blain",
-      "location": {
-        "longitude": -1.76531,
-        "latitude": 47.4736
-      },
-      "metadata": {
-        "address": "6b Rue Pierre Morin, 44130 Blain",
-        "phone_number": "+33806000344",
-        "business_hours": {
-          "lundi": "9h-12h / 14h-17h",
-          "mardi": "9h-12h / 14h-17h",
-          "mercredi": "9h-12h / 14h-17h",
-          "jeudi": "9h-12h / 14h-17h",
-          "vendredi": "9h-12h / 14h-17h",
-          "samedi": "9h-12h",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242017[]",
-      "gid": "500"
     },
     {
       "departement": "44",

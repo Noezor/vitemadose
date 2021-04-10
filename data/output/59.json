@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.207371+02:00",
+  "last_updated": "2021-04-10T19:23:47.379779+02:00",
   "centres_disponibles": [
     {
       "departement": "59",
@@ -411,10 +411,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-15T09:15:00.000+02:00",
+      "prochain_rdv": "2021-04-15T11:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 49,
+      "appointment_count": 48,
       "internal_id": "243395[165272]",
       "gid": "1510"
     },
@@ -726,6 +726,34 @@
     },
     {
       "departement": "59",
+      "nom": "Centre de vaccination - CH Fourmies",
+      "url": "https://partners.doctolib.fr/hopital-public/fourmies/ch-fourmies-centre-de-vaccination-covid-19",
+      "location": {
+        "longitude": 4.05915,
+        "latitude": 50.0095
+      },
+      "metadata": {
+        "address": "13 Rue de l'H\u00f4pital, 59610 Fourmies",
+        "phone_number": "+33392043471 ",
+        "business_hours": {
+          "lundi": "09:15-12:00/14:00-17:00",
+          "mardi": "09:15-12:00/14:00-17:00",
+          "mercredi": "09:15-12:00/14:00-17:00",
+          "jeudi": "09:15-12:00/14:00-17:00",
+          "vendredi": "09:15-12:00/14:00-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-21T15:20:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "242036[]",
+      "gid": "274"
+    },
+    {
+      "departement": "59",
       "nom": "Pharmacie de l'Avenir",
       "url": "https://partners.doctolib.fr/pharmacie/roubaix/pharmacie-de-l-avenir-roubaix",
       "location": {
@@ -890,6 +918,34 @@
       "appointment_count": 3,
       "internal_id": "241662[]",
       "gid": "d241662"
+    },
+    {
+      "departement": "59",
+      "nom": "Centre de vaccination - Centre Hospitalier de Valenciennes et CPTS du Valenciennois 2, Salle JEAN MINEUR",
+      "url": "https://partners.doctolib.fr/centre-de-sante/valenciennes/centre-vaccination?placeid=practice-162438%3fspeciality_id%3d5494",
+      "location": {
+        "longitude": 3.48791,
+        "latitude": 50.3649
+      },
+      "metadata": {
+        "address": " Rue de la Cokerie, 59300 Valenciennes",
+        "phone_number": "+33327140829",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "11:00-17:00",
+          "dimanche": "11:00-17:00"
+        }
+      },
+      "prochain_rdv": "2021-05-06T12:20:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "240246[164877]",
+      "gid": "942"
     }
   ],
   "centres_indisponibles": [
@@ -1197,33 +1253,6 @@
     },
     {
       "departement": "59",
-      "nom": "Centre de vaccination - KURSAAL",
-      "url": "https://partners.doctolib.fr/centre-de-sante/dunkerque/centre-de-vaccination-covid-19-kursaal-dunkerque?pid=practice-175344",
-      "location": {
-        "longitude": 2.39022,
-        "latitude": 51.0483
-      },
-      "metadata": {
-        "address": "7 bis Place du Casino, 59240 Dunkerque",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "09:00-17:30",
-          "dimanche": "09:00-17:30"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "256175[175344]",
-      "gid": "1682"
-    },
-    {
-      "departement": "59",
       "nom": "Centre de vaccination - Ville de Bourbourg, Espace Pierre de Coubertin",
       "url": "https://partners.doctolib.fr/centre-de-sante/bourbourg/centre-de-vaccination-covid-19-bourbourg?pid=practice-175280",
       "location": {
@@ -1248,6 +1277,33 @@
       "appointment_count": 0,
       "internal_id": "256844[175280]",
       "gid": "1654"
+    },
+    {
+      "departement": "59",
+      "nom": "Centre de vaccination - KURSAAL",
+      "url": "https://partners.doctolib.fr/centre-de-sante/dunkerque/centre-de-vaccination-covid-19-kursaal-dunkerque?pid=practice-175344",
+      "location": {
+        "longitude": 2.39022,
+        "latitude": 51.0483
+      },
+      "metadata": {
+        "address": "7 bis Place du Casino, 59240 Dunkerque",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "09:00-17:30",
+          "dimanche": "09:00-17:30"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "256175[175344]",
+      "gid": "1682"
     },
     {
       "departement": "59",
@@ -1330,34 +1386,6 @@
       "appointment_count": 0,
       "internal_id": "242648[163991]",
       "gid": "266"
-    },
-    {
-      "departement": "59",
-      "nom": "Centre de vaccination - Centre Hospitalier de Valenciennes et CPTS du Valenciennois 2, Salle JEAN MINEUR",
-      "url": "https://partners.doctolib.fr/centre-de-sante/valenciennes/centre-vaccination?placeid=practice-162438%3fspeciality_id%3d5494",
-      "location": {
-        "longitude": 3.48791,
-        "latitude": 50.3649
-      },
-      "metadata": {
-        "address": " Rue de la Cokerie, 59300 Valenciennes",
-        "phone_number": "+33327140829",
-        "business_hours": {
-          "lundi": "09:00-17:00",
-          "mardi": "09:00-17:00",
-          "mercredi": "09:00-17:00",
-          "jeudi": "09:00-17:00",
-          "vendredi": "09:00-17:00",
-          "samedi": "11:00-17:00",
-          "dimanche": "11:00-17:00"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "240246[164877]",
-      "gid": "942"
     },
     {
       "departement": "59",
@@ -1746,21 +1774,21 @@
     },
     {
       "departement": "59",
-      "nom": "Centre de vaccination - Polyclinique Saint-Roch, Salle Georges Catry",
-      "url": "https://partners.doctolib.fr/clinique-privee/roncq/centre-de-vaccination-covid-19-clinique-saint-roch?pid=practice-164701%3fspeciality_id%3d5494",
+      "nom": "Centre de vaccination - CH Armenti\u00e8res",
+      "url": "https://partners.doctolib.fr/hopital-public/armentieres/ch-armentieres?pid=practice-175038",
       "location": {
-        "longitude": 3.12118,
-        "latitude": 50.753
+        "longitude": 2.86711,
+        "latitude": 50.6869
       },
       "metadata": {
-        "address": " Place Jean Jaures, 59223 Roncq",
-        "phone_number": "+33359032068 ",
+        "address": "136 Boulevard Faidherbe, 59280 Armenti\u00e8res",
+        "phone_number": "+33320481003",
         "business_hours": {
-          "lundi": "08:00-19:30",
-          "mardi": "08:00-19:30",
-          "mercredi": "08:00-19:30",
-          "jeudi": "08:00-19:30",
-          "vendredi": "08:00-19:30",
+          "lundi": "13:00-18:00",
+          "mardi": "13:00-18:00",
+          "mercredi": "13:00-18:00",
+          "jeudi": "13:00-18:00",
+          "vendredi": "13:00-18:00",
           "samedi": "ferm\u00e9",
           "dimanche": "ferm\u00e9"
         }
@@ -1769,8 +1797,8 @@
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": "242700[164701]",
-      "gid": "1092"
+      "internal_id": "241874[175038]",
+      "gid": "1093"
     },
     {
       "departement": "59",
@@ -1802,21 +1830,21 @@
     },
     {
       "departement": "59",
-      "nom": "Centre de vaccination - CH Armenti\u00e8res",
-      "url": "https://partners.doctolib.fr/hopital-public/armentieres/ch-armentieres?pid=practice-175038",
+      "nom": "Centre de vaccination - Polyclinique Saint-Roch, Salle Georges Catry",
+      "url": "https://partners.doctolib.fr/clinique-privee/roncq/centre-de-vaccination-covid-19-clinique-saint-roch?pid=practice-164701%3fspeciality_id%3d5494",
       "location": {
-        "longitude": 2.86711,
-        "latitude": 50.6869
+        "longitude": 3.12118,
+        "latitude": 50.753
       },
       "metadata": {
-        "address": "136 Boulevard Faidherbe, 59280 Armenti\u00e8res",
-        "phone_number": "+33320481003",
+        "address": " Place Jean Jaures, 59223 Roncq",
+        "phone_number": "+33359032068 ",
         "business_hours": {
-          "lundi": "13:00-18:00",
-          "mardi": "13:00-18:00",
-          "mercredi": "13:00-18:00",
-          "jeudi": "13:00-18:00",
-          "vendredi": "13:00-18:00",
+          "lundi": "08:00-19:30",
+          "mardi": "08:00-19:30",
+          "mercredi": "08:00-19:30",
+          "jeudi": "08:00-19:30",
+          "vendredi": "08:00-19:30",
           "samedi": "ferm\u00e9",
           "dimanche": "ferm\u00e9"
         }
@@ -1825,8 +1853,8 @@
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": "241874[175038]",
-      "gid": "1093"
+      "internal_id": "242700[164701]",
+      "gid": "1092"
     },
     {
       "departement": "59",
@@ -1938,34 +1966,6 @@
       "appointment_count": 0,
       "internal_id": "241235[162478]",
       "gid": "287"
-    },
-    {
-      "departement": "59",
-      "nom": "Centre de vaccination - CH Fourmies",
-      "url": "https://partners.doctolib.fr/hopital-public/fourmies/ch-fourmies-centre-de-vaccination-covid-19",
-      "location": {
-        "longitude": 4.05915,
-        "latitude": 50.0095
-      },
-      "metadata": {
-        "address": "13 Rue de l'H\u00f4pital, 59610 Fourmies",
-        "phone_number": "+33392043471 ",
-        "business_hours": {
-          "lundi": "09:15-12:00/14:00-17:00",
-          "mardi": "09:15-12:00/14:00-17:00",
-          "mercredi": "09:15-12:00/14:00-17:00",
-          "jeudi": "09:15-12:00/14:00-17:00",
-          "vendredi": "09:15-12:00/14:00-17:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242036[]",
-      "gid": "274"
     },
     {
       "departement": "59",
@@ -2247,33 +2247,6 @@
     },
     {
       "departement": "59",
-      "nom": "CP - MAUBEUGE / Centre P\u00e9nitentiaire de Maubeuge",
-      "url": "",
-      "location": {
-        "longitude": 3.99663,
-        "latitude": 50.2855
-      },
-      "metadata": {
-        "address": " Route d?Assevent, 59600 Maubeuge",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1835"
-    },
-    {
-      "departement": "59",
       "nom": "CP - US Maison d'arr\u00eat de Sequedin / Centre P\u00e9nitentiaire de Lille-Loos-Sequedin",
       "url": "",
       "location": {
@@ -2298,6 +2271,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1832"
+    },
+    {
+      "departement": "59",
+      "nom": "CP - MAUBEUGE / Centre P\u00e9nitentiaire de Maubeuge",
+      "url": "",
+      "location": {
+        "longitude": 3.99663,
+        "latitude": 50.2855
+      },
+      "metadata": {
+        "address": " Route d?Assevent, 59600 Maubeuge",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1835"
     },
     {
       "departement": "59",
@@ -2328,33 +2328,6 @@
     },
     {
       "departement": "59",
-      "nom": "MA - USMP de Douai / Maison d'Arr\u00eat de Douai",
-      "url": "",
-      "location": {
-        "longitude": 3.05993,
-        "latitude": 50.3766
-      },
-      "metadata": {
-        "address": "505 Rue de Cuincy, 59500 Douai",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1838"
-    },
-    {
-      "departement": "59",
       "nom": "EPM - EPM QUIEVRECHAIN / Maison d'Arr\u00eat de Valenciennes",
       "url": "",
       "location": {
@@ -2382,6 +2355,33 @@
     },
     {
       "departement": "59",
+      "nom": "MA - USMP de Douai / Maison d'Arr\u00eat de Douai",
+      "url": "",
+      "location": {
+        "longitude": 3.05993,
+        "latitude": 50.3766
+      },
+      "metadata": {
+        "address": "505 Rue de Cuincy, 59500 Douai",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1838"
+    },
+    {
+      "departement": "59",
       "nom": "Pharmacie Enderle (D1)",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-enderle-(d1)-bertry",
       "location": {
@@ -2402,26 +2402,6 @@
     },
     {
       "departement": "59",
-      "nom": "Pharmacie Nationale Du Square",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-nationale-du-square-lille",
-      "location": {
-        "longitude": 3.057356,
-        "latitude": 50.6346208
-      },
-      "metadata": {
-        "address": "103 Rue Nationale, 59800 Lille",
-        "phone_number": "+33650889307",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "6d667799"
-    },
-    {
-      "departement": "59",
       "nom": "Pharmacie Des Quais",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-quais-lille",
       "location": {
@@ -2439,6 +2419,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "061df7d5"
+    },
+    {
+      "departement": "59",
+      "nom": "Pharmacie Nationale Du Square",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-nationale-du-square-lille",
+      "location": {
+        "longitude": 3.057356,
+        "latitude": 50.6346208
+      },
+      "metadata": {
+        "address": "103 Rue Nationale, 59800 Lille",
+        "phone_number": "+33650889307",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "6d667799"
     },
     {
       "departement": "59",

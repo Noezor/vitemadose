@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.269721+02:00",
+  "last_updated": "2021-04-10T19:23:47.431186+02:00",
   "centres_disponibles": [
     {
       "departement": "971",
@@ -341,33 +341,6 @@
     },
     {
       "departement": "971",
-      "nom": "- BASSE TERRE / Maison d'Arr\u00eat de Basse-Terre",
-      "url": "",
-      "location": {
-        "longitude": -61.7276,
-        "latitude": 15.9927
-      },
-      "metadata": {
-        "address": "4 Boulevard Felix Eboue, 97100 Basse-Terre",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1927"
-    },
-    {
-      "departement": "971",
       "nom": "CP - US de Baie-Mahault / Centre P\u00e9nitentiaire de Baie-Mahault",
       "url": "",
       "location": {
@@ -392,6 +365,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1928"
+    },
+    {
+      "departement": "971",
+      "nom": "- BASSE TERRE / Maison d'Arr\u00eat de Basse-Terre",
+      "url": "",
+      "location": {
+        "longitude": -61.7276,
+        "latitude": 15.9927
+      },
+      "metadata": {
+        "address": "4 Boulevard Felix Eboue, 97100 Basse-Terre",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1927"
     }
   ]
 }

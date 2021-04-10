@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.183099+02:00",
+  "last_updated": "2021-04-10T19:23:47.360290+02:00",
   "centres_disponibles": [
     {
       "departement": "38",
@@ -26,7 +26,7 @@
       "prochain_rdv": "2021-04-11T17:35:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 2244,
+      "appointment_count": 2245,
       "internal_id": null,
       "gid": "2248"
     },
@@ -82,7 +82,7 @@
       "prochain_rdv": "2021-04-13T09:45:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 840,
+      "appointment_count": 839,
       "internal_id": null,
       "gid": "149"
     },
@@ -107,7 +107,7 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-14T13:30:00.000+02:00",
+      "prochain_rdv": "2021-04-14T11:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 1,
@@ -194,7 +194,7 @@
       "prochain_rdv": "2021-04-19T09:50:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 272,
+      "appointment_count": 274,
       "internal_id": null,
       "gid": "1340"
     },
@@ -256,6 +256,34 @@
     },
     {
       "departement": "38",
+      "nom": "Centre Equinoxe La Tour du Pin",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/la-tour-du-pin/centre-de-vaccination-de-la-tour-du-pin?pid=practice-173204",
+      "location": {
+        "longitude": 5.44985,
+        "latitude": 45.5615
+      },
+      "metadata": {
+        "address": "9 Rue Louis Pasteur, 38110 La Tour-du-Pin",
+        "phone_number": "+33476003134",
+        "business_hours": {
+          "lundi": "8:00-16:00",
+          "mardi": "8:00-16:00",
+          "mercredi": "12:00-20:00",
+          "jeudi": "8:00-16:00",
+          "vendredi": "8:00-16:00",
+          "samedi": "8:00-16:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-22T16:20:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "253788[173204]",
+      "gid": "1523"
+    },
+    {
+      "departement": "38",
       "nom": "Centre de vaccination de Grenoble - Centre d\u00e9partemental de sant\u00e9",
       "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/grenoble-38000/centre-departemental-de-sante-du-chu-grenoble/centre-departemental-de-sante-du-chu-grenoble",
       "location": {
@@ -281,34 +309,6 @@
       "appointment_count": 96,
       "internal_id": null,
       "gid": "677"
-    },
-    {
-      "departement": "38",
-      "nom": "Centre Equinoxe La Tour du Pin",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/la-tour-du-pin/centre-de-vaccination-de-la-tour-du-pin?pid=practice-173204",
-      "location": {
-        "longitude": 5.44985,
-        "latitude": 45.5615
-      },
-      "metadata": {
-        "address": "9 Rue Louis Pasteur, 38110 La Tour-du-Pin",
-        "phone_number": "+33476003134",
-        "business_hours": {
-          "lundi": "8:00-16:00",
-          "mardi": "8:00-16:00",
-          "mercredi": "12:00-20:00",
-          "jeudi": "8:00-16:00",
-          "vendredi": "8:00-16:00",
-          "samedi": "8:00-16:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-28T12:20:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 97,
-      "internal_id": "253788[173204]",
-      "gid": "1523"
     }
   ],
   "centres_indisponibles": [
@@ -453,6 +453,33 @@
     },
     {
       "departement": "38",
+      "nom": "Centre de vaccination COVID - Centre hospitalier de Vienne - (Professionnels de sant\u00e9 uniquement)",
+      "url": "https://partners.doctolib.fr/hopital-public/vienne/centre-de-vaccination-covid-19-ch-vienne?pid=practice-165717",
+      "location": {
+        "longitude": 4.87999,
+        "latitude": 45.5337
+      },
+      "metadata": {
+        "address": " Mont Salomon, 38200 Vienne",
+        "business_hours": {
+          "lundi": "13:00-16:00",
+          "mardi": "ferm\u00e913:00-16:00",
+          "mercredi": "13:00-16:00",
+          "jeudi": "13:00-16:00",
+          "vendredi": "13:00-16:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243833[165717]",
+      "gid": "1403"
+    },
+    {
+      "departement": "38",
       "nom": "Centre de vaccinations Nationales et Internationales de la ville de Grenoble",
       "url": "https://vaccination-covid.keldoc.com/centre-municipal-de-sante/grenoble-38000/centre-national-et-international-de-la-ville-de-grenoble/centre-de-vaccination-du-centre-national-et-international-de-la-ville-de-grenoble",
       "location": {
@@ -478,33 +505,6 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "678"
-    },
-    {
-      "departement": "38",
-      "nom": "Centre de vaccination COVID - Centre hospitalier de Vienne - (Professionnels de sant\u00e9 uniquement)",
-      "url": "https://partners.doctolib.fr/hopital-public/vienne/centre-de-vaccination-covid-19-ch-vienne?pid=practice-165717",
-      "location": {
-        "longitude": 4.87999,
-        "latitude": 45.5337
-      },
-      "metadata": {
-        "address": " Mont Salomon, 38200 Vienne",
-        "business_hours": {
-          "lundi": "13:00-16:00",
-          "mardi": "ferm\u00e913:00-16:00",
-          "mercredi": "13:00-16:00",
-          "jeudi": "13:00-16:00",
-          "vendredi": "13:00-16:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243833[165717]",
-      "gid": "1403"
     },
     {
       "departement": "38",

@@ -1,35 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.212457+02:00",
+  "last_updated": "2021-04-10T19:23:47.383466+02:00",
   "centres_disponibles": [
-    {
-      "departement": "60",
-      "nom": "Centre de vaccination -Communaut\u00e9 d'Agglom\u00e9ration du Beauvaisis, gymnase Andr\u00e9-Ambroise",
-      "url": "https://partners.doctolib.fr/centre-de-sante/beauvais/centre-de-vaccination-covid-departement-de-l-oise?pid=practice-176858",
-      "location": {
-        "longitude": 2.09327,
-        "latitude": 49.4283
-      },
-      "metadata": {
-        "address": "31 Rue du Pr\u00e9 Martinet, 60000 Beauvais",
-        "phone_number": "+33375570025",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "",
-          "dimanche": ""
-        }
-      },
-      "prochain_rdv": "2021-04-15T15:09:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "258482[176858]",
-      "gid": "2070"
-    },
     {
       "departement": "60",
       "nom": "Chambly Pharma",
@@ -249,33 +221,6 @@
     },
     {
       "departement": "60",
-      "nom": "Centre de vaccination - CPTS du pays de Bray",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saint-aubin-en-bray/communaute-de-soins-du-pays-de-bray-vaccination-covid?pid=practice-164539",
-      "location": {
-        "longitude": 1.88293,
-        "latitude": 49.4274
-      },
-      "metadata": {
-        "address": "38 Rue des Clerets, 60650 Saint-Aubin-en-Bray",
-        "business_hours": {
-          "lundi": "",
-          "mardi": "",
-          "mercredi": "",
-          "jeudi": "",
-          "vendredi": "",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242573[164539]",
-      "gid": "1673"
-    },
-    {
-      "departement": "60",
       "nom": "Centre de vaccination - Commune de Pont Sainte Maxence,  gymnase la Salamandre rue Charles Frigaux",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/pont-sainte-maxence/centre-de-vaccination-covid-19-pont-sainte-maxence?pid=practice-175373",
       "location": {
@@ -301,6 +246,33 @@
       "appointment_count": 0,
       "internal_id": "256798[175373]",
       "gid": "1671"
+    },
+    {
+      "departement": "60",
+      "nom": "Centre de vaccination - CPTS du pays de Bray",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-aubin-en-bray/communaute-de-soins-du-pays-de-bray-vaccination-covid?pid=practice-164539",
+      "location": {
+        "longitude": 1.88293,
+        "latitude": 49.4274
+      },
+      "metadata": {
+        "address": "38 Rue des Clerets, 60650 Saint-Aubin-en-Bray",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242573[164539]",
+      "gid": "1673"
     },
     {
       "departement": "60",
@@ -332,33 +304,6 @@
     },
     {
       "departement": "60",
-      "nom": "centre de vaccination - Mairie de Saint Just en chauss\u00e9e, L'OPUS",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saint-just-en-chaussee/centre-de-vaccination-covid-19-saint-just-en-chaussee?pid=practice-176105",
-      "location": {
-        "longitude": 2.43414,
-        "latitude": 49.5144
-      },
-      "metadata": {
-        "address": "5003 Rue Brunehaut, 60130 Saint-Just-en-Chauss\u00e9e",
-        "business_hours": {
-          "lundi": "",
-          "mardi": "",
-          "mercredi": "",
-          "jeudi": "",
-          "vendredi": "",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "257342[176105]",
-      "gid": "1674"
-    },
-    {
-      "departement": "60",
       "nom": "Centre de vaccination - MSP Cr\u00e9vecoeur le Grand",
       "url": "https://partners.doctolib.fr/centre-de-sante/crevecoeur-le-grand/centre-de-vaccination-covid-19-msp-crevecoeur-le-grand?pid=practice-176391",
       "location": {
@@ -386,6 +331,33 @@
     },
     {
       "departement": "60",
+      "nom": "centre de vaccination - Mairie de Saint Just en chauss\u00e9e, L'OPUS",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-just-en-chaussee/centre-de-vaccination-covid-19-saint-just-en-chaussee?pid=practice-176105",
+      "location": {
+        "longitude": 2.43414,
+        "latitude": 49.5144
+      },
+      "metadata": {
+        "address": "5003 Rue Brunehaut, 60130 Saint-Just-en-Chauss\u00e9e",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "257342[176105]",
+      "gid": "1674"
+    },
+    {
+      "departement": "60",
       "nom": "Centre de vaccination - Mairie de Chambly, gymnase en c\u0153ur de ville",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/chambly/centre-de-vaccination-covid-19-ville-de-chambly?pid=practice-175375",
       "location": {
@@ -410,6 +382,34 @@
       "appointment_count": 0,
       "internal_id": "257402[175375]",
       "gid": "1672"
+    },
+    {
+      "departement": "60",
+      "nom": "Centre de vaccination -Communaut\u00e9 d'Agglom\u00e9ration du Beauvaisis, gymnase Andr\u00e9-Ambroise",
+      "url": "https://partners.doctolib.fr/centre-de-sante/beauvais/centre-de-vaccination-covid-departement-de-l-oise?pid=practice-176858",
+      "location": {
+        "longitude": 2.09327,
+        "latitude": 49.4283
+      },
+      "metadata": {
+        "address": "31 Rue du Pr\u00e9 Martinet, 60000 Beauvais",
+        "phone_number": "+33375570025",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "258482[176858]",
+      "gid": "2070"
     },
     {
       "departement": "60",

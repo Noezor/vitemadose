@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.135690+02:00",
+  "last_updated": "2021-04-10T19:23:47.319222+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -643,33 +643,6 @@
     },
     {
       "departement": "02",
-      "nom": "CP - US / Centre P\u00e9nitentiaire de Laon",
-      "url": "",
-      "location": {
-        "longitude": 3.63382,
-        "latitude": 49.5791
-      },
-      "metadata": {
-        "address": " Chemin des Epinettes, 02000 Laon",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1830"
-    },
-    {
-      "departement": "02",
       "nom": "CP - Ch\u00e2teau-Thierry / Centre P\u00e9nitentiaire de Ch\u00e2teau-Thierry",
       "url": "",
       "location": {
@@ -694,6 +667,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1831"
+    },
+    {
+      "departement": "02",
+      "nom": "CP - US / Centre P\u00e9nitentiaire de Laon",
+      "url": "",
+      "location": {
+        "longitude": 3.63382,
+        "latitude": 49.5791
+      },
+      "metadata": {
+        "address": " Chemin des Epinettes, 02000 Laon",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1830"
     },
     {
       "departement": "02",

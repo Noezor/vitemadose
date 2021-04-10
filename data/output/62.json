@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.214737+02:00",
+  "last_updated": "2021-04-10T19:23:47.385851+02:00",
   "centres_disponibles": [
     {
       "departement": "62",
@@ -25,7 +25,7 @@
       "prochain_rdv": "2021-04-11T08:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 68,
+      "appointment_count": 69,
       "internal_id": "258354[176735]",
       "gid": "1952"
     },
@@ -108,7 +108,7 @@
       "prochain_rdv": "2021-04-11T09:35:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 11,
+      "appointment_count": 12,
       "internal_id": "244018[181175]",
       "gid": "1954"
     },
@@ -163,7 +163,7 @@
       "prochain_rdv": "2021-04-11T12:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 5,
+      "appointment_count": 4,
       "internal_id": "241235[162482]",
       "gid": "329"
     },
@@ -187,10 +187,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-11T16:05:00.000+02:00",
+      "prochain_rdv": "2021-04-11T16:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 153,
+      "appointment_count": 152,
       "internal_id": "258280[]",
       "gid": "d258280"
     },
@@ -242,10 +242,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-12T12:05:00.000+02:00",
+      "prochain_rdv": "2021-04-12T12:55:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 313,
+      "appointment_count": 316,
       "internal_id": "242884[180561]",
       "gid": "1115"
     },
@@ -270,10 +270,10 @@
           "dimanche": "08:00-20:00"
         }
       },
-      "prochain_rdv": "2021-04-13T09:00:00.000+02:00",
+      "prochain_rdv": "2021-04-13T09:15:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 91,
+      "appointment_count": 89,
       "internal_id": "243031[]",
       "gid": "1110"
     },
@@ -1211,33 +1211,6 @@
     },
     {
       "departement": "62",
-      "nom": "CD - US BAPAUME / Maison d'Arr\u00eat d'Arras",
-      "url": "",
-      "location": {
-        "longitude": 2.76048,
-        "latitude": 50.293
-      },
-      "metadata": {
-        "address": "12 Rue des Carabiniers d?Artois, 62000 Arras",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1842"
-    },
-    {
-      "departement": "62",
       "nom": "MA - US ARRAS / Maison d'Arr\u00eat d'Arras",
       "url": "",
       "location": {
@@ -1262,6 +1235,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1843"
+    },
+    {
+      "departement": "62",
+      "nom": "CD - US BAPAUME / Maison d'Arr\u00eat d'Arras",
+      "url": "",
+      "location": {
+        "longitude": 2.76048,
+        "latitude": 50.293
+      },
+      "metadata": {
+        "address": "12 Rue des Carabiniers d?Artois, 62000 Arras",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1842"
     },
     {
       "departement": "62",
@@ -1319,26 +1319,6 @@
     },
     {
       "departement": "62",
-      "nom": "Pharmacie Du Donjon",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-du-donjon-bruay-la-buissiere",
-      "location": {
-        "longitude": 2.5644602,
-        "latitude": 50.4904659
-      },
-      "metadata": {
-        "address": "2 rue Jean  Jaur\u00e8s, 62700 BRUAY-LA-BUISSIERE",
-        "phone_number": "+33321624076",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "f1e18603"
-    },
-    {
-      "departement": "62",
       "nom": "Pharmacie Test",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-test-rebreuve-sur-canche",
       "location": {
@@ -1356,6 +1336,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "12fcfc61"
+    },
+    {
+      "departement": "62",
+      "nom": "Pharmacie Du Donjon",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-du-donjon-bruay-la-buissiere",
+      "location": {
+        "longitude": 2.5644602,
+        "latitude": 50.4904659
+      },
+      "metadata": {
+        "address": "2 rue Jean  Jaur\u00e8s, 62700 BRUAY-LA-BUISSIERE",
+        "phone_number": "+33321624076",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "f1e18603"
     },
     {
       "departement": "62",

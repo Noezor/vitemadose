@@ -1,35 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.193366+02:00",
+  "last_updated": "2021-04-10T19:23:47.367831+02:00",
   "centres_disponibles": [
-    {
-      "departement": "45",
-      "nom": "Salle Fernand Pellicer - Orl\u00e9ans La Source",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/orleans/centre-de-vaccination-covid-fernand-pellicer-d-orleans",
-      "location": {
-        "longitude": 1.93344,
-        "latitude": 47.8343
-      },
-      "metadata": {
-        "address": " Rue Edouard Branly, 45100 Orl\u00e9ans",
-        "phone_number": "+33805021400",
-        "business_hours": {
-          "lundi": "14h-17h",
-          "mardi": "9h-17h",
-          "mercredi": "9h-17h",
-          "jeudi": "9h-17h",
-          "vendredi": "9h-17h",
-          "samedi": "en cours de d\u00e9finition",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-13T09:30:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "243107[]",
-      "gid": "609"
-    },
     {
       "departement": "45",
       "nom": "Salle polyvalente Cuiry de Gien",
@@ -51,10 +23,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-13T11:45:00.000+02:00",
+      "prochain_rdv": "2021-04-13T12:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 14,
+      "appointment_count": 12,
       "internal_id": "242669[]",
       "gid": "619"
     },
@@ -109,7 +81,7 @@
       "prochain_rdv": "2021-04-27T15:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 197,
+      "appointment_count": 196,
       "internal_id": "264587[181158]",
       "gid": "2152"
     }
@@ -227,6 +199,34 @@
     },
     {
       "departement": "45",
+      "nom": "Salle Fernand Pellicer - Orl\u00e9ans La Source",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/orleans/centre-de-vaccination-covid-fernand-pellicer-d-orleans",
+      "location": {
+        "longitude": 1.93344,
+        "latitude": 47.8343
+      },
+      "metadata": {
+        "address": " Rue Edouard Branly, 45100 Orl\u00e9ans",
+        "phone_number": "+33805021400",
+        "business_hours": {
+          "lundi": "14h-17h",
+          "mardi": "9h-17h",
+          "mercredi": "9h-17h",
+          "jeudi": "9h-17h",
+          "vendredi": "9h-17h",
+          "samedi": "en cours de d\u00e9finition",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243107[]",
+      "gid": "609"
+    },
+    {
+      "departement": "45",
       "nom": "Salle Carnot \u00e0 Montargis",
       "url": "https://partners.doctolib.fr/centre-de-sante/montargis/centre-de-vaccination-prefecture-du-loiret",
       "location": {
@@ -338,33 +338,6 @@
     },
     {
       "departement": "45",
-      "nom": "CH de Gien - r\u00e9serv\u00e9 aux professionnels de sant\u00e9",
-      "url": "https://partners.doctolib.fr/hopital-public/gien/centre-de-vaccination-covid-hopital-de-gien",
-      "location": {
-        "longitude": 2.63436,
-        "latitude": 47.6904
-      },
-      "metadata": {
-        "address": "2 ter Avenue Jean Villejean, 45500 Gien",
-        "business_hours": {
-          "lundi": "ouvert",
-          "mardi": "ouvert",
-          "mercredi": "ouvert",
-          "jeudi": "ouvert",
-          "vendredi": "ouvert",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242166[]",
-      "gid": "1358"
-    },
-    {
-      "departement": "45",
       "nom": "Dispensaire Porte Madeleine - r\u00e9serv\u00e9 aux professionnels de sant\u00e9",
       "url": "https://partners.doctolib.fr/hopital-public/orleans/centre-de-vaccination-covid-chr-orleans-porte-madeleine",
       "location": {
@@ -416,6 +389,33 @@
       "appointment_count": 0,
       "internal_id": "242165[]",
       "gid": "1357"
+    },
+    {
+      "departement": "45",
+      "nom": "CH de Gien - r\u00e9serv\u00e9 aux professionnels de sant\u00e9",
+      "url": "https://partners.doctolib.fr/hopital-public/gien/centre-de-vaccination-covid-hopital-de-gien",
+      "location": {
+        "longitude": 2.63436,
+        "latitude": 47.6904
+      },
+      "metadata": {
+        "address": "2 ter Avenue Jean Villejean, 45500 Gien",
+        "business_hours": {
+          "lundi": "ouvert",
+          "mardi": "ouvert",
+          "mercredi": "ouvert",
+          "jeudi": "ouvert",
+          "vendredi": "ouvert",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242166[]",
+      "gid": "1358"
     },
     {
       "departement": "45",

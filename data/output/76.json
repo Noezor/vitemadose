@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.237445+02:00",
+  "last_updated": "2021-04-10T19:23:47.404977+02:00",
   "centres_disponibles": [
     {
       "departement": "76",
@@ -82,7 +82,7 @@
       "prochain_rdv": "2021-04-14T12:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 155,
+      "appointment_count": 156,
       "internal_id": "241044[164222]",
       "gid": "786"
     },
@@ -222,7 +222,7 @@
       "prochain_rdv": "2021-04-21T17:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 69,
+      "appointment_count": 68,
       "internal_id": "242150[]",
       "gid": "70"
     },
@@ -247,10 +247,10 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-28T16:50:00.000+02:00",
+      "prochain_rdv": "2021-04-28T17:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 19,
+      "appointment_count": 18,
       "internal_id": "264690[181232]",
       "gid": "2359"
     },
@@ -283,6 +283,34 @@
     },
     {
       "departement": "76",
+      "nom": "Salle des Aulnes - Parc des Aulnes de Lillebonne",
+      "url": "https://partners.doctolib.fr/hopital-public/lillebonne/centre-de-vaccination-caux-vallee-de-seine?pid=practice-164430",
+      "location": {
+        "longitude": 0.533463,
+        "latitude": 49.5215
+      },
+      "metadata": {
+        "address": " Rue Thiers, 76170 Lillebonne",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": "2021-05-10T12:15:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 2,
+      "internal_id": "242477[164430]",
+      "gid": "1025"
+    },
+    {
+      "departement": "76",
       "nom": "CHI Caux Vall\u00e9e de Seine  - Lillebonne",
       "url": "https://partners.doctolib.fr/hopital-public/lillebonne/centre-de-vaccination-caux-vallee-de-seine",
       "location": {
@@ -305,37 +333,9 @@
       "prochain_rdv": "2021-05-10T12:15:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 8,
+      "appointment_count": 2,
       "internal_id": "242477[]",
       "gid": "796"
-    },
-    {
-      "departement": "76",
-      "nom": "Salle des Aulnes - Parc des Aulnes de Lillebonne",
-      "url": "https://partners.doctolib.fr/hopital-public/lillebonne/centre-de-vaccination-caux-vallee-de-seine?pid=practice-164430",
-      "location": {
-        "longitude": 0.533463,
-        "latitude": 49.5215
-      },
-      "metadata": {
-        "address": " Rue Thiers, 76170 Lillebonne",
-        "phone_number": "+33279461156",
-        "business_hours": {
-          "lundi": "",
-          "mardi": "",
-          "mercredi": "",
-          "jeudi": "",
-          "vendredi": "",
-          "samedi": "",
-          "dimanche": ""
-        }
-      },
-      "prochain_rdv": "2021-05-17T11:20:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 11,
-      "internal_id": "242477[164430]",
-      "gid": "1025"
     }
   ],
   "centres_indisponibles": [
@@ -676,33 +676,6 @@
     },
     {
       "departement": "76",
-      "nom": "MA - USS et USP / Maison d'Arr\u00eat de Rouen",
-      "url": "",
-      "location": {
-        "longitude": 1.07762,
-        "latitude": 49.4338
-      },
-      "metadata": {
-        "address": "169 Boulevard de l?Europe, 76100 Rouen",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1875"
-    },
-    {
-      "departement": "76",
       "nom": "CP - US / Centre p\u00e9nitentiaire du Havre",
       "url": "",
       "location": {
@@ -727,6 +700,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1876"
+    },
+    {
+      "departement": "76",
+      "nom": "MA - USS et USP / Maison d'Arr\u00eat de Rouen",
+      "url": "",
+      "location": {
+        "longitude": 1.07762,
+        "latitude": 49.4338
+      },
+      "metadata": {
+        "address": "169 Boulevard de l?Europe, 76100 Rouen",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1875"
     },
     {
       "departement": "76",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.245368+02:00",
+  "last_updated": "2021-04-10T19:23:47.412242+02:00",
   "centres_disponibles": [
     {
       "departement": "81",
@@ -51,10 +51,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-13T12:40:00.000+02:00",
+      "prochain_rdv": "2021-04-12T12:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 195,
+      "appointment_count": 197,
       "internal_id": "242019[164002]",
       "gid": "370"
     },
@@ -82,9 +82,37 @@
       "prochain_rdv": "2021-04-13T12:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 231,
+      "appointment_count": 230,
       "internal_id": "242019[164315]",
       "gid": "1186"
+    },
+    {
+      "departement": "81",
+      "nom": "Centre de vaccination de Mazamet - Palais des Congr\u00e8s",
+      "url": "https://partners.doctolib.fr/centre-de-sante/mazamet/centre-de-vaccination-covid-19-centre-de-vaccination-de-mazamet?pid=practice-165219",
+      "location": {
+        "longitude": 2.37707,
+        "latitude": 43.4951
+      },
+      "metadata": {
+        "address": " Rue Jean Assemat, 81200 Mazamet",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "8:30-12:30 & 13:30-17:30",
+          "mercredi": "8:30-12:30 & 13:30-17:30",
+          "jeudi": "8:30-12:30 & 13:30-17:30",
+          "vendredi": "8:30-12:30 & 13:30-17:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-13T14:45:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 198,
+      "internal_id": "243283[181262]",
+      "gid": "903"
     },
     {
       "departement": "81",
@@ -110,37 +138,9 @@
       "prochain_rdv": "2021-04-13T15:25:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 23,
+      "appointment_count": 24,
       "internal_id": "243490[165296]",
       "gid": "895"
-    },
-    {
-      "departement": "81",
-      "nom": "Centre de vaccination de Mazamet - Palais des Congr\u00e8s",
-      "url": "https://partners.doctolib.fr/centre-de-sante/mazamet/centre-de-vaccination-covid-19-centre-de-vaccination-de-mazamet?pid=practice-165219",
-      "location": {
-        "longitude": 2.37707,
-        "latitude": 43.4951
-      },
-      "metadata": {
-        "address": " Rue Jean Assemat, 81200 Mazamet",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "8:30-12:30 & 13:30-17:30",
-          "mercredi": "8:30-12:30 & 13:30-17:30",
-          "jeudi": "8:30-12:30 & 13:30-17:30",
-          "vendredi": "8:30-12:30 & 13:30-17:30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-13T15:40:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 197,
-      "internal_id": "243283[181262]",
-      "gid": "903"
     }
   ],
   "centres_indisponibles": [
@@ -314,14 +314,14 @@
     },
     {
       "departement": "81",
-      "nom": "MA - US  Albi / Maison d'Arr\u00eat d'Albi",
+      "nom": "CD - US SAINT SULPICE / Centre de D\u00e9tention de Saint-Sulpice-la-Pointe",
       "url": "",
       "location": {
-        "longitude": 2.12428,
-        "latitude": 43.9175
+        "longitude": 1.69325,
+        "latitude": 43.7762
       },
       "metadata": {
-        "address": "30 Rue Andr\u00e9 Imbert, 81000 Albi",
+        "address": "17 Chemin des Pescayres, 81370 Saint-Sulpice-la-Pointe",
         "business_hours": {
           "lundi": "Ferm\u00e9 au public",
           "mardi": "Ferm\u00e9 au public",
@@ -337,7 +337,7 @@
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "1909"
+      "gid": "1911"
     },
     {
       "departement": "81",
@@ -368,14 +368,14 @@
     },
     {
       "departement": "81",
-      "nom": "CD - US SAINT SULPICE / Centre de D\u00e9tention de Saint-Sulpice-la-Pointe",
+      "nom": "MA - US  Albi / Maison d'Arr\u00eat d'Albi",
       "url": "",
       "location": {
-        "longitude": 1.69325,
-        "latitude": 43.7762
+        "longitude": 2.12428,
+        "latitude": 43.9175
       },
       "metadata": {
-        "address": "17 Chemin des Pescayres, 81370 Saint-Sulpice-la-Pointe",
+        "address": "30 Rue Andr\u00e9 Imbert, 81000 Albi",
         "business_hours": {
           "lundi": "Ferm\u00e9 au public",
           "mardi": "Ferm\u00e9 au public",
@@ -391,7 +391,7 @@
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "1911"
+      "gid": "1909"
     },
     {
       "departement": "81",

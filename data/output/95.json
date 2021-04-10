@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.267701+02:00",
+  "last_updated": "2021-04-10T19:23:47.429384+02:00",
   "centres_disponibles": [
     {
       "departement": "95",
@@ -29,62 +29,6 @@
       "appointment_count": 148,
       "internal_id": "240550[162701]",
       "gid": "512"
-    },
-    {
-      "departement": "95",
-      "nom": "Gymnase Nelson Mandela",
-      "url": "https://partners.doctolib.fr/centre-de-sante/goussainville/centre-de-vaccination-ville-de-goussainville",
-      "location": {
-        "longitude": 2.45531,
-        "latitude": 49.0296
-      },
-      "metadata": {
-        "address": "21 Avenue de Montmorency, 95190 Goussainville",
-        "phone_number": "01.39.94.61.00",
-        "business_hours": {
-          "lundi": "9H-18h",
-          "mardi": "9H-18h",
-          "mercredi": "9H-18h",
-          "jeudi": "9H-18h",
-          "vendredi": "9H-18h",
-          "samedi": "9H-18h",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-12T09:55:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "242446[]",
-      "gid": "670"
-    },
-    {
-      "departement": "95",
-      "nom": "Centre Hospitalier de Gonesse",
-      "url": "https://partners.doctolib.fr/hopital-public/gonesse/centre-de-vaccinations-covid-ch-gonesse",
-      "location": {
-        "longitude": 2.45309,
-        "latitude": 48.9941
-      },
-      "metadata": {
-        "address": "2 Boulevard du 19 Mars 1962, 95500 Gonesse",
-        "phone_number": "01.82.32.05.96",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-12T10:40:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "242589[]",
-      "gid": "326"
     },
     {
       "departement": "95",
@@ -140,34 +84,6 @@
       "appointment_count": 67,
       "internal_id": "265979[]",
       "gid": "d265979"
-    },
-    {
-      "departement": "95",
-      "nom": "CENTRE DE VACCINATION TAVERNY",
-      "url": "https://partners.doctolib.fr/centre-de-sante/taverny/centre-de-vaccination-de-taverny",
-      "location": {
-        "longitude": 2.21317,
-        "latitude": 49.0147
-      },
-      "metadata": {
-        "address": " Gymnase Andre Messager, Voie des sports, 95150 Taverny",
-        "phone_number": "0185112450",
-        "business_hours": {
-          "lundi": "ouvert",
-          "mardi": "ouvert",
-          "mercredi": "ouvert",
-          "jeudi": "ouvert",
-          "vendredi": "ouvert",
-          "samedi": "ouvert",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-13T16:35:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "240284[]",
-      "gid": "516"
     },
     {
       "departement": "95",
@@ -330,6 +246,34 @@
       "appointment_count": 0,
       "internal_id": "240326[162508]",
       "gid": "1459"
+    },
+    {
+      "departement": "95",
+      "nom": "Centre Hospitalier de Gonesse",
+      "url": "https://partners.doctolib.fr/hopital-public/gonesse/centre-de-vaccinations-covid-ch-gonesse",
+      "location": {
+        "longitude": 2.45309,
+        "latitude": 48.9941
+      },
+      "metadata": {
+        "address": "2 Boulevard du 19 Mars 1962, 95500 Gonesse",
+        "phone_number": "01.82.32.05.96",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242589[]",
+      "gid": "326"
     },
     {
       "departement": "95",
@@ -1125,6 +1069,34 @@
     },
     {
       "departement": "95",
+      "nom": "CENTRE DE VACCINATION TAVERNY",
+      "url": "https://partners.doctolib.fr/centre-de-sante/taverny/centre-de-vaccination-de-taverny",
+      "location": {
+        "longitude": 2.21317,
+        "latitude": 49.0147
+      },
+      "metadata": {
+        "address": " Gymnase Andre Messager, Voie des sports, 95150 Taverny",
+        "phone_number": "0185112450",
+        "business_hours": {
+          "lundi": "ouvert",
+          "mardi": "ouvert",
+          "mercredi": "ouvert",
+          "jeudi": "ouvert",
+          "vendredi": "ouvert",
+          "samedi": "ouvert",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240284[]",
+      "gid": "516"
+    },
+    {
+      "departement": "95",
       "nom": "VICTOR DUPOUY",
       "url": "https://partners.doctolib.fr/hopital-public/argenteuil/centre-de-vaccination-covid-ch-victor-dupouy-d-argenteuil",
       "location": {
@@ -1150,6 +1122,34 @@
       "appointment_count": 0,
       "internal_id": "242174[]",
       "gid": "322"
+    },
+    {
+      "departement": "95",
+      "nom": "Gymnase Nelson Mandela",
+      "url": "https://partners.doctolib.fr/centre-de-sante/goussainville/centre-de-vaccination-ville-de-goussainville",
+      "location": {
+        "longitude": 2.45531,
+        "latitude": 49.0296
+      },
+      "metadata": {
+        "address": "21 Avenue de Montmorency, 95190 Goussainville",
+        "phone_number": "01.39.94.61.00",
+        "business_hours": {
+          "lundi": "9H-18h",
+          "mardi": "9H-18h",
+          "mercredi": "9H-18h",
+          "jeudi": "9H-18h",
+          "vendredi": "9H-18h",
+          "samedi": "9H-18h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242446[]",
+      "gid": "670"
     },
     {
       "departement": "95",

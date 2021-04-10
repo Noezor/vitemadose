@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.178103+02:00",
+  "last_updated": "2021-04-10T19:23:47.357607+02:00",
   "centres_disponibles": [
     {
       "departement": "35",
@@ -25,7 +25,7 @@
       "prochain_rdv": "2021-04-12T14:33:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 228,
+      "appointment_count": 227,
       "internal_id": "265186[181675]",
       "gid": "2397"
     },
@@ -134,10 +134,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-27T12:50:00.000+02:00",
+      "prochain_rdv": "2021-04-26T15:35:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 348,
+      "appointment_count": 349,
       "internal_id": "252809[178662]",
       "gid": "2217"
     },
@@ -165,7 +165,7 @@
       "prochain_rdv": "2021-04-29T16:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 6,
+      "appointment_count": 7,
       "internal_id": "241899[]",
       "gid": "422"
     },
@@ -313,34 +313,6 @@
     },
     {
       "departement": "35",
-      "nom": "CH VITRE - Parc expo",
-      "url": "https://partners.doctolib.fr/hopital-public/vitr\u00e9/ch-de-vitre-centre-de-vaccination-covid-19",
-      "location": {
-        "longitude": -1.19479,
-        "latitude": 48.1091
-      },
-      "metadata": {
-        "address": " Chemin du Feil, Hall 3 (parc des exposiitons), 35500 Vitr\u00e9",
-        "phone_number": "+33805690821",
-        "business_hours": {
-          "lundi": "9h00-13h00 / 14h00-18h00",
-          "mardi": "9h00-13h00 / 14h00-18h00",
-          "mercredi": "9h00-13h00 / 14h00-18h00",
-          "jeudi": "9h00-13h00 / 14h00-18h00",
-          "vendredi": "9h00-13h00 / 14h00-18h00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241927[]",
-      "gid": "411"
-    },
-    {
-      "departement": "35",
       "nom": "RENNES Le Libert\u00e9",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/rennes/centre-de-vaccination-covid-19-rennes-liberte",
       "location": {
@@ -366,6 +338,34 @@
       "appointment_count": 0,
       "internal_id": "242679[]",
       "gid": "892"
+    },
+    {
+      "departement": "35",
+      "nom": "CH VITRE - Parc expo",
+      "url": "https://partners.doctolib.fr/hopital-public/vitr\u00e9/ch-de-vitre-centre-de-vaccination-covid-19",
+      "location": {
+        "longitude": -1.19479,
+        "latitude": 48.1091
+      },
+      "metadata": {
+        "address": " Chemin du Feil, Hall 3 (parc des exposiitons), 35500 Vitr\u00e9",
+        "phone_number": "+33805690821",
+        "business_hours": {
+          "lundi": "9h00-13h00 / 14h00-18h00",
+          "mardi": "9h00-13h00 / 14h00-18h00",
+          "mercredi": "9h00-13h00 / 14h00-18h00",
+          "jeudi": "9h00-13h00 / 14h00-18h00",
+          "vendredi": "9h00-13h00 / 14h00-18h00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241927[]",
+      "gid": "411"
     },
     {
       "departement": "35",
@@ -593,33 +593,6 @@
     },
     {
       "departement": "35",
-      "nom": "MA - USPN MAISON D'ARRET DE SAINT MALO / Maison d'Arr\u00eat de Saint-Malo",
-      "url": "",
-      "location": {
-        "longitude": -1.99328,
-        "latitude": 48.6476
-      },
-      "metadata": {
-        "address": "10 Rue Emile Brindejonc, 35400 Saint-Malo",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1794"
-    },
-    {
-      "departement": "35",
       "nom": "CP - UCSA - Centre p\u00e9nitentiaire des Hommes Rennes-Vezin / Centre p\u00e9nitentiaire de Rennes-V\u00e9zin le Coquet",
       "url": "",
       "location": {
@@ -644,6 +617,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1795"
+    },
+    {
+      "departement": "35",
+      "nom": "MA - USPN MAISON D'ARRET DE SAINT MALO / Maison d'Arr\u00eat de Saint-Malo",
+      "url": "",
+      "location": {
+        "longitude": -1.99328,
+        "latitude": 48.6476
+      },
+      "metadata": {
+        "address": "10 Rue Emile Brindejonc, 35400 Saint-Malo",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1794"
     },
     {
       "departement": "35",

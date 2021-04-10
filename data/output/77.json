@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.239105+02:00",
+  "last_updated": "2021-04-10T19:23:47.406485+02:00",
   "centres_disponibles": [
     {
       "departement": "77",
@@ -553,33 +553,6 @@
     },
     {
       "departement": "77",
-      "nom": "centre de vaccination GHSIF MELUN - site de Combs la Ville",
-      "url": "",
-      "location": {
-        "longitude": 2.55789,
-        "latitude": 48.6658
-      },
-      "metadata": {
-        "address": "6 Place de l\u2019An 2000, 77380 Combs-la-Ville",
-        "business_hours": {
-          "lundi": "9h-17h",
-          "mardi": "9h-17h",
-          "mercredi": "9h-17h",
-          "jeudi": "9h-17h",
-          "vendredi": "9h-17h",
-          "samedi": "9h-17h",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "2255"
-    },
-    {
-      "departement": "77",
       "nom": "Centres de vaccination GHIF Melun- site de Savigny le temple",
       "url": "https://vaccination-covid.keldoc.com/cabinet-medical/savigny-le-temple-77176/centre-de-vaccination-covid-ghsif-site-de-savigny-le-temple",
       "location": {
@@ -604,6 +577,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "2254"
+    },
+    {
+      "departement": "77",
+      "nom": "centre de vaccination GHSIF MELUN - site de Combs la Ville",
+      "url": "",
+      "location": {
+        "longitude": 2.55789,
+        "latitude": 48.6658
+      },
+      "metadata": {
+        "address": "6 Place de l\u2019An 2000, 77380 Combs-la-Ville",
+        "business_hours": {
+          "lundi": "9h-17h",
+          "mardi": "9h-17h",
+          "mercredi": "9h-17h",
+          "jeudi": "9h-17h",
+          "vendredi": "9h-17h",
+          "samedi": "9h-17h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "2255"
     },
     {
       "departement": "77",

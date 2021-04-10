@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.244161+02:00",
+  "last_updated": "2021-04-10T19:23:47.411116+02:00",
   "centres_disponibles": [
     {
       "departement": "80",
@@ -82,7 +82,7 @@
       "prochain_rdv": "2021-04-13T15:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 43,
+      "appointment_count": 41,
       "internal_id": "242925[164882]",
       "gid": "1102"
     },
@@ -110,9 +110,37 @@
       "prochain_rdv": "2021-04-13T15:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 43,
+      "appointment_count": 41,
       "internal_id": "242925[]",
       "gid": "d242925"
+    },
+    {
+      "departement": "80",
+      "nom": "Pharmacie Lafayette Amiens",
+      "url": "https://partners.doctolib.fr/pharmacie/amiens/pharmacie-lafayette-amiens",
+      "location": {
+        "longitude": 2.2980783,
+        "latitude": 49.8931862
+      },
+      "metadata": {
+        "address": "4 Place Gambetta, 80000 Amiens",
+        "phone_number": "03 22 97 52 52",
+        "business_hours": {
+          "lundi": "09:00-19:30",
+          "mardi": "09:00-19:30",
+          "mercredi": "09:00-19:30",
+          "jeudi": "09:00-19:30",
+          "vendredi": "09:00-19:30",
+          "samedi": "09:00-19:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-15T10:45:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 1,
+      "internal_id": "249791[]",
+      "gid": "d249791"
     },
     {
       "departement": "80",
@@ -141,34 +169,6 @@
       "appointment_count": 5,
       "internal_id": null,
       "gid": "837"
-    },
-    {
-      "departement": "80",
-      "nom": "Pharmacie Lafayette Amiens",
-      "url": "https://partners.doctolib.fr/pharmacie/amiens/pharmacie-lafayette-amiens",
-      "location": {
-        "longitude": 2.2980783,
-        "latitude": 49.8931862
-      },
-      "metadata": {
-        "address": "4 Place Gambetta, 80000 Amiens",
-        "phone_number": "03 22 97 52 52",
-        "business_hours": {
-          "lundi": "09:00-19:30",
-          "mardi": "09:00-19:30",
-          "mercredi": "09:00-19:30",
-          "jeudi": "09:00-19:30",
-          "vendredi": "09:00-19:30",
-          "samedi": "09:00-19:30",
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": "2021-04-19T12:30:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "drugstore",
-      "appointment_count": 11,
-      "internal_id": "249791[]",
-      "gid": "d249791"
     }
   ],
   "centres_indisponibles": [
@@ -339,34 +339,6 @@
     },
     {
       "departement": "80",
-      "nom": "Centre de Vaccination - Ville de Flixecourt, Salle Le Chiffon Rouge",
-      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/flixecourt-80420/flixecourt/centre-de-vaccination-de-flixecourt",
-      "location": {
-        "longitude": 2.07553,
-        "latitude": 50.0136
-      },
-      "metadata": {
-        "address": " Rue Philippe Ermenault, 80420 Flixecourt",
-        "phone_number": "+33607288799",
-        "business_hours": {
-          "lundi": "10:00-13:00/14:00-16:00",
-          "mardi": "10:00-13:00/14:00-16:00",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "10:00-13:00/14:00-16:00",
-          "vendredi": "10:00-13:00/14:00-16:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Keldoc",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1394"
-    },
-    {
-      "departement": "80",
       "nom": "Centre de vaccination - Ville de Poix-de-Picardie, SALLE DES F\u00caTES",
       "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/poix-de-picardie-80290/poix-de-picardie/centre-de-vaccination-de-poix-de-picardie",
       "location": {
@@ -419,6 +391,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1395"
+    },
+    {
+      "departement": "80",
+      "nom": "Centre de Vaccination - Ville de Flixecourt, Salle Le Chiffon Rouge",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/flixecourt-80420/flixecourt/centre-de-vaccination-de-flixecourt",
+      "location": {
+        "longitude": 2.07553,
+        "latitude": 50.0136
+      },
+      "metadata": {
+        "address": " Rue Philippe Ermenault, 80420 Flixecourt",
+        "phone_number": "+33607288799",
+        "business_hours": {
+          "lundi": "10:00-13:00/14:00-16:00",
+          "mardi": "10:00-13:00/14:00-16:00",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "10:00-13:00/14:00-16:00",
+          "vendredi": "10:00-13:00/14:00-16:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1394"
     },
     {
       "departement": "80",

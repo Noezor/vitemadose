@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.206404+02:00",
+  "last_updated": "2021-04-10T19:23:47.379094+02:00",
   "centres_disponibles": [
     {
       "departement": "58",
@@ -23,10 +23,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-19T13:35:00.000+02:00",
+      "prochain_rdv": "2021-04-20T09:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 163,
+      "appointment_count": 162,
       "internal_id": "243462[]",
       "gid": "661"
     },
@@ -88,6 +88,34 @@
     },
     {
       "departement": "58",
+      "nom": "Luzy - salle des F\u00eates",
+      "url": "https://partners.doctolib.fr/centre-de-sante/luzy/centre-de-vaccination-covid-salle-des-fetes-de-luzy",
+      "location": {
+        "longitude": 3.96998,
+        "latitude": 46.7898
+      },
+      "metadata": {
+        "address": "13 Rue des Remparts, 58170 Luzy",
+        "phone_number": "+33386300234",
+        "business_hours": {
+          "lundi": "13:30-17:30",
+          "mardi": "13:30-17:30",
+          "mercredi": "13:30-17:30",
+          "jeudi": "13:30-17:30",
+          "vendredi": "13:30-17:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-04T18:10:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "242945[]",
+      "gid": "586"
+    },
+    {
+      "departement": "58",
       "nom": "Decize - Salle Theodore GERARD",
       "url": "https://partners.doctolib.fr/centre-de-sante/decize/centre-de-vaccination-covid-mairie-de-decize",
       "location": {
@@ -113,34 +141,6 @@
       "appointment_count": 1,
       "internal_id": "242611[]",
       "gid": "567"
-    },
-    {
-      "departement": "58",
-      "nom": "Luzy - salle des F\u00eates",
-      "url": "https://partners.doctolib.fr/centre-de-sante/luzy/centre-de-vaccination-covid-salle-des-fetes-de-luzy",
-      "location": {
-        "longitude": 3.96998,
-        "latitude": 46.7898
-      },
-      "metadata": {
-        "address": "13 Rue des Remparts, 58170 Luzy",
-        "phone_number": "+33386300234",
-        "business_hours": {
-          "lundi": "13:30-17:30",
-          "mardi": "13:30-17:30",
-          "mercredi": "13:30-17:30",
-          "jeudi": "13:30-17:30",
-          "vendredi": "13:30-17:30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-05-12T13:30:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 30,
-      "internal_id": "242945[]",
-      "gid": "586"
     }
   ],
   "centres_indisponibles": [

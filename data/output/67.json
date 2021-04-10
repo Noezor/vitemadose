@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.221678+02:00",
+  "last_updated": "2021-04-10T19:23:47.391858+02:00",
   "centres_disponibles": [
     {
       "departement": "67",
@@ -23,10 +23,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-13T15:20:00.000+02:00",
+      "prochain_rdv": "2021-04-13T13:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 8,
+      "appointment_count": 9,
       "internal_id": "243081[]",
       "gid": "1225"
     },
@@ -51,7 +51,7 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-13T16:10:00.000+02:00",
+      "prochain_rdv": "2021-04-13T15:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 4,
@@ -107,6 +107,34 @@
     },
     {
       "departement": "67",
+      "nom": "Centre de vaccination Drulingen",
+      "url": "https://partners.doctolib.fr/centre-de-sante/drulingen/centre-de-vaccination-d-alsace-bossue?pid=practice-173639",
+      "location": {
+        "longitude": 7.19278,
+        "latitude": 48.8669
+      },
+      "metadata": {
+        "address": "1001 Rue du G\u00e9n\u00e9ral Leclerc, 67320 Drulingen",
+        "phone_number": "09 70 81 81 61",
+        "business_hours": {
+          "lundi": "13:30-17:30",
+          "mardi": "13:30-17:30",
+          "mercredi": "13:30-17:30",
+          "jeudi": "13:30-17:30",
+          "vendredi": "13:30-17:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-20T13:45:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "253935[173639]",
+      "gid": "1586"
+    },
+    {
+      "departement": "67",
       "nom": "Centre de vaccination St Luc Schirmeck - antenne du groupe Saint Vincent de Strasbourg",
       "url": "https://partners.doctolib.fr/etablissement-de-prevention/strasbourg/gh-saint-vincent-centre-vaccination-covid?pid=practice-163151",
       "location": {
@@ -129,7 +157,7 @@
       "prochain_rdv": "2021-04-22T08:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 65,
+      "appointment_count": 66,
       "internal_id": "242678[163151]",
       "gid": "935"
     },
@@ -182,40 +210,12 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-27T09:10:00.000+02:00",
+      "prochain_rdv": "2021-04-26T16:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 211,
       "internal_id": "262495[179527]",
       "gid": "2372"
-    },
-    {
-      "departement": "67",
-      "nom": "Centre de vaccination Drulingen",
-      "url": "https://partners.doctolib.fr/centre-de-sante/drulingen/centre-de-vaccination-d-alsace-bossue?pid=practice-173639",
-      "location": {
-        "longitude": 7.19278,
-        "latitude": 48.8669
-      },
-      "metadata": {
-        "address": "1001 Rue du G\u00e9n\u00e9ral Leclerc, 67320 Drulingen",
-        "phone_number": "09 70 81 81 61",
-        "business_hours": {
-          "lundi": "13:30-17:30",
-          "mardi": "13:30-17:30",
-          "mercredi": "13:30-17:30",
-          "jeudi": "13:30-17:30",
-          "vendredi": "13:30-17:30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-27T15:30:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 22,
-      "internal_id": "253935[173639]",
-      "gid": "1586"
     },
     {
       "departement": "67",
@@ -238,7 +238,7 @@
           "dimanche": "10:00-19:00"
         }
       },
-      "prochain_rdv": "2021-05-02T17:50:00.000+02:00",
+      "prochain_rdv": "2021-05-02T17:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 7,

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.255983+02:00",
+  "last_updated": "2021-04-10T19:23:47.419542+02:00",
   "centres_disponibles": [
     {
       "departement": "89",
@@ -23,10 +23,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-23T15:05:00.000000+0200",
+      "prochain_rdv": "2021-04-23T15:10:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 51,
+      "appointment_count": 50,
       "internal_id": null,
       "gid": "605"
     }
@@ -332,33 +332,6 @@
     },
     {
       "departement": "89",
-      "nom": "Grand centre 89",
-      "url": "",
-      "location": {
-        "longitude": 3.57037,
-        "latitude": 47.796
-      },
-      "metadata": {
-        "address": "1 Place de l\u2019Hotel de Ville, 89000 Auxerre",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "2236"
-    },
-    {
-      "departement": "89",
       "nom": "Centre de vaccination de Saint Florentin",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/saint-florentin/centre-de-vaccination-covid-19-saint-florentin?pid=practice-173227",
       "location": {
@@ -383,6 +356,33 @@
       "appointment_count": 0,
       "internal_id": "253514[173227]",
       "gid": "1718"
+    },
+    {
+      "departement": "89",
+      "nom": "Grand centre 89",
+      "url": "",
+      "location": {
+        "longitude": 3.57037,
+        "latitude": 47.796
+      },
+      "metadata": {
+        "address": "1 Place de l\u2019Hotel de Ville, 89000 Auxerre",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "2236"
     },
     {
       "departement": "89",

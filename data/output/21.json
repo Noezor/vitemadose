@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.157340+02:00",
+  "last_updated": "2021-04-10T19:23:47.339402+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -505,34 +505,6 @@
     },
     {
       "departement": "21",
-      "nom": "AUXONNE - Salle \u00e9v\u00e8nementielle",
-      "url": "https://partners.doctolib.fr/centre-de-sante/auxonne/centre-de-vaccination-covid-19-auxonne?pid=practice-166391",
-      "location": {
-        "longitude": 5.38984,
-        "latitude": 47.1932
-      },
-      "metadata": {
-        "address": " Boulevard Pasteur, 21130 Auxonne",
-        "phone_number": "+33345810421",
-        "business_hours": {
-          "lundi": "10:00-15:00",
-          "mardi": "10:00-15:00",
-          "mercredi": "10:00-15:00",
-          "jeudi": "PONTAILLER SUR SAONE : 10h20-15h20 Maison des services Rue des Saucis ",
-          "vendredi": "10:00-15:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "244779[166391]",
-      "gid": "1269"
-    },
-    {
-      "departement": "21",
       "nom": "CHENOVE Salle des f\u00eates",
       "url": "https://partners.doctolib.fr/maison-de-sante/dijon/cpts-de-dijon-vaccination-covid-19?pid=practice-164125",
       "location": {
@@ -558,6 +530,34 @@
       "appointment_count": 0,
       "internal_id": "242632[164125]",
       "gid": "873"
+    },
+    {
+      "departement": "21",
+      "nom": "AUXONNE - Salle \u00e9v\u00e8nementielle",
+      "url": "https://partners.doctolib.fr/centre-de-sante/auxonne/centre-de-vaccination-covid-19-auxonne?pid=practice-166391",
+      "location": {
+        "longitude": 5.38984,
+        "latitude": 47.1932
+      },
+      "metadata": {
+        "address": " Boulevard Pasteur, 21130 Auxonne",
+        "phone_number": "+33345810421",
+        "business_hours": {
+          "lundi": "10:00-15:00",
+          "mardi": "10:00-15:00",
+          "mercredi": "10:00-15:00",
+          "jeudi": "PONTAILLER SUR SAONE : 10h20-15h20 Maison des services Rue des Saucis ",
+          "vendredi": "10:00-15:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244779[166391]",
+      "gid": "1269"
     },
     {
       "departement": "21",

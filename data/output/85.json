@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.251493+02:00",
+  "last_updated": "2021-04-10T19:23:47.416412+02:00",
   "centres_disponibles": [
     {
       "departement": "85",
@@ -32,34 +32,6 @@
     },
     {
       "departement": "85",
-      "nom": "Centre de vaccination COVID - FONTENAY LE COMTE - Espace culturel et de congr\u00e8s Ren\u00e9-Cassin",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/fontenay-le-comte/centre-vaccination-fontenay-le-comte",
-      "location": {
-        "longitude": -0.793822,
-        "latitude": 46.4621
-      },
-      "metadata": {
-        "address": "5 Avenue de la Gare, 85200 Fontenay-le-Comte",
-        "phone_number": "+33256906412",
-        "business_hours": {
-          "lundi": "14h-18h",
-          "mardi": "14h-18h",
-          "mercredi": "14h-18h",
-          "jeudi": "14h-18h",
-          "vendredi": "14h-18h",
-          "samedi": "9h-18h",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-14T08:55:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 145,
-      "internal_id": "242652[]",
-      "gid": "817"
-    },
-    {
-      "departement": "85",
       "nom": "Centre de vaccination COVID -Lu\u00e7on - Espace Plaisance",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/lucon/centre-de-vaccination-de-lucon",
       "location": {
@@ -79,10 +51,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-27T16:45:00.000+02:00",
+      "prochain_rdv": "2021-04-27T17:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 260,
+      "appointment_count": 259,
       "internal_id": "242607[]",
       "gid": "846"
     },
@@ -107,10 +79,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-29T11:35:00.000+02:00",
+      "prochain_rdv": "2021-04-29T11:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 39,
+      "appointment_count": 38,
       "internal_id": "242738[]",
       "gid": "762"
     }
@@ -143,6 +115,34 @@
       "appointment_count": 0,
       "internal_id": "243582[]",
       "gid": "844"
+    },
+    {
+      "departement": "85",
+      "nom": "Centre de vaccination COVID - FONTENAY LE COMTE - Espace culturel et de congr\u00e8s Ren\u00e9-Cassin",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/fontenay-le-comte/centre-vaccination-fontenay-le-comte",
+      "location": {
+        "longitude": -0.793822,
+        "latitude": 46.4621
+      },
+      "metadata": {
+        "address": "5 Avenue de la Gare, 85200 Fontenay-le-Comte",
+        "phone_number": "+33256906412",
+        "business_hours": {
+          "lundi": "14h-18h",
+          "mardi": "14h-18h",
+          "mercredi": "14h-18h",
+          "jeudi": "14h-18h",
+          "vendredi": "14h-18h",
+          "samedi": "9h-18h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242652[]",
+      "gid": "817"
     },
     {
       "departement": "85",
@@ -286,33 +286,6 @@
     },
     {
       "departement": "85",
-      "nom": "MA - USMP de Fontenay-le-Comte / Maison d'Arr\u00eat de Fontenay-le-Comte",
-      "url": "",
-      "location": {
-        "longitude": -0.812877,
-        "latitude": 46.468
-      },
-      "metadata": {
-        "address": "30 Rue Rabelais, 85200 Fontenay-le-Comte",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1866"
-    },
-    {
-      "departement": "85",
       "nom": "MA - US CHD VENDEE / Maison d'Arr\u00eat de La Roche-sur-Yon",
       "url": "",
       "location": {
@@ -337,6 +310,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1865"
+    },
+    {
+      "departement": "85",
+      "nom": "MA - USMP de Fontenay-le-Comte / Maison d'Arr\u00eat de Fontenay-le-Comte",
+      "url": "",
+      "location": {
+        "longitude": -0.812877,
+        "latitude": 46.468
+      },
+      "metadata": {
+        "address": "30 Rue Rabelais, 85200 Fontenay-le-Comte",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1866"
     },
     {
       "departement": "85",

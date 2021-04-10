@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.249803+02:00",
+  "last_updated": "2021-04-10T19:23:47.415376+02:00",
   "centres_disponibles": [
     {
       "departement": "84",
@@ -23,10 +23,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-17T12:20:00.000000Z",
+      "prochain_rdv": "2021-04-17T12:40:00.000000Z",
       "plateforme": "Maiia",
       "type": "vaccination-center",
-      "appointment_count": 133,
+      "appointment_count": 134,
       "internal_id": null,
       "gid": "2240"
     }

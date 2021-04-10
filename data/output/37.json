@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.181368+02:00",
+  "last_updated": "2021-04-10T19:23:47.359578+02:00",
   "centres_disponibles": [
     {
       "departement": "37",
@@ -26,7 +26,7 @@
       "prochain_rdv": "2021-04-12T12:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 8,
+      "appointment_count": 5,
       "internal_id": "262265[179346]",
       "gid": "2074"
     },
@@ -118,34 +118,6 @@
     },
     {
       "departement": "37",
-      "nom": "Centre de vaccination - Gymnase Onze Arpents de Saint-Avertin",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saint-avertin/centre-de-vaccination-covid-19-saint-avertin?pid=practice-179340",
-      "location": {
-        "longitude": 0.750189,
-        "latitude": 47.3601
-      },
-      "metadata": {
-        "address": "2 Avenue Nelson Mandela, 37550 Saint-Avertin",
-        "phone_number": "08 05 02 14 00",
-        "business_hours": {
-          "lundi": "ouvert",
-          "mardi": "ouvert",
-          "mercredi": "ouvert",
-          "jeudi": "ouvert",
-          "vendredi": "ouvert",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "262264[179340]",
-      "gid": "2073"
-    },
-    {
-      "departement": "37",
       "nom": "Salle Polyvalente - Amboise",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/amboise/vaccination-mairie-amboise",
       "location": {
@@ -171,6 +143,34 @@
       "appointment_count": 0,
       "internal_id": "241731[]",
       "gid": "710"
+    },
+    {
+      "departement": "37",
+      "nom": "Centre de vaccination - Gymnase Onze Arpents de Saint-Avertin",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-avertin/centre-de-vaccination-covid-19-saint-avertin?pid=practice-179340",
+      "location": {
+        "longitude": 0.750189,
+        "latitude": 47.3601
+      },
+      "metadata": {
+        "address": "2 Avenue Nelson Mandela, 37550 Saint-Avertin",
+        "phone_number": "08 05 02 14 00",
+        "business_hours": {
+          "lundi": "ouvert",
+          "mardi": "ouvert",
+          "mercredi": "ouvert",
+          "jeudi": "ouvert",
+          "vendredi": "ouvert",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "262264[179340]",
+      "gid": "2073"
     },
     {
       "departement": "37",

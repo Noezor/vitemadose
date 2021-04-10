@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.253367+02:00",
+  "last_updated": "2021-04-10T19:23:47.417317+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -307,33 +307,6 @@
     },
     {
       "departement": "86",
-      "nom": "Centre de vaccination de Lusignan",
-      "url": "https://www.doctolib.fr/centre-de-sante/lusignan/centre-de-vaccination-covid-19-lusignan-lusignan",
-      "location": {
-        "longitude": 0.115308,
-        "latitude": 46.44
-      },
-      "metadata": {
-        "address": "20 Route de Jazeneuil, 86600 Lusignan",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "09:00-12:15/14:00-17:15",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "09:00-12:15/14:00-17:15",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "264637[]",
-      "gid": "2288"
-    },
-    {
-      "departement": "86",
       "nom": "Centre de vaccination SDIS de Chauvigny",
       "url": "https://partners.doctolib.fr/centre-de-sante/chauvigny/centre-de-vaccination-covid-19-sdis-86?pid=practice-179211",
       "location": {
@@ -358,6 +331,33 @@
       "appointment_count": 0,
       "internal_id": "262252[179211]",
       "gid": "2253"
+    },
+    {
+      "departement": "86",
+      "nom": "Centre de vaccination de Lusignan",
+      "url": "https://www.doctolib.fr/centre-de-sante/lusignan/centre-de-vaccination-covid-19-lusignan-lusignan",
+      "location": {
+        "longitude": 0.115308,
+        "latitude": 46.44
+      },
+      "metadata": {
+        "address": "20 Route de Jazeneuil, 86600 Lusignan",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "09:00-12:15/14:00-17:15",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "09:00-12:15/14:00-17:15",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "264637[]",
+      "gid": "2288"
     },
     {
       "departement": "86",

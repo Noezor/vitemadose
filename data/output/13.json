@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.146433+02:00",
+  "last_updated": "2021-04-10T19:23:47.330040+02:00",
   "centres_disponibles": [
     {
       "departement": "13",
@@ -69,10 +69,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-13T11:50:00.000+02:00",
+      "prochain_rdv": "2021-04-13T10:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 53,
+      "appointment_count": 55,
       "internal_id": "243317[]",
       "gid": "1205"
     },
@@ -164,10 +164,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-16T13:30:00.000+02:00",
+      "prochain_rdv": "2021-04-16T13:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 59,
+      "appointment_count": 58,
       "internal_id": "264490[]",
       "gid": "d264490"
     },
@@ -200,6 +200,34 @@
     },
     {
       "departement": "13",
+      "nom": "Centre de vaccination de Carry-le-Rouet",
+      "url": "https://www.maiia.com/centre-de-vaccination/13620-carry-le-rouet/centre-de-vaccination---centre-de-carry-le-rouet",
+      "location": {
+        "longitude": 5.17671,
+        "latitude": 43.3343
+      },
+      "metadata": {
+        "address": " Salle communale Le Grand Bleu - Avenue Blanche Calvet, 13620 Carry-le-Rouet",
+        "phone_number": "0805 29 36 00",
+        "business_hours": {
+          "lundi": "09h00-13h00 / 14h00-18h00 ",
+          "mardi": "09h00-13h00 / 14h00-18h00 ",
+          "mercredi": "09h00-13h00 / 14h00-18h00 ",
+          "jeudi": "09h00-13h00 / 14h00-18h00 ",
+          "vendredi": "09h00-13h00 / 14h00-18h00 ",
+          "samedi": "09h00-13h00 / 14h00-18h00 ",
+          "dimanche": "09h00-13h00 / 14h00-18h00 "
+        }
+      },
+      "prochain_rdv": "2021-04-20T12:30:00.000000Z",
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 26,
+      "internal_id": null,
+      "gid": "2173"
+    },
+    {
+      "departement": "13",
       "nom": "Maison m\u00e9dicale de Garde de la Timone",
       "url": "https://partners.doctolib.fr/hopital-public/marseille/vaccination-covid-19-assistance-publique-hopitaux-de-marseille?pid=practice-164400",
       "location": {
@@ -222,7 +250,7 @@
       "prochain_rdv": "2021-04-20T12:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 236,
+      "appointment_count": 235,
       "internal_id": "243270[164400]",
       "gid": "438"
     },
@@ -250,7 +278,7 @@
       "prochain_rdv": "2021-04-20T15:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "drugstore",
-      "appointment_count": 8,
+      "appointment_count": 7,
       "internal_id": "256586[]",
       "gid": "d256586"
     },
@@ -312,34 +340,6 @@
     },
     {
       "departement": "13",
-      "nom": "Centre de vaccination de Carry-le-Rouet",
-      "url": "https://www.maiia.com/centre-de-vaccination/13620-carry-le-rouet/centre-de-vaccination---centre-de-carry-le-rouet",
-      "location": {
-        "longitude": 5.17671,
-        "latitude": 43.3343
-      },
-      "metadata": {
-        "address": " Salle communale Le Grand Bleu - Avenue Blanche Calvet, 13620 Carry-le-Rouet",
-        "phone_number": "0805 29 36 00",
-        "business_hours": {
-          "lundi": "09h00-13h00 / 14h00-18h00 ",
-          "mardi": "09h00-13h00 / 14h00-18h00 ",
-          "mercredi": "09h00-13h00 / 14h00-18h00 ",
-          "jeudi": "09h00-13h00 / 14h00-18h00 ",
-          "vendredi": "09h00-13h00 / 14h00-18h00 ",
-          "samedi": "09h00-13h00 / 14h00-18h00 ",
-          "dimanche": "09h00-13h00 / 14h00-18h00 "
-        }
-      },
-      "prochain_rdv": "2021-04-24T16:50:00.000000Z",
-      "plateforme": "Maiia",
-      "type": "vaccination-center",
-      "appointment_count": 25,
-      "internal_id": null,
-      "gid": "2173"
-    },
-    {
-      "departement": "13",
       "nom": "Centre de Vaccination COVID d\u2019Aubagne (R\u00e9serv\u00e9 aux professionnels de sant\u00e9 lib\u00e9raux)",
       "url": "https://partners.doctolib.fr/hopital-public/aubagne/centre-de-vaccination-covid-ch-aubagne-espace-des-libertes?pid=practice-167096",
       "location": {
@@ -359,10 +359,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-26T10:25:00.000+02:00",
+      "prochain_rdv": "2021-04-26T10:35:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 262,
+      "appointment_count": 260,
       "internal_id": "243091[165061]",
       "gid": "1202"
     },
@@ -387,10 +387,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-26T10:25:00.000+02:00",
+      "prochain_rdv": "2021-04-26T10:35:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 262,
+      "appointment_count": 260,
       "internal_id": "243091[]",
       "gid": "919"
     },
@@ -1176,33 +1176,6 @@
     },
     {
       "departement": "13",
-      "nom": "Clinique de Vitrolles (R\u00e9serv\u00e9 aux professionnels de sant\u00e9 lib\u00e9raux)",
-      "url": "https://partners.doctolib.fr/clinique-privee/vitrolles/clinique-de-vitrolles-centre-de-vaccination-covid-19",
-      "location": {
-        "longitude": 5.26829,
-        "latitude": 43.4259
-      },
-      "metadata": {
-        "address": "2 La Tuili\u00e8re, 2 Rue Bel air, 13127 Vitrolles",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "9h-17h",
-          "mercredi": "9h-17h",
-          "jeudi": "9h-17h",
-          "vendredi": "9h-17h",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243142[]",
-      "gid": "455"
-    },
-    {
-      "departement": "13",
       "nom": "Clinique g\u00e9n\u00e9rale de Marignane",
       "url": "https://partners.doctolib.fr/clinique-privee/marignane/centre-de-vaccination-covid-19-clinique-generale-de-marignane",
       "location": {
@@ -1227,6 +1200,33 @@
       "appointment_count": 0,
       "internal_id": "243757[]",
       "gid": "453"
+    },
+    {
+      "departement": "13",
+      "nom": "Clinique de Vitrolles (R\u00e9serv\u00e9 aux professionnels de sant\u00e9 lib\u00e9raux)",
+      "url": "https://partners.doctolib.fr/clinique-privee/vitrolles/clinique-de-vitrolles-centre-de-vaccination-covid-19",
+      "location": {
+        "longitude": 5.26829,
+        "latitude": 43.4259
+      },
+      "metadata": {
+        "address": "2 La Tuili\u00e8re, 2 Rue Bel air, 13127 Vitrolles",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "9h-17h",
+          "mercredi": "9h-17h",
+          "jeudi": "9h-17h",
+          "vendredi": "9h-17h",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243142[]",
+      "gid": "455"
     },
     {
       "departement": "13",
@@ -1312,33 +1312,6 @@
     },
     {
       "departement": "13",
-      "nom": "MC - USMP MC Arles / Maison Centrale d'Arles",
-      "url": "",
-      "location": {
-        "longitude": 4.63679,
-        "latitude": 43.7091
-      },
-      "metadata": {
-        "address": "2 Rue Joseph Seguin, 13200 Arles",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1922"
-    },
-    {
-      "departement": "13",
       "nom": "CD - US de Salon-de-Provence / Centre de D\u00e9tention de Salon-de-Provence",
       "url": "",
       "location": {
@@ -1393,7 +1366,7 @@
     },
     {
       "departement": "13",
-      "nom": "CD - USMP CD TARASCON / Maison Centrale d'Arles",
+      "nom": "MC - USMP MC Arles / Maison Centrale d'Arles",
       "url": "",
       "location": {
         "longitude": 4.63679,
@@ -1416,7 +1389,7 @@
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "1923"
+      "gid": "1922"
     },
     {
       "departement": "13",
@@ -1444,6 +1417,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1921"
+    },
+    {
+      "departement": "13",
+      "nom": "CD - USMP CD TARASCON / Maison Centrale d'Arles",
+      "url": "",
+      "location": {
+        "longitude": 4.63679,
+        "latitude": 43.7091
+      },
+      "metadata": {
+        "address": "2 Rue Joseph Seguin, 13200 Arles",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1923"
     },
     {
       "departement": "13",

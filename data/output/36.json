@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.179707+02:00",
+  "last_updated": "2021-04-10T19:23:47.358830+02:00",
   "centres_disponibles": [
     {
       "departement": "36",
@@ -22,10 +22,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-29T15:35:00.000+02:00",
+      "prochain_rdv": "2021-04-28T11:35:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 75,
+      "appointment_count": 76,
       "internal_id": "243577[165401]",
       "gid": "1324"
     }
@@ -199,33 +199,6 @@
     },
     {
       "departement": "36",
-      "nom": "Espace Tivoli - Chatillon",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/chatillon-sur-indre/vaccination-covid-19-ville-de-chatillon-sur-indre-espace-tivoli",
-      "location": {
-        "longitude": 1.17241,
-        "latitude": 46.987
-      },
-      "metadata": {
-        "address": " rue jean Lur\u00e7at, 36700 Ch\u00e2tillon-sur-Indre",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "252403[]",
-      "gid": "1329"
-    },
-    {
-      "departement": "36",
       "nom": "Salle des f\u00eates La Ch\u00e2tre / CPTS Boischaut Sud",
       "url": "https://partners.doctolib.fr/centre-depistage-covid/boischaut-sud/centre-de-vaccination-covid-du-boischaut-sud?pid=practice-164853",
       "location": {
@@ -250,6 +223,33 @@
       "appointment_count": 0,
       "internal_id": "242920[164853]",
       "gid": "1326"
+    },
+    {
+      "departement": "36",
+      "nom": "Espace Tivoli - Chatillon",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/chatillon-sur-indre/vaccination-covid-19-ville-de-chatillon-sur-indre-espace-tivoli",
+      "location": {
+        "longitude": 1.17241,
+        "latitude": 46.987
+      },
+      "metadata": {
+        "address": " rue jean Lur\u00e7at, 36700 Ch\u00e2tillon-sur-Indre",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "252403[]",
+      "gid": "1329"
     },
     {
       "departement": "36",
@@ -447,33 +447,6 @@
     },
     {
       "departement": "36",
-      "nom": "MC - Unit\u00e9 de soins somatiques et psychiatriques de la maison centrale de SAINT-MAUR / Maison Centrale de Saint-Maur",
-      "url": "",
-      "location": {
-        "longitude": 1.63118,
-        "latitude": 46.7995
-      },
-      "metadata": {
-        "address": " Bel Air, 36250 Saint-Maur",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1801"
-    },
-    {
-      "departement": "36",
       "nom": "CP - Unit\u00e9 de soins somatiques et psychiatriques du centre p\u00e9nitentiaire de CHATEAUROUX \"Le Craquelin\" / Maison Centrale de Saint-Maur",
       "url": "",
       "location": {
@@ -498,6 +471,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1802"
+    },
+    {
+      "departement": "36",
+      "nom": "MC - Unit\u00e9 de soins somatiques et psychiatriques de la maison centrale de SAINT-MAUR / Maison Centrale de Saint-Maur",
+      "url": "",
+      "location": {
+        "longitude": 1.63118,
+        "latitude": 46.7995
+      },
+      "metadata": {
+        "address": " Bel Air, 36250 Saint-Maur",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1801"
     }
   ]
 }

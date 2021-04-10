@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.259795+02:00",
+  "last_updated": "2021-04-10T19:23:47.422825+02:00",
   "centres_disponibles": [
     {
       "departement": "92",
@@ -26,7 +26,7 @@
       "prochain_rdv": "2021-04-12T09:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 33,
+      "appointment_count": 29,
       "internal_id": "257080[175970]",
       "gid": "1661"
     },
@@ -1191,34 +1191,6 @@
     },
     {
       "departement": "92",
-      "nom": "Ville de Courbevoie",
-      "url": "https://partners.doctolib.fr/centre-de-sante/courbevoie/centre-de-vaccination-covid-19-de-courbevoie",
-      "location": {
-        "longitude": 2.25936,
-        "latitude": 48.9018
-      },
-      "metadata": {
-        "address": "91 Boulevard de Verdun, 92400 Courbevoie",
-        "phone_number": "01 71 05 73 58",
-        "business_hours": {
-          "lundi": "9h \u00e0 18h",
-          "mardi": "9h \u00e0 18h",
-          "mercredi": "9h \u00e0 18h",
-          "jeudi": "9h \u00e0 18h",
-          "vendredi": "9h \u00e0 18h",
-          "samedi": "9h \u00e0 18h",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242674[]",
-      "gid": "1014"
-    },
-    {
-      "departement": "92",
       "nom": "Ville de Chatenay-Malabry",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/ch\u00e2tenay-malabry/centre-de-vaccination-de-chatenay-malabry?pid=practice-164883%3fspeciality_id%3d5494",
       "location": {
@@ -1244,6 +1216,34 @@
       "appointment_count": 0,
       "internal_id": "242912[164883]",
       "gid": "464"
+    },
+    {
+      "departement": "92",
+      "nom": "Ville de Courbevoie",
+      "url": "https://partners.doctolib.fr/centre-de-sante/courbevoie/centre-de-vaccination-covid-19-de-courbevoie",
+      "location": {
+        "longitude": 2.25936,
+        "latitude": 48.9018
+      },
+      "metadata": {
+        "address": "91 Boulevard de Verdun, 92400 Courbevoie",
+        "phone_number": "01 71 05 73 58",
+        "business_hours": {
+          "lundi": "9h \u00e0 18h",
+          "mardi": "9h \u00e0 18h",
+          "mercredi": "9h \u00e0 18h",
+          "jeudi": "9h \u00e0 18h",
+          "vendredi": "9h \u00e0 18h",
+          "samedi": "9h \u00e0 18h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242674[]",
+      "gid": "1014"
     },
     {
       "departement": "92",
@@ -1452,26 +1452,6 @@
     },
     {
       "departement": "92",
-      "nom": "Pharmacie Des 3 Moulins",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-3-moulins-issy-les-moulineaux",
-      "location": {
-        "longitude": -1.5445787,
-        "latitude": 47.1786685
-      },
-      "metadata": {
-        "address": "CC les 3 Moulins - 3 Allee Sainte Lucie, 92130 Issy-les-Moulineaux",
-        "phone_number": "+33146422389",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "230b9d18"
-    },
-    {
-      "departement": "92",
       "nom": "Pharmacie Des Jardins Suresnes",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-jardins-suresnes-suresnes",
       "location": {
@@ -1489,6 +1469,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "310b5967"
+    },
+    {
+      "departement": "92",
+      "nom": "Pharmacie Des 3 Moulins",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-3-moulins-issy-les-moulineaux",
+      "location": {
+        "longitude": -1.5445787,
+        "latitude": 47.1786685
+      },
+      "metadata": {
+        "address": "CC les 3 Moulins - 3 Allee Sainte Lucie, 92130 Issy-les-Moulineaux",
+        "phone_number": "+33146422389",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "230b9d18"
     },
     {
       "departement": "92",

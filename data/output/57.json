@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.204765+02:00",
+  "last_updated": "2021-04-10T19:23:47.377747+02:00",
   "centres_disponibles": [
     {
       "departement": "57",
@@ -23,10 +23,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-28T12:15:00.000+02:00",
+      "prochain_rdv": "2021-04-22T09:05:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 135,
+      "appointment_count": 1,
       "internal_id": "254139[173661]",
       "gid": "1752"
     },
@@ -51,10 +51,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-29T17:30:00.000+02:00",
+      "prochain_rdv": "2021-04-30T09:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "drugstore",
-      "appointment_count": 9,
+      "appointment_count": 8,
       "internal_id": "263444[]",
       "gid": "d263444"
     }
@@ -202,34 +202,6 @@
     },
     {
       "departement": "57",
-      "nom": "Centre de vaccination de Ser\u00e9mange-Erzange",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/seremange-erzange/centre-de-vaccination-covid-19-cavf?pid=practice-173716",
-      "location": {
-        "longitude": 6.10101,
-        "latitude": 49.3188
-      },
-      "metadata": {
-        "address": "9 Rue Charles de Gaulle, 57290 Ser\u00e9mange-Erzange",
-        "phone_number": "+33387345345",
-        "business_hours": {
-          "lundi": "9:00-12:00 / 14:00-17:00",
-          "mardi": "9:00-12:00 / 14:00-17:00",
-          "mercredi": "9:00-12:00 / 14:00-17:00",
-          "jeudi": "9:00-12:00 / 14:00-17:00",
-          "vendredi": "9:00-12:00 / 14:00-17:00",
-          "samedi": "9:00-12:00 / 14:00-17:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "254073[173716]",
-      "gid": "1711"
-    },
-    {
-      "departement": "57",
       "nom": "Centre de vaccination de Bouzonville",
       "url": "https://partners.doctolib.fr/centre-de-sante/bouzonville/centre-de-vaccination-covid-ville-de-bouzonville?pid=practice-174637",
       "location": {
@@ -255,6 +227,34 @@
       "appointment_count": 0,
       "internal_id": "255762[174637]",
       "gid": "1712"
+    },
+    {
+      "departement": "57",
+      "nom": "Centre de vaccination de Ser\u00e9mange-Erzange",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/seremange-erzange/centre-de-vaccination-covid-19-cavf?pid=practice-173716",
+      "location": {
+        "longitude": 6.10101,
+        "latitude": 49.3188
+      },
+      "metadata": {
+        "address": "9 Rue Charles de Gaulle, 57290 Ser\u00e9mange-Erzange",
+        "phone_number": "+33387345345",
+        "business_hours": {
+          "lundi": "9:00-12:00 / 14:00-17:00",
+          "mardi": "9:00-12:00 / 14:00-17:00",
+          "mercredi": "9:00-12:00 / 14:00-17:00",
+          "jeudi": "9:00-12:00 / 14:00-17:00",
+          "vendredi": "9:00-12:00 / 14:00-17:00",
+          "samedi": "9:00-12:00 / 14:00-17:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "254073[173716]",
+      "gid": "1711"
     },
     {
       "departement": "57",
@@ -454,34 +454,6 @@
     },
     {
       "departement": "57",
-      "nom": "Centre de vaccination de Metz - Clinique Claude Bernard (Entr\u00e9e B)",
-      "url": "https://partners.doctolib.fr/clinique-privee/metz/centre-de-vaccination-metz-elsan",
-      "location": {
-        "longitude": 6.21111,
-        "latitude": 49.1148
-      },
-      "metadata": {
-        "address": "97 Rue Claude Bernard, 57070 Metz",
-        "phone_number": "+33387345345",
-        "business_hours": {
-          "lundi": "8:00-17:00",
-          "mardi": "8:00-17:00",
-          "mercredi": "8:00-17:00",
-          "jeudi": "8:00-17:00",
-          "vendredi": "8:00-17:00",
-          "samedi": "8:00-12:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242931[]",
-      "gid": "1230"
-    },
-    {
-      "departement": "57",
       "nom": "Centre de vaccination d'Hettange-Grande - Hall omnisport",
       "url": "https://partners.doctolib.fr/centre-de-sante/hettange-grande/centre-de-vaccination-d-hettange-grande?pid=practice-177585",
       "location": {
@@ -507,6 +479,34 @@
       "appointment_count": 0,
       "internal_id": "259475[177585]",
       "gid": "2088"
+    },
+    {
+      "departement": "57",
+      "nom": "Centre de vaccination de Metz - Clinique Claude Bernard (Entr\u00e9e B)",
+      "url": "https://partners.doctolib.fr/clinique-privee/metz/centre-de-vaccination-metz-elsan",
+      "location": {
+        "longitude": 6.21111,
+        "latitude": 49.1148
+      },
+      "metadata": {
+        "address": "97 Rue Claude Bernard, 57070 Metz",
+        "phone_number": "+33387345345",
+        "business_hours": {
+          "lundi": "8:00-17:00",
+          "mardi": "8:00-17:00",
+          "mercredi": "8:00-17:00",
+          "jeudi": "8:00-17:00",
+          "vendredi": "8:00-17:00",
+          "samedi": "8:00-12:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242931[]",
+      "gid": "1230"
     },
     {
       "departement": "57",
@@ -790,33 +790,6 @@
     },
     {
       "departement": "57",
-      "nom": "MA - US DE SARREGUEMINES / Maison d'Arr\u00eat de Sarreguemines",
-      "url": "",
-      "location": {
-        "longitude": 7.05806,
-        "latitude": 49.1062
-      },
-      "metadata": {
-        "address": "9 Rue Victor Hugo, 57200 Sarreguemines",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1823"
-    },
-    {
-      "departement": "57",
       "nom": "CD - US d'OERMINGEN / Maison d'Arr\u00eat de Sarreguemines",
       "url": "",
       "location": {
@@ -841,6 +814,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1822"
+    },
+    {
+      "departement": "57",
+      "nom": "MA - US DE SARREGUEMINES / Maison d'Arr\u00eat de Sarreguemines",
+      "url": "",
+      "location": {
+        "longitude": 7.05806,
+        "latitude": 49.1062
+      },
+      "metadata": {
+        "address": "9 Rue Victor Hugo, 57200 Sarreguemines",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1823"
     },
     {
       "departement": "57",

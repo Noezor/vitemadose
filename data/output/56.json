@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T19:20:45.203749+02:00",
+  "last_updated": "2021-04-10T19:23:47.376813+02:00",
   "centres_disponibles": [
     {
       "departement": "56",
@@ -26,7 +26,7 @@
       "prochain_rdv": "2021-04-12T14:55:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 331,
+      "appointment_count": 330,
       "internal_id": null,
       "gid": "454"
     },
@@ -54,7 +54,7 @@
       "prochain_rdv": "2021-04-13T15:45:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 779,
+      "appointment_count": 778,
       "internal_id": null,
       "gid": "1215"
     },
@@ -78,39 +78,40 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-20T16:39:00.000+02:00",
+      "prochain_rdv": "2021-04-22T16:33:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 149,
+      "appointment_count": 146,
       "internal_id": "262832[]",
       "gid": "d262832"
     },
     {
       "departement": "56",
-      "nom": "GH Broc\u00e9liande Atlantique (GHBA) - Centre de vaccination COVID Quiberon",
-      "url": "https://partners.doctolib.fr/centre-de-sante/quiberon/gh-broceliande-atlantique-ghba-centre-de-vaccination-covid-quiberon",
+      "nom": "GRANDCHAMP - Salle multifonctionnelle",
+      "url": "https://partners.doctolib.fr/hopital-public/grand-champ/ghba-centre-de-vaccination-covid-grandchamp?pid=practice-165902",
       "location": {
-        "longitude": -3.1212589,
-        "latitude": 47.484727
+        "longitude": -2.85901,
+        "latitude": 47.759
       },
       "metadata": {
-        "address": "6 Rue Jules Ferry, 56170 Quiberon",
+        "address": " Boulevard du stade, 56390 Grand-Champ",
+        "phone_number": "+33297019956",
         "business_hours": {
-          "lundi": null,
-          "mardi": null,
-          "mercredi": null,
-          "jeudi": null,
-          "vendredi": null,
-          "samedi": null,
-          "dimanche": null
+          "lundi": "9h-12h / 14h30-17h30",
+          "mardi": "14h30-17h30",
+          "mercredi": "9h-12h / 14h30-17h30",
+          "jeudi": "9h-12h / 14h30-17h30",
+          "vendredi": "9h-12h / 14h30-17h30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-30T14:16:00.000+02:00",
+      "prochain_rdv": "2021-04-29T17:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 25,
-      "internal_id": "259993[]",
-      "gid": "d259993"
+      "appointment_count": 1,
+      "internal_id": "246058[165902]",
+      "gid": "897"
     },
     {
       "departement": "56",
@@ -133,12 +134,39 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-30T14:18:00.000+02:00",
+      "prochain_rdv": "2021-04-30T12:42:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 24,
+      "appointment_count": 26,
       "internal_id": "259993[177858]",
       "gid": "2120"
+    },
+    {
+      "departement": "56",
+      "nom": "GH Broc\u00e9liande Atlantique (GHBA) - Centre de vaccination COVID Quiberon",
+      "url": "https://partners.doctolib.fr/centre-de-sante/quiberon/gh-broceliande-atlantique-ghba-centre-de-vaccination-covid-quiberon",
+      "location": {
+        "longitude": -3.1212589,
+        "latitude": 47.484727
+      },
+      "metadata": {
+        "address": "6 Rue Jules Ferry, 56170 Quiberon",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-30T12:42:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 26,
+      "internal_id": "259993[]",
+      "gid": "d259993"
     }
   ],
   "centres_indisponibles": [
@@ -228,34 +256,6 @@
     },
     {
       "departement": "56",
-      "nom": "GHBS - H\u00f4pital du Scorff",
-      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier-regional/lorient-56100/groupe-hospitalier-bretagne-sud-lorient-hopital-du-scorff?category=2528&cabinet=16581&specialty=144",
-      "location": {
-        "longitude": -3.35593,
-        "latitude": 47.753
-      },
-      "metadata": {
-        "address": "5 Avenue \u00c9tienne-fran\u00e7ois de Choiseul, 56100 Lorient",
-        "phone_number": "+33297069794",
-        "business_hours": {
-          "lundi": "8h-20h",
-          "mardi": "8h-20h",
-          "mercredi": "8h-20h",
-          "jeudi": "8h-20h",
-          "vendredi": "8h-20h",
-          "samedi": "8h-20h",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Keldoc",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "733"
-    },
-    {
-      "departement": "56",
       "nom": "GHBS - B\u00e2timent Onc'Oriant",
       "url": "https://vaccination-covid.keldoc.com/centre-hospitalier-regional/lorient-56100/groupe-hospitalier-bretagne-sud-lorient-hopital-du-scorff?cabinet=16571&specialty=144",
       "location": {
@@ -284,6 +284,34 @@
     },
     {
       "departement": "56",
+      "nom": "GHBS - H\u00f4pital du Scorff",
+      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier-regional/lorient-56100/groupe-hospitalier-bretagne-sud-lorient-hopital-du-scorff?category=2528&cabinet=16581&specialty=144",
+      "location": {
+        "longitude": -3.35593,
+        "latitude": 47.753
+      },
+      "metadata": {
+        "address": "5 Avenue \u00c9tienne-fran\u00e7ois de Choiseul, 56100 Lorient",
+        "phone_number": "+33297069794",
+        "business_hours": {
+          "lundi": "8h-20h",
+          "mardi": "8h-20h",
+          "mercredi": "8h-20h",
+          "jeudi": "8h-20h",
+          "vendredi": "8h-20h",
+          "samedi": "8h-20h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "733"
+    },
+    {
+      "departement": "56",
       "nom": "CH AURAY",
       "url": "https://partners.doctolib.fr/hopital-public/auray/chba-centre-de-vaccination-covid-d-auray?pid=practice-164632",
       "location": {
@@ -309,34 +337,6 @@
       "appointment_count": 0,
       "internal_id": "245494[164632]",
       "gid": "894"
-    },
-    {
-      "departement": "56",
-      "nom": "GRANDCHAMP - Salle multifonctionnelle",
-      "url": "https://partners.doctolib.fr/hopital-public/grand-champ/ghba-centre-de-vaccination-covid-grandchamp?pid=practice-165902",
-      "location": {
-        "longitude": -2.85901,
-        "latitude": 47.759
-      },
-      "metadata": {
-        "address": " Boulevard du stade, 56390 Grand-Champ",
-        "phone_number": "+33297019956",
-        "business_hours": {
-          "lundi": "9h-12h / 14h30-17h30",
-          "mardi": "14h30-17h30",
-          "mercredi": "9h-12h / 14h30-17h30",
-          "jeudi": "9h-12h / 14h30-17h30",
-          "vendredi": "9h-12h / 14h30-17h30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "246058[165902]",
-      "gid": "897"
     },
     {
       "departement": "56",
