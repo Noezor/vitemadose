@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:52:23.069962+02:00",
+  "last_updated": "2021-04-10T18:56:10.933354+02:00",
   "centres_disponibles": [
     {
       "departement": "54",
@@ -26,7 +26,7 @@
       "prochain_rdv": "2021-04-12T09:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 117,
+      "appointment_count": 115,
       "internal_id": "241211[163347-163348-163350-163351-163443-163349-163352-163827-163828-165715-165708-165799-167645-167648-167649-167650-173391-173392-173394-175255-175229-175513-175228-176288-169974-163781-179400-167641-181849-178399-181845-181848-181673-165822]",
       "gid": "89"
     },
@@ -54,7 +54,7 @@
       "prochain_rdv": "2021-04-14T16:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 23,
+      "appointment_count": 24,
       "internal_id": "241211[167645]",
       "gid": "2011"
     },
@@ -650,21 +650,21 @@
     },
     {
       "departement": "54",
-      "nom": "Saint-Max - Ch\u00e2teau du Pont de la Meurthe",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-163349",
+      "nom": "Nancy - Centre Prouv\u00e9",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-163350",
       "location": {
-        "longitude": 6.20408,
-        "latitude": 48.6995
+        "longitude": 6.17679,
+        "latitude": 48.6876
       },
       "metadata": {
-        "address": "2 Av Carnot, 54130 Saint-Max",
+        "address": "1 Pl de la Republique, 54000 Nancy",
         "phone_number": "+33383851300",
         "business_hours": {
-          "lundi": "09:00-13:00/14:00-17:30",
-          "mardi": "09:00-13:00/14:00-17:30",
-          "mercredi": "09:00-13:00/14:00-17:30",
-          "jeudi": "09:00-13:00/14:00-17:30",
-          "vendredi": "09:00-13:00/14:00-17:30",
+          "lundi": "09:00-13:00/14:00-18:00",
+          "mardi": "09:00-13:00/14:00-18:00",
+          "mercredi": "09:00-13:00/14:00-18:00",
+          "jeudi": "09:00-13:00/14:00-18:00",
+          "vendredi": "09:00-13:00/14:00-18:00",
           "samedi": "non pr\u00e9cis\u00e9",
           "dimanche": "non pr\u00e9cis\u00e9"
         }
@@ -673,8 +673,8 @@
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": "241211[163349]",
-      "gid": "880"
+      "internal_id": "241211[163350]",
+      "gid": "874"
     },
     {
       "departement": "54",
@@ -706,49 +706,21 @@
     },
     {
       "departement": "54",
-      "nom": "CH de Toul",
-      "url": "https://partners.doctolib.fr/hopital-public/toul/centre-de-vaccination-de-toul",
+      "nom": "Saint-Max - Ch\u00e2teau du Pont de la Meurthe",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-163349",
       "location": {
-        "longitude": 5.88705,
-        "latitude": 48.675
+        "longitude": 6.20408,
+        "latitude": 48.6995
       },
       "metadata": {
-        "address": " Rue des Teinturiers, 54200 Toul",
+        "address": "2 Av Carnot, 54130 Saint-Max",
         "phone_number": "+33383851300",
         "business_hours": {
-          "lundi": "08:30-12:00/13:30-17:00",
-          "mardi": "08:30-12:00/13:30-17:00",
-          "mercredi": "08:30-12:00/13:30-17:00",
-          "jeudi": "08:30-12:00/13:30-17:00",
-          "vendredi": "08:30-12:00/13:30-17:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242386[]",
-      "gid": "1341"
-    },
-    {
-      "departement": "54",
-      "nom": "Nancy - Centre Prouv\u00e9",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-163350",
-      "location": {
-        "longitude": 6.17679,
-        "latitude": 48.6876
-      },
-      "metadata": {
-        "address": "1 Pl de la Republique, 54000 Nancy",
-        "phone_number": "+33383851300",
-        "business_hours": {
-          "lundi": "09:00-13:00/14:00-18:00",
-          "mardi": "09:00-13:00/14:00-18:00",
-          "mercredi": "09:00-13:00/14:00-18:00",
-          "jeudi": "09:00-13:00/14:00-18:00",
-          "vendredi": "09:00-13:00/14:00-18:00",
+          "lundi": "09:00-13:00/14:00-17:30",
+          "mardi": "09:00-13:00/14:00-17:30",
+          "mercredi": "09:00-13:00/14:00-17:30",
+          "jeudi": "09:00-13:00/14:00-17:30",
+          "vendredi": "09:00-13:00/14:00-17:30",
           "samedi": "non pr\u00e9cis\u00e9",
           "dimanche": "non pr\u00e9cis\u00e9"
         }
@@ -757,8 +729,8 @@
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": "241211[163350]",
-      "gid": "874"
+      "internal_id": "241211[163349]",
+      "gid": "880"
     },
     {
       "departement": "54",
@@ -787,6 +759,34 @@
       "appointment_count": 0,
       "internal_id": "241211[167650]",
       "gid": "1335"
+    },
+    {
+      "departement": "54",
+      "nom": "CH de Toul",
+      "url": "https://partners.doctolib.fr/hopital-public/toul/centre-de-vaccination-de-toul",
+      "location": {
+        "longitude": 5.88705,
+        "latitude": 48.675
+      },
+      "metadata": {
+        "address": " Rue des Teinturiers, 54200 Toul",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "08:30-12:00/13:30-17:00",
+          "mardi": "08:30-12:00/13:30-17:00",
+          "mercredi": "08:30-12:00/13:30-17:00",
+          "jeudi": "08:30-12:00/13:30-17:00",
+          "vendredi": "08:30-12:00/13:30-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242386[]",
+      "gid": "1341"
     },
     {
       "departement": "54",

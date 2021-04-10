@@ -1,63 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:52:23.065314+02:00",
+  "last_updated": "2021-04-10T18:56:10.928724+02:00",
   "centres_disponibles": [
-    {
-      "departement": "46",
-      "nom": "CH Figeac",
-      "url": "https://partners.doctolib.fr/hopital-public/figeac/centre-hospitalier-de-figeac-reserve-aux-professionnels-de-sante",
-      "location": {
-        "longitude": 2.02997,
-        "latitude": 44.6103
-      },
-      "metadata": {
-        "address": "Stade du Calvaire boulevard Teuli\u00e9 , 46100 Figeac",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "9:00-13:00/14:00-17:00",
-          "mardi": "9:00-13:00/14:00-17:00",
-          "mercredi": "9:00-13:00/14:00-17:00",
-          "jeudi": "9:00-13:00/14:00-17:00",
-          "vendredi": "9:00-13:00/14:00-17:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-15T15:50:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 81,
-      "internal_id": "240912[]",
-      "gid": "354"
-    },
-    {
-      "departement": "46",
-      "nom": "Centre Hospitalier de Figeac",
-      "url": "https://partners.doctolib.fr/hopital-public/figeac/ch-figeac?pid=practice-163185",
-      "location": {
-        "longitude": 2.0299404,
-        "latitude": 44.6103025
-      },
-      "metadata": {
-        "address": "33 Rue des Maquisards, 46100 Figeac",
-        "phone_number": "05 65 50 65 50",
-        "business_hours": {
-          "lundi": "08:00-18:00",
-          "mardi": "08:00-18:00",
-          "mercredi": "08:00-18:00",
-          "jeudi": "08:00-18:00",
-          "vendredi": "08:00-18:00",
-          "samedi": "09:00-18:00",
-          "dimanche": "09:00-18:00"
-        }
-      },
-      "prochain_rdv": "2021-04-15T15:50:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 82,
-      "internal_id": "198259[163185]",
-      "gid": "d198259"
-    },
     {
       "departement": "46",
       "nom": "Centre de vaccination - CH Saint C\u00e9r\u00e9",
@@ -88,6 +32,34 @@
     },
     {
       "departement": "46",
+      "nom": "Centre Hospitalier de Figeac",
+      "url": "https://partners.doctolib.fr/hopital-public/figeac/ch-figeac?pid=practice-163185",
+      "location": {
+        "longitude": 2.0299404,
+        "latitude": 44.6103025
+      },
+      "metadata": {
+        "address": "33 Rue des Maquisards, 46100 Figeac",
+        "phone_number": "05 65 50 65 50",
+        "business_hours": {
+          "lundi": "08:00-18:00",
+          "mardi": "08:00-18:00",
+          "mercredi": "08:00-18:00",
+          "jeudi": "08:00-18:00",
+          "vendredi": "08:00-18:00",
+          "samedi": "09:00-18:00",
+          "dimanche": "09:00-18:00"
+        }
+      },
+      "prochain_rdv": "2021-04-15T16:30:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 80,
+      "internal_id": "198259[163185]",
+      "gid": "d198259"
+    },
+    {
+      "departement": "46",
       "nom": "CH Jean Coulon - Gourdon",
       "url": "https://partners.doctolib.fr/hopital-public/gourdon/vaccination-covid-ch-gourdon",
       "location": {
@@ -107,12 +79,40 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-19T08:45:00.000+02:00",
+      "prochain_rdv": "2021-04-19T08:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 423,
+      "appointment_count": 424,
       "internal_id": "243141[]",
       "gid": "355"
+    },
+    {
+      "departement": "46",
+      "nom": "CH Figeac",
+      "url": "https://partners.doctolib.fr/hopital-public/figeac/centre-hospitalier-de-figeac-reserve-aux-professionnels-de-sante",
+      "location": {
+        "longitude": 2.02997,
+        "latitude": 44.6103
+      },
+      "metadata": {
+        "address": "Stade du Calvaire boulevard Teuli\u00e9 , 46100 Figeac",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "9:00-13:00/14:00-17:00",
+          "mardi": "9:00-13:00/14:00-17:00",
+          "mercredi": "9:00-13:00/14:00-17:00",
+          "jeudi": "9:00-13:00/14:00-17:00",
+          "vendredi": "9:00-13:00/14:00-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-19T10:50:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 71,
+      "internal_id": "240912[]",
+      "gid": "354"
     },
     {
       "departement": "46",
@@ -138,7 +138,7 @@
       "prochain_rdv": "2021-05-05T14:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 21,
+      "appointment_count": 20,
       "internal_id": "262567[179532]",
       "gid": "2029"
     },

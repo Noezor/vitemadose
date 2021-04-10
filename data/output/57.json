@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:52:23.072855+02:00",
+  "last_updated": "2021-04-10T18:56:10.936232+02:00",
   "centres_disponibles": [
     {
       "departement": "57",
@@ -23,10 +23,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-13T09:50:00.000+02:00",
+      "prochain_rdv": "2021-04-13T16:05:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 5,
+      "appointment_count": 2,
       "internal_id": "240289[]",
       "gid": "174"
     },
@@ -51,10 +51,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-29T08:50:00.000+02:00",
+      "prochain_rdv": "2021-04-29T09:05:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 139,
+      "appointment_count": 137,
       "internal_id": "254139[173661]",
       "gid": "1752"
     },
@@ -678,34 +678,6 @@
     },
     {
       "departement": "57",
-      "nom": "Centre de vaccination de Thionville - Clinique Notre-Dame",
-      "url": "https://partners.doctolib.fr/clinique-privee/thionville/centre-de-vaccination-thionville-elsan",
-      "location": {
-        "longitude": 6.15604,
-        "latitude": 49.3566
-      },
-      "metadata": {
-        "address": "3 Rue Paul Albert, 57100 Thionville",
-        "phone_number": "+33387345345",
-        "business_hours": {
-          "lundi": "8:00-17:00",
-          "mardi": "8:00-17:00",
-          "mercredi": "8:00-17:00",
-          "jeudi": "8:00-17:00",
-          "vendredi": "8:00-17:00",
-          "samedi": "8:00-12:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242959[]",
-      "gid": "1232"
-    },
-    {
-      "departement": "57",
       "nom": "Centre de vaccination de Sarrebourg",
       "url": "https://partners.doctolib.fr/hopital-public/saverne/ch-sarrebourg-centre-de-vaccination-covid",
       "location": {
@@ -731,6 +703,34 @@
       "appointment_count": 0,
       "internal_id": "242310[]",
       "gid": "772"
+    },
+    {
+      "departement": "57",
+      "nom": "Centre de vaccination de Thionville - Clinique Notre-Dame",
+      "url": "https://partners.doctolib.fr/clinique-privee/thionville/centre-de-vaccination-thionville-elsan",
+      "location": {
+        "longitude": 6.15604,
+        "latitude": 49.3566
+      },
+      "metadata": {
+        "address": "3 Rue Paul Albert, 57100 Thionville",
+        "phone_number": "+33387345345",
+        "business_hours": {
+          "lundi": "8:00-17:00",
+          "mardi": "8:00-17:00",
+          "mercredi": "8:00-17:00",
+          "jeudi": "8:00-17:00",
+          "vendredi": "8:00-17:00",
+          "samedi": "8:00-12:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242959[]",
+      "gid": "1232"
     },
     {
       "departement": "57",

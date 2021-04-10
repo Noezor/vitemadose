@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:52:23.060031+02:00",
+  "last_updated": "2021-04-10T18:56:10.924382+02:00",
   "centres_disponibles": [
     {
       "departement": "41",
@@ -22,10 +22,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-29T16:40:00.000+02:00",
+      "prochain_rdv": "2021-05-04T08:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 1,
+      "appointment_count": 96,
       "internal_id": "265672[]",
       "gid": "d265672"
     }
@@ -712,6 +712,33 @@
     },
     {
       "departement": "41",
+      "nom": "Centre de vaccination - en attente (41)",
+      "url": "",
+      "location": {
+        "longitude": 1.33744,
+        "latitude": 47.5742
+      },
+      "metadata": {
+        "address": " , 41000 Blois",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "2153"
+    },
+    {
+      "departement": "41",
       "nom": "Centre de vaccination - Dojo",
       "url": "https://partners.doctolib.fr/centre-de-sante/saint-georges-sur-cher/centre-de-vaccination-covid-19-de-saint-georges-sur-cher?pid=practice-166204",
       "location": {
@@ -737,33 +764,6 @@
       "appointment_count": 0,
       "internal_id": "244528[166204]",
       "gid": "1248"
-    },
-    {
-      "departement": "41",
-      "nom": "Centre de vaccination - en attente (41)",
-      "url": "",
-      "location": {
-        "longitude": 1.33744,
-        "latitude": 47.5742
-      },
-      "metadata": {
-        "address": " , 41000 Blois",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "2153"
     },
     {
       "departement": "41",
@@ -823,34 +823,6 @@
     },
     {
       "departement": "41",
-      "nom": "Centre hospitalier de Blois - Simone Veil - r\u00e9serv\u00e9 aux professionnels de sant\u00e9",
-      "url": "https://partners.doctolib.fr/hopital-public/blois/ch-blois-centre-de-vaccination-covid-19-reserve-aux-professionnels-du-chb",
-      "location": {
-        "longitude": 1.3397,
-        "latitude": 47.6001
-      },
-      "metadata": {
-        "address": " Mail Pierre Charlot, 41000 Blois",
-        "phone_number": "+33254556046",
-        "business_hours": {
-          "lundi": "ouvert",
-          "mardi": "ouvert",
-          "mercredi": "ouvert",
-          "jeudi": "ouvert",
-          "vendredi": "ouvert",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241695[]",
-      "gid": "1355"
-    },
-    {
-      "departement": "41",
       "nom": "Centre de vaccination - la Gare des Collines - Maison France Service",
       "url": "https://partners.doctolib.fr/maison-de-sante/mondoubleau/centre-de-vaccination-covid-la-gare-des-collines?pid=practice-168224",
       "location": {
@@ -876,6 +848,34 @@
       "appointment_count": 0,
       "internal_id": "247241[168224]",
       "gid": "1342"
+    },
+    {
+      "departement": "41",
+      "nom": "Centre hospitalier de Blois - Simone Veil - r\u00e9serv\u00e9 aux professionnels de sant\u00e9",
+      "url": "https://partners.doctolib.fr/hopital-public/blois/ch-blois-centre-de-vaccination-covid-19-reserve-aux-professionnels-du-chb",
+      "location": {
+        "longitude": 1.3397,
+        "latitude": 47.6001
+      },
+      "metadata": {
+        "address": " Mail Pierre Charlot, 41000 Blois",
+        "phone_number": "+33254556046",
+        "business_hours": {
+          "lundi": "ouvert",
+          "mardi": "ouvert",
+          "mercredi": "ouvert",
+          "jeudi": "ouvert",
+          "vendredi": "ouvert",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241695[]",
+      "gid": "1355"
     },
     {
       "departement": "41",

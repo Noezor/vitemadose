@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:52:23.110706+02:00",
+  "last_updated": "2021-04-10T18:56:10.968044+02:00",
   "centres_disponibles": [
     {
       "departement": "82",
@@ -26,7 +26,7 @@
       "prochain_rdv": "2021-04-14T17:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 1,
+      "appointment_count": 9,
       "internal_id": "242473[]",
       "gid": "374"
     },
@@ -54,37 +54,9 @@
       "prochain_rdv": "2021-04-15T12:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 42,
+      "appointment_count": 41,
       "internal_id": "241844[]",
       "gid": "d241844"
-    },
-    {
-      "departement": "82",
-      "nom": "CH Montauban",
-      "url": "https://partners.doctolib.fr/hopital-public/montauban/ch-montauban-vaccination-covid",
-      "location": {
-        "longitude": 1.35177,
-        "latitude": 44.0223
-      },
-      "metadata": {
-        "address": "100 Rue L\u00e9on Cladel, 82000 Montauban",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "8.30/20.00",
-          "mardi": "8.30/20.00",
-          "mercredi": "8.30/20.00",
-          "jeudi": "8.30/20.00",
-          "vendredi": "8.30/20.00",
-          "samedi": "8.30/17.00",
-          "dimanche": "8.30/17.00"
-        }
-      },
-      "prochain_rdv": "2021-04-18T18:35:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "240873[]",
-      "gid": "373"
     },
     {
       "departement": "82",
@@ -107,10 +79,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-20T15:15:00.000+02:00",
+      "prochain_rdv": "2021-04-20T15:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 164,
+      "appointment_count": 160,
       "internal_id": "186938[]",
       "gid": "515"
     }
@@ -143,6 +115,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "563"
+    },
+    {
+      "departement": "82",
+      "nom": "CH Montauban",
+      "url": "https://partners.doctolib.fr/hopital-public/montauban/ch-montauban-vaccination-covid",
+      "location": {
+        "longitude": 1.35177,
+        "latitude": 44.0223
+      },
+      "metadata": {
+        "address": "100 Rue L\u00e9on Cladel, 82000 Montauban",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "8.30/20.00",
+          "mardi": "8.30/20.00",
+          "mercredi": "8.30/20.00",
+          "jeudi": "8.30/20.00",
+          "vendredi": "8.30/20.00",
+          "samedi": "8.30/17.00",
+          "dimanche": "8.30/17.00"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240873[]",
+      "gid": "373"
     },
     {
       "departement": "82",

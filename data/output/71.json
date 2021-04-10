@@ -1,35 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:52:23.090515+02:00",
+  "last_updated": "2021-04-10T18:56:10.953783+02:00",
   "centres_disponibles": [
-    {
-      "departement": "71",
-      "nom": "Centre de vaccination de Chagny",
-      "url": "https://partners.doctolib.fr/centre-de-sante/chagny/centre-de-vaccination-covid-19-de-chagny?pid=practice-178053",
-      "location": {
-        "longitude": 4.75494,
-        "latitude": 46.9069
-      },
-      "metadata": {
-        "address": " Maison du Peuple - Place Marcel Charollais, 71150 Chagny",
-        "phone_number": "+330806030149",
-        "business_hours": {
-          "lundi": "09:00-18:00",
-          "mardi": "09:00-18:00",
-          "mercredi": "09:00-18:00",
-          "jeudi": "09:00-18:00",
-          "vendredi": "09:00-18:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-19T12:30:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 2,
-      "internal_id": "263512[178053]",
-      "gid": "2307"
-    },
     {
       "departement": "71",
       "nom": "Centre de vaccination d'Epinac",
@@ -54,7 +26,7 @@
       "prochain_rdv": "2021-04-22T15:12:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 130,
+      "appointment_count": 129,
       "internal_id": "263517[178060]",
       "gid": "2310"
     },
@@ -107,10 +79,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-27T09:36:00.000+02:00",
+      "prochain_rdv": "2021-04-27T09:48:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 334,
+      "appointment_count": 333,
       "internal_id": "263519[178058]",
       "gid": "2308"
     },
@@ -135,12 +107,40 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-30T15:06:00.000+02:00",
+      "prochain_rdv": "2021-04-30T15:18:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 173,
+      "appointment_count": 170,
       "internal_id": "263516[178054]",
       "gid": "2309"
+    },
+    {
+      "departement": "71",
+      "nom": "Centre de vaccination de Chagny",
+      "url": "https://partners.doctolib.fr/centre-de-sante/chagny/centre-de-vaccination-covid-19-de-chagny?pid=practice-178053",
+      "location": {
+        "longitude": 4.75494,
+        "latitude": 46.9069
+      },
+      "metadata": {
+        "address": " Maison du Peuple - Place Marcel Charollais, 71150 Chagny",
+        "phone_number": "+330806030149",
+        "business_hours": {
+          "lundi": "09:00-18:00",
+          "mardi": "09:00-18:00",
+          "mercredi": "09:00-18:00",
+          "jeudi": "09:00-18:00",
+          "vendredi": "09:00-18:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-03T10:54:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 290,
+      "internal_id": "263512[178053]",
+      "gid": "2307"
     },
     {
       "departement": "71",
@@ -163,10 +163,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-03T11:12:00.000+02:00",
+      "prochain_rdv": "2021-05-03T11:06:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 153,
+      "appointment_count": 154,
       "internal_id": "263521[178057]",
       "gid": "2312"
     },
@@ -219,10 +219,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-05T16:42:00.000+02:00",
+      "prochain_rdv": "2021-05-05T16:48:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 130,
+      "appointment_count": 129,
       "internal_id": "242420[]",
       "gid": "521"
     },
@@ -334,7 +334,7 @@
       "prochain_rdv": "2021-05-10T14:42:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 230,
+      "appointment_count": 231,
       "internal_id": "242421[]",
       "gid": "620"
     },
@@ -390,7 +390,7 @@
       "prochain_rdv": "2021-05-11T13:18:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 168,
+      "appointment_count": 167,
       "internal_id": "242411[]",
       "gid": "555"
     },
@@ -449,6 +449,34 @@
       "appointment_count": 12,
       "internal_id": "242413[]",
       "gid": "562"
+    },
+    {
+      "departement": "71",
+      "nom": "Centre de vaccination MONTCEAU LES MINES - Salle l'Embarcad\u00e8re",
+      "url": "https://partners.doctolib.fr/centre-de-sante/montceau-les-mines/centre-de-vaccination-de-montceau-les-mines",
+      "location": {
+        "longitude": 4.36099,
+        "latitude": 46.6768
+      },
+      "metadata": {
+        "address": "36 Quai Jules Chagot, 71300 Montceau-les-Mines",
+        "phone_number": "+33806030149",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "09:00-17:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-17T17:30:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "242416[]",
+      "gid": "612"
     }
   ],
   "centres_indisponibles": [
@@ -478,34 +506,6 @@
       "appointment_count": 0,
       "internal_id": "242647[170208]",
       "gid": "384"
-    },
-    {
-      "departement": "71",
-      "nom": "Centre de vaccination MONTCEAU LES MINES - Salle l'Embarcad\u00e8re",
-      "url": "https://partners.doctolib.fr/centre-de-sante/montceau-les-mines/centre-de-vaccination-de-montceau-les-mines?speciality_id=5494&enable_cookies_consent=1",
-      "location": {
-        "longitude": 4.36099,
-        "latitude": 46.6768
-      },
-      "metadata": {
-        "address": "36 Quai Jules Chagot, 71300 Montceau-les-Mines",
-        "phone_number": "+33806030149",
-        "business_hours": {
-          "lundi": "09:00-17:00",
-          "mardi": "09:00-17:00",
-          "mercredi": "09:00-17:00",
-          "jeudi": "09:00-17:00",
-          "vendredi": "09:00-17:00",
-          "samedi": "09:00-17:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": null,
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "612"
     },
     {
       "departement": "71",
@@ -591,33 +591,6 @@
     },
     {
       "departement": "71",
-      "nom": "Grand centre 71N",
-      "url": "",
-      "location": {
-        "longitude": 4.85352,
-        "latitude": 46.7808
-      },
-      "metadata": {
-        "address": "3 Place de l\u2019Hotel de Ville, 71100 Chalon-sur-Sa\u00f4ne",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "2232"
-    },
-    {
-      "departement": "71",
       "nom": "Grand centre 71S",
       "url": "",
       "location": {
@@ -642,6 +615,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "2233"
+    },
+    {
+      "departement": "71",
+      "nom": "Grand centre 71N",
+      "url": "",
+      "location": {
+        "longitude": 4.85352,
+        "latitude": 46.7808
+      },
+      "metadata": {
+        "address": "3 Place de l\u2019Hotel de Ville, 71100 Chalon-sur-Sa\u00f4ne",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "2232"
     },
     {
       "departement": "71",
@@ -685,26 +685,6 @@
     },
     {
       "departement": "71",
-      "nom": "Pharmacie Du G\u00e9ant",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-du-geant-montceau-les-mines",
-      "location": {
-        "longitude": 4.3703288,
-        "latitude": 46.6778051
-      },
-      "metadata": {
-        "address": "5 Boulevard de Lattre de Tassigny, 71300 Montceau-les-Mines",
-        "phone_number": "+33385573951",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "d122505f"
-    },
-    {
-      "departement": "71",
       "nom": "Pharmacie Fournier Gentien",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-fournier-gentien-gueugnon",
       "location": {
@@ -722,6 +702,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "d2be9108"
+    },
+    {
+      "departement": "71",
+      "nom": "Pharmacie Du G\u00e9ant",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-du-geant-montceau-les-mines",
+      "location": {
+        "longitude": 4.3703288,
+        "latitude": 46.6778051
+      },
+      "metadata": {
+        "address": "5 Boulevard de Lattre de Tassigny, 71300 Montceau-les-Mines",
+        "phone_number": "+33385573951",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "d122505f"
     },
     {
       "departement": "71",

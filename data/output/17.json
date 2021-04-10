@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:52:23.034708+02:00",
+  "last_updated": "2021-04-10T18:56:10.900690+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -283,6 +283,34 @@
     },
     {
       "departement": "17",
+      "nom": "centre de vaccination Nieul sur Mer",
+      "url": "https://partners.doctolib.fr/centre-de-sante/la-rochelle/centre-de-vaccination-covid-19-ville-de-la-rochelle-la-rochelle?pid=practice-173645",
+      "location": {
+        "longitude": -1.17048,
+        "latitude": 46.2059
+      },
+      "metadata": {
+        "address": "1 rue de Lauzi\u00e8re, 17137 Nieul-sur-Mer",
+        "phone_number": "+335 46 30 57 17",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243501[173645]",
+      "gid": "1726"
+    },
+    {
+      "departement": "17",
       "nom": "CENTRE MONTLIEU LA GARDE",
       "url": "https://partners.doctolib.fr/hopital-public/haute-saintonge/centre-de-vaccination-covid-19-haute-saintonge?pid=practice-164897",
       "location": {
@@ -311,21 +339,21 @@
     },
     {
       "departement": "17",
-      "nom": "centre de vaccination Nieul sur Mer",
-      "url": "https://partners.doctolib.fr/centre-de-sante/la-rochelle/centre-de-vaccination-covid-19-ville-de-la-rochelle-la-rochelle?pid=practice-173645",
+      "nom": "Centre de Vaccination Saint Jean d'Ang\u00e9ly",
+      "url": "https://partners.doctolib.fr/hopital-public/saint-jean-d-angely/centre-de-vaccination-covid-19-saint-jean-d-angely",
       "location": {
-        "longitude": -1.17048,
-        "latitude": 46.2059
+        "longitude": -0.529431,
+        "latitude": 45.9471
       },
       "metadata": {
-        "address": "1 rue de Lauzi\u00e8re, 17137 Nieul-sur-Mer",
-        "phone_number": "+335 46 30 57 17",
+        "address": "18 Avenue du Port, 17400 Saint-Jean-d'Ang\u00e9ly",
+        "phone_number": "+33546951111 ",
         "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
+          "lundi": "09:00-12:00/14:00-17:00",
+          "mardi": "09:00-12:00/14:00-17:00",
+          "mercredi": "09:00-12:00/14:00-17:00",
+          "jeudi": "09:00-12:00/14:00-17:00",
+          "vendredi": "09:00-12:00/14:00-17:00",
           "samedi": "ferm\u00e9",
           "dimanche": "ferm\u00e9"
         }
@@ -334,8 +362,8 @@
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": "243501[173645]",
-      "gid": "1726"
+      "internal_id": "242637[]",
+      "gid": "922"
     },
     {
       "departement": "17",
@@ -392,34 +420,6 @@
       "appointment_count": 0,
       "internal_id": "262232[179312]",
       "gid": "2186"
-    },
-    {
-      "departement": "17",
-      "nom": "Centre de Vaccination Saint Jean d'Ang\u00e9ly",
-      "url": "https://partners.doctolib.fr/hopital-public/saint-jean-d-angely/centre-de-vaccination-covid-19-saint-jean-d-angely",
-      "location": {
-        "longitude": -0.529431,
-        "latitude": 45.9471
-      },
-      "metadata": {
-        "address": "18 Avenue du Port, 17400 Saint-Jean-d'Ang\u00e9ly",
-        "phone_number": "+33546951111 ",
-        "business_hours": {
-          "lundi": "09:00-12:00/14:00-17:00",
-          "mardi": "09:00-12:00/14:00-17:00",
-          "mercredi": "09:00-12:00/14:00-17:00",
-          "jeudi": "09:00-12:00/14:00-17:00",
-          "vendredi": "09:00-12:00/14:00-17:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242637[]",
-      "gid": "922"
     },
     {
       "departement": "17",
@@ -535,34 +535,6 @@
     },
     {
       "departement": "17",
-      "nom": "centre de Chatelaillon",
-      "url": "https://partners.doctolib.fr/centre-de-sante/la-rochelle/centre-de-vaccination-covid-19-ville-de-la-rochelle-la-rochelle?pid=practice-165808",
-      "location": {
-        "longitude": -1.07948,
-        "latitude": 46.0748
-      },
-      "metadata": {
-        "address": "9 Rue des Sulkys, 17340 Ch\u00e2telaillon-Plage",
-        "phone_number": "+33546305717",
-        "business_hours": {
-          "lundi": "09:00-12:30/13:30-16:30",
-          "mardi": "09:00-12:30/13:30-16:30",
-          "mercredi": "09:00-12:30/13:30-16:30",
-          "jeudi": "09:00-12:30/13:30-16:30",
-          "vendredi": "09:00-12:30/13:30-16:30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243501[165808]",
-      "gid": "985"
-    },
-    {
-      "departement": "17",
       "nom": "CENTRE PONS",
       "url": "https://partners.doctolib.fr/hopital-public/haute-saintonge/centre-de-vaccination-covid-19-haute-saintonge?pid=practice-164884",
       "location": {
@@ -591,14 +563,42 @@
     },
     {
       "departement": "17",
-      "nom": "MA - US de SAINTES / Maison d'Arr\u00eat de Saintes",
-      "url": "",
+      "nom": "centre de Chatelaillon",
+      "url": "https://partners.doctolib.fr/centre-de-sante/la-rochelle/centre-de-vaccination-covid-19-ville-de-la-rochelle-la-rochelle?pid=practice-165808",
       "location": {
-        "longitude": -0.625664,
-        "latitude": 45.7457
+        "longitude": -1.07948,
+        "latitude": 46.0748
       },
       "metadata": {
-        "address": "59 bis Rue de l?Arc de Triomphe, 17100 Saintes",
+        "address": "9 Rue des Sulkys, 17340 Ch\u00e2telaillon-Plage",
+        "phone_number": "+33546305717",
+        "business_hours": {
+          "lundi": "09:00-12:30/13:30-16:30",
+          "mardi": "09:00-12:30/13:30-16:30",
+          "mercredi": "09:00-12:30/13:30-16:30",
+          "jeudi": "09:00-12:30/13:30-16:30",
+          "vendredi": "09:00-12:30/13:30-16:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243501[165808]",
+      "gid": "985"
+    },
+    {
+      "departement": "17",
+      "nom": "CD - US de B\u00c9DENAC / Centre de D\u00e9tention de B\u00e9denac",
+      "url": "",
+      "location": {
+        "longitude": -0.305804,
+        "latitude": 45.1736
+      },
+      "metadata": {
+        "address": " Bedenac, 17210 Bedenac",
         "business_hours": {
           "lundi": "Ferm\u00e9 au public",
           "mardi": "Ferm\u00e9 au public",
@@ -614,7 +614,7 @@
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "1880"
+      "gid": "1879"
     },
     {
       "departement": "17",
@@ -645,14 +645,14 @@
     },
     {
       "departement": "17",
-      "nom": "CD - US de B\u00c9DENAC / Centre de D\u00e9tention de B\u00e9denac",
+      "nom": "MA - US de SAINTES / Maison d'Arr\u00eat de Saintes",
       "url": "",
       "location": {
-        "longitude": -0.305804,
-        "latitude": 45.1736
+        "longitude": -0.625664,
+        "latitude": 45.7457
       },
       "metadata": {
-        "address": " Bedenac, 17210 Bedenac",
+        "address": "59 bis Rue de l?Arc de Triomphe, 17100 Saintes",
         "business_hours": {
           "lundi": "Ferm\u00e9 au public",
           "mardi": "Ferm\u00e9 au public",
@@ -668,7 +668,7 @@
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "1879"
+      "gid": "1880"
     },
     {
       "departement": "17",

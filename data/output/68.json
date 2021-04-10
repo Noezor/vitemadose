@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:52:23.087252+02:00",
+  "last_updated": "2021-04-10T18:56:10.950353+02:00",
   "centres_disponibles": [
     {
       "departement": "68",
@@ -23,10 +23,10 @@
           "dimanche": "non pr\u00e9cis\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-13T11:14:00.000+02:00",
+      "prochain_rdv": "2021-04-13T11:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 22,
+      "appointment_count": 21,
       "internal_id": "244266[]",
       "gid": "1206"
     },
@@ -51,10 +51,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-17T15:15:00.000+02:00",
+      "prochain_rdv": "2021-04-16T16:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 19,
+      "appointment_count": 18,
       "internal_id": "262621[179615]",
       "gid": "2343"
     },
@@ -88,34 +88,6 @@
     },
     {
       "departement": "68",
-      "nom": "Centre de vaccination de Colmar",
-      "url": "https://partners.doctolib.fr/centre-de-sante/colmar/centre-de-vaccination-covid-19-de-colmar",
-      "location": {
-        "longitude": 7.36005,
-        "latitude": 48.0986
-      },
-      "metadata": {
-        "address": " Avenue de la Foire aux Vins, 68000 Colmar",
-        "phone_number": "+33970818161",
-        "business_hours": {
-          "lundi": "non pr\u00e9cis\u00e9",
-          "mardi": "non pr\u00e9cis\u00e9",
-          "mercredi": "non pr\u00e9cis\u00e9",
-          "jeudi": "non pr\u00e9cis\u00e9",
-          "vendredi": "non pr\u00e9cis\u00e9",
-          "samedi": "non pr\u00e9cis\u00e9",
-          "dimanche": "non pr\u00e9cis\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-26T13:55:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 33,
-      "internal_id": "242936[]",
-      "gid": "1012"
-    },
-    {
-      "departement": "68",
       "nom": "Centre de vaccination de Mulhouse",
       "url": "https://partners.doctolib.fr/centre-de-sante/mulhouse/centre-de-vaccination-de-mulhouse?pid=practice-164975%3fspeciality_id%3d5494",
       "location": {
@@ -138,7 +110,7 @@
       "prochain_rdv": "2021-04-29T08:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 84,
+      "appointment_count": 83,
       "internal_id": "243001[164975]",
       "gid": "1008"
     },
@@ -163,10 +135,10 @@
           "dimanche": "non pr\u00e9cis\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-30T13:55:00.000+02:00",
+      "prochain_rdv": "2021-04-30T14:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 26,
+      "appointment_count": 25,
       "internal_id": "243424[]",
       "gid": "1010"
     },
@@ -191,7 +163,7 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-05T12:24:00.000+02:00",
+      "prochain_rdv": "2021-05-05T12:12:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 25,
@@ -222,7 +194,7 @@
       "prochain_rdv": "2021-05-11T09:25:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 59,
+      "appointment_count": 60,
       "internal_id": "258288[176685]",
       "gid": "1996"
     },
@@ -252,6 +224,34 @@
       "appointment_count": 60,
       "internal_id": "258288[]",
       "gid": "d258288"
+    },
+    {
+      "departement": "68",
+      "nom": "Centre de vaccination de Colmar",
+      "url": "https://partners.doctolib.fr/centre-de-sante/colmar/centre-de-vaccination-covid-19-de-colmar",
+      "location": {
+        "longitude": 7.36005,
+        "latitude": 48.0986
+      },
+      "metadata": {
+        "address": " Avenue de la Foire aux Vins, 68000 Colmar",
+        "phone_number": "+33970818161",
+        "business_hours": {
+          "lundi": "non pr\u00e9cis\u00e9",
+          "mardi": "non pr\u00e9cis\u00e9",
+          "mercredi": "non pr\u00e9cis\u00e9",
+          "jeudi": "non pr\u00e9cis\u00e9",
+          "vendredi": "non pr\u00e9cis\u00e9",
+          "samedi": "non pr\u00e9cis\u00e9",
+          "dimanche": "non pr\u00e9cis\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-12T13:50:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 29,
+      "internal_id": "242936[]",
+      "gid": "1012"
     }
   ],
   "centres_indisponibles": [
@@ -397,34 +397,6 @@
     },
     {
       "departement": "68",
-      "nom": "Centre de vaccination de R\u00e9guisheim",
-      "url": "https://partners.doctolib.fr/centre-de-sante/reguisheim/centre-de-vaccination-covid-19-espace-trois-coeur-reguisheim?pid=practice-166677",
-      "location": {
-        "longitude": 7.34817,
-        "latitude": 47.8935
-      },
-      "metadata": {
-        "address": "10 Rue de la For\u00eat, 68890 R\u00e9guisheim",
-        "phone_number": "+33970818161",
-        "business_hours": {
-          "lundi": "non pr\u00e9cis\u00e9",
-          "mardi": "non pr\u00e9cis\u00e9",
-          "mercredi": "non pr\u00e9cis\u00e9",
-          "jeudi": "non pr\u00e9cis\u00e9",
-          "vendredi": "non pr\u00e9cis\u00e9",
-          "samedi": "non pr\u00e9cis\u00e9",
-          "dimanche": "non pr\u00e9cis\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "245204[166677]",
-      "gid": "1276"
-    },
-    {
-      "departement": "68",
       "nom": "Centre de vaccination de Ste Marie Aux Mines",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/sainte-marie-aux-mines/vaccination-covid-19-du-val-d-argent-vaccination-covid-19-sainte-marie-aux-mines",
       "location": {
@@ -450,6 +422,34 @@
       "appointment_count": 0,
       "internal_id": "248240[]",
       "gid": "1352"
+    },
+    {
+      "departement": "68",
+      "nom": "Centre de vaccination de R\u00e9guisheim",
+      "url": "https://partners.doctolib.fr/centre-de-sante/reguisheim/centre-de-vaccination-covid-19-espace-trois-coeur-reguisheim?pid=practice-166677",
+      "location": {
+        "longitude": 7.34817,
+        "latitude": 47.8935
+      },
+      "metadata": {
+        "address": "10 Rue de la For\u00eat, 68890 R\u00e9guisheim",
+        "phone_number": "+33970818161",
+        "business_hours": {
+          "lundi": "non pr\u00e9cis\u00e9",
+          "mardi": "non pr\u00e9cis\u00e9",
+          "mercredi": "non pr\u00e9cis\u00e9",
+          "jeudi": "non pr\u00e9cis\u00e9",
+          "vendredi": "non pr\u00e9cis\u00e9",
+          "samedi": "non pr\u00e9cis\u00e9",
+          "dimanche": "non pr\u00e9cis\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "245204[166677]",
+      "gid": "1276"
     },
     {
       "departement": "68",

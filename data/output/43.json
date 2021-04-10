@@ -1,36 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:52:23.062564+02:00",
-  "centres_disponibles": [
-    {
-      "departement": "43",
-      "nom": "Centre vaccination Monistrol",
-      "url": "https://partners.doctolib.fr/hopital-public/yssingeaux/centre-de-vaccination-covid-19-ch-de-yssingeaux?pid=practice-170373",
-      "location": {
-        "longitude": 4.17262,
-        "latitude": 45.2922
-      },
-      "metadata": {
-        "address": "9 Avenue de la Lib\u00e9ration, 43120 Monistrol-sur-Loire",
-        "phone_number": "+33471657708",
-        "business_hours": {
-          "lundi": "",
-          "mardi": "",
-          "mercredi": "",
-          "jeudi": "",
-          "vendredi": "",
-          "samedi": "",
-          "dimanche": ""
-        }
-      },
-      "prochain_rdv": "2021-04-24T10:40:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "244634[170373]",
-      "gid": "1392"
-    }
-  ],
+  "last_updated": "2021-04-10T18:56:10.926631+02:00",
+  "centres_disponibles": [],
   "centres_indisponibles": [
     {
       "departement": "43",
@@ -87,6 +58,34 @@
       "appointment_count": 0,
       "internal_id": "242975[170088]",
       "gid": "1391"
+    },
+    {
+      "departement": "43",
+      "nom": "Centre vaccination Monistrol",
+      "url": "https://partners.doctolib.fr/hopital-public/yssingeaux/centre-de-vaccination-covid-19-ch-de-yssingeaux?pid=practice-170373",
+      "location": {
+        "longitude": 4.17262,
+        "latitude": 45.2922
+      },
+      "metadata": {
+        "address": "9 Avenue de la Lib\u00e9ration, 43120 Monistrol-sur-Loire",
+        "phone_number": "+33471657708",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244634[170373]",
+      "gid": "1392"
     },
     {
       "departement": "43",

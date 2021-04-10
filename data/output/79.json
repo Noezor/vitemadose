@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:52:23.107592+02:00",
+  "last_updated": "2021-04-10T18:56:10.965482+02:00",
   "centres_disponibles": [
     {
       "departement": "79",
@@ -29,33 +29,6 @@
       "appointment_count": 37,
       "internal_id": "255034[174444]",
       "gid": "1411"
-    },
-    {
-      "departement": "79",
-      "nom": "centre de vaccination du SDIS - Bressuire",
-      "url": "https://partners.doctolib.fr/centre-de-sante/moncoutant-sur-sevre/centre-de-vaccination-de-moncoutant-sur-sevre?pid=practice-176955",
-      "location": {
-        "longitude": -0.597533,
-        "latitude": 46.7093
-      },
-      "metadata": {
-        "address": "1 La Morini\u00e8re, 79320 Moncoutant-sur-S\u00e8vre",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-14T16:30:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "258619[176955]",
-      "gid": "2201"
     }
   ],
   "centres_indisponibles": [
@@ -201,6 +174,33 @@
     },
     {
       "departement": "79",
+      "nom": "centre de vaccination du SDIS - Bressuire",
+      "url": "https://partners.doctolib.fr/centre-de-sante/moncoutant-sur-sevre/centre-de-vaccination-de-moncoutant-sur-sevre?pid=practice-176955",
+      "location": {
+        "longitude": -0.597533,
+        "latitude": 46.7093
+      },
+      "metadata": {
+        "address": "1 La Morini\u00e8re, 79320 Moncoutant-sur-S\u00e8vre",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "258619[176955]",
+      "gid": "2201"
+    },
+    {
+      "departement": "79",
       "nom": "Centre de vaccination du SDIS - Bassin de Bressuire",
       "url": "",
       "location": {
@@ -284,34 +284,6 @@
     },
     {
       "departement": "79",
-      "nom": "Centre de vaccination de Nueil-les-Aubiers  - CPTS du Bressuirais",
-      "url": "https://partners.doctolib.fr/centre-de-sante/moncoutant-sur-sevre/centre-de-vaccination-de-moncoutant-sur-sevre?pid=practice-177725",
-      "location": {
-        "longitude": -0.593426,
-        "latitude": 46.9501
-      },
-      "metadata": {
-        "address": "45 Avenue Saint-Hubert, 79250 Nueil-les-Aubiers",
-        "phone_number": "+33675036843",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "258619[177725]",
-      "gid": "2110"
-    },
-    {
-      "departement": "79",
       "nom": "Centre de vaccination de Cerizay - CPTS du Bressuirais",
       "url": "https://partners.doctolib.fr/centre-de-sante/moncoutant-sur-sevre/centre-de-vaccination-de-moncoutant-sur-sevre?pid=practice-177609",
       "location": {
@@ -337,6 +309,34 @@
       "appointment_count": 0,
       "internal_id": "258619[177609]",
       "gid": "2109"
+    },
+    {
+      "departement": "79",
+      "nom": "Centre de vaccination de Nueil-les-Aubiers  - CPTS du Bressuirais",
+      "url": "https://partners.doctolib.fr/centre-de-sante/moncoutant-sur-sevre/centre-de-vaccination-de-moncoutant-sur-sevre?pid=practice-177725",
+      "location": {
+        "longitude": -0.593426,
+        "latitude": 46.9501
+      },
+      "metadata": {
+        "address": "45 Avenue Saint-Hubert, 79250 Nueil-les-Aubiers",
+        "phone_number": "+33675036843",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "258619[177725]",
+      "gid": "2110"
     },
     {
       "departement": "79",

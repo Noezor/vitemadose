@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:52:23.078549+02:00",
+  "last_updated": "2021-04-10T18:56:10.941662+02:00",
   "centres_disponibles": [
     {
       "departement": "60",
@@ -21,33 +21,6 @@
       "appointment_count": 22,
       "internal_id": null,
       "gid": "ec0e1678"
-    },
-    {
-      "departement": "60",
-      "nom": "Centre de vaccination - communaut\u00e9 de commune du Liancourtois, Salle Guy Lejeune",
-      "url": "https://partners.doctolib.fr/centre-de-sante/liancourt/centre-de-vaccination-covid-liancourt-liancourt?pid=practice-179037",
-      "location": {
-        "longitude": 2.4598,
-        "latitude": 49.3292
-      },
-      "metadata": {
-        "address": "176 Avenue Louis Aragon, 60140 Liancourt",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "",
-          "dimanche": ""
-        }
-      },
-      "prochain_rdv": "2021-04-17T15:20:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "262447[179037]",
-      "gid": "2071"
     },
     {
       "departement": "60",
@@ -276,33 +249,6 @@
     },
     {
       "departement": "60",
-      "nom": "Centre de vaccination - CPTS du pays de Bray",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saint-aubin-en-bray/communaute-de-soins-du-pays-de-bray-vaccination-covid?pid=practice-164539",
-      "location": {
-        "longitude": 1.88293,
-        "latitude": 49.4274
-      },
-      "metadata": {
-        "address": "38 Rue des Clerets, 60650 Saint-Aubin-en-Bray",
-        "business_hours": {
-          "lundi": "",
-          "mardi": "",
-          "mercredi": "",
-          "jeudi": "",
-          "vendredi": "",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242573[164539]",
-      "gid": "1673"
-    },
-    {
-      "departement": "60",
       "nom": "Centre de vaccination - Mairie de Creil, centre culturel La Faiencerie \u2013 Salle de la manufacture",
       "url": "https://partners.doctolib.fr/centre-de-sante/creil/centre-de-vaccination-covid-19-mairie-de-creil?pid=practice-175283",
       "location": {
@@ -328,6 +274,33 @@
       "appointment_count": 0,
       "internal_id": "256101[175283]",
       "gid": "1675"
+    },
+    {
+      "departement": "60",
+      "nom": "Centre de vaccination - CPTS du pays de Bray",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-aubin-en-bray/communaute-de-soins-du-pays-de-bray-vaccination-covid?pid=practice-164539",
+      "location": {
+        "longitude": 1.88293,
+        "latitude": 49.4274
+      },
+      "metadata": {
+        "address": "38 Rue des Clerets, 60650 Saint-Aubin-en-Bray",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242573[164539]",
+      "gid": "1673"
     },
     {
       "departement": "60",
@@ -437,6 +410,33 @@
       "appointment_count": 0,
       "internal_id": "258482[176858]",
       "gid": "2070"
+    },
+    {
+      "departement": "60",
+      "nom": "Centre de vaccination - communaut\u00e9 de commune du Liancourtois, Salle Guy Lejeune",
+      "url": "https://partners.doctolib.fr/centre-de-sante/liancourt/centre-de-vaccination-covid-liancourt-liancourt?pid=practice-179037",
+      "location": {
+        "longitude": 2.4598,
+        "latitude": 49.3292
+      },
+      "metadata": {
+        "address": "176 Avenue Louis Aragon, 60140 Liancourt",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "262447[179037]",
+      "gid": "2071"
     },
     {
       "departement": "60",
@@ -748,33 +748,6 @@
     },
     {
       "departement": "60",
-      "nom": "CP - Centre Hospitalier de Beauvais / Centre p\u00e9nitentiaire de Beauvais",
-      "url": "",
-      "location": {
-        "longitude": 2.08755,
-        "latitude": 49.4179
-      },
-      "metadata": {
-        "address": " Rue de Pontoise, 60000 Beauvais",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1839"
-    },
-    {
-      "departement": "60",
       "nom": "CP - US2 / Centre P\u00e9nitentiaire de Liancourt",
       "url": "",
       "location": {
@@ -799,6 +772,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1840"
+    },
+    {
+      "departement": "60",
+      "nom": "CP - Centre Hospitalier de Beauvais / Centre p\u00e9nitentiaire de Beauvais",
+      "url": "",
+      "location": {
+        "longitude": 2.08755,
+        "latitude": 49.4179
+      },
+      "metadata": {
+        "address": " Rue de Pontoise, 60000 Beauvais",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1839"
     },
     {
       "departement": "60",

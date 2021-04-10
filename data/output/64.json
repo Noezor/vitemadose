@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:52:23.083491+02:00",
+  "last_updated": "2021-04-10T18:56:10.946375+02:00",
   "centres_disponibles": [
     {
       "departement": "64",
@@ -26,7 +26,7 @@
       "prochain_rdv": "2021-04-12T12:15:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 459,
+      "appointment_count": 457,
       "internal_id": "243113[]",
       "gid": "1078"
     },
@@ -85,34 +85,6 @@
       "appointment_count": 29,
       "internal_id": "256863[175744]",
       "gid": "2028"
-    },
-    {
-      "departement": "64",
-      "nom": "Maison des associations de la ville de Bayonne",
-      "url": "https://partners.doctolib.fr/centre-de-sante/bayonne/centre-de-vaccination-covid-maison-des-associations-de-la-ville-de-bayonne?pid=practice-165183%3fspeciality_id%3d5494",
-      "location": {
-        "longitude": -1.47164,
-        "latitude": 43.4841
-      },
-      "metadata": {
-        "address": "11 All\u00e9e de Glain, 64100 Bayonne",
-        "phone_number": "+33547756837",
-        "business_hours": {
-          "lundi": "08:30-18:00",
-          "mardi": "08:30-18:00",
-          "mercredi": "08:30-18:00",
-          "jeudi": "08:30-18:00",
-          "vendredi": "08:30-18:00",
-          "samedi": "08:30-18:00",
-          "dimanche": "08:30-18:00"
-        }
-      },
-      "prochain_rdv": "2021-04-12T14:26:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 36,
-      "internal_id": "243219[165183]",
-      "gid": "545"
     },
     {
       "departement": "64",
@@ -255,30 +227,31 @@
     },
     {
       "departement": "64",
-      "nom": "Centre de vaccination de Morla\u00e0s",
-      "url": "https://partners.doctolib.fr/centre-de-sante/morlaas/centre-de-vaccination-de-morlaas?pid=practice-180138",
+      "nom": "Maison des associations de la ville de Bayonne",
+      "url": "https://partners.doctolib.fr/centre-de-sante/bayonne/centre-de-vaccination-covid-maison-des-associations-de-la-ville-de-bayonne?pid=practice-165183%3fspeciality_id%3d5494",
       "location": {
-        "longitude": -0.262241,
-        "latitude": 43.3419
+        "longitude": -1.47164,
+        "latitude": 43.4841
       },
       "metadata": {
-        "address": "1 Place de la Hourquie - salle polycalente , 64160 Morla\u00e0s",
+        "address": "11 All\u00e9e de Glain, 64100 Bayonne",
+        "phone_number": "+33547756837",
         "business_hours": {
-          "lundi": "13:00-16:30",
-          "mardi": "13:00-16:30",
-          "mercredi": "13:00-16:30",
-          "jeudi": "13:00-16:30",
-          "vendredi": "13:00-16:30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
+          "lundi": "08:30-18:00",
+          "mardi": "08:30-18:00",
+          "mercredi": "08:30-18:00",
+          "jeudi": "08:30-18:00",
+          "vendredi": "08:30-18:00",
+          "samedi": "08:30-18:00",
+          "dimanche": "08:30-18:00"
         }
       },
-      "prochain_rdv": "2021-04-29T14:45:00.000+02:00",
+      "prochain_rdv": "2021-04-23T12:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "263297[180138]",
-      "gid": "2316"
+      "appointment_count": 119,
+      "internal_id": "243219[165183]",
+      "gid": "545"
     },
     {
       "departement": "64",
@@ -301,12 +274,40 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-06T16:45:00.000+02:00",
+      "prochain_rdv": "2021-05-06T17:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 38,
+      "appointment_count": 37,
       "internal_id": "243138[]",
       "gid": "472"
+    },
+    {
+      "departement": "64",
+      "nom": "Centre de vaccination de Biarritz - Casino Municipal",
+      "url": "https://partners.doctolib.fr/centre-de-sante/biarritz/centres-de-vaccination-de-la-ville-de-biarritz",
+      "location": {
+        "longitude": -1.55936,
+        "latitude": 43.4834
+      },
+      "metadata": {
+        "address": "1 Avenue Edouard VII, 64200 Biarritz",
+        "phone_number": "+33800726064",
+        "business_hours": {
+          "lundi": "12:00-16:00",
+          "mardi": "12:00-16:00",
+          "mercredi": "12:00-16:00",
+          "jeudi": "12:00-16:00",
+          "vendredi": "12:00-16:00",
+          "samedi": "12:00-16:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-07T14:40:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "243347[]",
+      "gid": "1067"
     },
     {
       "departement": "64",
@@ -328,10 +329,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-15T10:25:00.000+02:00",
+      "prochain_rdv": "2021-05-15T10:35:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 25,
+      "appointment_count": 24,
       "internal_id": "242976[167161]",
       "gid": "1733"
     }
@@ -447,34 +448,6 @@
       "appointment_count": 0,
       "internal_id": "240763[172177]",
       "gid": "183"
-    },
-    {
-      "departement": "64",
-      "nom": "Centre de vaccination de Biarritz - Casino Municipal",
-      "url": "https://partners.doctolib.fr/centre-de-sante/biarritz/centres-de-vaccination-de-la-ville-de-biarritz",
-      "location": {
-        "longitude": -1.55936,
-        "latitude": 43.4834
-      },
-      "metadata": {
-        "address": "1 Avenue Edouard VII, 64200 Biarritz",
-        "phone_number": "+33800726064",
-        "business_hours": {
-          "lundi": "12:00-16:00",
-          "mardi": "12:00-16:00",
-          "mercredi": "12:00-16:00",
-          "jeudi": "12:00-16:00",
-          "vendredi": "12:00-16:00",
-          "samedi": "12:00-16:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243347[]",
-      "gid": "1067"
     },
     {
       "departement": "64",
@@ -782,6 +755,33 @@
       "appointment_count": 0,
       "internal_id": "243178[164774]",
       "gid": "1073"
+    },
+    {
+      "departement": "64",
+      "nom": "Centre de vaccination de Morla\u00e0s",
+      "url": "https://partners.doctolib.fr/centre-de-sante/morlaas/centre-de-vaccination-de-morlaas?pid=practice-180138",
+      "location": {
+        "longitude": -0.262241,
+        "latitude": 43.3419
+      },
+      "metadata": {
+        "address": "1 Place de la Hourquie - salle polycalente , 64160 Morla\u00e0s",
+        "business_hours": {
+          "lundi": "13:00-16:30",
+          "mardi": "13:00-16:30",
+          "mercredi": "13:00-16:30",
+          "jeudi": "13:00-16:30",
+          "vendredi": "13:00-16:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "263297[180138]",
+      "gid": "2316"
     },
     {
       "departement": "64",

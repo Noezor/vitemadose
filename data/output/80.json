@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:52:23.108750+02:00",
+  "last_updated": "2021-04-10T18:56:10.966517+02:00",
   "centres_disponibles": [
     {
       "departement": "80",
@@ -60,34 +60,6 @@
     },
     {
       "departement": "80",
-      "nom": "Centre de vaccination - CPTS Espace Eug\u00e8ne Viandier",
-      "url": "https://partners.doctolib.fr/etablissement-de-prevention/saleux/centre-de-vaccination-covid-19-de-saleux?pid=practice-164882%3fspeciality_id%3d5494",
-      "location": {
-        "longitude": 2.23815,
-        "latitude": 49.8618
-      },
-      "metadata": {
-        "address": " Place Numa BUIGNET, 80480 Saleux",
-        "phone_number": "+33392043471",
-        "business_hours": {
-          "lundi": "09:00-19:00",
-          "mardi": "09:00-19:00",
-          "mercredi": "09:00-19:00",
-          "jeudi": "09:00-19:00",
-          "vendredi": "09:00-19:00",
-          "samedi": "09:00-18:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-14T13:40:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 43,
-      "internal_id": "242925[164882]",
-      "gid": "1102"
-    },
-    {
-      "departement": "80",
       "nom": "Centre de vaccination Covid-19 de Saleux",
       "url": "https://partners.doctolib.fr/centre-de-sante/saleux/centre-de-vaccination-covid-19-de-saleux",
       "location": {
@@ -113,6 +85,34 @@
       "appointment_count": 43,
       "internal_id": "242925[]",
       "gid": "d242925"
+    },
+    {
+      "departement": "80",
+      "nom": "Centre de vaccination - CPTS Espace Eug\u00e8ne Viandier",
+      "url": "https://partners.doctolib.fr/etablissement-de-prevention/saleux/centre-de-vaccination-covid-19-de-saleux?pid=practice-164882%3fspeciality_id%3d5494",
+      "location": {
+        "longitude": 2.23815,
+        "latitude": 49.8618
+      },
+      "metadata": {
+        "address": " Place Numa BUIGNET, 80480 Saleux",
+        "phone_number": "+33392043471",
+        "business_hours": {
+          "lundi": "09:00-19:00",
+          "mardi": "09:00-19:00",
+          "mercredi": "09:00-19:00",
+          "jeudi": "09:00-19:00",
+          "vendredi": "09:00-19:00",
+          "samedi": "09:00-18:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-14T13:50:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 42,
+      "internal_id": "242925[164882]",
+      "gid": "1102"
     },
     {
       "departement": "80",
@@ -339,34 +339,6 @@
     },
     {
       "departement": "80",
-      "nom": "Centre de vaccination - Ville de Poix-de-Picardie, SALLE DES F\u00caTES",
-      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/poix-de-picardie-80290/poix-de-picardie/centre-de-vaccination-de-poix-de-picardie",
-      "location": {
-        "longitude": 1.98219,
-        "latitude": 49.7744
-      },
-      "metadata": {
-        "address": " Place de la R\u00e9publique, 80290 Poix-de-Picardie",
-        "phone_number": "+33322410605",
-        "business_hours": {
-          "lundi": "10:00-13:00/14:00-17:30",
-          "mardi": "10:00-13:00/14:00-17:30",
-          "mercredi": "10:00-13:00/14:00-17:30",
-          "jeudi": "10:00-13:00/14:00-17:30",
-          "vendredi": "10:00-13:00/14:00-17:30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Keldoc",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1393"
-    },
-    {
-      "departement": "80",
       "nom": "Centre de Vaccination - Ville de Flixecourt, Salle Le Chiffon Rouge",
       "url": "https://vaccination-covid.keldoc.com/cabinet-medical/flixecourt-80420/flixecourt/centre-de-vaccination-de-flixecourt",
       "location": {
@@ -392,6 +364,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1394"
+    },
+    {
+      "departement": "80",
+      "nom": "Centre de vaccination - Ville de Poix-de-Picardie, SALLE DES F\u00caTES",
+      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/poix-de-picardie-80290/poix-de-picardie/centre-de-vaccination-de-poix-de-picardie",
+      "location": {
+        "longitude": 1.98219,
+        "latitude": 49.7744
+      },
+      "metadata": {
+        "address": " Place de la R\u00e9publique, 80290 Poix-de-Picardie",
+        "phone_number": "+33322410605",
+        "business_hours": {
+          "lundi": "10:00-13:00/14:00-17:30",
+          "mardi": "10:00-13:00/14:00-17:30",
+          "mercredi": "10:00-13:00/14:00-17:30",
+          "jeudi": "10:00-13:00/14:00-17:30",
+          "vendredi": "10:00-13:00/14:00-17:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1393"
     },
     {
       "departement": "80",
@@ -450,34 +450,6 @@
     },
     {
       "departement": "80",
-      "nom": "Centre de vaccination - Communaut\u00e9 de commune VIMEU Baie de la somme ( Salle Edith Piaf)",
-      "url": "https://partners.doctolib.fr/centre-de-sante/friville-escarbotin/centre-de-vaccination-covid-vimeu-baie-de-somme",
-      "location": {
-        "longitude": 1.54603,
-        "latitude": 50.0875
-      },
-      "metadata": {
-        "address": "56 Rue Henri Barbusse, 80130 Friville-Escarbotin",
-        "phone_number": "+33322260880",
-        "business_hours": {
-          "lundi": "08:00-12:00/14:00-18:00",
-          "mardi": "08:00-12:00/14:00-18:00",
-          "mercredi": "08:00-12:00/14:00-18:00",
-          "jeudi": "08:00-12:00/14:00-18:00",
-          "vendredi": "08:00-12:00/14:00-18:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "244306[]",
-      "gid": "1097"
-    },
-    {
-      "departement": "80",
       "nom": "Centre de vaccination - CH P\u00c9RONNE",
       "url": "https://partners.doctolib.fr/hopital-public/peronne/ch-de-peronne",
       "location": {
@@ -503,6 +475,34 @@
       "appointment_count": 0,
       "internal_id": "214420[]",
       "gid": "171"
+    },
+    {
+      "departement": "80",
+      "nom": "Centre de vaccination - Communaut\u00e9 de commune VIMEU Baie de la somme ( Salle Edith Piaf)",
+      "url": "https://partners.doctolib.fr/centre-de-sante/friville-escarbotin/centre-de-vaccination-covid-vimeu-baie-de-somme",
+      "location": {
+        "longitude": 1.54603,
+        "latitude": 50.0875
+      },
+      "metadata": {
+        "address": "56 Rue Henri Barbusse, 80130 Friville-Escarbotin",
+        "phone_number": "+33322260880",
+        "business_hours": {
+          "lundi": "08:00-12:00/14:00-18:00",
+          "mardi": "08:00-12:00/14:00-18:00",
+          "mercredi": "08:00-12:00/14:00-18:00",
+          "jeudi": "08:00-12:00/14:00-18:00",
+          "vendredi": "08:00-12:00/14:00-18:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244306[]",
+      "gid": "1097"
     },
     {
       "departement": "80",

@@ -1,7 +1,35 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:52:23.088235+02:00",
+  "last_updated": "2021-04-10T18:56:10.951313+02:00",
   "centres_disponibles": [
+    {
+      "departement": "69",
+      "nom": "Centre de vaccination - Palais des sports de Gerland /Hospices Civils de Lyon",
+      "url": "https://partners.doctolib.fr/hopital-public/lyon/palais-des-sports-gerland-hcl-vaccination-covid?pid=practice-163661",
+      "location": {
+        "longitude": 4.83026,
+        "latitude": 45.724
+      },
+      "metadata": {
+        "address": "350 Avenue Jean Jaur\u00e8s, 69007 Lyon",
+        "phone_number": "+33423101010",
+        "business_hours": {
+          "lundi": "08:30-20:00",
+          "mardi": "08:30-20:00",
+          "mercredi": "08:30-20:00",
+          "jeudi": "08:30-20:00",
+          "vendredi": "08:30-20:00",
+          "samedi": "08:30-20:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-12T09:10:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 3,
+      "internal_id": "241965[163661]",
+      "gid": "688"
+    },
     {
       "departement": "69",
       "nom": "Centre de vaccination d'Arnas - Espace sportif de l'Escale",
@@ -23,10 +51,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-18T17:00:00.000+02:00",
+      "prochain_rdv": "2021-04-18T17:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 10,
+      "appointment_count": 9,
       "internal_id": "263389[180202]",
       "gid": "2136"
     },
@@ -82,7 +110,7 @@
       "prochain_rdv": "2021-04-28T13:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 70,
+      "appointment_count": 71,
       "internal_id": "258785[176810]",
       "gid": "1693"
     },
@@ -230,33 +258,6 @@
     },
     {
       "departement": "69",
-      "nom": "CP - US SAINT QUENTIN FALLAVIER / Etablissement sp\u00e9cialis\u00e9 pour mineurs du Rh\u00f4ne",
-      "url": "",
-      "location": {
-        "longitude": 4.99769,
-        "latitude": 45.7605
-      },
-      "metadata": {
-        "address": " Rue du Rambion, 69330 Meyzieu",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1775"
-    },
-    {
-      "departement": "69",
       "nom": "Centre de vaccination de l'H\u00f4pital de Beaujeu",
       "url": "https://partners.doctolib.fr/hopital-public/belleville-en-beaujolais/centre-de-vaccination-covid-belleville",
       "location": {
@@ -282,6 +283,33 @@
       "appointment_count": 0,
       "internal_id": "242684[]",
       "gid": "726"
+    },
+    {
+      "departement": "69",
+      "nom": "CP - US SAINT QUENTIN FALLAVIER / Etablissement sp\u00e9cialis\u00e9 pour mineurs du Rh\u00f4ne",
+      "url": "",
+      "location": {
+        "longitude": 4.99769,
+        "latitude": 45.7605
+      },
+      "metadata": {
+        "address": " Rue du Rambion, 69330 Meyzieu",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1775"
     },
     {
       "departement": "69",
@@ -644,34 +672,6 @@
     },
     {
       "departement": "69",
-      "nom": "Centre de vaccination -H\u00f4pital Edouard Herriot-HCL",
-      "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-edouard-herriot-hcl-vaccination-covid?pid=practice-163794",
-      "location": {
-        "longitude": 4.88009,
-        "latitude": 45.7433
-      },
-      "metadata": {
-        "address": "5 Place d'Arsonval, 69003 Lyon",
-        "phone_number": "+33423101010",
-        "business_hours": {
-          "lundi": "08:00-20:00",
-          "mardi": "08:00-20:00",
-          "mercredi": "08:00-20:00",
-          "jeudi": "08:00-20:00",
-          "vendredi": "08:00-20:00",
-          "samedi": "08:30-17:30",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241950[163794]",
-      "gid": "222"
-    },
-    {
-      "departement": "69",
       "nom": "Centre de vaccination \u00e9ph\u00e9m\u00e8re - stade Groupama stadium",
       "url": "https://partners.doctolib.fr/centre-depistage-covid/decines-charpieu/centre-de-vaccination-covid-19-groupama-stadium?pid=practice-179930",
       "location": {
@@ -697,6 +697,34 @@
       "appointment_count": 0,
       "internal_id": "263039[179930]",
       "gid": "2263"
+    },
+    {
+      "departement": "69",
+      "nom": "Centre de vaccination -H\u00f4pital Edouard Herriot-HCL",
+      "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-edouard-herriot-hcl-vaccination-covid?pid=practice-163794",
+      "location": {
+        "longitude": 4.88009,
+        "latitude": 45.7433
+      },
+      "metadata": {
+        "address": "5 Place d'Arsonval, 69003 Lyon",
+        "phone_number": "+33423101010",
+        "business_hours": {
+          "lundi": "08:00-20:00",
+          "mardi": "08:00-20:00",
+          "mercredi": "08:00-20:00",
+          "jeudi": "08:00-20:00",
+          "vendredi": "08:00-20:00",
+          "samedi": "08:30-17:30",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241950[163794]",
+      "gid": "222"
     },
     {
       "departement": "69",
@@ -896,34 +924,6 @@
     },
     {
       "departement": "69",
-      "nom": "Centre de vaccination -H\u00f4pital Pierre Wertheimer - HCL",
-      "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-pierre-wertheimer-hcl-vaccination-covid?pid=practice-163796",
-      "location": {
-        "longitude": 4.89827,
-        "latitude": 45.7493
-      },
-      "metadata": {
-        "address": "55 Boulevard PINEL, 69500 Bron",
-        "phone_number": "+33423101010",
-        "business_hours": {
-          "lundi": "09:00-20:00",
-          "mardi": "09:00-20:00",
-          "mercredi": "09:00-20:00",
-          "jeudi": "09:00-20:00",
-          "vendredi": "09:00-20:00",
-          "samedi": "09:00-17:00",
-          "dimanche": "09:00-17:00"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241952[163796]",
-      "gid": "1181"
-    },
-    {
-      "departement": "69",
       "nom": "Centre de vaccination -H\u00f4pital Lyon sud - HCL",
       "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-lyon-sud-hcl-vaccination-covid?pid=practice-163795",
       "location": {
@@ -952,30 +952,31 @@
     },
     {
       "departement": "69",
-      "nom": "CP - VILLEFRANCHE SUR SAONE / Maison d'Arr\u00eat de Villefranche-sur-Sa\u00f4ne",
-      "url": "",
+      "nom": "Centre de vaccination -H\u00f4pital Pierre Wertheimer - HCL",
+      "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-pierre-wertheimer-hcl-vaccination-covid?pid=practice-163796",
       "location": {
-        "longitude": 4.72617,
-        "latitude": 45.9986
+        "longitude": 4.89827,
+        "latitude": 45.7493
       },
       "metadata": {
-        "address": " Rue Lavoisier, 69400 Villefranche-sur-Sa\u00f4ne",
+        "address": "55 Boulevard PINEL, 69500 Bron",
+        "phone_number": "+33423101010",
         "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
+          "lundi": "09:00-20:00",
+          "mardi": "09:00-20:00",
+          "mercredi": "09:00-20:00",
+          "jeudi": "09:00-20:00",
+          "vendredi": "09:00-20:00",
+          "samedi": "09:00-17:00",
+          "dimanche": "09:00-17:00"
         }
       },
       "prochain_rdv": null,
-      "plateforme": "Autre",
+      "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1778"
+      "internal_id": "241952[163796]",
+      "gid": "1181"
     },
     {
       "departement": "69",
@@ -1033,6 +1034,33 @@
     },
     {
       "departement": "69",
+      "nom": "CP - VILLEFRANCHE SUR SAONE / Maison d'Arr\u00eat de Villefranche-sur-Sa\u00f4ne",
+      "url": "",
+      "location": {
+        "longitude": 4.72617,
+        "latitude": 45.9986
+      },
+      "metadata": {
+        "address": " Rue Lavoisier, 69400 Villefranche-sur-Sa\u00f4ne",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1778"
+    },
+    {
+      "departement": "69",
       "nom": "Equipe mobile M\u00e9trop\u00f4le de Lyon",
       "url": "",
       "location": {
@@ -1057,34 +1085,6 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "2418"
-    },
-    {
-      "departement": "69",
-      "nom": "Centre de vaccination - Palais des sports de Gerland /Hospices Civils de Lyon",
-      "url": "https://partners.doctolib.fr/hopital-public/lyon/palais-des-sports-gerland-hcl-vaccination-covid?pid=practice-163661",
-      "location": {
-        "longitude": 4.83026,
-        "latitude": 45.724
-      },
-      "metadata": {
-        "address": "350 Avenue Jean Jaur\u00e8s, 69007 Lyon",
-        "phone_number": "+33423101010",
-        "business_hours": {
-          "lundi": "08:30-20:00",
-          "mardi": "08:30-20:00",
-          "mercredi": "08:30-20:00",
-          "jeudi": "08:30-20:00",
-          "vendredi": "08:30-20:00",
-          "samedi": "08:30-20:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241965[163661]",
-      "gid": "688"
     },
     {
       "departement": "69",

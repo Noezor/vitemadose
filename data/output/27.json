@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:52:23.043225+02:00",
+  "last_updated": "2021-04-10T18:56:10.908802+02:00",
   "centres_disponibles": [
     {
       "departement": "27",
@@ -87,34 +87,6 @@
     },
     {
       "departement": "27",
-      "nom": "VERNON Ancien coll\u00e8ge C\u00e9sar Lemaitre annexe CH",
-      "url": "https://partners.doctolib.fr/hopital-public/evreux/ch-eure-seine-centre-de-vaccination-covid-vacci-covid-27?pid=practice-174767",
-      "location": {
-        "longitude": 1.48048,
-        "latitude": 49.0939
-      },
-      "metadata": {
-        "address": "8 Rue Saint Lazare (ancien coll\u00e8ge C\u00e9sar Lemaitre), 27200 Vernon",
-        "phone_number": "+33279461156",
-        "business_hours": {
-          "lundi": "",
-          "mardi": "",
-          "mercredi": "",
-          "jeudi": "",
-          "vendredi": "",
-          "samedi": "",
-          "dimanche": ""
-        }
-      },
-      "prochain_rdv": "2021-05-05T15:00:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "240902[174767]",
-      "gid": "1650"
-    },
-    {
-      "departement": "27",
       "nom": "CH Verneuil",
       "url": "https://partners.doctolib.fr/hopital-public/evreux/ch-eure-seine-centre-de-vaccination-covid-vacci-covid-27?pid=practice-162970&%3fspeciality_id=5494",
       "location": {
@@ -140,6 +112,34 @@
       "appointment_count": 119,
       "internal_id": "240902[162970]",
       "gid": "130"
+    },
+    {
+      "departement": "27",
+      "nom": "VERNON Ancien coll\u00e8ge C\u00e9sar Lemaitre annexe CH",
+      "url": "https://partners.doctolib.fr/hopital-public/evreux/ch-eure-seine-centre-de-vaccination-covid-vacci-covid-27?pid=practice-174767",
+      "location": {
+        "longitude": 1.48048,
+        "latitude": 49.0939
+      },
+      "metadata": {
+        "address": "8 Rue Saint Lazare (ancien coll\u00e8ge C\u00e9sar Lemaitre), 27200 Vernon",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": "2021-05-12T12:10:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 19,
+      "internal_id": "240902[174767]",
+      "gid": "1650"
     }
   ],
   "centres_indisponibles": [

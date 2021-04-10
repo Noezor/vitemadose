@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:52:23.106127+02:00",
+  "last_updated": "2021-04-10T18:56:10.964098+02:00",
   "centres_disponibles": [
     {
       "departement": "78",
@@ -23,10 +23,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-12T09:50:00.000+02:00",
+      "prochain_rdv": "2021-04-12T09:35:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 326,
+      "appointment_count": 329,
       "internal_id": "243464[]",
       "gid": "966"
     },
@@ -113,34 +113,6 @@
       "appointment_count": 9,
       "internal_id": "241073[162774-163036-162755-162588-162589-162590-162621-162600-162486-165171-165172-166972]",
       "gid": "426"
-    },
-    {
-      "departement": "78",
-      "nom": "Pharmacie Des Templiers",
-      "url": "https://partners.doctolib.fr/pharmacie/elancourt/pharmacie-des-templiers",
-      "location": {
-        "longitude": 1.9702924,
-        "latitude": 48.7706362
-      },
-      "metadata": {
-        "address": "Place Philippe de Plessis, 78990 \u00c9lancourt",
-        "phone_number": "01 34 82 95 31",
-        "business_hours": {
-          "lundi": "09:00-19:45",
-          "mardi": "09:00-19:45",
-          "mercredi": "09:00-19:45",
-          "jeudi": "09:00-19:45",
-          "vendredi": "09:00-19:45",
-          "samedi": "09:00-12:30, 14:30-19:45, 20:00-22:00",
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": "2021-04-16T16:30:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "drugstore",
-      "appointment_count": 2,
-      "internal_id": "256234[]",
-      "gid": "d256234"
     },
     {
       "departement": "78",
@@ -561,14 +533,14 @@
     },
     {
       "departement": "78",
-      "nom": "MC - USMP de Poissy / Maison Centrale de Poissy",
+      "nom": "MA - US MA de Bois d'Arcy / Maison d'Arr\u00eat de Versailles",
       "url": "",
       "location": {
-        "longitude": 2.03857,
-        "latitude": 48.9287
+        "longitude": 2.13489,
+        "latitude": 48.8005
       },
       "metadata": {
-        "address": "17 Rue de l?Abbaye, 78300 Poissy",
+        "address": "28 Avenue de Paris, 78000 Versailles",
         "business_hours": {
           "lundi": "Ferm\u00e9 au public",
           "mardi": "Ferm\u00e9 au public",
@@ -584,7 +556,7 @@
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "1852"
+      "gid": "1855"
     },
     {
       "departement": "78",
@@ -615,14 +587,14 @@
     },
     {
       "departement": "78",
-      "nom": "MA - US MA de Bois d'Arcy / Maison d'Arr\u00eat de Versailles",
+      "nom": "MC - USMP de Poissy / Maison Centrale de Poissy",
       "url": "",
       "location": {
-        "longitude": 2.13489,
-        "latitude": 48.8005
+        "longitude": 2.03857,
+        "latitude": 48.9287
       },
       "metadata": {
-        "address": "28 Avenue de Paris, 78000 Versailles",
+        "address": "17 Rue de l?Abbaye, 78300 Poissy",
         "business_hours": {
           "lundi": "Ferm\u00e9 au public",
           "mardi": "Ferm\u00e9 au public",
@@ -638,7 +610,35 @@
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "1855"
+      "gid": "1852"
+    },
+    {
+      "departement": "78",
+      "nom": "Centre de vaccination de Sartrouville",
+      "url": "https://partners.doctolib.fr/centre-de-sante/sartrouville/centre-de-vaccination-covid-19-de-sartrouville?pid=practice-165170",
+      "location": {
+        "longitude": 2.1631,
+        "latitude": 48.9359
+      },
+      "metadata": {
+        "address": "96 Rue Louise Michel, 78500 Sartrouville",
+        "phone_number": "0800101078",
+        "business_hours": {
+          "lundi": "14:00-18:00",
+          "mardi": "14:00-18:00",
+          "mercredi": "14:00-18:00",
+          "jeudi": "14:00-18:00",
+          "vendredi": "14:00-18:00",
+          "samedi": "14:00-18:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243204[165170]",
+      "gid": "1651"
     },
     {
       "departement": "78",
@@ -722,34 +722,6 @@
       "appointment_count": 0,
       "internal_id": "260818[178074]",
       "gid": "2113"
-    },
-    {
-      "departement": "78",
-      "nom": "Centre de vaccination de Sartrouville",
-      "url": "https://partners.doctolib.fr/centre-de-sante/sartrouville/centre-de-vaccination-covid-19-de-sartrouville?pid=practice-165170",
-      "location": {
-        "longitude": 2.1631,
-        "latitude": 48.9359
-      },
-      "metadata": {
-        "address": "96 Rue Louise Michel, 78500 Sartrouville",
-        "phone_number": "0800101078",
-        "business_hours": {
-          "lundi": "14:00-18:00",
-          "mardi": "14:00-18:00",
-          "mercredi": "14:00-18:00",
-          "jeudi": "14:00-18:00",
-          "vendredi": "14:00-18:00",
-          "samedi": "14:00-18:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243204[165170]",
-      "gid": "1651"
     },
     {
       "departement": "78",
@@ -993,6 +965,34 @@
       "appointment_count": 0,
       "internal_id": "253974[]",
       "gid": "d253974"
+    },
+    {
+      "departement": "78",
+      "nom": "Pharmacie Des Templiers",
+      "url": "https://partners.doctolib.fr/pharmacie/elancourt/pharmacie-des-templiers",
+      "location": {
+        "longitude": 1.9702924,
+        "latitude": 48.7706362
+      },
+      "metadata": {
+        "address": "Place Philippe de Plessis, 78990 \u00c9lancourt",
+        "phone_number": "01 34 82 95 31",
+        "business_hours": {
+          "lundi": "09:00-19:45",
+          "mardi": "09:00-19:45",
+          "mercredi": "09:00-19:45",
+          "jeudi": "09:00-19:45",
+          "vendredi": "09:00-19:45",
+          "samedi": "09:00-12:30, 14:30-19:45, 20:00-22:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "256234[]",
+      "gid": "d256234"
     },
     {
       "departement": "78",

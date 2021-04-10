@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:52:23.104696+02:00",
+  "last_updated": "2021-04-10T18:56:10.962700+02:00",
   "centres_disponibles": [
     {
       "departement": "77",
@@ -88,33 +88,6 @@
     },
     {
       "departement": "77",
-      "nom": "CHSSM-Site de Nemours",
-      "url": "",
-      "location": {
-        "longitude": 2.70465,
-        "latitude": 48.262
-      },
-      "metadata": {
-        "address": "15 Rue des Chaudins, 77140 Nemours",
-        "business_hours": {
-          "lundi": "8H30-17H30",
-          "mardi": "8H30-17H30",
-          "mercredi": "8H30-17H30",
-          "jeudi": "8H30-17H30",
-          "vendredi": "8H30-17H30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1474"
-    },
-    {
-      "departement": "77",
       "nom": "GHEF-Site de Jossigny",
       "url": "https://partners.doctolib.fr/hopital-public/meaux/ghef-centre-de-vaccination-covid-reserve-aux-professionnels-de-sante-de-ville?pid=practice-162172",
       "location": {
@@ -139,6 +112,33 @@
       "appointment_count": 0,
       "internal_id": "241093[162172]",
       "gid": "1472"
+    },
+    {
+      "departement": "77",
+      "nom": "CHSSM-Site de Nemours",
+      "url": "",
+      "location": {
+        "longitude": 2.70465,
+        "latitude": 48.262
+      },
+      "metadata": {
+        "address": "15 Rue des Chaudins, 77140 Nemours",
+        "business_hours": {
+          "lundi": "8H30-17H30",
+          "mardi": "8H30-17H30",
+          "mercredi": "8H30-17H30",
+          "jeudi": "8H30-17H30",
+          "vendredi": "8H30-17H30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1474"
     },
     {
       "departement": "77",

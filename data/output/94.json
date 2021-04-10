@@ -1,7 +1,35 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:52:23.125848+02:00",
+  "last_updated": "2021-04-10T18:56:10.980722+02:00",
   "centres_disponibles": [
+    {
+      "departement": "94",
+      "nom": "GRANDE PHARMACIE CENTRE COMMERCIAL VACHE NOIRE",
+      "url": "https://partners.doctolib.fr/pharmacie/arcueil/grande-pharmacie-centre-commercial-vache-noire",
+      "location": {
+        "longitude": 2.3262021,
+        "latitude": 48.8096739
+      },
+      "metadata": {
+        "address": "Place de la Vache Noire, 94110 Arcueil",
+        "phone_number": "01 42 53 58 10",
+        "business_hours": {
+          "lundi": "09:00-19:00",
+          "mardi": "09:00-19:00",
+          "mercredi": "09:00-19:00",
+          "jeudi": "09:00-19:00",
+          "vendredi": "09:00-19:00",
+          "samedi": "09:00-19:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-12T10:05:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 1,
+      "internal_id": "261577[]",
+      "gid": "d261577"
+    },
     {
       "departement": "94",
       "nom": "CENTRE NOGENT SUR MARNE",
@@ -23,10 +51,10 @@
           "dimanche": "08:00-20:00"
         }
       },
-      "prochain_rdv": "2021-04-12T18:40:00.000+02:00",
+      "prochain_rdv": "2021-04-12T18:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 71,
+      "appointment_count": 69,
       "internal_id": "186028[123104-180909-182271-168315]",
       "gid": "328"
     },
@@ -57,34 +85,6 @@
       "appointment_count": 63,
       "internal_id": null,
       "gid": "321"
-    },
-    {
-      "departement": "94",
-      "nom": "CENTRE DE VACCINATION AMBULATOIRE ALFORTVILLE",
-      "url": "https://partners.doctolib.fr/centre-de-sante/alfortville/centre-de-vaccination-ambulatoire-d-alfortville-reserve-aux-professionnels-de-sante",
-      "location": {
-        "longitude": 2.41793,
-        "latitude": 48.8053
-      },
-      "metadata": {
-        "address": "\u00e9- rue Joseph Francheschi, 94140 Alfortville",
-        "phone_number": "+33629796769",
-        "business_hours": {
-          "lundi": "9h30-12h30 / 13h30-17h30",
-          "mardi": "9h30-12h30 / 13h30-17h30",
-          "mercredi": "9h30-12h30 / 13h30-17h30",
-          "jeudi": "9h30-12h30 / 13h30-17h30",
-          "vendredi": "9h30-12h30 / 13h30-17h30",
-          "samedi": "9h30-12h30 / 13h30-17h30",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-17T15:30:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "242887[]",
-      "gid": "324"
     },
     {
       "departement": "94",
@@ -172,31 +172,31 @@
     },
     {
       "departement": "94",
-      "nom": "GRANDE PHARMACIE CENTRE COMMERCIAL VACHE NOIRE",
-      "url": "https://partners.doctolib.fr/pharmacie/arcueil/grande-pharmacie-centre-commercial-vache-noire",
+      "nom": "CENTRE DE VACCINATION AMBULATOIRE ALFORTVILLE",
+      "url": "https://partners.doctolib.fr/centre-de-sante/alfortville/centre-de-vaccination-ambulatoire-d-alfortville-reserve-aux-professionnels-de-sante",
       "location": {
-        "longitude": 2.3262021,
-        "latitude": 48.8096739
+        "longitude": 2.41793,
+        "latitude": 48.8053
       },
       "metadata": {
-        "address": "Place de la Vache Noire, 94110 Arcueil",
-        "phone_number": "01 42 53 58 10",
+        "address": "\u00e9- rue Joseph Francheschi, 94140 Alfortville",
+        "phone_number": "+33629796769",
         "business_hours": {
-          "lundi": "09:00-19:00",
-          "mardi": "09:00-19:00",
-          "mercredi": "09:00-19:00",
-          "jeudi": "09:00-19:00",
-          "vendredi": "09:00-19:00",
-          "samedi": "09:00-19:00",
-          "dimanche": null
+          "lundi": "9h30-12h30 / 13h30-17h30",
+          "mardi": "9h30-12h30 / 13h30-17h30",
+          "mercredi": "9h30-12h30 / 13h30-17h30",
+          "jeudi": "9h30-12h30 / 13h30-17h30",
+          "vendredi": "9h30-12h30 / 13h30-17h30",
+          "samedi": "9h30-12h30 / 13h30-17h30",
+          "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-26T09:55:00.000+02:00",
+      "prochain_rdv": "2021-05-18T12:00:00.000+02:00",
       "plateforme": "Doctolib",
-      "type": "drugstore",
-      "appointment_count": 5,
-      "internal_id": "261577[]",
-      "gid": "d261577"
+      "type": "vaccination-center",
+      "appointment_count": 23,
+      "internal_id": "242887[]",
+      "gid": "324"
     }
   ],
   "centres_indisponibles": [
@@ -479,34 +479,6 @@
     },
     {
       "departement": "94",
-      "nom": "Centre de Vaccination ambulatoire de Choisy-le-Roi",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/choisy-le-roi/centre-de-vaccination-covid-19-choisy-le-roi?pid=practice-175848",
-      "location": {
-        "longitude": 2.41031,
-        "latitude": 48.7641
-      },
-      "metadata": {
-        "address": "13 Avenue Anatole France, 94600 Choisy-le-Roi",
-        "phone_number": "+33801902611 ",
-        "business_hours": {
-          "lundi": "13H-17H",
-          "mardi": "13H-17H",
-          "mercredi": "13H-17H",
-          "jeudi": "13H-17H",
-          "vendredi": "13H-17H",
-          "samedi": "13H-17H",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "256976[175848]",
-      "gid": "1720"
-    },
-    {
-      "departement": "94",
       "nom": "Centre de Vaccination Limeil La Boite \u00e0 Clous",
       "url": "",
       "location": {
@@ -532,6 +504,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1696"
+    },
+    {
+      "departement": "94",
+      "nom": "Centre de Vaccination ambulatoire de Choisy-le-Roi",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/choisy-le-roi/centre-de-vaccination-covid-19-choisy-le-roi?pid=practice-175848",
+      "location": {
+        "longitude": 2.41031,
+        "latitude": 48.7641
+      },
+      "metadata": {
+        "address": "13 Avenue Anatole France, 94600 Choisy-le-Roi",
+        "phone_number": "+33801902611 ",
+        "business_hours": {
+          "lundi": "13H-17H",
+          "mardi": "13H-17H",
+          "mercredi": "13H-17H",
+          "jeudi": "13H-17H",
+          "vendredi": "13H-17H",
+          "samedi": "13H-17H",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "256976[175848]",
+      "gid": "1720"
     },
     {
       "departement": "94",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:52:23.059179+02:00",
+  "last_updated": "2021-04-10T18:56:10.923531+02:00",
   "centres_disponibles": [
     {
       "departement": "40",
@@ -28,34 +28,6 @@
       "appointment_count": 12,
       "internal_id": null,
       "gid": "1054"
-    },
-    {
-      "departement": "40",
-      "nom": "Centre de vaccination du CH de Dax - H\u00f4pital Thermal",
-      "url": "https://partners.doctolib.fr/hopital-public/dax/centre-de-vaccination-reserve-aux-professionnels-de-sante-ch-de-dax-en-preparation",
-      "location": {
-        "longitude": -1.05077,
-        "latitude": 43.7059
-      },
-      "metadata": {
-        "address": " Rue Saint Eutrope, 40100 Dax",
-        "phone_number": "05 58 35 24 99",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "8h30-17h30",
-          "mercredi": "8h30-17h30",
-          "jeudi": "8h30-17h30",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-13T13:40:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 7,
-      "internal_id": "240773[]",
-      "gid": "156"
     },
     {
       "departement": "40",
@@ -470,6 +442,34 @@
       "appointment_count": 0,
       "internal_id": "246984[168037]",
       "gid": "1325"
+    },
+    {
+      "departement": "40",
+      "nom": "Centre de vaccination du CH de Dax - H\u00f4pital Thermal",
+      "url": "https://partners.doctolib.fr/hopital-public/dax/centre-de-vaccination-reserve-aux-professionnels-de-sante-ch-de-dax-en-preparation",
+      "location": {
+        "longitude": -1.05077,
+        "latitude": 43.7059
+      },
+      "metadata": {
+        "address": " Rue Saint Eutrope, 40100 Dax",
+        "phone_number": "05 58 35 24 99",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "8h30-17h30",
+          "mercredi": "8h30-17h30",
+          "jeudi": "8h30-17h30",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240773[]",
+      "gid": "156"
     },
     {
       "departement": "40",

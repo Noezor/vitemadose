@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:52:23.127657+02:00",
+  "last_updated": "2021-04-10T18:56:10.982120+02:00",
   "centres_disponibles": [
     {
       "departement": "95",
@@ -26,37 +26,37 @@
       "prochain_rdv": "2021-04-11T09:25:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 162,
+      "appointment_count": 158,
       "internal_id": "240550[162701]",
       "gid": "512"
     },
     {
       "departement": "95",
-      "nom": "Centre Hospitalier de Gonesse",
-      "url": "https://partners.doctolib.fr/hopital-public/gonesse/centre-de-vaccinations-covid-ch-gonesse",
+      "nom": "Gymnase Nelson Mandela",
+      "url": "https://partners.doctolib.fr/centre-de-sante/goussainville/centre-de-vaccination-ville-de-goussainville",
       "location": {
-        "longitude": 2.45309,
-        "latitude": 48.9941
+        "longitude": 2.45531,
+        "latitude": 49.0296
       },
       "metadata": {
-        "address": "2 Boulevard du 19 Mars 1962, 95500 Gonesse",
-        "phone_number": "01.82.32.05.96",
+        "address": "21 Avenue de Montmorency, 95190 Goussainville",
+        "phone_number": "01.39.94.61.00",
         "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
+          "lundi": "9H-18h",
+          "mardi": "9H-18h",
+          "mercredi": "9H-18h",
+          "jeudi": "9H-18h",
+          "vendredi": "9H-18h",
+          "samedi": "9H-18h",
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-12T10:40:00.000+02:00",
+      "prochain_rdv": "2021-04-12T09:55:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 1,
-      "internal_id": "242589[]",
-      "gid": "326"
+      "internal_id": "242446[]",
+      "gid": "670"
     },
     {
       "departement": "95",
@@ -79,10 +79,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-12T11:10:00.000000+0200",
+      "prochain_rdv": "2021-04-12T11:15:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 17,
+      "appointment_count": 16,
       "internal_id": null,
       "gid": "827"
     },
@@ -112,6 +112,26 @@
       "appointment_count": 67,
       "internal_id": "265979[]",
       "gid": "d265979"
+    },
+    {
+      "departement": "95",
+      "nom": "Olivier Sanchez",
+      "url": "https://app.ordoclic.fr/app/pharmacie/olivier-sanchez-la-frette-sur-seine",
+      "location": {
+        "longitude": 2.1826285,
+        "latitude": 48.980173
+      },
+      "metadata": {
+        "address": "123 TER BD DE PONTOISE, 95530 LA FRETTE SUR SEINE",
+        "phone_number": "+33134508844",
+        "business_hours": null
+      },
+      "prochain_rdv": "2021-04-13T09:40:00+00:00",
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 25,
+      "internal_id": null,
+      "gid": "91dc764f"
     },
     {
       "departement": "95",
@@ -277,6 +297,34 @@
     },
     {
       "departement": "95",
+      "nom": "Centre Hospitalier de Gonesse",
+      "url": "https://partners.doctolib.fr/hopital-public/gonesse/centre-de-vaccinations-covid-ch-gonesse",
+      "location": {
+        "longitude": 2.45309,
+        "latitude": 48.9941
+      },
+      "metadata": {
+        "address": "2 Boulevard du 19 Mars 1962, 95500 Gonesse",
+        "phone_number": "01.82.32.05.96",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242589[]",
+      "gid": "326"
+    },
+    {
+      "departement": "95",
       "nom": "Centre de vaccination de Garges-l\u00e8s-Gonesse",
       "url": "",
       "location": {
@@ -332,33 +380,6 @@
     },
     {
       "departement": "95",
-      "nom": "Centre d\u00e9partemental de d\u00e9pistage et de soins - site d'Argenteuil",
-      "url": "",
-      "location": {
-        "longitude": 2.22773,
-        "latitude": 48.9523
-      },
-      "metadata": {
-        "address": "11 rue Jean Lurcat, 95100 Argenteuil",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1727"
-    },
-    {
-      "departement": "95",
       "nom": "EMV Domicile COORDINOV",
       "url": "",
       "location": {
@@ -383,6 +404,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1746"
+    },
+    {
+      "departement": "95",
+      "nom": "Centre d\u00e9partemental de d\u00e9pistage et de soins - site d'Argenteuil",
+      "url": "",
+      "location": {
+        "longitude": 2.22773,
+        "latitude": 48.9523
+      },
+      "metadata": {
+        "address": "11 rue Jean Lurcat, 95100 Argenteuil",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1727"
     },
     {
       "departement": "95",
@@ -440,6 +488,33 @@
     },
     {
       "departement": "95",
+      "nom": "Centre d\u00e9partemental de d\u00e9pistage et de soins - site de Garges-l\u00e8s-Gonesse",
+      "url": "",
+      "location": {
+        "longitude": 2.39201,
+        "latitude": 48.9766
+      },
+      "metadata": {
+        "address": "4 Avenue Anatole France, 95140 Garges-l\u00e8s-Gonesse",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1729"
+    },
+    {
+      "departement": "95",
       "nom": "Centre de vaccination territorial Centre Val d'Oise",
       "url": "https://vaccination-covid.keldoc.com/cabinet-medical/montmorency-95160/vaccination-plaine-vallee-montmorency-salle-des-fetes?category=-1&cabinet=16607&specialty=496",
       "location": {
@@ -465,33 +540,6 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "824"
-    },
-    {
-      "departement": "95",
-      "nom": "Centre d\u00e9partemental de d\u00e9pistage et de soins - site de Garges-l\u00e8s-Gonesse",
-      "url": "",
-      "location": {
-        "longitude": 2.39201,
-        "latitude": 48.9766
-      },
-      "metadata": {
-        "address": "4 Avenue Anatole France, 95140 Garges-l\u00e8s-Gonesse",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1729"
     },
     {
       "departement": "95",
@@ -549,33 +597,6 @@
     },
     {
       "departement": "95",
-      "nom": "EMV CV territorial du Haut Val d'Oise",
-      "url": "",
-      "location": {
-        "longitude": 2.22334,
-        "latitude": 49.1142
-      },
-      "metadata": {
-        "address": "9 Rue Chantepie Mancier, 95290 L'Isle-Adam",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1558"
-    },
-    {
-      "departement": "95",
       "nom": "Centre de vaccination territorial du Haut Val d'Oise",
       "url": "https://partners.doctolib.fr/espic-etablissement-de-sante-prive-d-interet-collectif/l'isle-adam/centre-de-vaccination-covid19-de-l-isle-adam-hopital-chantepie-mancier",
       "location": {
@@ -601,6 +622,33 @@
       "appointment_count": 0,
       "internal_id": "242478[]",
       "gid": "855"
+    },
+    {
+      "departement": "95",
+      "nom": "EMV CV territorial du Haut Val d'Oise",
+      "url": "",
+      "location": {
+        "longitude": 2.22334,
+        "latitude": 49.1142
+      },
+      "metadata": {
+        "address": "9 Rue Chantepie Mancier, 95290 L'Isle-Adam",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1558"
     },
     {
       "departement": "95",
@@ -932,6 +980,34 @@
     },
     {
       "departement": "95",
+      "nom": "Centre de vaccination Linandes-Cordeliers/site des Cordeliers",
+      "url": "https://partners.doctolib.fr/centre-de-sante/cergy/centre-de-vaccination-cergy-pontoise?pid=practice-164245",
+      "location": {
+        "longitude": 2.09486,
+        "latitude": 49.0573
+      },
+      "metadata": {
+        "address": "2 Rue Rodin, 95300 Pontoise",
+        "phone_number": "01.34.43.34.44",
+        "business_hours": {
+          "lundi": "13h30-16h30",
+          "mardi": "13h30-16h30",
+          "mercredi": "13h30-16h30",
+          "jeudi": "13h30-16h30",
+          "vendredi": "13h30-16h30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242343[164245]",
+      "gid": "857"
+    },
+    {
+      "departement": "95",
       "nom": "Centre de vaccination PMI Garges-l\u00e8s-Gonesse",
       "url": "",
       "location": {
@@ -983,34 +1059,6 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "2380"
-    },
-    {
-      "departement": "95",
-      "nom": "Centre de vaccination Linandes-Cordeliers/site des Cordeliers",
-      "url": "https://partners.doctolib.fr/centre-de-sante/cergy/centre-de-vaccination-cergy-pontoise?pid=practice-164245",
-      "location": {
-        "longitude": 2.09486,
-        "latitude": 49.0573
-      },
-      "metadata": {
-        "address": "2 Rue Rodin, 95300 Pontoise",
-        "phone_number": "01.34.43.34.44",
-        "business_hours": {
-          "lundi": "13h30-16h30",
-          "mardi": "13h30-16h30",
-          "mercredi": "13h30-16h30",
-          "jeudi": "13h30-16h30",
-          "vendredi": "13h30-16h30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242343[164245]",
-      "gid": "857"
     },
     {
       "departement": "95",
@@ -1125,34 +1173,6 @@
     },
     {
       "departement": "95",
-      "nom": "Gymnase Nelson Mandela",
-      "url": "https://partners.doctolib.fr/centre-de-sante/goussainville/centre-de-vaccination-ville-de-goussainville",
-      "location": {
-        "longitude": 2.45531,
-        "latitude": 49.0296
-      },
-      "metadata": {
-        "address": "21 Avenue de Montmorency, 95190 Goussainville",
-        "phone_number": "01.39.94.61.00",
-        "business_hours": {
-          "lundi": "9H-18h",
-          "mardi": "9H-18h",
-          "mercredi": "9H-18h",
-          "jeudi": "9H-18h",
-          "vendredi": "9H-18h",
-          "samedi": "9H-18h",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242446[]",
-      "gid": "670"
-    },
-    {
-      "departement": "95",
       "nom": "Centre de vaccination departemental de Jouy-le-moutier",
       "url": "",
       "location": {
@@ -1259,26 +1279,6 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "2417"
-    },
-    {
-      "departement": "95",
-      "nom": "Olivier Sanchez",
-      "url": "https://app.ordoclic.fr/app/pharmacie/olivier-sanchez-la-frette-sur-seine",
-      "location": {
-        "longitude": 2.1826285,
-        "latitude": 48.980173
-      },
-      "metadata": {
-        "address": "123 TER BD DE PONTOISE, 95530 LA FRETTE SUR SEINE",
-        "phone_number": "+33134508844",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "91dc764f"
     },
     {
       "departement": "95",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:52:23.035804+02:00",
+  "last_updated": "2021-04-10T18:56:10.901831+02:00",
   "centres_disponibles": [
     {
       "departement": "18",
@@ -51,10 +51,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-20T16:10:00.000+02:00",
+      "prochain_rdv": "2021-04-20T16:15:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 25,
+      "appointment_count": 24,
       "internal_id": "242670[164576]",
       "gid": "18"
     },
@@ -79,7 +79,7 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-23T16:40:00.000+02:00",
+      "prochain_rdv": "2021-04-23T16:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 31,
@@ -109,7 +109,7 @@
       "prochain_rdv": "2021-04-24T12:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 56,
+      "appointment_count": 55,
       "internal_id": "258100[]",
       "gid": "d258100"
     },
@@ -604,33 +604,6 @@
     },
     {
       "departement": "18",
-      "nom": "CV \u00e9ph\u00e9m\u00e8re - Ligni\u00e8res",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/lignieres/centre-covid-19-mairie-de-lignieres?pid=practice-170325",
-      "location": {
-        "longitude": 2.17611,
-        "latitude": 46.7507
-      },
-      "metadata": {
-        "address": "2 Rue du Docteur Bonnet, 18160 Ligni\u00e8res",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "249991[170325]",
-      "gid": "1367"
-    },
-    {
-      "departement": "18",
       "nom": "CV \u00e9ph\u00e9m\u00e8re Henrichemont",
       "url": "",
       "location": {
@@ -655,6 +628,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1362"
+    },
+    {
+      "departement": "18",
+      "nom": "CV \u00e9ph\u00e9m\u00e8re - Ligni\u00e8res",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/lignieres/centre-covid-19-mairie-de-lignieres?pid=practice-170325",
+      "location": {
+        "longitude": 2.17611,
+        "latitude": 46.7507
+      },
+      "metadata": {
+        "address": "2 Rue du Docteur Bonnet, 18160 Ligni\u00e8res",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "249991[170325]",
+      "gid": "1367"
     },
     {
       "departement": "18",

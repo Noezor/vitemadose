@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:52:23.054882+02:00",
+  "last_updated": "2021-04-10T18:56:10.919151+02:00",
   "centres_disponibles": [
     {
       "departement": "35",
@@ -106,10 +106,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-26T08:50:00.000+02:00",
+      "prochain_rdv": "2021-04-26T09:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 187,
+      "appointment_count": 186,
       "internal_id": "241740[171052]",
       "gid": "412"
     },
@@ -165,7 +165,7 @@
       "prochain_rdv": "2021-04-29T16:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 7,
+      "appointment_count": 6,
       "internal_id": "241899[]",
       "gid": "422"
     },
@@ -190,10 +190,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-11T16:30:00.000000+0200",
+      "prochain_rdv": "2021-05-11T16:35:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 2,
+      "appointment_count": 1,
       "internal_id": null,
       "gid": "1439"
     },
@@ -620,33 +620,6 @@
     },
     {
       "departement": "35",
-      "nom": "CP - UCSA - Centre p\u00e9nitentiaire des Hommes Rennes-Vezin / Centre p\u00e9nitentiaire de Rennes-V\u00e9zin le Coquet",
-      "url": "",
-      "location": {
-        "longitude": -1.73923,
-        "latitude": 48.1074
-      },
-      "metadata": {
-        "address": " Rue du Petit Pr\u00e9, 35132 Vezin-le-Coquet",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1795"
-    },
-    {
-      "departement": "35",
       "nom": "CP - UCSA  Centre P\u00e9nitentiaire des Femmes - Rennes / Centre p\u00e9nitentiaire de Rennes-V\u00e9zin le Coquet",
       "url": "",
       "location": {
@@ -671,6 +644,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1796"
+    },
+    {
+      "departement": "35",
+      "nom": "CP - UCSA - Centre p\u00e9nitentiaire des Hommes Rennes-Vezin / Centre p\u00e9nitentiaire de Rennes-V\u00e9zin le Coquet",
+      "url": "",
+      "location": {
+        "longitude": -1.73923,
+        "latitude": 48.1074
+      },
+      "metadata": {
+        "address": " Rue du Petit Pr\u00e9, 35132 Vezin-le-Coquet",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1795"
     },
     {
       "departement": "35",

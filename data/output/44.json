@@ -1,7 +1,62 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:52:23.063081+02:00",
+  "last_updated": "2021-04-10T18:56:10.926947+02:00",
   "centres_disponibles": [
+    {
+      "departement": "44",
+      "nom": "Centre de Vaccination COVID - NANTES Nord - Salle Erdre",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nantes/centre-de-vaccination-metroplitain-salle-festive-nantes-erdre",
+      "location": {
+        "longitude": -1.53101,
+        "latitude": 47.2541
+      },
+      "metadata": {
+        "address": "251 Route de Saint Joseph, 44300 Nantes",
+        "phone_number": "+33806000344",
+        "business_hours": {
+          "lundi": "9h-17h",
+          "mardi": "9h-17h",
+          "mercredi": "9h-17h",
+          "jeudi": "9h-17h",
+          "vendredi": "9h-17h",
+          "samedi": "9h-17h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-11T08:30:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "242644[]",
+      "gid": "809"
+    },
+    {
+      "departement": "44",
+      "nom": "Grand centre NANTES - Parc de la Beaujoire",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nantes/centre-de-vaccination-covid-19-centre-d-exposition-de-la-beaujoire?pid=practice-164268",
+      "location": {
+        "longitude": -1.53135,
+        "latitude": 47.258
+      },
+      "metadata": {
+        "address": " Avenue de Normandie, 44300 Nantes",
+        "business_hours": {
+          "lundi": "9h-17h",
+          "mardi": "9h-17h",
+          "mercredi": "9h-17h",
+          "jeudi": "9h-17h",
+          "vendredi": "9h-17h",
+          "samedi": "9h-17h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-11T08:30:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "242644[164268]",
+      "gid": "2214"
+    },
     {
       "departement": "44",
       "nom": "Grande pharmacie de Paris",
@@ -31,34 +86,6 @@
     },
     {
       "departement": "44",
-      "nom": "Centre de vaccination - MACHECOUL - Salle Vall\u00e9e du Tenu",
-      "url": "https://www.doctolib.fr/centre-de-sante/saint-meme-le-tenu/centre-de-vaccination-covid-machecoul-st-meme",
-      "location": {
-        "longitude": -1.79338,
-        "latitude": 47.0191
-      },
-      "metadata": {
-        "address": " Rue des Ch\u00eanes, 44270 Machecoul-Saint-M\u00eame",
-        "phone_number": "+33806000344",
-        "business_hours": {
-          "lundi": "9h-17h",
-          "mardi": "9h-17h",
-          "mercredi": "9h-17h",
-          "jeudi": "9h-17h",
-          "vendredi": "9h-17h",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-13T12:10:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "262590[]",
-      "gid": "2065"
-    },
-    {
-      "departement": "44",
       "nom": "Centre de vaccination du SMIE de Ch\u00e2teaubriant",
       "url": "https://partners.doctolib.fr/centre-de-sante/chateaubriant/centre-de-vaccination-du-smie-de-chateaubriant",
       "location": {
@@ -77,10 +104,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-14T10:48:00.000+02:00",
+      "prochain_rdv": "2021-04-14T10:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 19,
+      "appointment_count": 20,
       "internal_id": "261154[]",
       "gid": "d261154"
     },
@@ -132,95 +159,12 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-23T09:45:00.000+02:00",
+      "prochain_rdv": "2021-04-23T09:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 88,
+      "appointment_count": 86,
       "internal_id": "242265[]",
       "gid": "716"
-    },
-    {
-      "departement": "44",
-      "nom": "Centre de Vaccination COVID - NANTES Nord - Salle Erdre",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nantes/centre-de-vaccination-metroplitain-salle-festive-nantes-erdre",
-      "location": {
-        "longitude": -1.53101,
-        "latitude": 47.2541
-      },
-      "metadata": {
-        "address": "251 Route de Saint Joseph, 44300 Nantes",
-        "phone_number": "+33806000344",
-        "business_hours": {
-          "lundi": "9h-17h",
-          "mardi": "9h-17h",
-          "mercredi": "9h-17h",
-          "jeudi": "9h-17h",
-          "vendredi": "9h-17h",
-          "samedi": "9h-17h",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-29T17:10:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "242644[]",
-      "gid": "809"
-    },
-    {
-      "departement": "44",
-      "nom": "Grand centre NANTES - Parc de la Beaujoire",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nantes/centre-de-vaccination-covid-19-centre-d-exposition-de-la-beaujoire?pid=practice-164268",
-      "location": {
-        "longitude": -1.53135,
-        "latitude": 47.258
-      },
-      "metadata": {
-        "address": " Avenue de Normandie, 44300 Nantes",
-        "business_hours": {
-          "lundi": "9h-17h",
-          "mardi": "9h-17h",
-          "mercredi": "9h-17h",
-          "jeudi": "9h-17h",
-          "vendredi": "9h-17h",
-          "samedi": "9h-17h",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-29T17:10:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "242644[164268]",
-      "gid": "2214"
-    },
-    {
-      "departement": "44",
-      "nom": "Centre de Vaccination - BLAIN - Salle des f\u00eates",
-      "url": "https://partners.doctolib.fr/centre-depistage-covid/blain/centre-de-vaccination-de-la-salle-des-fetes-de-blain",
-      "location": {
-        "longitude": -1.76531,
-        "latitude": 47.4736
-      },
-      "metadata": {
-        "address": "6b Rue Pierre Morin, 44130 Blain",
-        "phone_number": "+33806000344",
-        "business_hours": {
-          "lundi": "9h-12h / 14h-17h",
-          "mardi": "9h-12h / 14h-17h",
-          "mercredi": "9h-12h / 14h-17h",
-          "jeudi": "9h-12h / 14h-17h",
-          "vendredi": "9h-12h / 14h-17h",
-          "samedi": "9h-12h",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-05-04T11:06:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 10,
-      "internal_id": "242017[]",
-      "gid": "500"
     },
     {
       "departement": "44",
@@ -243,12 +187,40 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-11T10:35:00.000+02:00",
+      "prochain_rdv": "2021-05-04T14:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 93,
+      "appointment_count": 2,
       "internal_id": "242911[]",
       "gid": "1007"
+    },
+    {
+      "departement": "44",
+      "nom": "Centre de Vaccination - BLAIN - Salle des f\u00eates",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/blain/centre-de-vaccination-de-la-salle-des-fetes-de-blain",
+      "location": {
+        "longitude": -1.76531,
+        "latitude": 47.4736
+      },
+      "metadata": {
+        "address": "6b Rue Pierre Morin, 44130 Blain",
+        "phone_number": "+33806000344",
+        "business_hours": {
+          "lundi": "9h-12h / 14h-17h",
+          "mardi": "9h-12h / 14h-17h",
+          "mercredi": "9h-12h / 14h-17h",
+          "jeudi": "9h-12h / 14h-17h",
+          "vendredi": "9h-12h / 14h-17h",
+          "samedi": "9h-12h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-04T16:24:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 7,
+      "internal_id": "242017[]",
+      "gid": "500"
     }
   ],
   "centres_indisponibles": [
@@ -503,6 +475,34 @@
       "appointment_count": 0,
       "internal_id": "240098[]",
       "gid": "52"
+    },
+    {
+      "departement": "44",
+      "nom": "Centre de vaccination - MACHECOUL - Salle Vall\u00e9e du Tenu",
+      "url": "https://www.doctolib.fr/centre-de-sante/saint-meme-le-tenu/centre-de-vaccination-covid-machecoul-st-meme",
+      "location": {
+        "longitude": -1.79338,
+        "latitude": 47.0191
+      },
+      "metadata": {
+        "address": " Rue des Ch\u00eanes, 44270 Machecoul-Saint-M\u00eame",
+        "phone_number": "+33806000344",
+        "business_hours": {
+          "lundi": "9h-17h",
+          "mardi": "9h-17h",
+          "mercredi": "9h-17h",
+          "jeudi": "9h-17h",
+          "vendredi": "9h-17h",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "262590[]",
+      "gid": "2065"
     },
     {
       "departement": "44",

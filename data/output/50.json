@@ -1,35 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:52:23.067383+02:00",
+  "last_updated": "2021-04-10T18:56:10.930972+02:00",
   "centres_disponibles": [
-    {
-      "departement": "50",
-      "nom": "Centre de vaccination de Carentan-Les-Marais - Salle des f\u00eates",
-      "url": "https://partners.doctolib.fr/centre-de-sante/carentan-les-marais/centre-de-vaccination-covid-19-de-carentan-les-marais?pid=practice-179197",
-      "location": {
-        "longitude": -1.24269,
-        "latitude": 49.3048
-      },
-      "metadata": {
-        "address": " Rue de la Halle - salle des f\u00eates, 50500 Carentan-les-Marais",
-        "phone_number": "+33279461156",
-        "business_hours": {
-          "lundi": "",
-          "mardi": "",
-          "mercredi": "",
-          "jeudi": "",
-          "vendredi": "",
-          "samedi": "",
-          "dimanche": ""
-        }
-      },
-      "prochain_rdv": "2021-04-12T14:32:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 31,
-      "internal_id": "262130[179197]",
-      "gid": "2139"
-    },
     {
       "departement": "50",
       "nom": "Centre de vaccination Cherbourg-en-Cotentin : Salle Montecot (Octeville)",
@@ -51,10 +23,10 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-13T08:55:00.000000+0200",
+      "prochain_rdv": "2021-04-13T09:15:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 1957,
+      "appointment_count": 1956,
       "internal_id": null,
       "gid": "110"
     },
@@ -82,9 +54,37 @@
       "prochain_rdv": "2021-04-16T13:25:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 1177,
+      "appointment_count": 1176,
       "internal_id": null,
       "gid": "118"
+    },
+    {
+      "departement": "50",
+      "nom": "Centre de vaccination de Carentan-Les-Marais - Salle des f\u00eates",
+      "url": "https://partners.doctolib.fr/centre-de-sante/carentan-les-marais/centre-de-vaccination-covid-19-de-carentan-les-marais?pid=practice-179197",
+      "location": {
+        "longitude": -1.24269,
+        "latitude": 49.3048
+      },
+      "metadata": {
+        "address": " Rue de la Halle - salle des f\u00eates, 50500 Carentan-les-Marais",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": "2021-04-17T15:52:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 30,
+      "internal_id": "262130[179197]",
+      "gid": "2139"
     },
     {
       "departement": "50",
@@ -107,10 +107,10 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-29T13:55:00.000+02:00",
+      "prochain_rdv": "2021-04-29T14:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 129,
+      "appointment_count": 127,
       "internal_id": "255959[175175]",
       "gid": "19"
     }
@@ -285,33 +285,6 @@
     },
     {
       "departement": "50",
-      "nom": "MA - US / Maison d'Arr\u00eat de Coutances",
-      "url": "",
-      "location": {
-        "longitude": -1.44173,
-        "latitude": 49.0508
-      },
-      "metadata": {
-        "address": "3 Rue de la Verjusi\u00e8re, 50200 Coutances",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1871"
-    },
-    {
-      "departement": "50",
       "nom": "MA - US CHPC / Maison d'Arr\u00eat de Cherbourg",
       "url": "",
       "location": {
@@ -336,6 +309,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1870"
+    },
+    {
+      "departement": "50",
+      "nom": "MA - US / Maison d'Arr\u00eat de Coutances",
+      "url": "",
+      "location": {
+        "longitude": -1.44173,
+        "latitude": 49.0508
+      },
+      "metadata": {
+        "address": "3 Rue de la Verjusi\u00e8re, 50200 Coutances",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1871"
     },
     {
       "departement": "50",

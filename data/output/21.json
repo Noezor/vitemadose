@@ -1,36 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:52:23.038140+02:00",
-  "centres_disponibles": [
-    {
-      "departement": "21",
-      "nom": "CHENOVE Salle des f\u00eates",
-      "url": "https://partners.doctolib.fr/maison-de-sante/dijon/cpts-de-dijon-vaccination-covid-19?pid=practice-164125",
-      "location": {
-        "longitude": 5.00611,
-        "latitude": 47.2936
-      },
-      "metadata": {
-        "address": " Place Pierre Meunier, 21300 Chen\u00f4ve",
-        "phone_number": "+33345810421",
-        "business_hours": {
-          "lundi": "09:00-17:00 ",
-          "mardi": "09:00-17:00 ",
-          "mercredi": "09:00-17:00 ",
-          "jeudi": "09:00-17:00",
-          "vendredi": "09:00-17:00 ",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-05-03T13:10:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "242632[164125]",
-      "gid": "873"
-    }
-  ],
+  "last_updated": "2021-04-10T18:56:10.904011+02:00",
+  "centres_disponibles": [],
   "centres_indisponibles": [
     {
       "departement": "21",
@@ -534,6 +505,34 @@
     },
     {
       "departement": "21",
+      "nom": "CHENOVE Salle des f\u00eates",
+      "url": "https://partners.doctolib.fr/maison-de-sante/dijon/cpts-de-dijon-vaccination-covid-19?pid=practice-164125",
+      "location": {
+        "longitude": 5.00611,
+        "latitude": 47.2936
+      },
+      "metadata": {
+        "address": " Place Pierre Meunier, 21300 Chen\u00f4ve",
+        "phone_number": "+33345810421",
+        "business_hours": {
+          "lundi": "09:00-17:00 ",
+          "mardi": "09:00-17:00 ",
+          "mercredi": "09:00-17:00 ",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00 ",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242632[164125]",
+      "gid": "873"
+    },
+    {
+      "departement": "21",
       "nom": "AUXONNE - Salle \u00e9v\u00e8nementielle",
       "url": "https://partners.doctolib.fr/centre-de-sante/auxonne/centre-de-vaccination-covid-19-auxonne?pid=practice-166391",
       "location": {
@@ -618,34 +617,6 @@
     },
     {
       "departement": "21",
-      "nom": "BRAZEY-EN-PLAINE Salle polyvalente Georges Balme",
-      "url": "https://partners.doctolib.fr/centre-de-sante/brazey-en-plaine/cpts-pays-d-or-vaccination-covid",
-      "location": {
-        "longitude": 5.2137,
-        "latitude": 47.1314
-      },
-      "metadata": {
-        "address": " Rue Joseph Magnien, 21470 Brazey-en-Plaine",
-        "phone_number": "+33345810421",
-        "business_hours": {
-          "lundi": "10:00-12:00",
-          "mardi": "10:00-12:00",
-          "mercredi": "10:00-12:00",
-          "jeudi": "10:00-12:00",
-          "vendredi": "10:00-12:00",
-          "samedi": "10:00-12:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242460[]",
-      "gid": "395"
-    },
-    {
-      "departement": "21",
       "nom": "CHATILLON-SUR-SEINE Salle Luc Schreder",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/ch\u00e2tillon-sur-seine/centre-de-vaccination-chatillon-sur-seine?pid=practice-164745%3fspeciality_id%3d5494",
       "location": {
@@ -671,6 +642,34 @@
       "appointment_count": 0,
       "internal_id": "242744[164745]",
       "gid": "538"
+    },
+    {
+      "departement": "21",
+      "nom": "BRAZEY-EN-PLAINE Salle polyvalente Georges Balme",
+      "url": "https://partners.doctolib.fr/centre-de-sante/brazey-en-plaine/cpts-pays-d-or-vaccination-covid",
+      "location": {
+        "longitude": 5.2137,
+        "latitude": 47.1314
+      },
+      "metadata": {
+        "address": " Rue Joseph Magnien, 21470 Brazey-en-Plaine",
+        "phone_number": "+33345810421",
+        "business_hours": {
+          "lundi": "10:00-12:00",
+          "mardi": "10:00-12:00",
+          "mercredi": "10:00-12:00",
+          "jeudi": "10:00-12:00",
+          "vendredi": "10:00-12:00",
+          "samedi": "10:00-12:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242460[]",
+      "gid": "395"
     },
     {
       "departement": "21",

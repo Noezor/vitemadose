@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:52:23.103105+02:00",
+  "last_updated": "2021-04-10T18:56:10.961385+02:00",
   "centres_disponibles": [
     {
       "departement": "76",
@@ -26,7 +26,7 @@
       "prochain_rdv": "2021-04-12T10:55:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 143,
+      "appointment_count": 144,
       "internal_id": "263803[180035]",
       "gid": "2363"
     },
@@ -54,7 +54,7 @@
       "prochain_rdv": "2021-04-13T10:25:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 256,
+      "appointment_count": 257,
       "internal_id": "242080[181348]",
       "gid": "2360"
     },
@@ -79,10 +79,10 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-13T15:20:00.000+02:00",
+      "prochain_rdv": "2021-04-13T15:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 55,
+      "appointment_count": 52,
       "internal_id": "241044[163096]",
       "gid": "154"
     },
@@ -110,7 +110,7 @@
       "prochain_rdv": "2021-04-13T16:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 2,
+      "appointment_count": 3,
       "internal_id": "242321[]",
       "gid": "801"
     },
@@ -163,10 +163,10 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-15T11:20:00.000+02:00",
+      "prochain_rdv": "2021-04-15T12:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 15,
+      "appointment_count": 14,
       "internal_id": "242706[164306]",
       "gid": "1031"
     },
@@ -191,12 +191,40 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-21T17:10:00.000+02:00",
+      "prochain_rdv": "2021-04-21T17:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 69,
+      "appointment_count": 68,
       "internal_id": "242150[]",
       "gid": "70"
+    },
+    {
+      "departement": "76",
+      "nom": "VaccinAr\u00e9na",
+      "url": "https://partners.doctolib.fr/centre-de-sante/rouen/centre-de-vaccination-covid-vaccinarena-rouen?pid=practice-181232",
+      "location": {
+        "longitude": 1.06327,
+        "latitude": 49.4477
+      },
+      "metadata": {
+        "address": "40 Rue de Lillebonne - KINDARENA, 76000 Rouen",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": "2021-04-22T09:55:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "264690[181232]",
+      "gid": "2359"
     },
     {
       "departement": "76",
@@ -253,34 +281,6 @@
       "appointment_count": 4,
       "internal_id": "242477[]",
       "gid": "796"
-    },
-    {
-      "departement": "76",
-      "nom": "VaccinAr\u00e9na",
-      "url": "https://partners.doctolib.fr/centre-de-sante/rouen/centre-de-vaccination-covid-vaccinarena-rouen?pid=practice-181232",
-      "location": {
-        "longitude": 1.06327,
-        "latitude": 49.4477
-      },
-      "metadata": {
-        "address": "40 Rue de Lillebonne - KINDARENA, 76000 Rouen",
-        "phone_number": "+33279461156",
-        "business_hours": {
-          "lundi": "",
-          "mardi": "",
-          "mercredi": "",
-          "jeudi": "",
-          "vendredi": "",
-          "samedi": "",
-          "dimanche": ""
-        }
-      },
-      "prochain_rdv": "2021-04-28T16:25:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 32,
-      "internal_id": "264690[181232]",
-      "gid": "2359"
     },
     {
       "departement": "76",
@@ -825,6 +825,33 @@
     },
     {
       "departement": "76",
+      "nom": "Pharmacie Jouvenet",
+      "url": "https://partners.doctolib.fr/pharmacie/rouen/pharmacie-jouvenet",
+      "location": {
+        "longitude": 1.1040361,
+        "latitude": 49.4500539
+      },
+      "metadata": {
+        "address": "26 Rue de Bihorel, 76000 Rouen",
+        "business_hours": {
+          "lundi": "08:30-12:30, 14:00-19:30",
+          "mardi": "08:30-12:30, 14:00-19:30",
+          "mercredi": "08:30-12:30, 14:00-19:30",
+          "jeudi": "08:30-12:30, 14:00-19:30",
+          "vendredi": "08:30-12:30, 14:00-19:30",
+          "samedi": "09:00-13:00, 14:00-18:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "241092[]",
+      "gid": "d241092"
+    },
+    {
+      "departement": "76",
       "nom": "Dr Nicolas Desoubry",
       "url": "https://partners.doctolib.fr/medecin-generaliste/quincampoix/nicolas-desoubry",
       "location": {
@@ -850,33 +877,6 @@
       "appointment_count": 0,
       "internal_id": "98333[]",
       "gid": "d98333"
-    },
-    {
-      "departement": "76",
-      "nom": "Pharmacie Jouvenet",
-      "url": "https://partners.doctolib.fr/pharmacie/rouen/pharmacie-jouvenet",
-      "location": {
-        "longitude": 1.1040361,
-        "latitude": 49.4500539
-      },
-      "metadata": {
-        "address": "26 Rue de Bihorel, 76000 Rouen",
-        "business_hours": {
-          "lundi": "08:30-12:30, 14:00-19:30",
-          "mardi": "08:30-12:30, 14:00-19:30",
-          "mercredi": "08:30-12:30, 14:00-19:30",
-          "jeudi": "08:30-12:30, 14:00-19:30",
-          "vendredi": "08:30-12:30, 14:00-19:30",
-          "samedi": "09:00-13:00, 14:00-18:30",
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": "241092[]",
-      "gid": "d241092"
     },
     {
       "departement": "76",

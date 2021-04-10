@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:52:23.112995+02:00",
+  "last_updated": "2021-04-10T18:56:10.970123+02:00",
   "centres_disponibles": [
     {
       "departement": "84",
@@ -23,10 +23,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-12T13:30:00.000000Z",
+      "prochain_rdv": "2021-04-17T12:10:00.000000Z",
       "plateforme": "Maiia",
       "type": "vaccination-center",
-      "appointment_count": 134,
+      "appointment_count": 133,
       "internal_id": null,
       "gid": "2240"
     }
@@ -89,33 +89,6 @@
     },
     {
       "departement": "84",
-      "nom": "CPTS Grand Avignon - Ch\u00e2teau de la Barbi\u00e8re",
-      "url": "https://partners.doctolib.fr/centre-de-sante/morieres-les-avignon/centre-de-vaccination-covid-morieres-les-avignon?pid=practice-168035",
-      "location": {
-        "longitude": 4.83131,
-        "latitude": 43.9308
-      },
-      "metadata": {
-        "address": "8 Avenue du Roi Soleil, 84000 Avignon",
-        "business_hours": {
-          "lundi": "13-17h",
-          "mardi": "9h-17h",
-          "mercredi": "9h-17h",
-          "jeudi": "14-17h",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243575[168035]",
-      "gid": "1517"
-    },
-    {
-      "departement": "84",
       "nom": "Centre Hospitalier APT",
       "url": "https://partners.doctolib.fr/hopital-public/apt/centre-de-vaccination-covid-19-ch-pays-d-apt?pid=practice-164592%3fspeciality_id%3d5494",
       "location": {
@@ -141,6 +114,33 @@
       "appointment_count": 0,
       "internal_id": "242805[164592]",
       "gid": "525"
+    },
+    {
+      "departement": "84",
+      "nom": "CPTS Grand Avignon - Ch\u00e2teau de la Barbi\u00e8re",
+      "url": "https://partners.doctolib.fr/centre-de-sante/morieres-les-avignon/centre-de-vaccination-covid-morieres-les-avignon?pid=practice-168035",
+      "location": {
+        "longitude": 4.83131,
+        "latitude": 43.9308
+      },
+      "metadata": {
+        "address": "8 Avenue du Roi Soleil, 84000 Avignon",
+        "business_hours": {
+          "lundi": "13-17h",
+          "mardi": "9h-17h",
+          "mercredi": "9h-17h",
+          "jeudi": "14-17h",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243575[168035]",
+      "gid": "1517"
     },
     {
       "departement": "84",
@@ -172,33 +172,6 @@
     },
     {
       "departement": "84",
-      "nom": "Centre de vaccination de Boll\u00e8ne",
-      "url": "https://www.maiia.com/centre-de-vaccination/84500-bollene/centre-intercommunal-de-vaccination-de-bollene",
-      "location": {
-        "longitude": 4.75344,
-        "latitude": 44.2916
-      },
-      "metadata": {
-        "address": "2483 Avenue Jean Moulin, 84500 Boll\u00e8ne",
-        "business_hours": {
-          "lundi": "14h - 17h",
-          "mardi": "9h - 12h",
-          "mercredi": "9h - 12h",
-          "jeudi": "9h - 12h",
-          "vendredi": "9h - 12h",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Maiia",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1138"
-    },
-    {
-      "departement": "84",
       "nom": "Centre de vaccination CH Avignon",
       "url": "https://partners.doctolib.fr/hopital-public/avignon/centre-hospitalier-d-avignon-vaccination-covid-avignon?pid=practice-162807",
       "location": {
@@ -224,6 +197,33 @@
       "appointment_count": 0,
       "internal_id": "244363[162807]",
       "gid": "195"
+    },
+    {
+      "departement": "84",
+      "nom": "Centre de vaccination de Boll\u00e8ne",
+      "url": "https://www.maiia.com/centre-de-vaccination/84500-bollene/centre-intercommunal-de-vaccination-de-bollene",
+      "location": {
+        "longitude": 4.75344,
+        "latitude": 44.2916
+      },
+      "metadata": {
+        "address": "2483 Avenue Jean Moulin, 84500 Boll\u00e8ne",
+        "business_hours": {
+          "lundi": "14h - 17h",
+          "mardi": "9h - 12h",
+          "mercredi": "9h - 12h",
+          "jeudi": "9h - 12h",
+          "vendredi": "9h - 12h",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1138"
     },
     {
       "departement": "84",

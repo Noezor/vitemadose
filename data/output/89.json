@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:52:23.117502+02:00",
+  "last_updated": "2021-04-10T18:56:10.973608+02:00",
   "centres_disponibles": [
     {
       "departement": "89",
@@ -23,10 +23,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-23T14:45:00.000000+0200",
+      "prochain_rdv": "2021-04-23T14:50:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 56,
+      "appointment_count": 55,
       "internal_id": null,
       "gid": "605"
     }
@@ -553,33 +553,6 @@
     },
     {
       "departement": "89",
-      "nom": "MA - US Auxerre / Maison d'Arr\u00eat d'Auxerre",
-      "url": "",
-      "location": {
-        "longitude": 3.56663,
-        "latitude": 47.8032
-      },
-      "metadata": {
-        "address": "13 Avenue Charles de Gaulle, 89000 Auxerre",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1789"
-    },
-    {
-      "departement": "89",
       "nom": "CD - US Joux-la-Ville / Maison d'Arr\u00eat d'Auxerre",
       "url": "",
       "location": {
@@ -604,6 +577,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1788"
+    },
+    {
+      "departement": "89",
+      "nom": "MA - US Auxerre / Maison d'Arr\u00eat d'Auxerre",
+      "url": "",
+      "location": {
+        "longitude": 3.56663,
+        "latitude": 47.8032
+      },
+      "metadata": {
+        "address": "13 Avenue Charles de Gaulle, 89000 Auxerre",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1789"
     }
   ]
 }

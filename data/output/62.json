@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:52:23.080565+02:00",
+  "last_updated": "2021-04-10T18:56:10.943463+02:00",
   "centres_disponibles": [
     {
       "departement": "62",
@@ -25,7 +25,7 @@
       "prochain_rdv": "2021-04-11T08:15:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 69,
+      "appointment_count": 71,
       "internal_id": "258354[176735]",
       "gid": "1952"
     },
@@ -52,7 +52,7 @@
       "prochain_rdv": "2021-04-11T08:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 53,
+      "appointment_count": 52,
       "internal_id": "242237[176607]",
       "gid": "1956"
     },
@@ -190,7 +190,7 @@
       "prochain_rdv": "2021-04-11T12:25:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 162,
+      "appointment_count": 161,
       "internal_id": "258280[]",
       "gid": "d258280"
     },
@@ -242,10 +242,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-12T12:10:00.000+02:00",
+      "prochain_rdv": "2021-04-12T12:15:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 330,
+      "appointment_count": 328,
       "internal_id": "242884[180561]",
       "gid": "1115"
     },
@@ -273,7 +273,7 @@
       "prochain_rdv": "2021-04-13T09:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 90,
+      "appointment_count": 89,
       "internal_id": "243031[]",
       "gid": "1110"
     },
@@ -820,6 +820,34 @@
     },
     {
       "departement": "62",
+      "nom": "Centre de vaccination - CHRSO et CPTS Audomaroise, Salle des sports du pavillon 3 \u2013 CH St Omer",
+      "url": "https://partners.doctolib.fr/hopital-public/saint-omer/ch-region-st-omer-centre-de-vaccination-covid-19?pid=practice-164177",
+      "location": {
+        "longitude": 2.24448,
+        "latitude": 50.7001
+      },
+      "metadata": {
+        "address": " Rue de Blendecques, 62570 Helfaut",
+        "phone_number": "03 92 04 34 71 ",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242389[164177]",
+      "gid": "396"
+    },
+    {
+      "departement": "62",
       "nom": "Centre de vaccination - Centre SDIS Avesnes Le Comte, Salle Jacques Nirdol",
       "url": "https://partners.doctolib.fr/centre-de-sante/bruay-la-buissiere/centre-de-vaccination-covid-pas-de-calais?pid=practice-164609",
       "location": {
@@ -873,34 +901,6 @@
       "appointment_count": 0,
       "internal_id": "242643[164610]",
       "gid": "1104"
-    },
-    {
-      "departement": "62",
-      "nom": "Centre de vaccination - CHRSO et CPTS Audomaroise, Salle des sports du pavillon 3 \u2013 CH St Omer",
-      "url": "https://partners.doctolib.fr/hopital-public/saint-omer/ch-region-st-omer-centre-de-vaccination-covid-19?pid=practice-164177",
-      "location": {
-        "longitude": 2.24448,
-        "latitude": 50.7001
-      },
-      "metadata": {
-        "address": " Rue de Blendecques, 62570 Helfaut",
-        "phone_number": "03 92 04 34 71 ",
-        "business_hours": {
-          "lundi": "",
-          "mardi": "",
-          "mercredi": "",
-          "jeudi": "",
-          "vendredi": "",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242389[164177]",
-      "gid": "396"
     },
     {
       "departement": "62",
@@ -1266,14 +1266,14 @@
     },
     {
       "departement": "62",
-      "nom": "CP - US du centre hospitalier de la R\u00e9gion de Saint-Omer / Centre P\u00e9nitentiaire de Longuenesse",
+      "nom": "MA - US ARRAS / Maison d'Arr\u00eat d'Arras",
       "url": "",
       "location": {
-        "longitude": 2.23624,
-        "latitude": 50.7305
+        "longitude": 2.76048,
+        "latitude": 50.293
       },
       "metadata": {
-        "address": " Chemin du Plateau des Bruy\u00e8res, 62219 Longuenesse",
+        "address": "12 Rue des Carabiniers d?Artois, 62000 Arras",
         "business_hours": {
           "lundi": "Ferm\u00e9 au public",
           "mardi": "Ferm\u00e9 au public",
@@ -1289,7 +1289,7 @@
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "1845"
+      "gid": "1843"
     },
     {
       "departement": "62",
@@ -1320,14 +1320,14 @@
     },
     {
       "departement": "62",
-      "nom": "MA - US ARRAS / Maison d'Arr\u00eat d'Arras",
+      "nom": "CP - US du centre hospitalier de la R\u00e9gion de Saint-Omer / Centre P\u00e9nitentiaire de Longuenesse",
       "url": "",
       "location": {
-        "longitude": 2.76048,
-        "latitude": 50.293
+        "longitude": 2.23624,
+        "latitude": 50.7305
       },
       "metadata": {
-        "address": "12 Rue des Carabiniers d?Artois, 62000 Arras",
+        "address": " Chemin du Plateau des Bruy\u00e8res, 62219 Longuenesse",
         "business_hours": {
           "lundi": "Ferm\u00e9 au public",
           "mardi": "Ferm\u00e9 au public",
@@ -1343,7 +1343,7 @@
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "1843"
+      "gid": "1845"
     },
     {
       "departement": "62",
@@ -1367,26 +1367,6 @@
     },
     {
       "departement": "62",
-      "nom": "Pharmacie Du Donjon",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-du-donjon-bruay-la-buissiere",
-      "location": {
-        "longitude": 2.5644602,
-        "latitude": 50.4904659
-      },
-      "metadata": {
-        "address": "2 rue Jean  Jaur\u00e8s, 62700 BRUAY-LA-BUISSIERE",
-        "phone_number": "+33321624076",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "f1e18603"
-    },
-    {
-      "departement": "62",
       "nom": "Pharmacie Du Transvaal",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-du-transvaal-divion",
       "location": {
@@ -1404,6 +1384,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "0a9c8360"
+    },
+    {
+      "departement": "62",
+      "nom": "Pharmacie Du Donjon",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-du-donjon-bruay-la-buissiere",
+      "location": {
+        "longitude": 2.5644602,
+        "latitude": 50.4904659
+      },
+      "metadata": {
+        "address": "2 rue Jean  Jaur\u00e8s, 62700 BRUAY-LA-BUISSIERE",
+        "phone_number": "+33321624076",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "f1e18603"
     },
     {
       "departement": "62",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:52:23.092498+02:00",
+  "last_updated": "2021-04-10T18:56:10.955712+02:00",
   "centres_disponibles": [
     {
       "departement": "73",
@@ -140,6 +140,33 @@
     },
     {
       "departement": "73",
+      "nom": "Centre de vaccination Covid 19 - Savoie - Parc des expositions Chamb\u00e9ry",
+      "url": "https://partners.doctolib.fr/centre-de-sante/chambery/centre-de-vaccination-covid-19-savoie-parc-des-expositions-chambery",
+      "location": {
+        "longitude": 5.8984423,
+        "latitude": 45.5826519
+      },
+      "metadata": {
+        "address": "1725 Avenue du Grand Arietaz, 73000 Chamb\u00e9ry",
+        "business_hours": {
+          "lundi": "09:00-12:30, 14:00-17:30",
+          "mardi": "09:00-12:30, 14:00-17:30",
+          "mercredi": "09:00-12:30, 14:00-17:30",
+          "jeudi": "09:00-12:30, 14:00-17:30",
+          "vendredi": "09:00-12:30, 14:00-17:30",
+          "samedi": "09:00-12:30, 14:00-17:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-19T10:45:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 427,
+      "internal_id": "264576[]",
+      "gid": "d264576"
+    },
+    {
+      "departement": "73",
       "nom": "Centre de vaccination COVID Albertville-Salle Pierre du Roy",
       "url": "https://partners.doctolib.fr/centre-de-sante/albertville/centre-de-vaccination-covid-maison-de-sante-d-albertville",
       "location": {
@@ -159,39 +186,12 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-16T16:30:00.000+02:00",
+      "prochain_rdv": "2021-04-21T10:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 2,
+      "appointment_count": 1,
       "internal_id": "243111[]",
       "gid": "703"
-    },
-    {
-      "departement": "73",
-      "nom": "Centre de vaccination Covid 19 - Savoie - Parc des expositions Chamb\u00e9ry",
-      "url": "https://partners.doctolib.fr/centre-de-sante/chambery/centre-de-vaccination-covid-19-savoie-parc-des-expositions-chambery",
-      "location": {
-        "longitude": 5.8984423,
-        "latitude": 45.5826519
-      },
-      "metadata": {
-        "address": "1725 Avenue du Grand Arietaz, 73000 Chamb\u00e9ry",
-        "business_hours": {
-          "lundi": "09:00-12:30, 14:00-17:30",
-          "mardi": "09:00-12:30, 14:00-17:30",
-          "mercredi": "09:00-12:30, 14:00-17:30",
-          "jeudi": "09:00-12:30, 14:00-17:30",
-          "vendredi": "09:00-12:30, 14:00-17:30",
-          "samedi": "09:00-12:30, 14:00-17:30",
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": "2021-04-19T11:34:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 426,
-      "internal_id": "264576[]",
-      "gid": "d264576"
     },
     {
       "departement": "73",
@@ -269,10 +269,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-22T09:40:00.000+02:00",
+      "prochain_rdv": "2021-04-22T08:18:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 50,
+      "appointment_count": 48,
       "internal_id": "242539[]",
       "gid": "673"
     }
