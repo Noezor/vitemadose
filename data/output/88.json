@@ -1,35 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:56:10.973125+02:00",
+  "last_updated": "2021-04-10T18:59:31.852912+02:00",
   "centres_disponibles": [
-    {
-      "departement": "88",
-      "nom": "Centre de vaccination de Neufchateau",
-      "url": "https://partners.doctolib.fr/hopital-public/neufchateau/centre-de-vaccination-covid-neufchateau-et-vittel",
-      "location": {
-        "longitude": 5.7077,
-        "latitude": 48.3704
-      },
-      "metadata": {
-        "address": "1280 Avenue de la Division Leclerc, 88300 Neufch\u00e2teau",
-        "phone_number": "+33329948605",
-        "business_hours": {
-          "lundi": "14:00-18:00",
-          "mardi": "14:00-18:00",
-          "mercredi": "14:00-18:00",
-          "jeudi": "14:00-18:00",
-          "vendredi": "14:00-18:00",
-          "samedi": "14:00-18:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-14T16:25:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "243063[166382]",
-      "gid": "219"
-    },
     {
       "departement": "88",
       "nom": "Centre de vaccination d'Epinal (Palais des congr\u00e8s)",
@@ -51,10 +23,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-24T16:30:00.000+02:00",
+      "prochain_rdv": "2021-04-24T16:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 246,
+      "appointment_count": 245,
       "internal_id": "240764[164046]",
       "gid": "1309"
     }
@@ -143,6 +115,34 @@
       "appointment_count": 0,
       "internal_id": "241211[163781]",
       "gid": "937"
+    },
+    {
+      "departement": "88",
+      "nom": "Centre de vaccination de Neufchateau",
+      "url": "https://partners.doctolib.fr/hopital-public/neufchateau/centre-de-vaccination-covid-neufchateau-et-vittel",
+      "location": {
+        "longitude": 5.7077,
+        "latitude": 48.3704
+      },
+      "metadata": {
+        "address": "1280 Avenue de la Division Leclerc, 88300 Neufch\u00e2teau",
+        "phone_number": "+33329948605",
+        "business_hours": {
+          "lundi": "14:00-18:00",
+          "mardi": "14:00-18:00",
+          "mercredi": "14:00-18:00",
+          "jeudi": "14:00-18:00",
+          "vendredi": "14:00-18:00",
+          "samedi": "14:00-18:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243063[166382]",
+      "gid": "219"
     },
     {
       "departement": "88",

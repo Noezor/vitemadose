@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:56:10.908802+02:00",
+  "last_updated": "2021-04-10T18:59:31.775559+02:00",
   "centres_disponibles": [
     {
       "departement": "27",
@@ -50,68 +50,12 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-04-13T15:25:00.000+02:00",
+      "prochain_rdv": "2021-04-13T15:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 21,
+      "appointment_count": 19,
       "internal_id": "242833[]",
       "gid": "168"
-    },
-    {
-      "departement": "27",
-      "nom": "Centre de vaccination de Saint Andr\u00e9 de l'Eure",
-      "url": "https://partners.doctolib.fr/hopital-public/evreux/ch-eure-seine-centre-de-vaccination-covid-vacci-covid-27?pid=practice-171255",
-      "location": {
-        "longitude": 1.27705,
-        "latitude": 48.9045
-      },
-      "metadata": {
-        "address": "6 Rue de Dreux, 27220 Saint-Andr\u00e9-de-l'Eure",
-        "phone_number": "+33279461156",
-        "business_hours": {
-          "lundi": "",
-          "mardi": "",
-          "mercredi": "",
-          "jeudi": "",
-          "vendredi": "",
-          "samedi": "",
-          "dimanche": ""
-        }
-      },
-      "prochain_rdv": "2021-04-16T17:10:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 2,
-      "internal_id": "240902[171255]",
-      "gid": "1423"
-    },
-    {
-      "departement": "27",
-      "nom": "CH Verneuil",
-      "url": "https://partners.doctolib.fr/hopital-public/evreux/ch-eure-seine-centre-de-vaccination-covid-vacci-covid-27?pid=practice-162970&%3fspeciality_id=5494",
-      "location": {
-        "longitude": 0.920467,
-        "latitude": 48.7419
-      },
-      "metadata": {
-        "address": "101 Boulevard des Poissonniers, 27130 Verneuil d'Avre et d'Iton",
-        "phone_number": "+33279461156",
-        "business_hours": {
-          "lundi": "",
-          "mardi": "",
-          "mercredi": "",
-          "jeudi": "",
-          "vendredi": "",
-          "samedi": "",
-          "dimanche": ""
-        }
-      },
-      "prochain_rdv": "2021-05-10T12:30:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 119,
-      "internal_id": "240902[162970]",
-      "gid": "130"
     },
     {
       "departement": "27",
@@ -134,12 +78,40 @@
           "dimanche": ""
         }
       },
-      "prochain_rdv": "2021-05-12T12:10:00.000+02:00",
+      "prochain_rdv": "2021-05-09T14:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 19,
+      "appointment_count": 1,
       "internal_id": "240902[174767]",
       "gid": "1650"
+    },
+    {
+      "departement": "27",
+      "nom": "CH Verneuil",
+      "url": "https://partners.doctolib.fr/hopital-public/evreux/ch-eure-seine-centre-de-vaccination-covid-vacci-covid-27?pid=practice-162970&%3fspeciality_id=5494",
+      "location": {
+        "longitude": 0.920467,
+        "latitude": 48.7419
+      },
+      "metadata": {
+        "address": "101 Boulevard des Poissonniers, 27130 Verneuil d'Avre et d'Iton",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": "2021-05-11T11:50:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 118,
+      "internal_id": "240902[162970]",
+      "gid": "130"
     }
   ],
   "centres_indisponibles": [
@@ -309,6 +281,34 @@
       "appointment_count": 0,
       "internal_id": "240902[171237]",
       "gid": "1424"
+    },
+    {
+      "departement": "27",
+      "nom": "Centre de vaccination de Saint Andr\u00e9 de l'Eure",
+      "url": "https://partners.doctolib.fr/hopital-public/evreux/ch-eure-seine-centre-de-vaccination-covid-vacci-covid-27?pid=practice-171255",
+      "location": {
+        "longitude": 1.27705,
+        "latitude": 48.9045
+      },
+      "metadata": {
+        "address": "6 Rue de Dreux, 27220 Saint-Andr\u00e9-de-l'Eure",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240902[171255]",
+      "gid": "1423"
     },
     {
       "departement": "27",

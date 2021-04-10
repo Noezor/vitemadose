@@ -1,35 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:56:10.951313+02:00",
+  "last_updated": "2021-04-10T18:59:31.826981+02:00",
   "centres_disponibles": [
-    {
-      "departement": "69",
-      "nom": "Centre de vaccination - Palais des sports de Gerland /Hospices Civils de Lyon",
-      "url": "https://partners.doctolib.fr/hopital-public/lyon/palais-des-sports-gerland-hcl-vaccination-covid?pid=practice-163661",
-      "location": {
-        "longitude": 4.83026,
-        "latitude": 45.724
-      },
-      "metadata": {
-        "address": "350 Avenue Jean Jaur\u00e8s, 69007 Lyon",
-        "phone_number": "+33423101010",
-        "business_hours": {
-          "lundi": "08:30-20:00",
-          "mardi": "08:30-20:00",
-          "mercredi": "08:30-20:00",
-          "jeudi": "08:30-20:00",
-          "vendredi": "08:30-20:00",
-          "samedi": "08:30-20:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-12T09:10:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 3,
-      "internal_id": "241965[163661]",
-      "gid": "688"
-    },
     {
       "departement": "69",
       "nom": "Centre de vaccination d'Arnas - Espace sportif de l'Escale",
@@ -51,12 +23,40 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-18T17:10:00.000+02:00",
+      "prochain_rdv": "2021-04-14T11:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 9,
+      "appointment_count": 10,
       "internal_id": "263389[180202]",
       "gid": "2136"
+    },
+    {
+      "departement": "69",
+      "nom": "Centre de vaccination de l\u2019Ouest Lyonnais - B\u00e2timent Le Trait d\u2019Union",
+      "url": "https://partners.doctolib.fr/centre-de-sante/lyon/centre-de-vaccination-de-l-ouest-lyonnais?pid=practice-176810",
+      "location": {
+        "longitude": 4.7857,
+        "latitude": 45.7879
+      },
+      "metadata": {
+        "address": "29 b Avenue des Sources, 69009 Lyon",
+        "phone_number": "33423101010",
+        "business_hours": {
+          "lundi": "9:00  -  17:00",
+          "mardi": "9:00  -  17:00",
+          "mercredi": "9:00  -  17:00",
+          "jeudi": "9:00  -  17:00",
+          "vendredi": "9:00  -  17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-14T13:00:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 17,
+      "internal_id": "258785[176810]",
+      "gid": "1693"
     },
     {
       "departement": "69",
@@ -85,34 +85,6 @@
       "appointment_count": 2,
       "internal_id": "244533[]",
       "gid": "d244533"
-    },
-    {
-      "departement": "69",
-      "nom": "Centre de vaccination de l\u2019Ouest Lyonnais - B\u00e2timent Le Trait d\u2019Union",
-      "url": "https://partners.doctolib.fr/centre-de-sante/lyon/centre-de-vaccination-de-l-ouest-lyonnais?pid=practice-176810",
-      "location": {
-        "longitude": 4.7857,
-        "latitude": 45.7879
-      },
-      "metadata": {
-        "address": "29 b Avenue des Sources, 69009 Lyon",
-        "phone_number": "33423101010",
-        "business_hours": {
-          "lundi": "9:00  -  17:00",
-          "mardi": "9:00  -  17:00",
-          "mercredi": "9:00  -  17:00",
-          "jeudi": "9:00  -  17:00",
-          "vendredi": "9:00  -  17:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-28T13:10:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 71,
-      "internal_id": "258785[176810]",
-      "gid": "1693"
     },
     {
       "departement": "69",
@@ -589,6 +561,34 @@
     },
     {
       "departement": "69",
+      "nom": "Centre de vaccination -H\u00f4pital Edouard Herriot-HCL",
+      "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-edouard-herriot-hcl-vaccination-covid?pid=practice-163794",
+      "location": {
+        "longitude": 4.88009,
+        "latitude": 45.7433
+      },
+      "metadata": {
+        "address": "5 Place d'Arsonval, 69003 Lyon",
+        "phone_number": "+33423101010",
+        "business_hours": {
+          "lundi": "08:00-20:00",
+          "mardi": "08:00-20:00",
+          "mercredi": "08:00-20:00",
+          "jeudi": "08:00-20:00",
+          "vendredi": "08:00-20:00",
+          "samedi": "08:30-17:30",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241950[163794]",
+      "gid": "222"
+    },
+    {
+      "departement": "69",
       "nom": "Centre de vaccination de Beauvallon - Salle des Varennes",
       "url": "",
       "location": {
@@ -697,34 +697,6 @@
       "appointment_count": 0,
       "internal_id": "263039[179930]",
       "gid": "2263"
-    },
-    {
-      "departement": "69",
-      "nom": "Centre de vaccination -H\u00f4pital Edouard Herriot-HCL",
-      "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-edouard-herriot-hcl-vaccination-covid?pid=practice-163794",
-      "location": {
-        "longitude": 4.88009,
-        "latitude": 45.7433
-      },
-      "metadata": {
-        "address": "5 Place d'Arsonval, 69003 Lyon",
-        "phone_number": "+33423101010",
-        "business_hours": {
-          "lundi": "08:00-20:00",
-          "mardi": "08:00-20:00",
-          "mercredi": "08:00-20:00",
-          "jeudi": "08:00-20:00",
-          "vendredi": "08:00-20:00",
-          "samedi": "08:30-17:30",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241950[163794]",
-      "gid": "222"
     },
     {
       "departement": "69",
@@ -924,34 +896,6 @@
     },
     {
       "departement": "69",
-      "nom": "Centre de vaccination -H\u00f4pital Lyon sud - HCL",
-      "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-lyon-sud-hcl-vaccination-covid?pid=practice-163795",
-      "location": {
-        "longitude": 4.80642,
-        "latitude": 45.7021
-      },
-      "metadata": {
-        "address": "165 Chemin du Grand Revoyet, 69310 Pierre-B\u00e9nite",
-        "phone_number": "+33423101010",
-        "business_hours": {
-          "lundi": "9:00 - 16:00",
-          "mardi": "9:00 - 16:00",
-          "mercredi": "9:00 - 16:00",
-          "jeudi": "9:00 - 16:00",
-          "vendredi": "9:00 - 16:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241954[163795]",
-      "gid": "226"
-    },
-    {
-      "departement": "69",
       "nom": "Centre de vaccination -H\u00f4pital Pierre Wertheimer - HCL",
       "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-pierre-wertheimer-hcl-vaccination-covid?pid=practice-163796",
       "location": {
@@ -980,30 +924,31 @@
     },
     {
       "departement": "69",
-      "nom": "MA - US Corbas / Etablissement sp\u00e9cialis\u00e9 pour mineurs du Rh\u00f4ne",
-      "url": "",
+      "nom": "Centre de vaccination -H\u00f4pital Lyon sud - HCL",
+      "url": "https://partners.doctolib.fr/hopital-public/lyon/hopital-lyon-sud-hcl-vaccination-covid?pid=practice-163795",
       "location": {
-        "longitude": 4.99769,
-        "latitude": 45.7605
+        "longitude": 4.80642,
+        "latitude": 45.7021
       },
       "metadata": {
-        "address": " Rue du Rambion, 69330 Meyzieu",
+        "address": "165 Chemin du Grand Revoyet, 69310 Pierre-B\u00e9nite",
+        "phone_number": "+33423101010",
         "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
+          "lundi": "9:00 - 16:00",
+          "mardi": "9:00 - 16:00",
+          "mercredi": "9:00 - 16:00",
+          "jeudi": "9:00 - 16:00",
+          "vendredi": "9:00 - 16:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
         }
       },
       "prochain_rdv": null,
-      "plateforme": "Autre",
+      "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1776"
+      "internal_id": "241954[163795]",
+      "gid": "226"
     },
     {
       "departement": "69",
@@ -1034,6 +979,33 @@
     },
     {
       "departement": "69",
+      "nom": "MA - US Corbas / Etablissement sp\u00e9cialis\u00e9 pour mineurs du Rh\u00f4ne",
+      "url": "",
+      "location": {
+        "longitude": 4.99769,
+        "latitude": 45.7605
+      },
+      "metadata": {
+        "address": " Rue du Rambion, 69330 Meyzieu",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1776"
+    },
+    {
+      "departement": "69",
       "nom": "CP - VILLEFRANCHE SUR SAONE / Maison d'Arr\u00eat de Villefranche-sur-Sa\u00f4ne",
       "url": "",
       "location": {
@@ -1058,6 +1030,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1778"
+    },
+    {
+      "departement": "69",
+      "nom": "Centre de vaccination - Palais des sports de Gerland /Hospices Civils de Lyon",
+      "url": "https://partners.doctolib.fr/hopital-public/lyon/palais-des-sports-gerland-hcl-vaccination-covid?pid=practice-163661",
+      "location": {
+        "longitude": 4.83026,
+        "latitude": 45.724
+      },
+      "metadata": {
+        "address": "350 Avenue Jean Jaur\u00e8s, 69007 Lyon",
+        "phone_number": "+33423101010",
+        "business_hours": {
+          "lundi": "08:30-20:00",
+          "mardi": "08:30-20:00",
+          "mercredi": "08:30-20:00",
+          "jeudi": "08:30-20:00",
+          "vendredi": "08:30-20:00",
+          "samedi": "08:30-20:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241965[163661]",
+      "gid": "688"
     },
     {
       "departement": "69",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:56:10.978803+02:00",
+  "last_updated": "2021-04-10T18:59:31.859899+02:00",
   "centres_disponibles": [
     {
       "departement": "93",
@@ -88,6 +88,34 @@
     },
     {
       "departement": "93",
+      "nom": "Tr\u00e8s grand centre du Stade de France",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-denis/centre-de-vaccination-covid-19-stade-de-france?pid=practice-179894",
+      "location": {
+        "longitude": 2.36014,
+        "latitude": 48.9244
+      },
+      "metadata": {
+        "address": "6 Avenue du Stade de France, porte E, 93210 Saint-Denis",
+        "phone_number": "01 43 93 78 77",
+        "business_hours": {
+          "lundi": "ouvert",
+          "mardi": "ouvert",
+          "mercredi": "ouvert",
+          "jeudi": "ouvert",
+          "vendredi": "ouvert",
+          "samedi": "ouvert",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-13T12:55:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 125,
+      "internal_id": "263051[179894]",
+      "gid": "2141"
+    },
+    {
+      "departement": "93",
       "nom": "Centre de vaccination CPS COVID  - Bobigny H\u00f4tel de Ville",
       "url": "https://partners.doctolib.fr/centre-de-sante/bobigny/centre-de-vaccination-cps-covid-bobigny-hotel-de-ville",
       "location": {
@@ -106,10 +134,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-14T15:00:00.000+02:00",
+      "prochain_rdv": "2021-04-14T14:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 82,
+      "appointment_count": 83,
       "internal_id": "255921[]",
       "gid": "d255921"
     },
@@ -137,37 +165,9 @@
       "prochain_rdv": "2021-04-14T15:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 7,
+      "appointment_count": 4,
       "internal_id": "241073[162590]",
       "gid": "273"
-    },
-    {
-      "departement": "93",
-      "nom": "Tr\u00e8s grand centre du Stade de France",
-      "url": "https://partners.doctolib.fr/centre-de-sante/saint-denis/centre-de-vaccination-covid-19-stade-de-france?pid=practice-179894",
-      "location": {
-        "longitude": 2.36014,
-        "latitude": 48.9244
-      },
-      "metadata": {
-        "address": "6 Avenue du Stade de France, porte E, 93210 Saint-Denis",
-        "phone_number": "01 43 93 78 77",
-        "business_hours": {
-          "lundi": "ouvert",
-          "mardi": "ouvert",
-          "mercredi": "ouvert",
-          "jeudi": "ouvert",
-          "vendredi": "ouvert",
-          "samedi": "ouvert",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-15T10:40:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 62,
-      "internal_id": "263051[179894]",
-      "gid": "2141"
     }
   ],
   "centres_indisponibles": [
@@ -446,6 +446,34 @@
     },
     {
       "departement": "93",
+      "nom": "Salle des f\u00eates Marcel Pagnol",
+      "url": "https://partners.doctolib.fr/centre-de-sante/neuilly-sur-marne/centre-de-vaccination-covid-marne-plaisance",
+      "location": {
+        "longitude": 2.53299,
+        "latitude": 48.8674
+      },
+      "metadata": {
+        "address": "3  rue de Berry 93330 Neuilly-sur-Marne, 93330 Neuilly-sur-Marne",
+        "phone_number": "+33143087888",
+        "business_hours": {
+          "lundi": "9h-17h",
+          "mardi": "9h-17h",
+          "mercredi": "9h-17h",
+          "jeudi": "9h-17h",
+          "vendredi": "9h-17h",
+          "samedi": "9h-17h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242794[163853]",
+      "gid": "608"
+    },
+    {
+      "departement": "93",
       "nom": "EMV Noisy-le-Grand (CD)",
       "url": "",
       "location": {
@@ -497,34 +525,6 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1580"
-    },
-    {
-      "departement": "93",
-      "nom": "Salle des f\u00eates Marcel Pagnol",
-      "url": "https://partners.doctolib.fr/centre-de-sante/neuilly-sur-marne/centre-de-vaccination-covid-marne-plaisance",
-      "location": {
-        "longitude": 2.53299,
-        "latitude": 48.8674
-      },
-      "metadata": {
-        "address": "3  rue de Berry 93330 Neuilly-sur-Marne, 93330 Neuilly-sur-Marne",
-        "phone_number": "+33143087888",
-        "business_hours": {
-          "lundi": "9h-17h",
-          "mardi": "9h-17h",
-          "mercredi": "9h-17h",
-          "jeudi": "9h-17h",
-          "vendredi": "9h-17h",
-          "samedi": "9h-17h",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242794[163853]",
-      "gid": "608"
     },
     {
       "departement": "93",
@@ -612,34 +612,6 @@
     },
     {
       "departement": "93",
-      "nom": "Coll\u00e8ge Courbet",
-      "url": "https://partners.doctolib.fr/centre-de-sante/pierrefitte-sur-seine/centre-de-vaccination-covid-espace-partage-college-gustave-courbet",
-      "location": {
-        "longitude": 2.36085,
-        "latitude": 48.9503
-      },
-      "metadata": {
-        "address": "17 Rue Fran\u00e7ois Mitterrand, 93380 Pierrefitte-sur-Seine",
-        "phone_number": "01 43 93 10 11",
-        "business_hours": {
-          "lundi": "9h-17h",
-          "mardi": "9h-17h",
-          "mercredi": "9h-17h",
-          "jeudi": "9h-17h",
-          "vendredi": "9h-17h",
-          "samedi": "9h-17h",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242187[]",
-      "gid": "621"
-    },
-    {
-      "departement": "93",
       "nom": "Centre de vaccination - salle municipale l'Embarcad\u00e8re",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/aubervilliers/centre-de-vaccination-covid-19-de-la-ville-d-aubervilliers?pid=practice-163722",
       "location": {
@@ -665,6 +637,34 @@
       "appointment_count": 0,
       "internal_id": "251818[163722]",
       "gid": "614"
+    },
+    {
+      "departement": "93",
+      "nom": "Coll\u00e8ge Courbet",
+      "url": "https://partners.doctolib.fr/centre-de-sante/pierrefitte-sur-seine/centre-de-vaccination-covid-espace-partage-college-gustave-courbet",
+      "location": {
+        "longitude": 2.36085,
+        "latitude": 48.9503
+      },
+      "metadata": {
+        "address": "17 Rue Fran\u00e7ois Mitterrand, 93380 Pierrefitte-sur-Seine",
+        "phone_number": "01 43 93 10 11",
+        "business_hours": {
+          "lundi": "9h-17h",
+          "mardi": "9h-17h",
+          "mercredi": "9h-17h",
+          "jeudi": "9h-17h",
+          "vendredi": "9h-17h",
+          "samedi": "9h-17h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242187[]",
+      "gid": "621"
     },
     {
       "departement": "93",
@@ -1467,33 +1467,6 @@
     },
     {
       "departement": "93",
-      "nom": "Centre de vaccination h\u00f4pital Jean Verdier - AP-HP",
-      "url": "https://partners.doctolib.fr/hopital-public/bondy/centre-de-vaccination-hopital-jean-verdier",
-      "location": {
-        "longitude": 2.488053,
-        "latitude": 48.909873
-      },
-      "metadata": {
-        "address": "Avenue du 14 Juillet, 93140 Bondy",
-        "business_hours": {
-          "lundi": null,
-          "mardi": null,
-          "mercredi": null,
-          "jeudi": null,
-          "vendredi": null,
-          "samedi": null,
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "261700[]",
-      "gid": "d261700"
-    },
-    {
-      "departement": "93",
       "nom": "Sant\u00e9 Plus - Centre Saint Denis",
       "url": "https://partners.doctolib.fr/centre-de-sante/saint-denis/sante-plus-centre-saint-denis",
       "location": {
@@ -1519,6 +1492,33 @@
       "appointment_count": 0,
       "internal_id": "163294[]",
       "gid": "d163294"
+    },
+    {
+      "departement": "93",
+      "nom": "Centre de vaccination h\u00f4pital Jean Verdier - AP-HP",
+      "url": "https://partners.doctolib.fr/hopital-public/bondy/centre-de-vaccination-hopital-jean-verdier",
+      "location": {
+        "longitude": 2.488053,
+        "latitude": 48.909873
+      },
+      "metadata": {
+        "address": "Avenue du 14 Juillet, 93140 Bondy",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "261700[]",
+      "gid": "d261700"
     },
     {
       "departement": "93",

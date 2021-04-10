@@ -1,36 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:56:10.962700+02:00",
-  "centres_disponibles": [
-    {
-      "departement": "77",
-      "nom": "Grande Pharmacie de l'Abbaye",
-      "url": "https://partners.doctolib.fr/pharmacie/dammarie-les-lys/pharmacie-de-la-grande-abbaye",
-      "location": {
-        "longitude": 2.6339065,
-        "latitude": 48.5196152
-      },
-      "metadata": {
-        "address": "Rue Gaston Pluchon, 77190 Dammarie-les-Lys",
-        "phone_number": "01 64 37 22 06",
-        "business_hours": {
-          "lundi": "09:00-19:00",
-          "mardi": "09:00-19:00",
-          "mercredi": "09:00-19:00",
-          "jeudi": "09:00-19:00",
-          "vendredi": "09:00-19:00",
-          "samedi": "10:00-18:00",
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": "2021-05-25T12:20:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "drugstore",
-      "appointment_count": 1,
-      "internal_id": "240491[]",
-      "gid": "d240491"
-    }
-  ],
+  "last_updated": "2021-04-10T18:59:31.840148+02:00",
+  "centres_disponibles": [],
   "centres_indisponibles": [
     {
       "departement": "77",
@@ -61,33 +32,6 @@
     },
     {
       "departement": "77",
-      "nom": "GHEF-Site CH Meaux",
-      "url": "https://partners.doctolib.fr/hopital-public/meaux/ghef-centre-de-vaccination-covid-reserve-aux-professionnels-de-sante-de-ville?pid=practice-162173",
-      "location": {
-        "longitude": 2.8846,
-        "latitude": 48.9678
-      },
-      "metadata": {
-        "address": "6 Rue Saint Fiacre, 77100 Meaux",
-        "business_hours": {
-          "lundi": "8H30-17H30",
-          "mardi": "8H30-17H30",
-          "mercredi": "8H30-17H30",
-          "jeudi": "8H30-17H30",
-          "vendredi": "8H30-17H30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241093[162173]",
-      "gid": "1473"
-    },
-    {
-      "departement": "77",
       "nom": "GHEF-Site de Jossigny",
       "url": "https://partners.doctolib.fr/hopital-public/meaux/ghef-centre-de-vaccination-covid-reserve-aux-professionnels-de-sante-de-ville?pid=practice-162172",
       "location": {
@@ -112,6 +56,33 @@
       "appointment_count": 0,
       "internal_id": "241093[162172]",
       "gid": "1472"
+    },
+    {
+      "departement": "77",
+      "nom": "GHEF-Site CH Meaux",
+      "url": "https://partners.doctolib.fr/hopital-public/meaux/ghef-centre-de-vaccination-covid-reserve-aux-professionnels-de-sante-de-ville?pid=practice-162173",
+      "location": {
+        "longitude": 2.8846,
+        "latitude": 48.9678
+      },
+      "metadata": {
+        "address": "6 Rue Saint Fiacre, 77100 Meaux",
+        "business_hours": {
+          "lundi": "8H30-17H30",
+          "mardi": "8H30-17H30",
+          "mercredi": "8H30-17H30",
+          "jeudi": "8H30-17H30",
+          "vendredi": "8H30-17H30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241093[162173]",
+      "gid": "1473"
     },
     {
       "departement": "77",
@@ -142,6 +113,33 @@
     },
     {
       "departement": "77",
+      "nom": "CHSSM-Site de Fontainebleau",
+      "url": "",
+      "location": {
+        "longitude": 2.6963,
+        "latitude": 48.4119
+      },
+      "metadata": {
+        "address": "55 Boulevard du Mar\u00e9chal Joffre, 77300 Fontainebleau",
+        "business_hours": {
+          "lundi": "8H30-17H30",
+          "mardi": "8H30-17H30",
+          "mercredi": "8H30-17H30",
+          "jeudi": "8H30-17H30",
+          "vendredi": "8H30-17H30",
+          "samedi": "",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1475"
+    },
+    {
+      "departement": "77",
       "nom": "Centre de vaccination GHSIF MELUN - Site de Brie Comte Robert",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/brie-comte-robert/centre-de-vaccination-de-la-brie",
       "location": {
@@ -167,33 +165,6 @@
       "appointment_count": 0,
       "internal_id": "242998[]",
       "gid": "860"
-    },
-    {
-      "departement": "77",
-      "nom": "CHSSM-Site de Fontainebleau",
-      "url": "",
-      "location": {
-        "longitude": 2.6963,
-        "latitude": 48.4119
-      },
-      "metadata": {
-        "address": "55 Boulevard du Mar\u00e9chal Joffre, 77300 Fontainebleau",
-        "business_hours": {
-          "lundi": "8H30-17H30",
-          "mardi": "8H30-17H30",
-          "mercredi": "8H30-17H30",
-          "jeudi": "8H30-17H30",
-          "vendredi": "8H30-17H30",
-          "samedi": "",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1475"
     },
     {
       "departement": "77",
@@ -416,33 +387,6 @@
     },
     {
       "departement": "77",
-      "nom": "EMV Torcy",
-      "url": "https://partners.doctolib.fr/centre-de-sante/torcy/point-de-vaccination-avance-de-torcy?pid=practice-173895",
-      "location": {
-        "longitude": 2.65243,
-        "latitude": 48.8497
-      },
-      "metadata": {
-        "address": "5 Place de l\u2019Appel du 18 Juin 1940, 77200 Torcy",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "254257[173895]",
-      "gid": "1560"
-    },
-    {
-      "departement": "77",
       "nom": "EMV Thomery",
       "url": "",
       "location": {
@@ -467,6 +411,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1561"
+    },
+    {
+      "departement": "77",
+      "nom": "EMV Torcy",
+      "url": "https://partners.doctolib.fr/centre-de-sante/torcy/point-de-vaccination-avance-de-torcy?pid=practice-173895",
+      "location": {
+        "longitude": 2.65243,
+        "latitude": 48.8497
+      },
+      "metadata": {
+        "address": "5 Place de l\u2019Appel du 18 Juin 1940, 77200 Torcy",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "254257[173895]",
+      "gid": "1560"
     },
     {
       "departement": "77",
@@ -1099,6 +1070,34 @@
       "appointment_count": 0,
       "internal_id": "261615[]",
       "gid": "d261615"
+    },
+    {
+      "departement": "77",
+      "nom": "Grande Pharmacie de l'Abbaye",
+      "url": "https://partners.doctolib.fr/pharmacie/dammarie-les-lys/pharmacie-de-la-grande-abbaye",
+      "location": {
+        "longitude": 2.6339065,
+        "latitude": 48.5196152
+      },
+      "metadata": {
+        "address": "Rue Gaston Pluchon, 77190 Dammarie-les-Lys",
+        "phone_number": "01 64 37 22 06",
+        "business_hours": {
+          "lundi": "09:00-19:00",
+          "mardi": "09:00-19:00",
+          "mercredi": "09:00-19:00",
+          "jeudi": "09:00-19:00",
+          "vendredi": "09:00-19:00",
+          "samedi": "10:00-18:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "240491[]",
+      "gid": "d240491"
     }
   ]
 }

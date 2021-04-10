@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:56:10.967419+02:00",
+  "last_updated": "2021-04-10T18:59:31.845929+02:00",
   "centres_disponibles": [
     {
       "departement": "81",
@@ -26,37 +26,9 @@
       "prochain_rdv": "2021-04-12T11:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 238,
+      "appointment_count": 239,
       "internal_id": "242019[164139]",
       "gid": "369"
-    },
-    {
-      "departement": "81",
-      "nom": "Centre de vaccination Clinique Toulouse Lautrec",
-      "url": "https://partners.doctolib.fr/hopital-public/tarn/chic-castres-mazamet-centre-de-vaccination?pid=practice-164870",
-      "location": {
-        "longitude": 2.1801,
-        "latitude": 43.9284
-      },
-      "metadata": {
-        "address": "2 Rue Jacques Monod, 81000 Albi",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "09:00-18:00",
-          "mardi": "09:00-18:00",
-          "mercredi": "09:00-18:00",
-          "jeudi": "09:00-18:00",
-          "vendredi": "09:00-18:00",
-          "samedi": "09:00-18:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-13T11:30:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "242019[164870]",
-      "gid": "936"
     },
     {
       "departement": "81",
@@ -172,6 +144,34 @@
     }
   ],
   "centres_indisponibles": [
+    {
+      "departement": "81",
+      "nom": "Centre de vaccination Clinique Toulouse Lautrec",
+      "url": "https://partners.doctolib.fr/hopital-public/tarn/chic-castres-mazamet-centre-de-vaccination?pid=practice-164870",
+      "location": {
+        "longitude": 2.1801,
+        "latitude": 43.9284
+      },
+      "metadata": {
+        "address": "2 Rue Jacques Monod, 81000 Albi",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "09:00-18:00",
+          "mardi": "09:00-18:00",
+          "mercredi": "09:00-18:00",
+          "jeudi": "09:00-18:00",
+          "vendredi": "09:00-18:00",
+          "samedi": "09:00-18:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242019[164870]",
+      "gid": "936"
+    },
     {
       "departement": "81",
       "nom": "MSP Haute Vall\u00e9e du Thor\u00e9 Labastide Rouairoux",
@@ -314,33 +314,6 @@
     },
     {
       "departement": "81",
-      "nom": "EPM - US EPM LAVAUR / Centre de D\u00e9tention de Saint-Sulpice-la-Pointe",
-      "url": "",
-      "location": {
-        "longitude": 1.69325,
-        "latitude": 43.7762
-      },
-      "metadata": {
-        "address": "17 Chemin des Pescayres, 81370 Saint-Sulpice-la-Pointe",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1910"
-    },
-    {
-      "departement": "81",
       "nom": "MA - US  Albi / Maison d'Arr\u00eat d'Albi",
       "url": "",
       "location": {
@@ -365,6 +338,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1909"
+    },
+    {
+      "departement": "81",
+      "nom": "EPM - US EPM LAVAUR / Centre de D\u00e9tention de Saint-Sulpice-la-Pointe",
+      "url": "",
+      "location": {
+        "longitude": 1.69325,
+        "latitude": 43.7762
+      },
+      "metadata": {
+        "address": "17 Chemin des Pescayres, 81370 Saint-Sulpice-la-Pointe",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1910"
     },
     {
       "departement": "81",

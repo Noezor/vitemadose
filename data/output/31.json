@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:56:10.913645+02:00",
+  "last_updated": "2021-04-10T18:59:31.781431+02:00",
   "centres_disponibles": [
     {
       "departement": "31",
@@ -26,7 +26,7 @@
       "prochain_rdv": "2021-04-12T10:00:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 181,
+      "appointment_count": 180,
       "internal_id": null,
       "gid": "671"
     },
@@ -166,7 +166,7 @@
       "prochain_rdv": "2021-04-14T09:10:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 85,
+      "appointment_count": 87,
       "internal_id": null,
       "gid": "2252"
     },
@@ -650,62 +650,6 @@
     },
     {
       "departement": "31",
-      "nom": "CDV31 Saint Gaudens",
-      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/saint-gaudens-31800/saint-gaudens/centre-de-vaccination-de-saint-gaudens",
-      "location": {
-        "longitude": 0.724206,
-        "latitude": 43.1096
-      },
-      "metadata": {
-        "address": "2 Place du Foirail, 31800 Saint-Gaudens",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "14:00-18:00",
-          "mardi": "14:00-18:00",
-          "mercredi": "14:00-18:00",
-          "jeudi": "14:00-18:00",
-          "vendredi": "14:00-18:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Keldoc",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "752"
-    },
-    {
-      "departement": "31",
-      "nom": "CDV31 Bagn\u00e8res de Luchon",
-      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/bagneres-de-luchon-31110/crf-hopitaux-luchon/centre-de-vaccination-du-crf-hopitaux-luchon",
-      "location": {
-        "longitude": 0.5944,
-        "latitude": 42.7888
-      },
-      "metadata": {
-        "address": "Pavillon Normand place Richelieu, 31110 Bagn\u00e8res-de-Luchon",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "8:00-12:00 / 14:00-18:00",
-          "vendredi": "8:00-12:00 / 14:00-18:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Keldoc",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "784"
-    },
-    {
-      "departement": "31",
       "nom": "CDV31 Toulouse Pierre Baudis",
       "url": "https://vaccination-covid.keldoc.com/maladies-infectieuses/toulouse-31000/centre-de-vaccination-departemental-toulouse-pierre-baudis",
       "location": {
@@ -734,6 +678,34 @@
     },
     {
       "departement": "31",
+      "nom": "CDV31 Saint Gaudens",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/saint-gaudens-31800/saint-gaudens/centre-de-vaccination-de-saint-gaudens",
+      "location": {
+        "longitude": 0.724206,
+        "latitude": 43.1096
+      },
+      "metadata": {
+        "address": "2 Place du Foirail, 31800 Saint-Gaudens",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "14:00-18:00",
+          "mardi": "14:00-18:00",
+          "mercredi": "14:00-18:00",
+          "jeudi": "14:00-18:00",
+          "vendredi": "14:00-18:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "752"
+    },
+    {
+      "departement": "31",
       "nom": "CDV31 Saint B\u00e9at",
       "url": "https://vaccination-covid.keldoc.com/cabinet-medical/st-beat-31440/saint-beat/centre-de-vaccination-de-saint-beat",
       "location": {
@@ -759,6 +731,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "732"
+    },
+    {
+      "departement": "31",
+      "nom": "CDV31 Bagn\u00e8res de Luchon",
+      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/bagneres-de-luchon-31110/crf-hopitaux-luchon/centre-de-vaccination-du-crf-hopitaux-luchon",
+      "location": {
+        "longitude": 0.5944,
+        "latitude": 42.7888
+      },
+      "metadata": {
+        "address": "Pavillon Normand place Richelieu, 31110 Bagn\u00e8res-de-Luchon",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "8:00-12:00 / 14:00-18:00",
+          "vendredi": "8:00-12:00 / 14:00-18:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "784"
     },
     {
       "departement": "31",
@@ -1014,34 +1014,6 @@
     },
     {
       "departement": "31",
-      "nom": "CDV31 Revel",
-      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/revel-31250/revel/centre-de-vaccination-de-revel",
-      "location": {
-        "longitude": 2.00571,
-        "latitude": 43.4623
-      },
-      "metadata": {
-        "address": "2 Rue du Padouvenc de Castres, 31250 Revel",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "14:00-18:00",
-          "mardi": "14:00-18:00",
-          "mercredi": "14:00-18:00",
-          "jeudi": "14:00-18:00",
-          "vendredi": "14:00-18:00",
-          "samedi": "14:00-18:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Keldoc",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "591"
-    },
-    {
-      "departement": "31",
       "nom": "CDV31 Villemur sur Tarn",
       "url": "https://vaccination-covid.keldoc.com/cabinet-medical/villemur-sur-tarn-31340/villemur-sur-tarn/centre-de-vaccination-de-villemur-sur-tarn",
       "location": {
@@ -1067,6 +1039,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "714"
+    },
+    {
+      "departement": "31",
+      "nom": "CDV31 Revel",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/revel-31250/revel/centre-de-vaccination-de-revel",
+      "location": {
+        "longitude": 2.00571,
+        "latitude": 43.4623
+      },
+      "metadata": {
+        "address": "2 Rue du Padouvenc de Castres, 31250 Revel",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "14:00-18:00",
+          "mardi": "14:00-18:00",
+          "mercredi": "14:00-18:00",
+          "jeudi": "14:00-18:00",
+          "vendredi": "14:00-18:00",
+          "samedi": "14:00-18:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "591"
     },
     {
       "departement": "31",

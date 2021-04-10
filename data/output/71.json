@@ -1,7 +1,35 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:56:10.953783+02:00",
+  "last_updated": "2021-04-10T18:59:31.829734+02:00",
   "centres_disponibles": [
+    {
+      "departement": "71",
+      "nom": "Centre de vaccination de Chagny",
+      "url": "https://partners.doctolib.fr/centre-de-sante/chagny/centre-de-vaccination-covid-19-de-chagny?pid=practice-178053",
+      "location": {
+        "longitude": 4.75494,
+        "latitude": 46.9069
+      },
+      "metadata": {
+        "address": " Maison du Peuple - Place Marcel Charollais, 71150 Chagny",
+        "phone_number": "+330806030149",
+        "business_hours": {
+          "lundi": "09:00-18:00",
+          "mardi": "09:00-18:00",
+          "mercredi": "09:00-18:00",
+          "jeudi": "09:00-18:00",
+          "vendredi": "09:00-18:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-19T12:30:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 2,
+      "internal_id": "263512[178053]",
+      "gid": "2307"
+    },
     {
       "departement": "71",
       "nom": "Centre de vaccination d'Epinac",
@@ -26,7 +54,7 @@
       "prochain_rdv": "2021-04-22T15:12:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 129,
+      "appointment_count": 128,
       "internal_id": "263517[178060]",
       "gid": "2310"
     },
@@ -54,7 +82,7 @@
       "prochain_rdv": "2021-04-23T09:18:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 3,
+      "appointment_count": 2,
       "internal_id": "263520[178056]",
       "gid": "2313"
     },
@@ -82,7 +110,7 @@
       "prochain_rdv": "2021-04-27T09:48:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 333,
+      "appointment_count": 332,
       "internal_id": "263519[178058]",
       "gid": "2308"
     },
@@ -107,40 +135,12 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-30T15:18:00.000+02:00",
+      "prochain_rdv": "2021-04-30T13:54:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 170,
+      "appointment_count": 171,
       "internal_id": "263516[178054]",
       "gid": "2309"
-    },
-    {
-      "departement": "71",
-      "nom": "Centre de vaccination de Chagny",
-      "url": "https://partners.doctolib.fr/centre-de-sante/chagny/centre-de-vaccination-covid-19-de-chagny?pid=practice-178053",
-      "location": {
-        "longitude": 4.75494,
-        "latitude": 46.9069
-      },
-      "metadata": {
-        "address": " Maison du Peuple - Place Marcel Charollais, 71150 Chagny",
-        "phone_number": "+330806030149",
-        "business_hours": {
-          "lundi": "09:00-18:00",
-          "mardi": "09:00-18:00",
-          "mercredi": "09:00-18:00",
-          "jeudi": "09:00-18:00",
-          "vendredi": "09:00-18:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-05-03T10:54:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 290,
-      "internal_id": "263512[178053]",
-      "gid": "2307"
     },
     {
       "departement": "71",
@@ -197,6 +197,34 @@
       "appointment_count": 135,
       "internal_id": "263513[178061]",
       "gid": "2311"
+    },
+    {
+      "departement": "71",
+      "nom": "Centre de vaccination DIGOIN - Grande salle des f\u00eates",
+      "url": "https://partners.doctolib.fr/centre-de-sante/digoin/centre-de-vaccination-de-digoin",
+      "location": {
+        "longitude": 3.98539,
+        "latitude": 46.4824
+      },
+      "metadata": {
+        "address": " place de la r\u00e9publique, 71160 Digoin",
+        "phone_number": "+33806030149",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "09:00-17:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-05T14:36:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "242418[]",
+      "gid": "628"
     },
     {
       "departement": "71",
@@ -275,10 +303,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-05T17:48:00.000+02:00",
+      "prochain_rdv": "2021-05-06T09:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 71,
+      "appointment_count": 70,
       "internal_id": "265228[181055]",
       "gid": "2370"
     },
@@ -340,34 +368,6 @@
     },
     {
       "departement": "71",
-      "nom": "Centre de vaccination DIGOIN - Grande salle des f\u00eates",
-      "url": "https://partners.doctolib.fr/centre-de-sante/digoin/centre-de-vaccination-de-digoin",
-      "location": {
-        "longitude": 3.98539,
-        "latitude": 46.4824
-      },
-      "metadata": {
-        "address": " place de la r\u00e9publique, 71160 Digoin",
-        "phone_number": "+33806030149",
-        "business_hours": {
-          "lundi": "09:00-17:00",
-          "mardi": "09:00-17:00",
-          "mercredi": "09:00-17:00",
-          "jeudi": "09:00-17:00",
-          "vendredi": "09:00-17:00",
-          "samedi": "09:00-17:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-05-11T10:54:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 157,
-      "internal_id": "242418[]",
-      "gid": "628"
-    },
-    {
-      "departement": "71",
       "nom": "Centre vaccination MACON - Halle sportive du centre omnisport",
       "url": "https://partners.doctolib.fr/centre-de-sante/macon/centre-de-vaccination-de-macon",
       "location": {
@@ -387,10 +387,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-11T13:18:00.000+02:00",
+      "prochain_rdv": "2021-05-11T13:36:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 167,
+      "appointment_count": 166,
       "internal_id": "242411[]",
       "gid": "555"
     },
@@ -446,37 +446,9 @@
       "prochain_rdv": "2021-05-17T10:24:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 12,
+      "appointment_count": 13,
       "internal_id": "242413[]",
       "gid": "562"
-    },
-    {
-      "departement": "71",
-      "nom": "Centre de vaccination MONTCEAU LES MINES - Salle l'Embarcad\u00e8re",
-      "url": "https://partners.doctolib.fr/centre-de-sante/montceau-les-mines/centre-de-vaccination-de-montceau-les-mines",
-      "location": {
-        "longitude": 4.36099,
-        "latitude": 46.6768
-      },
-      "metadata": {
-        "address": "36 Quai Jules Chagot, 71300 Montceau-les-Mines",
-        "phone_number": "+33806030149",
-        "business_hours": {
-          "lundi": "09:00-17:00",
-          "mardi": "09:00-17:00",
-          "mercredi": "09:00-17:00",
-          "jeudi": "09:00-17:00",
-          "vendredi": "09:00-17:00",
-          "samedi": "09:00-17:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-05-17T17:30:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "242416[]",
-      "gid": "612"
     }
   ],
   "centres_indisponibles": [
@@ -506,6 +478,34 @@
       "appointment_count": 0,
       "internal_id": "242647[170208]",
       "gid": "384"
+    },
+    {
+      "departement": "71",
+      "nom": "Centre de vaccination MONTCEAU LES MINES - Salle l'Embarcad\u00e8re",
+      "url": "https://partners.doctolib.fr/centre-de-sante/montceau-les-mines/centre-de-vaccination-de-montceau-les-mines",
+      "location": {
+        "longitude": 4.36099,
+        "latitude": 46.6768
+      },
+      "metadata": {
+        "address": "36 Quai Jules Chagot, 71300 Montceau-les-Mines",
+        "phone_number": "+33806030149",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "09:00-17:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242416[]",
+      "gid": "612"
     },
     {
       "departement": "71",
@@ -591,33 +591,6 @@
     },
     {
       "departement": "71",
-      "nom": "Grand centre 71S",
-      "url": "",
-      "location": {
-        "longitude": 4.8327,
-        "latitude": 46.3032
-      },
-      "metadata": {
-        "address": "322 Quai Lamartine, 71000 M\u00e2con",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "2233"
-    },
-    {
-      "departement": "71",
       "nom": "Grand centre 71N",
       "url": "",
       "location": {
@@ -642,6 +615,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "2232"
+    },
+    {
+      "departement": "71",
+      "nom": "Grand centre 71S",
+      "url": "",
+      "location": {
+        "longitude": 4.8327,
+        "latitude": 46.3032
+      },
+      "metadata": {
+        "address": "322 Quai Lamartine, 71000 M\u00e2con",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "2233"
     },
     {
       "departement": "71",

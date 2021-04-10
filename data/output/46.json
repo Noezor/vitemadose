@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:56:10.928724+02:00",
+  "last_updated": "2021-04-10T18:59:31.799830+02:00",
   "centres_disponibles": [
     {
       "departement": "46",
@@ -29,34 +29,6 @@
       "appointment_count": 4,
       "internal_id": "243140[]",
       "gid": "682"
-    },
-    {
-      "departement": "46",
-      "nom": "Centre Hospitalier de Figeac",
-      "url": "https://partners.doctolib.fr/hopital-public/figeac/ch-figeac?pid=practice-163185",
-      "location": {
-        "longitude": 2.0299404,
-        "latitude": 44.6103025
-      },
-      "metadata": {
-        "address": "33 Rue des Maquisards, 46100 Figeac",
-        "phone_number": "05 65 50 65 50",
-        "business_hours": {
-          "lundi": "08:00-18:00",
-          "mardi": "08:00-18:00",
-          "mercredi": "08:00-18:00",
-          "jeudi": "08:00-18:00",
-          "vendredi": "08:00-18:00",
-          "samedi": "09:00-18:00",
-          "dimanche": "09:00-18:00"
-        }
-      },
-      "prochain_rdv": "2021-04-15T16:30:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 80,
-      "internal_id": "198259[163185]",
-      "gid": "d198259"
     },
     {
       "departement": "46",
@@ -113,6 +85,34 @@
       "appointment_count": 71,
       "internal_id": "240912[]",
       "gid": "354"
+    },
+    {
+      "departement": "46",
+      "nom": "Centre Hospitalier de Figeac",
+      "url": "https://partners.doctolib.fr/hopital-public/figeac/ch-figeac?pid=practice-163185",
+      "location": {
+        "longitude": 2.0299404,
+        "latitude": 44.6103025
+      },
+      "metadata": {
+        "address": "33 Rue des Maquisards, 46100 Figeac",
+        "phone_number": "05 65 50 65 50",
+        "business_hours": {
+          "lundi": "08:00-18:00",
+          "mardi": "08:00-18:00",
+          "mercredi": "08:00-18:00",
+          "jeudi": "08:00-18:00",
+          "vendredi": "08:00-18:00",
+          "samedi": "09:00-18:00",
+          "dimanche": "09:00-18:00"
+        }
+      },
+      "prochain_rdv": "2021-04-19T11:30:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 70,
+      "internal_id": "198259[163185]",
+      "gid": "d198259"
     },
     {
       "departement": "46",
@@ -194,7 +194,7 @@
       "prochain_rdv": "2021-05-08T08:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 12,
+      "appointment_count": 13,
       "internal_id": "242817[]",
       "gid": "1129"
     },
@@ -397,6 +397,33 @@
     },
     {
       "departement": "46",
+      "nom": "Cressesac",
+      "url": "",
+      "location": {
+        "longitude": 1.51701,
+        "latitude": 45.0198
+      },
+      "metadata": {
+        "address": " combe de la sal\u00e9, 46600 Cressensac-Sarrazac",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "2055"
+    },
+    {
+      "departement": "46",
       "nom": "MSP Lalbenque",
       "url": "",
       "location": {
@@ -422,33 +449,6 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "2030"
-    },
-    {
-      "departement": "46",
-      "nom": "Cressesac",
-      "url": "",
-      "location": {
-        "longitude": 1.51701,
-        "latitude": 45.0198
-      },
-      "metadata": {
-        "address": " combe de la sal\u00e9, 46600 Cressensac-Sarrazac",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "2055"
     },
     {
       "departement": "46",

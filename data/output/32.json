@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:56:10.915267+02:00",
+  "last_updated": "2021-04-10T18:59:31.783421+02:00",
   "centres_disponibles": [
     {
       "departement": "32",
@@ -146,6 +146,34 @@
     },
     {
       "departement": "32",
+      "nom": "Salle d'animation NOGARO",
+      "url": "https://partners.doctolib.fr/centre-de-sante/nogaro/centre-de-vaccination-covid-19-nogaro",
+      "location": {
+        "longitude": -0.0328511,
+        "latitude": 43.7607
+      },
+      "metadata": {
+        "address": " place des Ar\u00e8nes, 32110 Nogaro",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "09:00-12:00/14:00-17:00",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243444[]",
+      "gid": "972"
+    },
+    {
+      "departement": "32",
       "nom": "Salle omnisport LECTOURE",
       "url": "https://partners.doctolib.fr/centre-de-sante/lectoure/centre-de-vaccination-covid-19-lectoure?pid=practice-166213",
       "location": {
@@ -199,34 +227,6 @@
       "appointment_count": 0,
       "internal_id": "244687[166214]",
       "gid": "1198"
-    },
-    {
-      "departement": "32",
-      "nom": "Salle d'animation NOGARO",
-      "url": "https://partners.doctolib.fr/centre-de-sante/nogaro/centre-de-vaccination-covid-19-nogaro",
-      "location": {
-        "longitude": -0.0328511,
-        "latitude": 43.7607
-      },
-      "metadata": {
-        "address": " place des Ar\u00e8nes, 32110 Nogaro",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "09:00-12:00/14:00-17:00",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243444[]",
-      "gid": "972"
     },
     {
       "departement": "32",

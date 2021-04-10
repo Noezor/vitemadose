@@ -1,35 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:56:10.927976+02:00",
+  "last_updated": "2021-04-10T18:59:31.798941+02:00",
   "centres_disponibles": [
-    {
-      "departement": "45",
-      "nom": "Grand centre de vaccination - Olivet - Centre sportif du Larry",
-      "url": "https://partners.doctolib.fr/centre-de-sante/olivet/centre-de-vaccination-covid-19-vaccinodrome-d-olivet?pid=practice-181158",
-      "location": {
-        "longitude": 1.90565,
-        "latitude": 47.8594
-      },
-      "metadata": {
-        "address": "54 Rue des Ch\u00eanes, 45160 Olivet",
-        "phone_number": "08 05 02 14 00",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-12T11:20:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 2,
-      "internal_id": "264587[181158]",
-      "gid": "2152"
-    },
     {
       "departement": "45",
       "nom": "Salle polyvalente Cuiry de Gien",
@@ -78,12 +50,40 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-15T09:45:00.000+02:00",
+      "prochain_rdv": "2021-04-15T09:25:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 8,
       "internal_id": "242169[]",
       "gid": "1360"
+    },
+    {
+      "departement": "45",
+      "nom": "Grand centre de vaccination - Olivet - Centre sportif du Larry",
+      "url": "https://partners.doctolib.fr/centre-de-sante/olivet/centre-de-vaccination-covid-19-vaccinodrome-d-olivet?pid=practice-181158",
+      "location": {
+        "longitude": 1.90565,
+        "latitude": 47.8594
+      },
+      "metadata": {
+        "address": "54 Rue des Ch\u00eanes, 45160 Olivet",
+        "phone_number": "08 05 02 14 00",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-27T16:10:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 197,
+      "internal_id": "264587[181158]",
+      "gid": "2152"
     }
   ],
   "centres_indisponibles": [
@@ -283,61 +283,6 @@
     },
     {
       "departement": "45",
-      "nom": "Centre hospitalier de Beaugency - centre de vaccination public",
-      "url": "https://partners.doctolib.fr/hopital-public/beaugency/centre-de-vaccination-covid-hopital-de-beaugency",
-      "location": {
-        "longitude": 1.62009,
-        "latitude": 47.7819
-      },
-      "metadata": {
-        "address": "48 Avenue de Vend\u00f4me, 45190 Beaugency",
-        "phone_number": "08 05 02 14 00",
-        "business_hours": {
-          "lundi": "Ouvert",
-          "mardi": "ouvert",
-          "mercredi": "ouvert",
-          "jeudi": "ouvert",
-          "vendredi": "ouvert",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242167[]",
-      "gid": "1353"
-    },
-    {
-      "departement": "45",
-      "nom": "CH de Gien - r\u00e9serv\u00e9 aux professionnels de sant\u00e9",
-      "url": "https://partners.doctolib.fr/hopital-public/gien/centre-de-vaccination-covid-hopital-de-gien",
-      "location": {
-        "longitude": 2.63436,
-        "latitude": 47.6904
-      },
-      "metadata": {
-        "address": "2 ter Avenue Jean Villejean, 45500 Gien",
-        "business_hours": {
-          "lundi": "ouvert",
-          "mardi": "ouvert",
-          "mercredi": "ouvert",
-          "jeudi": "ouvert",
-          "vendredi": "ouvert",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242166[]",
-      "gid": "1358"
-    },
-    {
-      "departement": "45",
       "nom": "CH de Beaugency - r\u00e9serv\u00e9 aux professionnels en exercice",
       "url": "https://partners.doctolib.fr/hopital-public/beaugency/centre-de-vaccination-covid-hopital-de-beaugency?pid=practice-163901",
       "location": {
@@ -389,6 +334,61 @@
       "appointment_count": 0,
       "internal_id": "242009[]",
       "gid": "1356"
+    },
+    {
+      "departement": "45",
+      "nom": "CH de Gien - r\u00e9serv\u00e9 aux professionnels de sant\u00e9",
+      "url": "https://partners.doctolib.fr/hopital-public/gien/centre-de-vaccination-covid-hopital-de-gien",
+      "location": {
+        "longitude": 2.63436,
+        "latitude": 47.6904
+      },
+      "metadata": {
+        "address": "2 ter Avenue Jean Villejean, 45500 Gien",
+        "business_hours": {
+          "lundi": "ouvert",
+          "mardi": "ouvert",
+          "mercredi": "ouvert",
+          "jeudi": "ouvert",
+          "vendredi": "ouvert",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242166[]",
+      "gid": "1358"
+    },
+    {
+      "departement": "45",
+      "nom": "Centre hospitalier de Beaugency - centre de vaccination public",
+      "url": "https://partners.doctolib.fr/hopital-public/beaugency/centre-de-vaccination-covid-hopital-de-beaugency",
+      "location": {
+        "longitude": 1.62009,
+        "latitude": 47.7819
+      },
+      "metadata": {
+        "address": "48 Avenue de Vend\u00f4me, 45190 Beaugency",
+        "phone_number": "08 05 02 14 00",
+        "business_hours": {
+          "lundi": "Ouvert",
+          "mardi": "ouvert",
+          "mercredi": "ouvert",
+          "jeudi": "ouvert",
+          "vendredi": "ouvert",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242167[]",
+      "gid": "1353"
     },
     {
       "departement": "45",

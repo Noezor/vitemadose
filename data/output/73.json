@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:56:10.955712+02:00",
+  "last_updated": "2021-04-10T18:59:31.831869+02:00",
   "centres_disponibles": [
     {
       "departement": "73",
@@ -158,40 +158,40 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-19T10:45:00.000+02:00",
+      "prochain_rdv": "2021-04-19T11:41:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 427,
+      "appointment_count": 424,
       "internal_id": "264576[]",
       "gid": "d264576"
     },
     {
       "departement": "73",
-      "nom": "Centre de vaccination COVID Albertville-Salle Pierre du Roy",
-      "url": "https://partners.doctolib.fr/centre-de-sante/albertville/centre-de-vaccination-covid-maison-de-sante-d-albertville",
+      "nom": "Centre de vaccination COVID - AIX LES BAINS",
+      "url": "https://partners.doctolib.fr/hopital-public/aix-les-bains/hopital-aix-les-bains-centre-de-vaccination-covid-19",
       "location": {
-        "longitude": 6.3697,
-        "latitude": 45.6677
+        "longitude": 5.90731,
+        "latitude": 45.6968
       },
       "metadata": {
-        "address": "23 Chemin de la Pierre du Roy, 73200 Albertville",
-        "phone_number": "+33479104343",
+        "address": " RUE JEAN MONARD, 73100 Aix-les-Bains",
+        "phone_number": "+33479885354",
         "business_hours": {
-          "lundi": "08:00-12:00/14:00-18:00",
-          "mardi": "08:00-12:00/14:00-18:00",
-          "mercredi": "08:00-12:00/14:00-18:00",
-          "jeudi": "08:00-12:00/14:00-18:00",
-          "vendredi": "08:00-12:00/14:00-18:00",
+          "lundi": "08:00-12:00/13:00-17:00",
+          "mardi": "08:00-12:00/13:00-17:00",
+          "mercredi": "08:00-12:00/13:00-17:00",
+          "jeudi": "08:00-12:00/13:00-17:00",
+          "vendredi": "08:00-12:00/13:00-17:00",
           "samedi": "ferm\u00e9",
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-21T10:10:00.000+02:00",
+      "prochain_rdv": "2021-04-20T13:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "243111[]",
-      "gid": "703"
+      "appointment_count": 50,
+      "internal_id": "242539[]",
+      "gid": "673"
     },
     {
       "departement": "73",
@@ -250,31 +250,31 @@
     },
     {
       "departement": "73",
-      "nom": "Centre de vaccination COVID - AIX LES BAINS",
-      "url": "https://partners.doctolib.fr/hopital-public/aix-les-bains/hopital-aix-les-bains-centre-de-vaccination-covid-19",
+      "nom": "Centre de vaccination COVID Albertville-Salle Pierre du Roy",
+      "url": "https://partners.doctolib.fr/centre-de-sante/albertville/centre-de-vaccination-covid-maison-de-sante-d-albertville",
       "location": {
-        "longitude": 5.90731,
-        "latitude": 45.6968
+        "longitude": 6.3697,
+        "latitude": 45.6677
       },
       "metadata": {
-        "address": " RUE JEAN MONARD, 73100 Aix-les-Bains",
-        "phone_number": "+33479885354",
+        "address": "23 Chemin de la Pierre du Roy, 73200 Albertville",
+        "phone_number": "+33479104343",
         "business_hours": {
-          "lundi": "08:00-12:00/13:00-17:00",
-          "mardi": "08:00-12:00/13:00-17:00",
-          "mercredi": "08:00-12:00/13:00-17:00",
-          "jeudi": "08:00-12:00/13:00-17:00",
-          "vendredi": "08:00-12:00/13:00-17:00",
+          "lundi": "08:00-12:00/14:00-18:00",
+          "mardi": "08:00-12:00/14:00-18:00",
+          "mercredi": "08:00-12:00/14:00-18:00",
+          "jeudi": "08:00-12:00/14:00-18:00",
+          "vendredi": "08:00-12:00/14:00-18:00",
           "samedi": "ferm\u00e9",
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-22T08:18:00.000+02:00",
+      "prochain_rdv": "2021-04-26T10:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 48,
-      "internal_id": "242539[]",
-      "gid": "673"
+      "appointment_count": 79,
+      "internal_id": "243111[]",
+      "gid": "703"
     }
   ],
   "centres_indisponibles": [

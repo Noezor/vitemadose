@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:56:10.906326+02:00",
+  "last_updated": "2021-04-10T18:59:31.772504+02:00",
   "centres_disponibles": [
     {
       "departement": "24",
@@ -23,10 +23,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-12T16:54:00.000+02:00",
+      "prochain_rdv": "2021-04-12T16:12:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 1,
+      "appointment_count": 2,
       "internal_id": "240691[]",
       "gid": "119"
     },
@@ -106,10 +106,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-27T16:00:00.000+02:00",
+      "prochain_rdv": "2021-04-27T16:05:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 45,
+      "appointment_count": 44,
       "internal_id": "264649[]",
       "gid": "d264649"
     }
@@ -444,33 +444,6 @@
     },
     {
       "departement": "24",
-      "nom": "Centre de Vaccination - CH Vauclaire",
-      "url": "https://partners.doctolib.fr/hopital-public/montpon-menesterol/centre-de-vaccination-covid-19-ch-de-vauclaire?pid=practice-176882",
-      "location": {
-        "longitude": 0.184902,
-        "latitude": 45.0335
-      },
-      "metadata": {
-        "address": "1677 Vauclaire, 24700 Montpon-M\u00e9nest\u00e9rol",
-        "business_hours": {
-          "lundi": "9:00-17:00",
-          "mardi": "9:00-17:00",
-          "mercredi": "9:00-17:00",
-          "jeudi": "9:00-17:00",
-          "vendredi": "9:00-17:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "258536[176882]",
-      "gid": "2118"
-    },
-    {
-      "departement": "24",
       "nom": "Maison de sant\u00e9 pluridisciplinaire D'Eymet",
       "url": "",
       "location": {
@@ -495,6 +468,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "2243"
+    },
+    {
+      "departement": "24",
+      "nom": "Centre de Vaccination - CH Vauclaire",
+      "url": "https://partners.doctolib.fr/hopital-public/montpon-menesterol/centre-de-vaccination-covid-19-ch-de-vauclaire?pid=practice-176882",
+      "location": {
+        "longitude": 0.184902,
+        "latitude": 45.0335
+      },
+      "metadata": {
+        "address": "1677 Vauclaire, 24700 Montpon-M\u00e9nest\u00e9rol",
+        "business_hours": {
+          "lundi": "9:00-17:00",
+          "mardi": "9:00-17:00",
+          "mercredi": "9:00-17:00",
+          "jeudi": "9:00-17:00",
+          "vendredi": "9:00-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "258536[176882]",
+      "gid": "2118"
     },
     {
       "departement": "24",

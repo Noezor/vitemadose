@@ -1,62 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:56:10.898700+02:00",
+  "last_updated": "2021-04-10T18:59:31.763190+02:00",
   "centres_disponibles": [
-    {
-      "departement": "14",
-      "nom": "CHU DE CAEN NORMANDIE",
-      "url": "https://partners.doctolib.fr/hopital-public/caen/chu-caen-vaccination-covid",
-      "location": {
-        "longitude": -0.357382,
-        "latitude": 49.2045
-      },
-      "metadata": {
-        "address": " avenue C\u00f4te de Nacre, 14000 Caen",
-        "phone_number": "+33279461156",
-        "business_hours": {
-          "lundi": "",
-          "mardi": "",
-          "mercredi": "",
-          "jeudi": "",
-          "vendredi": "",
-          "samedi": "",
-          "dimanche": ""
-        }
-      },
-      "prochain_rdv": "2021-04-12T10:30:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 245,
-      "internal_id": "242029[]",
-      "gid": "17"
-    },
-    {
-      "departement": "14",
-      "nom": "Equipe Mobile R\u00e9sidences Autonomie et Territoire Calvados",
-      "url": "https://partners.doctolib.fr/hopital-public/caen/chu-caen-vaccination-covid?pid=practice-163773",
-      "location": {
-        "longitude": -0.362889,
-        "latitude": 49.2101
-      },
-      "metadata": {
-        "address": " Avenue de la Cote de Nacre, 14000 Caen",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-12T10:30:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 245,
-      "internal_id": "242029[163773]",
-      "gid": "1346"
-    },
     {
       "departement": "14",
       "nom": "CH de Lisieux",
@@ -112,34 +57,6 @@
       "appointment_count": 64,
       "internal_id": null,
       "gid": "501"
-    },
-    {
-      "departement": "14",
-      "nom": "Centre de vaccination M\u00e9zidon Vall\u00e9e d'Auge",
-      "url": "https://partners.doctolib.fr/centre-de-sante/mezidon-vallee-d-auge/centre-de-vaccination-covid-19-mezidon-vallee-d-auge?pid=practice-179725",
-      "location": {
-        "longitude": -0.0674805,
-        "latitude": 49.0738
-      },
-      "metadata": {
-        "address": "17 Rue Marcel Lemeray, 14270 M\u00e9zidon Vall\u00e9e d'Auge",
-        "phone_number": "+33279461156",
-        "business_hours": {
-          "lundi": "",
-          "mardi": "",
-          "mercredi": "",
-          "jeudi": "",
-          "vendredi": "",
-          "samedi": "",
-          "dimanche": ""
-        }
-      },
-      "prochain_rdv": "2021-04-15T15:05:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "262762[179725]",
-      "gid": "2238"
     },
     {
       "departement": "14",
@@ -229,6 +146,62 @@
   "centres_indisponibles": [
     {
       "departement": "14",
+      "nom": "CHU DE CAEN NORMANDIE",
+      "url": "https://partners.doctolib.fr/hopital-public/caen/chu-caen-vaccination-covid",
+      "location": {
+        "longitude": -0.357382,
+        "latitude": 49.2045
+      },
+      "metadata": {
+        "address": " avenue C\u00f4te de Nacre, 14000 Caen",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242029[]",
+      "gid": "17"
+    },
+    {
+      "departement": "14",
+      "nom": "Centre de vaccination M\u00e9zidon Vall\u00e9e d'Auge",
+      "url": "https://partners.doctolib.fr/centre-de-sante/mezidon-vallee-d-auge/centre-de-vaccination-covid-19-mezidon-vallee-d-auge?pid=practice-179725",
+      "location": {
+        "longitude": -0.0674805,
+        "latitude": 49.0738
+      },
+      "metadata": {
+        "address": "17 Rue Marcel Lemeray, 14270 M\u00e9zidon Vall\u00e9e d'Auge",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "262762[179725]",
+      "gid": "2238"
+    },
+    {
+      "departement": "14",
       "nom": "Centre de vaccination Isigny-sur-Mer - mairie",
       "url": "https://partners.doctolib.fr/centre-de-sante/isigny-sur-mer/cpts-axante",
       "location": {
@@ -282,6 +255,33 @@
       "appointment_count": 0,
       "internal_id": "242565[178802]",
       "gid": "2330"
+    },
+    {
+      "departement": "14",
+      "nom": "Equipe Mobile R\u00e9sidences Autonomie et Territoire Calvados",
+      "url": "https://partners.doctolib.fr/hopital-public/caen/chu-caen-vaccination-covid?pid=practice-163773",
+      "location": {
+        "longitude": -0.362889,
+        "latitude": 49.2101
+      },
+      "metadata": {
+        "address": " Avenue de la Cote de Nacre, 14000 Caen",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242029[163773]",
+      "gid": "1346"
     },
     {
       "departement": "14",
@@ -527,26 +527,6 @@
     },
     {
       "departement": "14",
-      "nom": "Pharmacie Ferran",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-ferran-mondeville",
-      "location": {
-        "longitude": -0.3228682,
-        "latitude": 49.1753142
-      },
-      "metadata": {
-        "address": "48 rue chapron, 14120 mondeville",
-        "phone_number": "+33231521571",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "66e3681c"
-    },
-    {
-      "departement": "14",
       "nom": "Pharmacie Mozart",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-mozart-lisieux",
       "location": {
@@ -564,6 +544,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "67814501"
+    },
+    {
+      "departement": "14",
+      "nom": "Pharmacie Ferran",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-ferran-mondeville",
+      "location": {
+        "longitude": -0.3228682,
+        "latitude": 49.1753142
+      },
+      "metadata": {
+        "address": "48 rue chapron, 14120 mondeville",
+        "phone_number": "+33231521571",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "66e3681c"
     },
     {
       "departement": "14",

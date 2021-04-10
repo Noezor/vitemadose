@@ -1,34 +1,34 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:56:10.968044+02:00",
+  "last_updated": "2021-04-10T18:59:31.846723+02:00",
   "centres_disponibles": [
     {
       "departement": "82",
-      "nom": "CH N\u00e8grepelisse",
-      "url": "https://partners.doctolib.fr/hopital-public/negrepelisse/centre-de-vaccination-covid-ch-negrepelisse",
+      "nom": "centre de vaccination MSP Moissac",
+      "url": "https://partners.doctolib.fr/cabinet-medical/moissac/centre-covid-cosec",
       "location": {
-        "longitude": 1.52185,
-        "latitude": 44.0743
+        "longitude": 1.09981,
+        "latitude": 44.1085
       },
       "metadata": {
-        "address": "31 Rue de Turenne, 82800 N\u00e8grepelisse",
+        "address": "19 Avenue du Chasselas espace confluences, 82200 Moissac",
         "phone_number": "+33800541919",
         "business_hours": {
-          "lundi": "9:00-13:00-14:00-18:00",
-          "mardi": "9:00-13:00-14:00-18:00",
-          "mercredi": "9:00-13:00-14:00-18:00",
-          "jeudi": "9:00-13:00-14:00-18:00",
-          "vendredi": "9:00-13:00-14:00-18:00",
-          "samedi": "9:00-13:00",
-          "dimanche": "Non pr\u00e9cis\u00e9 \u00e0 ce jour"
+          "lundi": "13:30-17:00",
+          "mardi": "13:30-17:00",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "9:00-13:00/13:30-17:30",
+          "vendredi": "9:00-13:30",
+          "samedi": "",
+          "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-14T17:30:00.000+02:00",
+      "prochain_rdv": "2021-04-14T17:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 9,
-      "internal_id": "242473[]",
-      "gid": "374"
+      "appointment_count": 75,
+      "internal_id": "186938[]",
+      "gid": "515"
     },
     {
       "departement": "82",
@@ -60,31 +60,31 @@
     },
     {
       "departement": "82",
-      "nom": "centre de vaccination MSP Moissac",
-      "url": "https://partners.doctolib.fr/cabinet-medical/moissac/centre-covid-cosec",
+      "nom": "CH N\u00e8grepelisse",
+      "url": "https://partners.doctolib.fr/hopital-public/negrepelisse/centre-de-vaccination-covid-ch-negrepelisse",
       "location": {
-        "longitude": 1.09981,
-        "latitude": 44.1085
+        "longitude": 1.52185,
+        "latitude": 44.0743
       },
       "metadata": {
-        "address": "19 Avenue du Chasselas espace confluences, 82200 Moissac",
+        "address": "31 Rue de Turenne, 82800 N\u00e8grepelisse",
         "phone_number": "+33800541919",
         "business_hours": {
-          "lundi": "13:30-17:00",
-          "mardi": "13:30-17:00",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "9:00-13:00/13:30-17:30",
-          "vendredi": "9:00-13:30",
-          "samedi": "",
-          "dimanche": "ferm\u00e9"
+          "lundi": "9:00-13:00-14:00-18:00",
+          "mardi": "9:00-13:00-14:00-18:00",
+          "mercredi": "9:00-13:00-14:00-18:00",
+          "jeudi": "9:00-13:00-14:00-18:00",
+          "vendredi": "9:00-13:00-14:00-18:00",
+          "samedi": "9:00-13:00",
+          "dimanche": "Non pr\u00e9cis\u00e9 \u00e0 ce jour"
         }
       },
-      "prochain_rdv": "2021-04-20T15:00:00.000+02:00",
+      "prochain_rdv": "2021-04-16T11:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 160,
-      "internal_id": "186938[]",
-      "gid": "515"
+      "appointment_count": 8,
+      "internal_id": "242473[]",
+      "gid": "374"
     }
   ],
   "centres_indisponibles": [

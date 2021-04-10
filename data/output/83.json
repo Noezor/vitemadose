@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:56:10.968532+02:00",
+  "last_updated": "2021-04-10T18:59:31.847295+02:00",
   "centres_disponibles": [
     {
       "departement": "83",
@@ -87,61 +87,6 @@
     },
     {
       "departement": "83",
-      "nom": "Centre vaccination H\u00f4pital Cl\u00e9menceau",
-      "url": "https://partners.doctolib.fr/hopital-public/toulon/centre-de-vaccination-covid-19-du-chits-toulon?pid=practice-162560",
-      "location": {
-        "longitude": 6.01521,
-        "latitude": 43.1328
-      },
-      "metadata": {
-        "address": "421 Av 1er Btn Infant M Pacifique, 83130 La Garde",
-        "business_hours": {
-          "lundi": "8h30 \u00e0 17h30",
-          "mardi": "8h30 \u00e0 17h30",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "8h30 \u00e0 17h30",
-          "vendredi": "8h30 \u00e0 17h30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-13T13:35:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 24,
-      "internal_id": "249196[162560]",
-      "gid": "2200"
-    },
-    {
-      "departement": "83",
-      "nom": "Forum du casino",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-165067",
-      "location": {
-        "longitude": 6.13153,
-        "latitude": 43.1185
-      },
-      "metadata": {
-        "address": "3 Avenue Ambroise Thomas, 83400 Hy\u00e8res",
-        "phone_number": "08 00 08 34 10",
-        "business_hours": {
-          "lundi": "9h/17h",
-          "mardi": "9h/17h",
-          "mercredi": "9h/17h",
-          "jeudi": "9h/17h",
-          "vendredi": "9h/17h",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-15T12:50:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "243226[165067]",
-      "gid": "835"
-    },
-    {
-      "departement": "83",
       "nom": "HIA Sainte-Anne",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-hopital-d-instruction-des-armees-chia-sainte-anne?pid=practice-171324",
       "location": {
@@ -161,12 +106,39 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-17T09:00:00.000+02:00",
+      "prochain_rdv": "2021-04-13T09:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 1114,
+      "appointment_count": 845,
       "internal_id": "251058[179632]",
       "gid": "1518"
+    },
+    {
+      "departement": "83",
+      "nom": "Centre vaccination H\u00f4pital Cl\u00e9menceau",
+      "url": "https://partners.doctolib.fr/hopital-public/toulon/centre-de-vaccination-covid-19-du-chits-toulon?pid=practice-162560",
+      "location": {
+        "longitude": 6.01521,
+        "latitude": 43.1328
+      },
+      "metadata": {
+        "address": "421 Av 1er Btn Infant M Pacifique, 83130 La Garde",
+        "business_hours": {
+          "lundi": "8h30 \u00e0 17h30",
+          "mardi": "8h30 \u00e0 17h30",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "8h30 \u00e0 17h30",
+          "vendredi": "8h30 \u00e0 17h30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-13T15:25:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 18,
+      "internal_id": "249196[162560]",
+      "gid": "2200"
     },
     {
       "departement": "83",
@@ -189,10 +161,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-18T13:50:00.000+02:00",
+      "prochain_rdv": "2021-04-16T16:10:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 21,
+      "appointment_count": 22,
       "internal_id": "240834[]",
       "gid": "147"
     },
@@ -219,7 +191,7 @@
       "prochain_rdv": "2021-04-22T12:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 252,
+      "appointment_count": 254,
       "internal_id": "243226[176700]",
       "gid": "1999"
     },
@@ -665,6 +637,34 @@
     },
     {
       "departement": "83",
+      "nom": "Centre vaccination La Garde",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-166708",
+      "location": {
+        "longitude": 6.01215,
+        "latitude": 43.1261
+      },
+      "metadata": {
+        "address": "131 avenue Baptistin Autran, 83130 La Garde",
+        "phone_number": "04 94 48 22 35",
+        "business_hours": {
+          "lundi": "09h-17 h",
+          "mardi": "09h-17 h",
+          "mercredi": "09h-17 h",
+          "jeudi": "09h-17 h",
+          "vendredi": "09h-17 h",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243226[166708]",
+      "gid": "1278"
+    },
+    {
+      "departement": "83",
       "nom": "Centre Vaccination La Roquebrussanne",
       "url": "",
       "location": {
@@ -719,34 +719,6 @@
     },
     {
       "departement": "83",
-      "nom": "Centre vaccination La Garde",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-166708",
-      "location": {
-        "longitude": 6.01215,
-        "latitude": 43.1261
-      },
-      "metadata": {
-        "address": "131 avenue Baptistin Autran, 83130 La Garde",
-        "phone_number": "04 94 48 22 35",
-        "business_hours": {
-          "lundi": "09h-17 h",
-          "mardi": "09h-17 h",
-          "mercredi": "09h-17 h",
-          "jeudi": "09h-17 h",
-          "vendredi": "09h-17 h",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243226[166708]",
-      "gid": "1278"
-    },
-    {
-      "departement": "83",
       "nom": "Centre vaccination de Pourri\u00e8res",
       "url": "",
       "location": {
@@ -774,33 +746,6 @@
     },
     {
       "departement": "83",
-      "nom": "Espace Culturel J.L.DIEUX",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-164120&enable_cookies_consent=1",
-      "location": {
-        "longitude": 6.31299,
-        "latitude": 43.3937
-      },
-      "metadata": {
-        "address": " Avenue Pierre Gaudin, 83340 Le Luc",
-        "business_hours": {
-          "lundi": "Ouvert",
-          "mardi": "Ouvert",
-          "mercredi": "Ouvert",
-          "jeudi": "Ouvert",
-          "vendredi": "Ouvert",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": null,
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1401"
-    },
-    {
-      "departement": "83",
       "nom": "Centre vaccination Cavalaire",
       "url": "",
       "location": {
@@ -825,6 +770,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "2306"
+    },
+    {
+      "departement": "83",
+      "nom": "Espace Culturel J.L.DIEUX",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-164120&enable_cookies_consent=1",
+      "location": {
+        "longitude": 6.31299,
+        "latitude": 43.3937
+      },
+      "metadata": {
+        "address": " Avenue Pierre Gaudin, 83340 Le Luc",
+        "business_hours": {
+          "lundi": "Ouvert",
+          "mardi": "Ouvert",
+          "mercredi": "Ouvert",
+          "jeudi": "Ouvert",
+          "vendredi": "Ouvert",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": null,
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1401"
     },
     {
       "departement": "83",
@@ -939,6 +911,33 @@
     },
     {
       "departement": "83",
+      "nom": "Centre de Vaccination Sainte Musse",
+      "url": "https://partners.doctolib.fr/hopital-public/toulon/centre-de-vaccination-covid-19-du-chits-toulon?pid=practice-169719",
+      "location": {
+        "longitude": 5.97545,
+        "latitude": 43.1252
+      },
+      "metadata": {
+        "address": "54 Rue Henri Sainte-Claire Deville, 83100 Toulon",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ouvert",
+          "dimanche": "ouvert"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "249196[169719]",
+      "gid": "2157"
+    },
+    {
+      "departement": "83",
       "nom": "Centre de Vaccination de SIX FOURS",
       "url": "",
       "location": {
@@ -1020,33 +1019,6 @@
     },
     {
       "departement": "83",
-      "nom": "Centre de Vaccination Sainte Musse",
-      "url": "https://partners.doctolib.fr/hopital-public/toulon/centre-de-vaccination-covid-19-du-chits-toulon?pid=practice-169719",
-      "location": {
-        "longitude": 5.97545,
-        "latitude": 43.1252
-      },
-      "metadata": {
-        "address": "54 Rue Henri Sainte-Claire Deville, 83100 Toulon",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ouvert",
-          "dimanche": "ouvert"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "249196[169719]",
-      "gid": "2157"
-    },
-    {
-      "departement": "83",
       "nom": "Centre de vaccination du Lavandou",
       "url": "",
       "location": {
@@ -1071,6 +1043,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "2163"
+    },
+    {
+      "departement": "83",
+      "nom": "Forum du casino",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-165067",
+      "location": {
+        "longitude": 6.13153,
+        "latitude": 43.1185
+      },
+      "metadata": {
+        "address": "3 Avenue Ambroise Thomas, 83400 Hy\u00e8res",
+        "phone_number": "08 00 08 34 10",
+        "business_hours": {
+          "lundi": "9h/17h",
+          "mardi": "9h/17h",
+          "mercredi": "9h/17h",
+          "jeudi": "9h/17h",
+          "vendredi": "9h/17h",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243226[165067]",
+      "gid": "835"
     },
     {
       "departement": "83",
@@ -1130,33 +1130,6 @@
     },
     {
       "departement": "83",
-      "nom": "MA - US Draguignan / Maison d'arr\u00eat de Draguignan",
-      "url": "",
-      "location": {
-        "longitude": 6.42995,
-        "latitude": 43.5171
-      },
-      "metadata": {
-        "address": "3305 Avenue Fred Scamaroni, 83300 Draguignan",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1925"
-    },
-    {
-      "departement": "83",
       "nom": "CP - USP- Centre Hospitalier Intercommunal de Toulon La Seyne sur Mer (CHITS) / Centre P\u00e9nitentiaire de Toulon-La Farl\u00e8de",
       "url": "",
       "location": {
@@ -1181,6 +1154,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1924"
+    },
+    {
+      "departement": "83",
+      "nom": "MA - US Draguignan / Maison d'arr\u00eat de Draguignan",
+      "url": "",
+      "location": {
+        "longitude": 6.42995,
+        "latitude": 43.5171
+      },
+      "metadata": {
+        "address": "3305 Avenue Fred Scamaroni, 83300 Draguignan",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1925"
     },
     {
       "departement": "83",

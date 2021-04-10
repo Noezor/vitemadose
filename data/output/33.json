@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:56:10.916067+02:00",
+  "last_updated": "2021-04-10T18:59:31.784426+02:00",
   "centres_disponibles": [
     {
       "departement": "33",
@@ -26,9 +26,64 @@
       "prochain_rdv": "2021-04-12T10:50:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 3,
+      "appointment_count": 2,
       "internal_id": null,
       "gid": "1721"
+    },
+    {
+      "departement": "33",
+      "nom": "Dr Bertrand DISCAZEAUX",
+      "url": "https://partners.doctolib.fr/medecin-generaliste/bordeaux/bertrand-discazeaux?pid=practice-65917",
+      "location": {
+        "longitude": -0.552707999999939,
+        "latitude": 44.8224204
+      },
+      "metadata": {
+        "address": "25 All\u00e9e Eug\u00e8ne Delacroix, 33800 Bordeaux",
+        "phone_number": "07 56 90 66 47",
+        "business_hours": {
+          "lundi": "09:00-12:00, 13:00-19:00",
+          "mardi": "08:00-12:00, 13:00-16:00",
+          "mercredi": "08:00-12:00, 13:00-19:00",
+          "jeudi": "08:00-12:30",
+          "vendredi": "08:00-12:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-12T17:12:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "general-practitioner",
+      "appointment_count": 1,
+      "internal_id": "237162[65917]",
+      "gid": "d237162"
+    },
+    {
+      "departement": "33",
+      "nom": "Centre de vaccination - CA du Libournais",
+      "url": "https://partners.doctolib.fr/centre-de-sante/libourne/centre-de-vaccination-du-libournais-libourne",
+      "location": {
+        "longitude": -0.24213,
+        "latitude": 44.9022
+      },
+      "metadata": {
+        "address": "14 Boulevard de Quinault, 33500 Libourne",
+        "business_hours": {
+          "lundi": "09:00-12:15/13:30-16:15",
+          "mardi": "09:00-12:15/13:30-16:15",
+          "mercredi": "09:00-12:15/13:30-16:15",
+          "jeudi": "09:00-12:15/13:30-16:15",
+          "vendredi": "09:00-12:15/13:30-16:15",
+          "samedi": "09:00-12:15/13:30-16:15",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-12T17:40:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 300,
+      "internal_id": "242928[]",
+      "gid": "992"
     },
     {
       "departement": "33",
@@ -53,36 +108,9 @@
       "prochain_rdv": "2021-04-12T17:50:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 207,
+      "appointment_count": 206,
       "internal_id": null,
       "gid": "2297"
-    },
-    {
-      "departement": "33",
-      "nom": "Centre de vaccination - CA du Libournais",
-      "url": "https://partners.doctolib.fr/centre-de-sante/libourne/centre-de-vaccination-du-libournais-libourne",
-      "location": {
-        "longitude": -0.24213,
-        "latitude": 44.9022
-      },
-      "metadata": {
-        "address": "14 Boulevard de Quinault, 33500 Libourne",
-        "business_hours": {
-          "lundi": "09:00-12:15/13:30-16:15",
-          "mardi": "09:00-12:15/13:30-16:15",
-          "mercredi": "09:00-12:15/13:30-16:15",
-          "jeudi": "09:00-12:15/13:30-16:15",
-          "vendredi": "09:00-12:15/13:30-16:15",
-          "samedi": "09:00-12:15/13:30-16:15",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-12T18:20:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 299,
-      "internal_id": "242928[]",
-      "gid": "992"
     },
     {
       "departement": "33",
@@ -132,10 +160,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-15T10:10:00.000+02:00",
+      "prochain_rdv": "2021-04-15T12:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 46,
+      "appointment_count": 44,
       "internal_id": "263487[]",
       "gid": "d263487"
     },
@@ -219,37 +247,9 @@
       "prochain_rdv": "2021-04-17T08:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 24,
+      "appointment_count": 23,
       "internal_id": "242675[164677]",
       "gid": "998"
-    },
-    {
-      "departement": "33",
-      "nom": "Dr Bertrand DISCAZEAUX",
-      "url": "https://partners.doctolib.fr/medecin-generaliste/bordeaux/bertrand-discazeaux?pid=practice-65917",
-      "location": {
-        "longitude": -0.552707999999939,
-        "latitude": 44.8224204
-      },
-      "metadata": {
-        "address": "25 All\u00e9e Eug\u00e8ne Delacroix, 33800 Bordeaux",
-        "phone_number": "07 56 90 66 47",
-        "business_hours": {
-          "lundi": "09:00-12:00, 13:00-19:00",
-          "mardi": "08:00-12:00, 13:00-16:00",
-          "mercredi": "08:00-12:00, 13:00-19:00",
-          "jeudi": "08:00-12:30",
-          "vendredi": "08:00-12:30",
-          "samedi": null,
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": "2021-04-19T15:24:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "general-practitioner",
-      "appointment_count": 24,
-      "internal_id": "237162[65917]",
-      "gid": "d237162"
     },
     {
       "departement": "33",
@@ -300,40 +300,12 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-22T12:48:00.000+02:00",
+      "prochain_rdv": "2021-04-22T13:12:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 457,
+      "appointment_count": 456,
       "internal_id": "262432[179472]",
       "gid": "d262432"
-    },
-    {
-      "departement": "33",
-      "nom": "Mairie d'Arcachon",
-      "url": "https://partners.doctolib.fr/centre-de-sante/arcachon/centre-municipal-de-vaccination-anti-covid-19-de-la-ville-d-arcachon",
-      "location": {
-        "longitude": -1.19475,
-        "latitude": 44.651
-      },
-      "metadata": {
-        "address": "10 Avenue du Parc, 33120 Arcachon",
-        "phone_number": "+33557529880",
-        "business_hours": {
-          "lundi": "09:00-17:00",
-          "mardi": "09:00-17:00",
-          "mercredi": "09:00-17:00",
-          "jeudi": "09:00-17:00",
-          "vendredi": "09:00-17:00",
-          "samedi": "09:00-12:30",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-23T09:40:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "243183[]",
-      "gid": "146"
     },
     {
       "departement": "33",
@@ -361,6 +333,34 @@
       "appointment_count": 2,
       "internal_id": "251731[171900]",
       "gid": "1615"
+    },
+    {
+      "departement": "33",
+      "nom": "Mairie d'Arcachon",
+      "url": "https://partners.doctolib.fr/centre-de-sante/arcachon/centre-municipal-de-vaccination-anti-covid-19-de-la-ville-d-arcachon",
+      "location": {
+        "longitude": -1.19475,
+        "latitude": 44.651
+      },
+      "metadata": {
+        "address": "10 Avenue du Parc, 33120 Arcachon",
+        "phone_number": "+33557529880",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "09:00-12:30",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-12T10:50:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 174,
+      "internal_id": "243183[]",
+      "gid": "146"
     }
   ],
   "centres_indisponibles": [
@@ -476,34 +476,6 @@
     },
     {
       "departement": "33",
-      "nom": "CHU BORDEAUX - SITE SAINT ANDRE",
-      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier-universitaire/bordeaux-33000/chu-de-bordeaux/g-h-saint-andre-centre-de-vaccination-sante-voyages?cabinet=16878&specialty=496",
-      "location": {
-        "longitude": -0.578208,
-        "latitude": 44.8346
-      },
-      "metadata": {
-        "address": "1 Rue Jean Burguet, 33000 Bordeaux",
-        "phone_number": "+33557820005",
-        "business_hours": {
-          "lundi": "08:30-19:30",
-          "mardi": "08:30-19:30",
-          "mercredi": "08:30-19:30",
-          "jeudi": "08:30-19:30",
-          "vendredi": "08:30-19:30",
-          "samedi": "08:30-19:30",
-          "dimanche": "08:30-19:30"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Keldoc",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "131"
-    },
-    {
-      "departement": "33",
       "nom": "Centre de vaccination du CH Sud Gironde - LANGON",
       "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/langon-33210/centre-hospitalier-sud-gironde?category=-1&cabinet=16578&specialty=496",
       "location": {
@@ -529,6 +501,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "994"
+    },
+    {
+      "departement": "33",
+      "nom": "CHU BORDEAUX - SITE SAINT ANDRE",
+      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier-universitaire/bordeaux-33000/chu-de-bordeaux/g-h-saint-andre-centre-de-vaccination-sante-voyages?cabinet=16878&specialty=496",
+      "location": {
+        "longitude": -0.578208,
+        "latitude": 44.8346
+      },
+      "metadata": {
+        "address": "1 Rue Jean Burguet, 33000 Bordeaux",
+        "phone_number": "+33557820005",
+        "business_hours": {
+          "lundi": "08:30-19:30",
+          "mardi": "08:30-19:30",
+          "mercredi": "08:30-19:30",
+          "jeudi": "08:30-19:30",
+          "vendredi": "08:30-19:30",
+          "samedi": "08:30-19:30",
+          "dimanche": "08:30-19:30"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "131"
     },
     {
       "departement": "33",
@@ -998,26 +998,6 @@
     },
     {
       "departement": "33",
-      "nom": "Lamothe-Landerron",
-      "url": "https://app.ordoclic.fr/app/pharmacie/lamothe-landerron-lamothe-landerron",
-      "location": {
-        "longitude": 0.0418304,
-        "latitude": 44.5651157
-      },
-      "metadata": {
-        "address": "3 route de Bordeaux lieu dit Les Granges Sud, 33190 Lamothe Landerron",
-        "phone_number": "+33556617126",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "162a0c72"
-    },
-    {
-      "departement": "33",
       "nom": "Pharmacie De La Jalle",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-la-jalle-saint-medard-en-jalles",
       "location": {
@@ -1035,6 +1015,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1112df05"
+    },
+    {
+      "departement": "33",
+      "nom": "Lamothe-Landerron",
+      "url": "https://app.ordoclic.fr/app/pharmacie/lamothe-landerron-lamothe-landerron",
+      "location": {
+        "longitude": 0.0418304,
+        "latitude": 44.5651157
+      },
+      "metadata": {
+        "address": "3 route de Bordeaux lieu dit Les Granges Sud, 33190 Lamothe Landerron",
+        "phone_number": "+33556617126",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "162a0c72"
     },
     {
       "departement": "33",

@@ -1,34 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:56:10.938045+02:00",
+  "last_updated": "2021-04-10T18:59:31.811191+02:00",
   "centres_disponibles": [
-    {
-      "departement": "59",
-      "nom": "Centre de vaccination - commune de Gouzeaucourt, Salle de sport Jean Degros",
-      "url": "https://partners.doctolib.fr/centre-de-sante/gouzeaucourt/centre-de-vaccination-covid-19-cpts-du-haut-escault?pid=practice-177023",
-      "location": {
-        "longitude": 3.12743,
-        "latitude": 50.0578
-      },
-      "metadata": {
-        "address": " Rue du Stade, 59231 Gouzeaucourt",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "",
-          "dimanche": ""
-        }
-      },
-      "prochain_rdv": "2021-04-11T08:05:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 74,
-      "internal_id": "258774[177023]",
-      "gid": "2178"
-    },
     {
       "departement": "59",
       "nom": "Centre de vaccination - Ville de Marcq-en-Bar\u0153ul, l\u2019hippodrome de Marcq-en-Bar\u0153ul",
@@ -58,6 +31,33 @@
     },
     {
       "departement": "59",
+      "nom": "Centre de vaccination - commune de Gouzeaucourt, Salle de sport Jean Degros",
+      "url": "https://partners.doctolib.fr/centre-de-sante/gouzeaucourt/centre-de-vaccination-covid-19-cpts-du-haut-escault?pid=practice-177023",
+      "location": {
+        "longitude": 3.12743,
+        "latitude": 50.0578
+      },
+      "metadata": {
+        "address": " Rue du Stade, 59231 Gouzeaucourt",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": "2021-04-11T08:10:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 73,
+      "internal_id": "258774[177023]",
+      "gid": "2178"
+    },
+    {
+      "departement": "59",
       "nom": "Centre de vaccination - CH Saint-Amand",
       "url": "https://partners.doctolib.fr/hopital-public/saint-amand-les-eaux/centre-de-vaccination-de-l-amandinois",
       "location": {
@@ -80,7 +80,7 @@
       "prochain_rdv": "2021-04-11T08:50:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 1,
+      "appointment_count": 2,
       "internal_id": "242153[]",
       "gid": "400"
     },
@@ -159,10 +159,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-12T08:42:00.000+02:00",
+      "prochain_rdv": "2021-04-12T08:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "general-practitioner",
-      "appointment_count": 1,
+      "appointment_count": 2,
       "internal_id": "165122[]",
       "gid": "d165122"
     },
@@ -243,12 +243,40 @@
           "dimanche": "08:00-13:00/13:30-19:00"
         }
       },
-      "prochain_rdv": "2021-04-12T15:15:00.000+02:00",
+      "prochain_rdv": "2021-04-12T14:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 15,
+      "appointment_count": 16,
       "internal_id": "241235[162480]",
       "gid": "386"
+    },
+    {
+      "departement": "59",
+      "nom": "Centre de vaccination - CPTS Val de Sambre La LUNA",
+      "url": "https://www.maiia.com/centre-de-vaccination/59600-maubeuge/centre-de-vaccination-la-luna--espace-sculfort-",
+      "location": {
+        "longitude": 3.95631,
+        "latitude": 50.2816
+      },
+      "metadata": {
+        "address": " Avenue Jean Jaur\u00e8s, 59600 Maubeuge",
+        "phone_number": "+33392043471",
+        "business_hours": {
+          "lundi": "08:00-21:00",
+          "mardi": "08:00-21:00",
+          "mercredi": "08:00-21:00",
+          "jeudi": "08:00-21:00",
+          "vendredi": "08:00-21:00",
+          "samedi": "08:00-21:00",
+          "dimanche": "08:00-21:00"
+        }
+      },
+      "prochain_rdv": "2021-04-13T08:30:00.000000Z",
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 13,
+      "internal_id": null,
+      "gid": "850"
     },
     {
       "departement": "59",
@@ -280,34 +308,6 @@
     },
     {
       "departement": "59",
-      "nom": "Dr Fanny Ballois",
-      "url": "https://partners.doctolib.fr/medecin-generaliste/croix/fanny-ballois",
-      "location": {
-        "longitude": 3.15409599999998,
-        "latitude": 50.67073
-      },
-      "metadata": {
-        "address": "4 Avenue Jussieu, 59170 Croix",
-        "phone_number": "03 20 98 03 10",
-        "business_hours": {
-          "lundi": "08:00-20:00",
-          "mardi": "08:00-20:00",
-          "mercredi": "08:00-20:00",
-          "jeudi": "08:00-20:00",
-          "vendredi": "08:00-20:00",
-          "samedi": "08:00-12:00",
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": "2021-04-13T12:24:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "general-practitioner",
-      "appointment_count": 4,
-      "internal_id": "167363[]",
-      "gid": "d167363"
-    },
-    {
-      "departement": "59",
       "nom": "Dr Thibault LEMOINE",
       "url": "https://partners.doctolib.fr/medecin-generaliste/la-chapelle-d-armentieres/thibault-lemoine",
       "location": {
@@ -333,6 +333,34 @@
       "appointment_count": 6,
       "internal_id": "241692[]",
       "gid": "d241692"
+    },
+    {
+      "departement": "59",
+      "nom": "Dr Fanny Ballois",
+      "url": "https://partners.doctolib.fr/medecin-generaliste/croix/fanny-ballois",
+      "location": {
+        "longitude": 3.15409599999998,
+        "latitude": 50.67073
+      },
+      "metadata": {
+        "address": "4 Avenue Jussieu, 59170 Croix",
+        "phone_number": "03 20 98 03 10",
+        "business_hours": {
+          "lundi": "08:00-20:00",
+          "mardi": "08:00-20:00",
+          "mercredi": "08:00-20:00",
+          "jeudi": "08:00-20:00",
+          "vendredi": "08:00-20:00",
+          "samedi": "08:00-12:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-13T12:42:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "general-practitioner",
+      "appointment_count": 3,
+      "internal_id": "167363[]",
+      "gid": "d167363"
     },
     {
       "departement": "59",
@@ -616,33 +644,6 @@
     },
     {
       "departement": "59",
-      "nom": "Pharmacie Lafayette Roubaix",
-      "url": "https://partners.doctolib.fr/pharmacie/roubaix/pharmacie-alma-roubaix",
-      "location": {
-        "longitude": 3.1681117,
-        "latitude": 50.6986923
-      },
-      "metadata": {
-        "address": "127 Rue de l'Alma, 59100 Roubaix",
-        "business_hours": {
-          "lundi": "09:00-19:30",
-          "mardi": "08:30-19:30",
-          "mercredi": "08:30-19:30",
-          "jeudi": "08:30-19:30",
-          "vendredi": "08:30-19:30",
-          "samedi": "08:30-18:00",
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": "2021-04-16T15:15:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "drugstore",
-      "appointment_count": 3,
-      "internal_id": "256474[]",
-      "gid": "d256474"
-    },
-    {
-      "departement": "59",
       "nom": "Centre de vaccination - CPTS HAUTMONT, CENTRE CULTUREL MAURICE SCHUMANN",
       "url": "https://partners.doctolib.fr/centre-de-sante/hautmont/centre-de-vaccination-covid-19-ville-d-hautmont?pid=practice-164873",
       "location": {
@@ -698,6 +699,33 @@
     },
     {
       "departement": "59",
+      "nom": "Pharmacie Lafayette Roubaix",
+      "url": "https://partners.doctolib.fr/pharmacie/roubaix/pharmacie-alma-roubaix",
+      "location": {
+        "longitude": 3.1681117,
+        "latitude": 50.6986923
+      },
+      "metadata": {
+        "address": "127 Rue de l'Alma, 59100 Roubaix",
+        "business_hours": {
+          "lundi": "09:00-19:30",
+          "mardi": "08:30-19:30",
+          "mercredi": "08:30-19:30",
+          "jeudi": "08:30-19:30",
+          "vendredi": "08:30-19:30",
+          "samedi": "08:30-18:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-17T10:00:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 2,
+      "internal_id": "256474[]",
+      "gid": "d256474"
+    },
+    {
+      "departement": "59",
       "nom": "Dr Nicolas RYCKEWAERT",
       "url": "https://partners.doctolib.fr/medecin-generaliste/croix/nicolas-ryckewaert",
       "location": {
@@ -723,34 +751,6 @@
       "appointment_count": 1,
       "internal_id": "11698[]",
       "gid": "d11698"
-    },
-    {
-      "departement": "59",
-      "nom": "Centre de vaccination - CH Fourmies",
-      "url": "https://partners.doctolib.fr/hopital-public/fourmies/ch-fourmies-centre-de-vaccination-covid-19",
-      "location": {
-        "longitude": 4.05915,
-        "latitude": 50.0095
-      },
-      "metadata": {
-        "address": "13 Rue de l'H\u00f4pital, 59610 Fourmies",
-        "phone_number": "+33392043471 ",
-        "business_hours": {
-          "lundi": "09:15-12:00/14:00-17:00",
-          "mardi": "09:15-12:00/14:00-17:00",
-          "mercredi": "09:15-12:00/14:00-17:00",
-          "jeudi": "09:15-12:00/14:00-17:00",
-          "vendredi": "09:15-12:00/14:00-17:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-21T15:20:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "242036[]",
-      "gid": "274"
     },
     {
       "departement": "59",
@@ -1305,34 +1305,6 @@
     },
     {
       "departement": "59",
-      "nom": "Centre de vaccination - Centre Hospitalier de Valenciennes et CPTS du Valenciennois 2, Salle JEAN MINEUR",
-      "url": "https://partners.doctolib.fr/centre-de-sante/valenciennes/centre-vaccination?placeid=practice-162438%3fspeciality_id%3d5494",
-      "location": {
-        "longitude": 3.48791,
-        "latitude": 50.3649
-      },
-      "metadata": {
-        "address": " Rue de la Cokerie, 59300 Valenciennes",
-        "phone_number": "+33327140829",
-        "business_hours": {
-          "lundi": "09:00-17:00",
-          "mardi": "09:00-17:00",
-          "mercredi": "09:00-17:00",
-          "jeudi": "09:00-17:00",
-          "vendredi": "09:00-17:00",
-          "samedi": "11:00-17:00",
-          "dimanche": "11:00-17:00"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "240246[164877]",
-      "gid": "942"
-    },
-    {
-      "departement": "59",
       "nom": "Centre de vaccination - HOPITAL PRIVE DE VILLENEUVE D'ASCQ, Espace Concorde",
       "url": "https://partners.doctolib.fr/centre-de-sante/villeneuve-d-ascq/vaccination-covid-19-hopital-prive-le-bois-et-villeneuve-d-ascq?pid=practice-163991",
       "location": {
@@ -1358,6 +1330,34 @@
       "appointment_count": 0,
       "internal_id": "242648[163991]",
       "gid": "266"
+    },
+    {
+      "departement": "59",
+      "nom": "Centre de vaccination - Centre Hospitalier de Valenciennes et CPTS du Valenciennois 2, Salle JEAN MINEUR",
+      "url": "https://partners.doctolib.fr/centre-de-sante/valenciennes/centre-vaccination?placeid=practice-162438%3fspeciality_id%3d5494",
+      "location": {
+        "longitude": 3.48791,
+        "latitude": 50.3649
+      },
+      "metadata": {
+        "address": " Rue de la Cokerie, 59300 Valenciennes",
+        "phone_number": "+33327140829",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "11:00-17:00",
+          "dimanche": "11:00-17:00"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240246[164877]",
+      "gid": "942"
     },
     {
       "departement": "59",
@@ -1524,34 +1524,6 @@
     },
     {
       "departement": "59",
-      "nom": "Centre de vaccination - CPTS Val de Sambre La LUNA",
-      "url": "https://www.maiia.com/centre-de-vaccination/59600-maubeuge/centre-de-vaccination-la-luna--espace-sculfort-",
-      "location": {
-        "longitude": 3.95631,
-        "latitude": 50.2816
-      },
-      "metadata": {
-        "address": " Avenue Jean Jaur\u00e8s, 59600 Maubeuge",
-        "phone_number": "+33392043471",
-        "business_hours": {
-          "lundi": "08:00-21:00",
-          "mardi": "08:00-21:00",
-          "mercredi": "08:00-21:00",
-          "jeudi": "08:00-21:00",
-          "vendredi": "08:00-21:00",
-          "samedi": "08:00-21:00",
-          "dimanche": "08:00-21:00"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": null,
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "850"
-    },
-    {
-      "departement": "59",
       "nom": "Centre de vaccination - CPTS de la Marque,, Salle Marianne",
       "url": "https://partners.doctolib.fr/centre-de-sante/villeneuve-d-ascq/centre-de-vaccination-covid-salle-marianne",
       "location": {
@@ -1580,6 +1552,33 @@
     },
     {
       "departement": "59",
+      "nom": "Centre de vaccination - CH Seclin (SALLE ROSENBERG)",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/haut-de-france/vaccination-gh-seclin-carvin?pid=practice-163841",
+      "location": {
+        "longitude": 3.02431,
+        "latitude": 50.5497
+      },
+      "metadata": {
+        "address": "77 b Rue Marx Dormoy, 59113 Seclin",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "09:00-13:00",
+          "mercredi": "09:00-13:00",
+          "jeudi": "09:00-13:00",
+          "vendredi": "09:00-13:00",
+          "samedi": "09:00-13:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241878[163841]",
+      "gid": "1088"
+    },
+    {
+      "departement": "59",
       "nom": "Centre de vaccination - HOPITAL PRIV\u00c9 LE BOIS",
       "url": "https://partners.doctolib.fr/centre-de-sante/villeneuve-d-ascq/vaccination-covid-19-hopital-prive-le-bois-et-villeneuve-d-ascq?pid=practice-163992",
       "location": {
@@ -1605,33 +1604,6 @@
       "appointment_count": 0,
       "internal_id": "242648[163992]",
       "gid": "267"
-    },
-    {
-      "departement": "59",
-      "nom": "Centre de vaccination - CH Seclin (SALLE ROSENBERG)",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/haut-de-france/vaccination-gh-seclin-carvin?pid=practice-163841",
-      "location": {
-        "longitude": 3.02431,
-        "latitude": 50.5497
-      },
-      "metadata": {
-        "address": "77 b Rue Marx Dormoy, 59113 Seclin",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "09:00-13:00",
-          "mercredi": "09:00-13:00",
-          "jeudi": "09:00-13:00",
-          "vendredi": "09:00-13:00",
-          "samedi": "09:00-13:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241878[163841]",
-      "gid": "1088"
     },
     {
       "departement": "59",
@@ -1774,6 +1746,34 @@
     },
     {
       "departement": "59",
+      "nom": "Centre de vaccination - CH Armenti\u00e8res",
+      "url": "https://partners.doctolib.fr/hopital-public/armentieres/ch-armentieres?pid=practice-175038",
+      "location": {
+        "longitude": 2.86711,
+        "latitude": 50.6869
+      },
+      "metadata": {
+        "address": "136 Boulevard Faidherbe, 59280 Armenti\u00e8res",
+        "phone_number": "+33320481003",
+        "business_hours": {
+          "lundi": "13:00-18:00",
+          "mardi": "13:00-18:00",
+          "mercredi": "13:00-18:00",
+          "jeudi": "13:00-18:00",
+          "vendredi": "13:00-18:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241874[175038]",
+      "gid": "1093"
+    },
+    {
+      "departement": "59",
       "nom": "Centre de vaccination - CH Roubaix, V\u00e9lodrome Le Stab (Porte J)",
       "url": "https://partners.doctolib.fr/hopital-public/roubaix/ch-de-roubaix-centre-de-vaccination-covid-19",
       "location": {
@@ -1827,34 +1827,6 @@
       "appointment_count": 0,
       "internal_id": "242700[164701]",
       "gid": "1092"
-    },
-    {
-      "departement": "59",
-      "nom": "Centre de vaccination - CH Armenti\u00e8res",
-      "url": "https://partners.doctolib.fr/hopital-public/armentieres/ch-armentieres?pid=practice-175038",
-      "location": {
-        "longitude": 2.86711,
-        "latitude": 50.6869
-      },
-      "metadata": {
-        "address": "136 Boulevard Faidherbe, 59280 Armenti\u00e8res",
-        "phone_number": "+33320481003",
-        "business_hours": {
-          "lundi": "13:00-18:00",
-          "mardi": "13:00-18:00",
-          "mercredi": "13:00-18:00",
-          "jeudi": "13:00-18:00",
-          "vendredi": "13:00-18:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241874[175038]",
-      "gid": "1093"
     },
     {
       "departement": "59",
@@ -1914,6 +1886,33 @@
     },
     {
       "departement": "59",
+      "nom": "Centre de vaccination - Z\u00e9nith de Lille",
+      "url": "https://partners.doctolib.fr/centre-de-sante/lille/centre-de-vaccination-covid-19-centre-de-vaccination-covid-19-zenith-de-lille?pid=practice-180487",
+      "location": {
+        "longitude": 3.07861,
+        "latitude": 50.6314
+      },
+      "metadata": {
+        "address": "1 Boulevard des Cites Unies, 59777 Lille",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "263778[180487]",
+      "gid": "1986"
+    },
+    {
+      "departement": "59",
       "nom": "Centre de vaccination - POLYCLINIQUE DU PARC",
       "url": "https://partners.doctolib.fr/centre-de-sante/saint-saulve/centre-de-vaccination-covid-19-groupe-elsan?pid=practice-162478",
       "location": {
@@ -1939,6 +1938,34 @@
       "appointment_count": 0,
       "internal_id": "241235[162478]",
       "gid": "287"
+    },
+    {
+      "departement": "59",
+      "nom": "Centre de vaccination - CH Fourmies",
+      "url": "https://partners.doctolib.fr/hopital-public/fourmies/ch-fourmies-centre-de-vaccination-covid-19",
+      "location": {
+        "longitude": 4.05915,
+        "latitude": 50.0095
+      },
+      "metadata": {
+        "address": "13 Rue de l'H\u00f4pital, 59610 Fourmies",
+        "phone_number": "+33392043471 ",
+        "business_hours": {
+          "lundi": "09:15-12:00/14:00-17:00",
+          "mardi": "09:15-12:00/14:00-17:00",
+          "mercredi": "09:15-12:00/14:00-17:00",
+          "jeudi": "09:15-12:00/14:00-17:00",
+          "vendredi": "09:15-12:00/14:00-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242036[]",
+      "gid": "274"
     },
     {
       "departement": "59",
@@ -1995,33 +2022,6 @@
       "appointment_count": 0,
       "internal_id": "240737[]",
       "gid": "1040"
-    },
-    {
-      "departement": "59",
-      "nom": "Centre de vaccination - Z\u00e9nith de Lille",
-      "url": "https://partners.doctolib.fr/centre-de-sante/lille/centre-de-vaccination-covid-19-centre-de-vaccination-covid-19-zenith-de-lille?pid=practice-180487",
-      "location": {
-        "longitude": 3.07861,
-        "latitude": 50.6314
-      },
-      "metadata": {
-        "address": "1 Boulevard des Cites Unies, 59777 Lille",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "",
-          "dimanche": ""
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "263778[180487]",
-      "gid": "1986"
     },
     {
       "departement": "59",
@@ -2164,34 +2164,6 @@
     },
     {
       "departement": "59",
-      "nom": "Centre de vaccination - Clinique Sainte Marie (GHICL)",
-      "url": "https://partners.doctolib.fr/clinique-privee/cambrai/centre-de-vaccination-covid-19-clinique-sainte-marie-ghicl-cambrai",
-      "location": {
-        "longitude": 3.24021,
-        "latitude": 50.1681
-      },
-      "metadata": {
-        "address": "22 Rue Watteau, 59400 Cambrai",
-        "phone_number": "03 92 04 34 71 ",
-        "business_hours": {
-          "lundi": "09:00-17:00",
-          "mardi": "09:00-17:00",
-          "mercredi": "09:00-17:00",
-          "jeudi": "09:00-17:00",
-          "vendredi": "09:00-17:00",
-          "samedi": "",
-          "dimanche": ""
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "243720[]",
-      "gid": "258"
-    },
-    {
-      "departement": "59",
       "nom": "Centre de vaccination - CH DUNKERQUE",
       "url": "https://partners.doctolib.fr/hopital-public/dunkerque/ch-dunkerque-centre-de-vaccination-covid-19",
       "location": {
@@ -2217,6 +2189,34 @@
       "appointment_count": 0,
       "internal_id": "242895[]",
       "gid": "272"
+    },
+    {
+      "departement": "59",
+      "nom": "Centre de vaccination - Clinique Sainte Marie (GHICL)",
+      "url": "https://partners.doctolib.fr/clinique-privee/cambrai/centre-de-vaccination-covid-19-clinique-sainte-marie-ghicl-cambrai",
+      "location": {
+        "longitude": 3.24021,
+        "latitude": 50.1681
+      },
+      "metadata": {
+        "address": "22 Rue Watteau, 59400 Cambrai",
+        "phone_number": "03 92 04 34 71 ",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243720[]",
+      "gid": "258"
     },
     {
       "departement": "59",
@@ -2247,33 +2247,6 @@
     },
     {
       "departement": "59",
-      "nom": "CP - US Maison d'arr\u00eat de Sequedin / Centre P\u00e9nitentiaire de Lille-Loos-Sequedin",
-      "url": "",
-      "location": {
-        "longitude": 2.98381,
-        "latitude": 50.6205
-      },
-      "metadata": {
-        "address": " Place de la Paix, 59320 Sequedin",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1832"
-    },
-    {
-      "departement": "59",
       "nom": "CP - MAUBEUGE / Centre P\u00e9nitentiaire de Maubeuge",
       "url": "",
       "location": {
@@ -2298,6 +2271,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1835"
+    },
+    {
+      "departement": "59",
+      "nom": "CP - US Maison d'arr\u00eat de Sequedin / Centre P\u00e9nitentiaire de Lille-Loos-Sequedin",
+      "url": "",
+      "location": {
+        "longitude": 2.98381,
+        "latitude": 50.6205
+      },
+      "metadata": {
+        "address": " Place de la Paix, 59320 Sequedin",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1832"
     },
     {
       "departement": "59",
@@ -2328,33 +2328,6 @@
     },
     {
       "departement": "59",
-      "nom": "MA - USMP de Douai / Maison d'Arr\u00eat de Douai",
-      "url": "",
-      "location": {
-        "longitude": 3.05993,
-        "latitude": 50.3766
-      },
-      "metadata": {
-        "address": "505 Rue de Cuincy, 59500 Douai",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1838"
-    },
-    {
-      "departement": "59",
       "nom": "EPM - EPM QUIEVRECHAIN / Maison d'Arr\u00eat de Valenciennes",
       "url": "",
       "location": {
@@ -2379,6 +2352,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1837"
+    },
+    {
+      "departement": "59",
+      "nom": "MA - USMP de Douai / Maison d'Arr\u00eat de Douai",
+      "url": "",
+      "location": {
+        "longitude": 3.05993,
+        "latitude": 50.3766
+      },
+      "metadata": {
+        "address": "505 Rue de Cuincy, 59500 Douai",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1838"
     },
     {
       "departement": "59",
@@ -2710,33 +2710,6 @@
     },
     {
       "departement": "59",
-      "nom": "Pharmacie de l'Arche - Pharmacie Derebasi",
-      "url": "https://partners.doctolib.fr/pharmacie/montigny-en-ostrevent/pharmacie-de-l-arche-pharmacie-derebasi",
-      "location": {
-        "longitude": 3.1857947,
-        "latitude": 50.3701396
-      },
-      "metadata": {
-        "address": "679 Avenue Roland Huet, 59182 Montigny-en-Ostrevent",
-        "business_hours": {
-          "lundi": "14:00-19:00",
-          "mardi": "09:00-12:30, 14:00-19:00",
-          "mercredi": "09:00-12:30, 14:00-19:00",
-          "jeudi": "09:00-12:30, 14:00-19:00",
-          "vendredi": "09:00-12:30, 14:00-19:00",
-          "samedi": "09:00-12:30, 14:00-18:00",
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": "247061[]",
-      "gid": "d247061"
-    },
-    {
-      "departement": "59",
       "nom": "Pharmacie des Hauts Champs Intermarch\u00e9",
       "url": "https://partners.doctolib.fr/pharmacie/roubaix/pharmacie-des-hauts-champs",
       "location": {
@@ -2762,6 +2735,33 @@
       "appointment_count": 0,
       "internal_id": "256823[]",
       "gid": "d256823"
+    },
+    {
+      "departement": "59",
+      "nom": "Pharmacie de l'Arche - Pharmacie Derebasi",
+      "url": "https://partners.doctolib.fr/pharmacie/montigny-en-ostrevent/pharmacie-de-l-arche-pharmacie-derebasi",
+      "location": {
+        "longitude": 3.1857947,
+        "latitude": 50.3701396
+      },
+      "metadata": {
+        "address": "679 Avenue Roland Huet, 59182 Montigny-en-Ostrevent",
+        "business_hours": {
+          "lundi": "14:00-19:00",
+          "mardi": "09:00-12:30, 14:00-19:00",
+          "mercredi": "09:00-12:30, 14:00-19:00",
+          "jeudi": "09:00-12:30, 14:00-19:00",
+          "vendredi": "09:00-12:30, 14:00-19:00",
+          "samedi": "09:00-12:30, 14:00-18:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "247061[]",
+      "gid": "d247061"
     },
     {
       "departement": "59",

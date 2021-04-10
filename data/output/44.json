@@ -1,62 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:56:10.926947+02:00",
+  "last_updated": "2021-04-10T18:59:31.797664+02:00",
   "centres_disponibles": [
-    {
-      "departement": "44",
-      "nom": "Centre de Vaccination COVID - NANTES Nord - Salle Erdre",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nantes/centre-de-vaccination-metroplitain-salle-festive-nantes-erdre",
-      "location": {
-        "longitude": -1.53101,
-        "latitude": 47.2541
-      },
-      "metadata": {
-        "address": "251 Route de Saint Joseph, 44300 Nantes",
-        "phone_number": "+33806000344",
-        "business_hours": {
-          "lundi": "9h-17h",
-          "mardi": "9h-17h",
-          "mercredi": "9h-17h",
-          "jeudi": "9h-17h",
-          "vendredi": "9h-17h",
-          "samedi": "9h-17h",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-11T08:30:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "242644[]",
-      "gid": "809"
-    },
-    {
-      "departement": "44",
-      "nom": "Grand centre NANTES - Parc de la Beaujoire",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nantes/centre-de-vaccination-covid-19-centre-d-exposition-de-la-beaujoire?pid=practice-164268",
-      "location": {
-        "longitude": -1.53135,
-        "latitude": 47.258
-      },
-      "metadata": {
-        "address": " Avenue de Normandie, 44300 Nantes",
-        "business_hours": {
-          "lundi": "9h-17h",
-          "mardi": "9h-17h",
-          "mercredi": "9h-17h",
-          "jeudi": "9h-17h",
-          "vendredi": "9h-17h",
-          "samedi": "9h-17h",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-11T08:30:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 1,
-      "internal_id": "242644[164268]",
-      "gid": "2214"
-    },
     {
       "departement": "44",
       "nom": "Grande pharmacie de Paris",
@@ -80,7 +25,7 @@
       "prochain_rdv": "2021-04-13T11:12:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "drugstore",
-      "appointment_count": 111,
+      "appointment_count": 110,
       "internal_id": "226834[151568]",
       "gid": "d226834"
     },
@@ -107,7 +52,7 @@
       "prochain_rdv": "2021-04-14T10:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 20,
+      "appointment_count": 21,
       "internal_id": "261154[]",
       "gid": "d261154"
     },
@@ -159,7 +104,7 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-23T09:50:00.000+02:00",
+      "prochain_rdv": "2021-04-23T09:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 86,
@@ -215,10 +160,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-04T16:24:00.000+02:00",
+      "prochain_rdv": "2021-05-05T15:12:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 7,
+      "appointment_count": 3,
       "internal_id": "242017[]",
       "gid": "500"
     }
@@ -590,6 +535,34 @@
     },
     {
       "departement": "44",
+      "nom": "Centre de Vaccination COVID - NANTES Nord - Salle Erdre",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nantes/centre-de-vaccination-metroplitain-salle-festive-nantes-erdre",
+      "location": {
+        "longitude": -1.53101,
+        "latitude": 47.2541
+      },
+      "metadata": {
+        "address": "251 Route de Saint Joseph, 44300 Nantes",
+        "phone_number": "+33806000344",
+        "business_hours": {
+          "lundi": "9h-17h",
+          "mardi": "9h-17h",
+          "mercredi": "9h-17h",
+          "jeudi": "9h-17h",
+          "vendredi": "9h-17h",
+          "samedi": "9h-17h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242644[]",
+      "gid": "809"
+    },
+    {
+      "departement": "44",
       "nom": "CP - US Centre de d\u00e9tention et SMPR niv.1 Centre de D\u00e9tention / Etablissement Sp\u00e9cialis\u00e9 pour mineurs d'Orvault",
       "url": "",
       "location": {
@@ -669,6 +642,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "2416"
+    },
+    {
+      "departement": "44",
+      "nom": "Grand centre NANTES - Parc de la Beaujoire",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nantes/centre-de-vaccination-covid-19-centre-d-exposition-de-la-beaujoire?pid=practice-164268",
+      "location": {
+        "longitude": -1.53135,
+        "latitude": 47.258
+      },
+      "metadata": {
+        "address": " Avenue de Normandie, 44300 Nantes",
+        "business_hours": {
+          "lundi": "9h-17h",
+          "mardi": "9h-17h",
+          "mercredi": "9h-17h",
+          "jeudi": "9h-17h",
+          "vendredi": "9h-17h",
+          "samedi": "9h-17h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242644[164268]",
+      "gid": "2214"
     },
     {
       "departement": "44",

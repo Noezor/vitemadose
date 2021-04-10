@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:56:10.950353+02:00",
+  "last_updated": "2021-04-10T18:59:31.825879+02:00",
   "centres_disponibles": [
     {
       "departement": "68",
@@ -26,7 +26,7 @@
       "prochain_rdv": "2021-04-13T11:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 21,
+      "appointment_count": 23,
       "internal_id": "244266[]",
       "gid": "1206"
     },
@@ -54,7 +54,7 @@
       "prochain_rdv": "2021-04-16T16:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 18,
+      "appointment_count": 17,
       "internal_id": "262621[179615]",
       "gid": "2343"
     },
@@ -82,7 +82,7 @@
       "prochain_rdv": "2021-04-22T13:30:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 13,
+      "appointment_count": 12,
       "internal_id": "250393[170520]",
       "gid": "1524"
     },
@@ -135,10 +135,10 @@
           "dimanche": "non pr\u00e9cis\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-30T14:10:00.000+02:00",
+      "prochain_rdv": "2021-04-30T14:15:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 25,
+      "appointment_count": 24,
       "internal_id": "243424[]",
       "gid": "1010"
     },
@@ -172,6 +172,33 @@
     },
     {
       "departement": "68",
+      "nom": "Centre de vaccination Covid-19 - Ribeauville",
+      "url": "https://partners.doctolib.fr/centre-de-sante/ribeauville/centre-de-vaccination-covid-19-ribeauville",
+      "location": {
+        "longitude": 7.3340202,
+        "latitude": 48.1932673
+      },
+      "metadata": {
+        "address": "Rue Pierre de Coubertin, 68150 Ribeauvill\u00e9",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-05-11T09:15:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 61,
+      "internal_id": "258288[]",
+      "gid": "d258288"
+    },
+    {
+      "departement": "68",
       "nom": "Centre de vaccination de Ribeauvill\u00e9 - Gymnase",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/ribeauville/centre-de-vaccination-covid-19-ribeauville?pid=practice-176685",
       "location": {
@@ -197,61 +224,6 @@
       "appointment_count": 60,
       "internal_id": "258288[176685]",
       "gid": "1996"
-    },
-    {
-      "departement": "68",
-      "nom": "Centre de vaccination Covid-19 - Ribeauville",
-      "url": "https://partners.doctolib.fr/centre-de-sante/ribeauville/centre-de-vaccination-covid-19-ribeauville",
-      "location": {
-        "longitude": 7.3340202,
-        "latitude": 48.1932673
-      },
-      "metadata": {
-        "address": "Rue Pierre de Coubertin, 68150 Ribeauvill\u00e9",
-        "business_hours": {
-          "lundi": null,
-          "mardi": null,
-          "mercredi": null,
-          "jeudi": null,
-          "vendredi": null,
-          "samedi": null,
-          "dimanche": null
-        }
-      },
-      "prochain_rdv": "2021-05-11T09:25:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 60,
-      "internal_id": "258288[]",
-      "gid": "d258288"
-    },
-    {
-      "departement": "68",
-      "nom": "Centre de vaccination de Colmar",
-      "url": "https://partners.doctolib.fr/centre-de-sante/colmar/centre-de-vaccination-covid-19-de-colmar",
-      "location": {
-        "longitude": 7.36005,
-        "latitude": 48.0986
-      },
-      "metadata": {
-        "address": " Avenue de la Foire aux Vins, 68000 Colmar",
-        "phone_number": "+33970818161",
-        "business_hours": {
-          "lundi": "non pr\u00e9cis\u00e9",
-          "mardi": "non pr\u00e9cis\u00e9",
-          "mercredi": "non pr\u00e9cis\u00e9",
-          "jeudi": "non pr\u00e9cis\u00e9",
-          "vendredi": "non pr\u00e9cis\u00e9",
-          "samedi": "non pr\u00e9cis\u00e9",
-          "dimanche": "non pr\u00e9cis\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-05-12T13:50:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 29,
-      "internal_id": "242936[]",
-      "gid": "1012"
     }
   ],
   "centres_indisponibles": [
@@ -397,31 +369,31 @@
     },
     {
       "departement": "68",
-      "nom": "Centre de vaccination de Ste Marie Aux Mines",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/sainte-marie-aux-mines/vaccination-covid-19-du-val-d-argent-vaccination-covid-19-sainte-marie-aux-mines",
+      "nom": "Centre de vaccination de Colmar",
+      "url": "https://partners.doctolib.fr/centre-de-sante/colmar/centre-de-vaccination-covid-19-de-colmar?speciality_id=5494&enable_cookies_consent=1",
       "location": {
-        "longitude": 7.18098,
-        "latitude": 48.2444
+        "longitude": 7.36005,
+        "latitude": 48.0986
       },
       "metadata": {
-        "address": "5 Rue Kroeber Imlin, 68160 Sainte-Marie-aux-Mines",
+        "address": " Avenue de la Foire aux Vins, 68000 Colmar",
         "phone_number": "+33970818161",
         "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "13:30-17:30",
-          "mercredi": "13:30-17:30",
-          "jeudi": "13:30-17:30",
-          "vendredi": "13:30-17:30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
+          "lundi": "non pr\u00e9cis\u00e9",
+          "mardi": "non pr\u00e9cis\u00e9",
+          "mercredi": "non pr\u00e9cis\u00e9",
+          "jeudi": "non pr\u00e9cis\u00e9",
+          "vendredi": "non pr\u00e9cis\u00e9",
+          "samedi": "non pr\u00e9cis\u00e9",
+          "dimanche": "non pr\u00e9cis\u00e9"
         }
       },
       "prochain_rdv": null,
-      "plateforme": "Doctolib",
+      "plateforme": null,
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": "248240[]",
-      "gid": "1352"
+      "internal_id": null,
+      "gid": "1012"
     },
     {
       "departement": "68",
@@ -450,6 +422,34 @@
       "appointment_count": 0,
       "internal_id": "245204[166677]",
       "gid": "1276"
+    },
+    {
+      "departement": "68",
+      "nom": "Centre de vaccination de Ste Marie Aux Mines",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/sainte-marie-aux-mines/vaccination-covid-19-du-val-d-argent-vaccination-covid-19-sainte-marie-aux-mines",
+      "location": {
+        "longitude": 7.18098,
+        "latitude": 48.2444
+      },
+      "metadata": {
+        "address": "5 Rue Kroeber Imlin, 68160 Sainte-Marie-aux-Mines",
+        "phone_number": "+33970818161",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "13:30-17:30",
+          "mercredi": "13:30-17:30",
+          "jeudi": "13:30-17:30",
+          "vendredi": "13:30-17:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "248240[]",
+      "gid": "1352"
     },
     {
       "departement": "68",

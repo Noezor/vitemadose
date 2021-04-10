@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:56:10.920291+02:00",
+  "last_updated": "2021-04-10T18:59:31.789493+02:00",
   "centres_disponibles": [
     {
       "departement": "36",
@@ -116,6 +116,33 @@
     },
     {
       "departement": "36",
+      "nom": "Maison M\u00e9dicale Vatan",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/valencay/centres-de-vaccination-covid-du-boischaut-nord?pid=practice-165107",
+      "location": {
+        "longitude": 1.80983,
+        "latitude": 47.0723
+      },
+      "metadata": {
+        "address": "62 avenue de la Liberation, 36150 Vatan",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242919[165107]",
+      "gid": "1323"
+    },
+    {
+      "departement": "36",
       "nom": "Salle des f\u00eates Saint Gaultier / CPTS Val de Creuse",
       "url": "https://partners.doctolib.fr/centre-de-sante/saint-gaultier/centre-de-vaccination-saint-gaultier",
       "location": {
@@ -144,14 +171,14 @@
     },
     {
       "departement": "36",
-      "nom": "Maison M\u00e9dicale Vatan",
-      "url": "https://partners.doctolib.fr/centre-depistage-covid/valencay/centres-de-vaccination-covid-du-boischaut-nord?pid=practice-165107",
+      "nom": "Salle des f\u00eates La Ch\u00e2tre / CPTS Boischaut Sud",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/boischaut-sud/centre-de-vaccination-covid-du-boischaut-sud?pid=practice-164853",
       "location": {
-        "longitude": 1.80983,
-        "latitude": 47.0723
+        "longitude": 1.98652,
+        "latitude": 46.5803
       },
       "metadata": {
-        "address": "62 avenue de la Liberation, 36150 Vatan",
+        "address": "4 avenue Andr\u00e9 Malraux, 36400 La Ch\u00e2tre",
         "business_hours": {
           "lundi": "ferm\u00e9",
           "mardi": "ferm\u00e9",
@@ -166,8 +193,8 @@
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 0,
-      "internal_id": "242919[165107]",
-      "gid": "1323"
+      "internal_id": "242920[164853]",
+      "gid": "1326"
     },
     {
       "departement": "36",
@@ -196,33 +223,6 @@
       "appointment_count": 0,
       "internal_id": "247914[168762]",
       "gid": "1327"
-    },
-    {
-      "departement": "36",
-      "nom": "Salle des f\u00eates La Ch\u00e2tre / CPTS Boischaut Sud",
-      "url": "https://partners.doctolib.fr/centre-depistage-covid/boischaut-sud/centre-de-vaccination-covid-du-boischaut-sud?pid=practice-164853",
-      "location": {
-        "longitude": 1.98652,
-        "latitude": 46.5803
-      },
-      "metadata": {
-        "address": "4 avenue Andr\u00e9 Malraux, 36400 La Ch\u00e2tre",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242920[164853]",
-      "gid": "1326"
     },
     {
       "departement": "36",
@@ -364,33 +364,6 @@
     },
     {
       "departement": "36",
-      "nom": "P\u00f4le de sant\u00e9 de Valen\u00e7ay /CPTS Boischaut nord",
-      "url": "https://partners.doctolib.fr/centre-depistage-covid/valencay/centres-de-vaccination-covid-du-boischaut-nord",
-      "location": {
-        "longitude": 1.57349,
-        "latitude": 47.1625
-      },
-      "metadata": {
-        "address": "28 Rue des Princes, 36600 Valen\u00e7ay",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242919[164855]",
-      "gid": "1122"
-    },
-    {
-      "departement": "36",
       "nom": "B\u00e2timent communal \"La grange\" / CPTS Boischaut sud",
       "url": "https://partners.doctolib.fr/centre-depistage-covid/boischaut-sud/centre-de-vaccination-covid-du-boischaut-sud",
       "location": {
@@ -416,6 +389,33 @@
       "appointment_count": 0,
       "internal_id": "242920[164854]",
       "gid": "1121"
+    },
+    {
+      "departement": "36",
+      "nom": "P\u00f4le de sant\u00e9 de Valen\u00e7ay /CPTS Boischaut nord",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/valencay/centres-de-vaccination-covid-du-boischaut-nord",
+      "location": {
+        "longitude": 1.57349,
+        "latitude": 47.1625
+      },
+      "metadata": {
+        "address": "28 Rue des Princes, 36600 Valen\u00e7ay",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242919[164855]",
+      "gid": "1122"
     },
     {
       "departement": "36",
@@ -447,33 +447,6 @@
     },
     {
       "departement": "36",
-      "nom": "MC - Unit\u00e9 de soins somatiques et psychiatriques de la maison centrale de SAINT-MAUR / Maison Centrale de Saint-Maur",
-      "url": "",
-      "location": {
-        "longitude": 1.63118,
-        "latitude": 46.7995
-      },
-      "metadata": {
-        "address": " Bel Air, 36250 Saint-Maur",
-        "business_hours": {
-          "lundi": "Ferm\u00e9 au public",
-          "mardi": "Ferm\u00e9 au public",
-          "mercredi": "Ferm\u00e9 au public",
-          "jeudi": "Ferm\u00e9 au public",
-          "vendredi": "Ferm\u00e9 au public",
-          "samedi": "Ferm\u00e9 au public",
-          "dimanche": "Ferm\u00e9 au public"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Autre",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1801"
-    },
-    {
-      "departement": "36",
       "nom": "CP - Unit\u00e9 de soins somatiques et psychiatriques du centre p\u00e9nitentiaire de CHATEAUROUX \"Le Craquelin\" / Maison Centrale de Saint-Maur",
       "url": "",
       "location": {
@@ -498,6 +471,33 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1802"
+    },
+    {
+      "departement": "36",
+      "nom": "MC - Unit\u00e9 de soins somatiques et psychiatriques de la maison centrale de SAINT-MAUR / Maison Centrale de Saint-Maur",
+      "url": "",
+      "location": {
+        "longitude": 1.63118,
+        "latitude": 46.7995
+      },
+      "metadata": {
+        "address": " Bel Air, 36250 Saint-Maur",
+        "business_hours": {
+          "lundi": "Ferm\u00e9 au public",
+          "mardi": "Ferm\u00e9 au public",
+          "mercredi": "Ferm\u00e9 au public",
+          "jeudi": "Ferm\u00e9 au public",
+          "vendredi": "Ferm\u00e9 au public",
+          "samedi": "Ferm\u00e9 au public",
+          "dimanche": "Ferm\u00e9 au public"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1801"
     }
   ]
 }

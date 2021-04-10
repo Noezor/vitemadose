@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:56:10.934547+02:00",
+  "last_updated": "2021-04-10T18:59:31.806878+02:00",
   "centres_disponibles": [
     {
       "departement": "55",
@@ -135,43 +135,15 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-28T17:25:00.000+02:00",
+      "prochain_rdv": "2021-04-28T17:05:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 135,
+      "appointment_count": 136,
       "internal_id": "242246[]",
       "gid": "105"
     }
   ],
   "centres_indisponibles": [
-    {
-      "departement": "55",
-      "nom": "Lieu de vaccination de CLERMONT EN ARGONNE",
-      "url": "https://www.maiia.com/centre-de-vaccination/55120-clermont-en-argonne/centre-de-vaccination---clermont-en-argonne",
-      "location": {
-        "longitude": 5.0765,
-        "latitude": 49.1047
-      },
-      "metadata": {
-        "address": "11 Rue des D\u00e9port\u00e9s, 55120 Clermont-en-Argonne",
-        "phone_number": "+33372850117",
-        "business_hours": {
-          "lundi": "14:00-18:00",
-          "mardi": "14:00-18:00",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "14:00-18:00",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Maiia",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1282"
-    },
     {
       "departement": "55",
       "nom": "Lieu de vaccination de SPINCOURT - MSP",
@@ -202,21 +174,21 @@
     },
     {
       "departement": "55",
-      "nom": "Lieu de vaccination FRESNES EN WOEVRE - MSP",
-      "url": "https://www.maiia.com/centre-de-vaccination/55160-fresnes-en-woevre/centre-de-vaccination---fresnes-en-woevre",
+      "nom": "Lieu de vaccination de CLERMONT EN ARGONNE",
+      "url": "https://www.maiia.com/centre-de-vaccination/55120-clermont-en-argonne/centre-de-vaccination---clermont-en-argonne",
       "location": {
-        "longitude": 5.62516,
-        "latitude": 49.0945
+        "longitude": 5.0765,
+        "latitude": 49.1047
       },
       "metadata": {
-        "address": "16 bis Rue des Eparges, 55160 Fresnes-en-Wo\u00ebvre",
+        "address": "11 Rue des D\u00e9port\u00e9s, 55120 Clermont-en-Argonne",
         "phone_number": "+33372850117",
         "business_hours": {
-          "lundi": "A pr\u00e9ciser",
-          "mardi": "A pr\u00e9ciser",
-          "mercredi": "A pr\u00e9ciser",
-          "jeudi": "A pr\u00e9ciser",
-          "vendredi": "A pr\u00e9ciser",
+          "lundi": "14:00-18:00",
+          "mardi": "14:00-18:00",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "14:00-18:00",
+          "vendredi": "ferm\u00e9",
           "samedi": "ferm\u00e9",
           "dimanche": "ferm\u00e9"
         }
@@ -226,7 +198,7 @@
       "type": "vaccination-center",
       "appointment_count": 0,
       "internal_id": null,
-      "gid": "1284"
+      "gid": "1282"
     },
     {
       "departement": "55",
@@ -258,6 +230,34 @@
     },
     {
       "departement": "55",
+      "nom": "Lieu de vaccination FRESNES EN WOEVRE - MSP",
+      "url": "https://www.maiia.com/centre-de-vaccination/55160-fresnes-en-woevre/centre-de-vaccination---fresnes-en-woevre",
+      "location": {
+        "longitude": 5.62516,
+        "latitude": 49.0945
+      },
+      "metadata": {
+        "address": "16 bis Rue des Eparges, 55160 Fresnes-en-Wo\u00ebvre",
+        "phone_number": "+33372850117",
+        "business_hours": {
+          "lundi": "A pr\u00e9ciser",
+          "mardi": "A pr\u00e9ciser",
+          "mercredi": "A pr\u00e9ciser",
+          "jeudi": "A pr\u00e9ciser",
+          "vendredi": "A pr\u00e9ciser",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1284"
+    },
+    {
+      "departement": "55",
       "nom": "Lieu de vaccination de DAMVILLERS - MSP",
       "url": "https://www.maiia.com/centre-de-vaccination/55150-damvillers/centre-de-vaccination---damvillers",
       "location": {
@@ -286,34 +286,6 @@
     },
     {
       "departement": "55",
-      "nom": "Lieu de vaccination d' ETAIN (salle Brasse et Focosi)",
-      "url": "https://www.maiia.com/centre-de-vaccination/55400-etain/centre-de-vaccination-d--etain",
-      "location": {
-        "longitude": 5.63652,
-        "latitude": 49.2141
-      },
-      "metadata": {
-        "address": "11 Rue du Contour, 55400 \u00c9tain",
-        "phone_number": "+33372850117",
-        "business_hours": {
-          "lundi": "\u00e0 pr\u00e9ciser",
-          "mardi": "\u00e0 pr\u00e9ciser",
-          "mercredi": "\u00e0 pr\u00e9ciser",
-          "jeudi": "\u00e0 pr\u00e9ciser",
-          "vendredi": "\u00e0 pr\u00e9ciser",
-          "samedi": "\u00e0 pr\u00e9ciser",
-          "dimanche": "\u00e0 pr\u00e9ciser"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Maiia",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "2319"
-    },
-    {
-      "departement": "55",
       "nom": "Lieu de vaccination de Varennes en Argonne (salle polyvalente)",
       "url": "https://www.maiia.com/centre-de-vaccination/55270-varennes-en-argonne/centre-de-vaccination---varennes",
       "location": {
@@ -339,6 +311,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "2320"
+    },
+    {
+      "departement": "55",
+      "nom": "Lieu de vaccination d' ETAIN (salle Brasse et Focosi)",
+      "url": "https://www.maiia.com/centre-de-vaccination/55400-etain/centre-de-vaccination-d--etain",
+      "location": {
+        "longitude": 5.63652,
+        "latitude": 49.2141
+      },
+      "metadata": {
+        "address": "11 Rue du Contour, 55400 \u00c9tain",
+        "phone_number": "+33372850117",
+        "business_hours": {
+          "lundi": "\u00e0 pr\u00e9ciser",
+          "mardi": "\u00e0 pr\u00e9ciser",
+          "mercredi": "\u00e0 pr\u00e9ciser",
+          "jeudi": "\u00e0 pr\u00e9ciser",
+          "vendredi": "\u00e0 pr\u00e9ciser",
+          "samedi": "\u00e0 pr\u00e9ciser",
+          "dimanche": "\u00e0 pr\u00e9ciser"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "2319"
     },
     {
       "departement": "55",

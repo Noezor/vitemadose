@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:56:10.954909+02:00",
+  "last_updated": "2021-04-10T18:59:31.830967+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -365,34 +365,6 @@
     },
     {
       "departement": "72",
-      "nom": "Centre de Vaccination - LE MANS- Ouest",
-      "url": "https://partners.doctolib.fr/maison-de-sante/le-mans/reseau-de-sante-le-mans-ouest",
-      "location": {
-        "longitude": 0.184251,
-        "latitude": 48.012
-      },
-      "metadata": {
-        "address": "84 Avenue Rubillard, 72000 Le Mans",
-        "phone_number": "+33800710911",
-        "business_hours": {
-          "lundi": "8h30-12h30",
-          "mardi": "8h30-12h30",
-          "mercredi": "8h30-12h30",
-          "jeudi": "8h30-12h30",
-          "vendredi": "8h30-12h30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "241898[]",
-      "gid": "1124"
-    },
-    {
-      "departement": "72",
       "nom": "Centre de Vaccination - LE MANS- Courboulay",
       "url": "https://partners.doctolib.fr/centre-de-sante/le-mans/vaccination-covid-19-ctps-le-mans-agglo?pid=practice-164814",
       "location": {
@@ -418,6 +390,34 @@
       "appointment_count": 0,
       "internal_id": "242839[164814]",
       "gid": "1125"
+    },
+    {
+      "departement": "72",
+      "nom": "Centre de Vaccination - LE MANS- Ouest",
+      "url": "https://partners.doctolib.fr/maison-de-sante/le-mans/reseau-de-sante-le-mans-ouest",
+      "location": {
+        "longitude": 0.184251,
+        "latitude": 48.012
+      },
+      "metadata": {
+        "address": "84 Avenue Rubillard, 72000 Le Mans",
+        "phone_number": "+33800710911",
+        "business_hours": {
+          "lundi": "8h30-12h30",
+          "mardi": "8h30-12h30",
+          "mercredi": "8h30-12h30",
+          "jeudi": "8h30-12h30",
+          "vendredi": "8h30-12h30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241898[]",
+      "gid": "1124"
     },
     {
       "departement": "72",

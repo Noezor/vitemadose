@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:56:10.956807+02:00",
+  "last_updated": "2021-04-10T18:59:31.833069+02:00",
   "centres_disponibles": [
     {
       "departement": "74",
@@ -54,7 +54,7 @@
       "prochain_rdv": "2021-04-12T17:45:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 3,
+      "appointment_count": 4,
       "internal_id": "244399[165876]",
       "gid": "1332"
     },
@@ -245,10 +245,10 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-23T16:40:00.000+02:00",
+      "prochain_rdv": "2021-04-26T09:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 1,
+      "appointment_count": 183,
       "internal_id": "263003[]",
       "gid": "d263003"
     },
@@ -276,7 +276,7 @@
       "prochain_rdv": "2021-04-26T11:20:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 71,
+      "appointment_count": 72,
       "internal_id": "243248[]",
       "gid": "826"
     },
@@ -304,37 +304,9 @@
       "prochain_rdv": "2021-04-26T15:55:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 259,
+      "appointment_count": 260,
       "internal_id": "243127[]",
       "gid": "757"
-    },
-    {
-      "departement": "74",
-      "nom": "CENTRE HOSPITALIER  ANNECY GENEVOIS",
-      "url": "https://partners.doctolib.fr/hopital-public/annecy/centre-hospitalier-annecy-genevois-centre-de-depistage-et-de-vaccination-covid-19?pid=practice-163436%3fspeciality_id%3d5494",
-      "location": {
-        "longitude": 6.11774,
-        "latitude": 45.9342
-      },
-      "metadata": {
-        "address": "1  avenue de l'h\u00f4pital, 74370 Epagny Metz-Tessy",
-        "phone_number": "+33456497427",
-        "business_hours": {
-          "lundi": "08:00-18:00",
-          "mardi": "08:00-18:00",
-          "mercredi": "08:00-18:00",
-          "jeudi": "08:00-18:00",
-          "vendredi": "08:00-18:00",
-          "samedi": "08:00-12:00",
-          "dimanche": "Ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-27T11:30:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 8,
-      "internal_id": "241468[163436]",
-      "gid": "235"
     },
     {
       "departement": "74",
@@ -357,12 +329,40 @@
           "dimanche": "Ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-28T10:24:00.000+02:00",
+      "prochain_rdv": "2021-04-28T10:32:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 136,
+      "appointment_count": 134,
       "internal_id": "264503[181077]",
       "gid": "2281"
+    },
+    {
+      "departement": "74",
+      "nom": "CENTRE HOSPITALIER  ANNECY GENEVOIS",
+      "url": "https://partners.doctolib.fr/hopital-public/annecy/centre-hospitalier-annecy-genevois-centre-de-depistage-et-de-vaccination-covid-19?pid=practice-163436%3fspeciality_id%3d5494",
+      "location": {
+        "longitude": 6.11774,
+        "latitude": 45.9342
+      },
+      "metadata": {
+        "address": "1  avenue de l'h\u00f4pital, 74370 Epagny Metz-Tessy",
+        "phone_number": "+33456497427",
+        "business_hours": {
+          "lundi": "08:00-18:00",
+          "mardi": "08:00-18:00",
+          "mercredi": "08:00-18:00",
+          "jeudi": "08:00-18:00",
+          "vendredi": "08:00-18:00",
+          "samedi": "08:00-12:00",
+          "dimanche": "Ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-28T13:42:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 8,
+      "internal_id": "241468[163436]",
+      "gid": "235"
     },
     {
       "departement": "74",
@@ -385,10 +385,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-29T11:45:00.000+02:00",
+      "prochain_rdv": "2021-04-29T17:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 21,
+      "appointment_count": 19,
       "internal_id": "243621[]",
       "gid": "960"
     },
@@ -416,7 +416,7 @@
       "prochain_rdv": "2021-05-05T18:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 31,
+      "appointment_count": 30,
       "internal_id": "243146[]",
       "gid": "743"
     },
@@ -441,10 +441,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-06T11:45:00.000+02:00",
+      "prochain_rdv": "2021-05-06T12:00:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 2,
+      "appointment_count": 1,
       "internal_id": "243203[]",
       "gid": "761"
     },
@@ -638,34 +638,6 @@
     },
     {
       "departement": "74",
-      "nom": "Centre de vaccination de Rumilly Salle des f\u00eates municipale",
-      "url": "https://partners.doctolib.fr/hopital-public/rumilly/centre-de-vaccination-covid-ch-gabriel-deplante?pid=practice-164564",
-      "location": {
-        "longitude": 5.93889,
-        "latitude": 45.8634
-      },
-      "metadata": {
-        "address": "1 Rue du Sophora, 74150 Rumilly",
-        "phone_number": "+33450018399",
-        "business_hours": {
-          "lundi": "14:00-18:00",
-          "mardi": "08:30-12:30/14:00-18:00",
-          "mercredi": "08:30-12:30/14:00-18:00",
-          "jeudi": "08:30-12:30/14:00-18:00",
-          "vendredi": "08:30-12:30/14:00-18:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242593[164564]",
-      "gid": "1168"
-    },
-    {
-      "departement": "74",
       "nom": "H\u00f4pitaux du L\u00e9man - Espace g\u00e9riatrique",
       "url": "https://partners.doctolib.fr/etablissement-de-prevention/thonon-les-bains/centre-de-vaccination-covid19-hopitaux-du-leman?pid=practice-162698",
       "location": {
@@ -691,6 +663,34 @@
       "appointment_count": 0,
       "internal_id": "243729[162698]",
       "gid": "1331"
+    },
+    {
+      "departement": "74",
+      "nom": "Centre de vaccination de Rumilly Salle des f\u00eates municipale",
+      "url": "https://partners.doctolib.fr/hopital-public/rumilly/centre-de-vaccination-covid-ch-gabriel-deplante?pid=practice-164564",
+      "location": {
+        "longitude": 5.93889,
+        "latitude": 45.8634
+      },
+      "metadata": {
+        "address": "1 Rue du Sophora, 74150 Rumilly",
+        "phone_number": "+33450018399",
+        "business_hours": {
+          "lundi": "14:00-18:00",
+          "mardi": "08:30-12:30/14:00-18:00",
+          "mercredi": "08:30-12:30/14:00-18:00",
+          "jeudi": "08:30-12:30/14:00-18:00",
+          "vendredi": "08:30-12:30/14:00-18:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242593[164564]",
+      "gid": "1168"
     },
     {
       "departement": "74",

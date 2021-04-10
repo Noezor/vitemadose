@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:56:10.892500+02:00",
+  "last_updated": "2021-04-10T18:59:31.755616+02:00",
   "centres_disponibles": [
     {
       "departement": "07",
@@ -118,34 +118,6 @@
     },
     {
       "departement": "07",
-      "nom": "CENTRE HOSPITALIER D'ARDECHE NORD (Professionnels de sant\u00e9 uniquement)",
-      "url": "https://www.maiia.com/centre-hospitalier-(ch)/07100-annonay/centre-hospitalier-d-ardeche-nord-",
-      "location": {
-        "longitude": 4.66582,
-        "latitude": 45.2419
-      },
-      "metadata": {
-        "address": "1 rue du Bon Pasteur, 07100 Annonay",
-        "phone_number": "+33475673927",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "09:00-12:30/13:00-16:30",
-          "mercredi": "09:00-12:30/13:00-16:30",
-          "jeudi": "09:00-12:30/13:00-16:30",
-          "vendredi": "09:00-12:30/13:00-16:30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Maiia",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "237"
-    },
-    {
-      "departement": "07",
       "nom": "Centre de vaccination \u00e9ph\u00e9m\u00e8re du Val d'Ay",
       "url": "",
       "location": {
@@ -225,6 +197,34 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1624"
+    },
+    {
+      "departement": "07",
+      "nom": "CENTRE HOSPITALIER D'ARDECHE NORD (Professionnels de sant\u00e9 uniquement)",
+      "url": "https://www.maiia.com/centre-hospitalier-(ch)/07100-annonay/centre-hospitalier-d-ardeche-nord-",
+      "location": {
+        "longitude": 4.66582,
+        "latitude": 45.2419
+      },
+      "metadata": {
+        "address": "1 rue du Bon Pasteur, 07100 Annonay",
+        "phone_number": "+33475673927",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "09:00-12:30/13:00-16:30",
+          "mercredi": "09:00-12:30/13:00-16:30",
+          "jeudi": "09:00-12:30/13:00-16:30",
+          "vendredi": "09:00-12:30/13:00-16:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "237"
     },
     {
       "departement": "07",

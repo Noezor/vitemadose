@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:56:10.935433+02:00",
+  "last_updated": "2021-04-10T18:59:31.807947+02:00",
   "centres_disponibles": [
     {
       "departement": "56",
@@ -26,7 +26,7 @@
       "prochain_rdv": "2021-04-12T14:55:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 331,
+      "appointment_count": 332,
       "internal_id": null,
       "gid": "454"
     },
@@ -51,10 +51,10 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-04-22T13:15:00.000000+0200",
+      "prochain_rdv": "2021-04-19T13:35:00.000000+0200",
       "plateforme": "Keldoc",
       "type": "vaccination-center",
-      "appointment_count": 779,
+      "appointment_count": 780,
       "internal_id": null,
       "gid": "1215"
     },
@@ -78,7 +78,7 @@
           "dimanche": null
         }
       },
-      "prochain_rdv": "2021-04-22T16:09:00.000+02:00",
+      "prochain_rdv": "2021-04-20T16:39:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
       "appointment_count": 150,
@@ -109,7 +109,7 @@
       "prochain_rdv": "2021-04-30T14:16:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 23,
+      "appointment_count": 24,
       "internal_id": "259993[177858]",
       "gid": "2120"
     },
@@ -284,34 +284,6 @@
     },
     {
       "departement": "56",
-      "nom": "GRANDCHAMP - Salle multifonctionnelle",
-      "url": "https://partners.doctolib.fr/hopital-public/grand-champ/ghba-centre-de-vaccination-covid-grandchamp?pid=practice-165902",
-      "location": {
-        "longitude": -2.85901,
-        "latitude": 47.759
-      },
-      "metadata": {
-        "address": " Boulevard du stade, 56390 Grand-Champ",
-        "phone_number": "+33297019956",
-        "business_hours": {
-          "lundi": "9h-12h / 14h30-17h30",
-          "mardi": "14h30-17h30",
-          "mercredi": "9h-12h / 14h30-17h30",
-          "jeudi": "9h-12h / 14h30-17h30",
-          "vendredi": "9h-12h / 14h30-17h30",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "246058[165902]",
-      "gid": "897"
-    },
-    {
-      "departement": "56",
       "nom": "CH AURAY",
       "url": "https://partners.doctolib.fr/hopital-public/auray/chba-centre-de-vaccination-covid-d-auray?pid=practice-164632",
       "location": {
@@ -337,6 +309,34 @@
       "appointment_count": 0,
       "internal_id": "245494[164632]",
       "gid": "894"
+    },
+    {
+      "departement": "56",
+      "nom": "GRANDCHAMP - Salle multifonctionnelle",
+      "url": "https://partners.doctolib.fr/hopital-public/grand-champ/ghba-centre-de-vaccination-covid-grandchamp?pid=practice-165902",
+      "location": {
+        "longitude": -2.85901,
+        "latitude": 47.759
+      },
+      "metadata": {
+        "address": " Boulevard du stade, 56390 Grand-Champ",
+        "phone_number": "+33297019956",
+        "business_hours": {
+          "lundi": "9h-12h / 14h30-17h30",
+          "mardi": "14h30-17h30",
+          "mercredi": "9h-12h / 14h30-17h30",
+          "jeudi": "9h-12h / 14h30-17h30",
+          "vendredi": "9h-12h / 14h30-17h30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "246058[165902]",
+      "gid": "897"
     },
     {
       "departement": "56",

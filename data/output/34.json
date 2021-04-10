@@ -1,7 +1,36 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:56:10.917643+02:00",
-  "centres_disponibles": [],
+  "last_updated": "2021-04-10T18:59:31.786408+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "34",
+      "nom": "BEZIERS Centre Zinga Zanga (grande salle de spectacle)",
+      "url": "https://partners.doctolib.fr/centre-de-sante/beziers/centre-de-vaccination-publiques-de-la-ville-de-beziers",
+      "location": {
+        "longitude": 3.18991,
+        "latitude": 43.331
+      },
+      "metadata": {
+        "address": " Traverse de Colombiers, 34500 B\u00e9ziers",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "9:00-17:00",
+          "mardi": "9:00-17:00",
+          "mercredi": "9:00-17:00",
+          "jeudi": "9:00-17:00",
+          "vendredi": "9:00-17:00",
+          "samedi": "9:00-17:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-11T09:55:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 8,
+      "internal_id": "242471[]",
+      "gid": "603"
+    }
+  ],
   "centres_indisponibles": [
     {
       "departement": "34",
@@ -201,34 +230,6 @@
     },
     {
       "departement": "34",
-      "nom": "S\u00e8te Centre de vaccination",
-      "url": "https://partners.doctolib.fr/centre-de-sante/sete/centre-de-vaccination-cpts-du-bassin-de-thau",
-      "location": {
-        "longitude": 3.69848,
-        "latitude": 43.4127
-      },
-      "metadata": {
-        "address": " Route de Cayenne (parking du Mas Coulet), 34200 S\u00e8te",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "12:00-18:00",
-          "mardi": "10:00-18:00",
-          "mercredi": "10:00-18:00",
-          "jeudi": "10:00-18:00",
-          "vendredi": "10:00-18:00",
-          "samedi": "10:00-18:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242290[]",
-      "gid": "531"
-    },
-    {
-      "departement": "34",
       "nom": "Centre de vaccination - Clinique St Louis de Ganges",
       "url": "https://partners.doctolib.fr/centre-depistage-covid/ganges/centres-de-vaccination-cap-sante",
       "location": {
@@ -257,6 +258,34 @@
     },
     {
       "departement": "34",
+      "nom": "S\u00e8te Centre de vaccination",
+      "url": "https://partners.doctolib.fr/centre-de-sante/sete/centre-de-vaccination-cpts-du-bassin-de-thau",
+      "location": {
+        "longitude": 3.69848,
+        "latitude": 43.4127
+      },
+      "metadata": {
+        "address": " Route de Cayenne (parking du Mas Coulet), 34200 S\u00e8te",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "12:00-18:00",
+          "mardi": "10:00-18:00",
+          "mercredi": "10:00-18:00",
+          "jeudi": "10:00-18:00",
+          "vendredi": "10:00-18:00",
+          "samedi": "10:00-18:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242290[]",
+      "gid": "531"
+    },
+    {
+      "departement": "34",
       "nom": "Centre de vaccination St Martin de Londres",
       "url": "https://partners.doctolib.fr/centre-de-sante/saint-martin-de-londres/centre-de-vaccination-covid-saint-martin-de-londres?pid=practice-165713",
       "location": {
@@ -282,34 +311,6 @@
       "appointment_count": 0,
       "internal_id": "244041[165713]",
       "gid": "1257"
-    },
-    {
-      "departement": "34",
-      "nom": "BEZIERS Centre Zinga Zanga (grande salle de spectacle)",
-      "url": "https://partners.doctolib.fr/centre-de-sante/beziers/centre-de-vaccination-publiques-de-la-ville-de-beziers",
-      "location": {
-        "longitude": 3.18991,
-        "latitude": 43.331
-      },
-      "metadata": {
-        "address": " Traverse de Colombiers, 34500 B\u00e9ziers",
-        "phone_number": "+33800541919",
-        "business_hours": {
-          "lundi": "9:00-17:00",
-          "mardi": "9:00-17:00",
-          "mercredi": "9:00-17:00",
-          "jeudi": "9:00-17:00",
-          "vendredi": "9:00-17:00",
-          "samedi": "9:00-17:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242471[]",
-      "gid": "603"
     },
     {
       "departement": "34",
@@ -930,26 +931,6 @@
     },
     {
       "departement": "34",
-      "nom": "Pharmacie Des Vignes",
-      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-vignes-montpellier",
-      "location": {
-        "longitude": 3.8577281,
-        "latitude": 43.6143535
-      },
-      "metadata": {
-        "address": "31 avenue Ecole Agriculture G. Buchet, 34000 MONTPELLIER",
-        "phone_number": "+33467630785",
-        "business_hours": null
-      },
-      "prochain_rdv": null,
-      "plateforme": "Ordoclic",
-      "type": "drugstore",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "b07ad721"
-    },
-    {
-      "departement": "34",
       "nom": "Pharmacie Des Lilas",
       "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-lilas",
       "location": {
@@ -967,6 +948,26 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "bd4abada"
+    },
+    {
+      "departement": "34",
+      "nom": "Pharmacie Des Vignes",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-vignes-montpellier",
+      "location": {
+        "longitude": 3.8577281,
+        "latitude": 43.6143535
+      },
+      "metadata": {
+        "address": "31 avenue Ecole Agriculture G. Buchet, 34000 MONTPELLIER",
+        "phone_number": "+33467630785",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "b07ad721"
     },
     {
       "departement": "34",

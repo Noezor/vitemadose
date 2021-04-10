@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:56:10.966517+02:00",
+  "last_updated": "2021-04-10T18:59:31.844811+02:00",
   "centres_disponibles": [
     {
       "departement": "80",
@@ -60,6 +60,34 @@
     },
     {
       "departement": "80",
+      "nom": "Centre de vaccination - CPTS Espace Eug\u00e8ne Viandier",
+      "url": "https://partners.doctolib.fr/etablissement-de-prevention/saleux/centre-de-vaccination-covid-19-de-saleux?pid=practice-164882%3fspeciality_id%3d5494",
+      "location": {
+        "longitude": 2.23815,
+        "latitude": 49.8618
+      },
+      "metadata": {
+        "address": " Place Numa BUIGNET, 80480 Saleux",
+        "phone_number": "+33392043471",
+        "business_hours": {
+          "lundi": "09:00-19:00",
+          "mardi": "09:00-19:00",
+          "mercredi": "09:00-19:00",
+          "jeudi": "09:00-19:00",
+          "vendredi": "09:00-19:00",
+          "samedi": "09:00-18:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-14T13:40:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 42,
+      "internal_id": "242925[164882]",
+      "gid": "1102"
+    },
+    {
+      "departement": "80",
       "nom": "Centre de vaccination Covid-19 de Saleux",
       "url": "https://partners.doctolib.fr/centre-de-sante/saleux/centre-de-vaccination-covid-19-de-saleux",
       "location": {
@@ -82,37 +110,9 @@
       "prochain_rdv": "2021-04-14T13:40:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 43,
+      "appointment_count": 42,
       "internal_id": "242925[]",
       "gid": "d242925"
-    },
-    {
-      "departement": "80",
-      "nom": "Centre de vaccination - CPTS Espace Eug\u00e8ne Viandier",
-      "url": "https://partners.doctolib.fr/etablissement-de-prevention/saleux/centre-de-vaccination-covid-19-de-saleux?pid=practice-164882%3fspeciality_id%3d5494",
-      "location": {
-        "longitude": 2.23815,
-        "latitude": 49.8618
-      },
-      "metadata": {
-        "address": " Place Numa BUIGNET, 80480 Saleux",
-        "phone_number": "+33392043471",
-        "business_hours": {
-          "lundi": "09:00-19:00",
-          "mardi": "09:00-19:00",
-          "mercredi": "09:00-19:00",
-          "jeudi": "09:00-19:00",
-          "vendredi": "09:00-19:00",
-          "samedi": "09:00-18:00",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-14T13:50:00.000+02:00",
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 42,
-      "internal_id": "242925[164882]",
-      "gid": "1102"
     },
     {
       "departement": "80",
@@ -367,6 +367,33 @@
     },
     {
       "departement": "80",
+      "nom": "Centre de Vaccination - Ville de Saint-Val\u00e9ry-Sur-Somme, Entrep\u00f4t des sel",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/st-valery-sur-somme-80230/st-valery-sur-somme/centre-de-vaccination-du-st-valery-sur-somme",
+      "location": {
+        "longitude": 1.64405,
+        "latitude": 50.1809
+      },
+      "metadata": {
+        "address": "2 Quai Lejoille, 80230 Saint-Valery-sur-Somme",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1395"
+    },
+    {
+      "departement": "80",
       "nom": "Centre de vaccination - Ville de Poix-de-Picardie, SALLE DES F\u00caTES",
       "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/poix-de-picardie-80290/poix-de-picardie/centre-de-vaccination-de-poix-de-picardie",
       "location": {
@@ -392,33 +419,6 @@
       "appointment_count": 0,
       "internal_id": null,
       "gid": "1393"
-    },
-    {
-      "departement": "80",
-      "nom": "Centre de Vaccination - Ville de Saint-Val\u00e9ry-Sur-Somme, Entrep\u00f4t des sel",
-      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/st-valery-sur-somme-80230/st-valery-sur-somme/centre-de-vaccination-du-st-valery-sur-somme",
-      "location": {
-        "longitude": 1.64405,
-        "latitude": 50.1809
-      },
-      "metadata": {
-        "address": "2 Quai Lejoille, 80230 Saint-Valery-sur-Somme",
-        "business_hours": {
-          "lundi": "ferm\u00e9",
-          "mardi": "ferm\u00e9",
-          "mercredi": "ferm\u00e9",
-          "jeudi": "ferm\u00e9",
-          "vendredi": "ferm\u00e9",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Keldoc",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": null,
-      "gid": "1395"
     },
     {
       "departement": "80",
@@ -450,34 +450,6 @@
     },
     {
       "departement": "80",
-      "nom": "Centre de vaccination - CH P\u00c9RONNE",
-      "url": "https://partners.doctolib.fr/hopital-public/peronne/ch-de-peronne",
-      "location": {
-        "longitude": 2.93133,
-        "latitude": 49.9346
-      },
-      "metadata": {
-        "address": " Place du Jeu de Paume, 80200 P\u00e9ronne",
-        "phone_number": "03 92 04 34 71 ",
-        "business_hours": {
-          "lundi": "08:30-12:30/13:30-17:30",
-          "mardi": "08:30-12:30/13:30-17:30",
-          "mercredi": "08:30-12:30/13:30-17:30",
-          "jeudi": "08:30-12:30/14:30-17:30",
-          "vendredi": "08:30-12:30/13:30-17:30",
-          "samedi": "08:30-12:30/13:30-17:30",
-          "dimanche": "08:30-12:30/13:30-17:30"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "214420[]",
-      "gid": "171"
-    },
-    {
-      "departement": "80",
       "nom": "Centre de vaccination - Communaut\u00e9 de commune VIMEU Baie de la somme ( Salle Edith Piaf)",
       "url": "https://partners.doctolib.fr/centre-de-sante/friville-escarbotin/centre-de-vaccination-covid-vimeu-baie-de-somme",
       "location": {
@@ -503,6 +475,34 @@
       "appointment_count": 0,
       "internal_id": "244306[]",
       "gid": "1097"
+    },
+    {
+      "departement": "80",
+      "nom": "Centre de vaccination - CH P\u00c9RONNE",
+      "url": "https://partners.doctolib.fr/hopital-public/peronne/ch-de-peronne",
+      "location": {
+        "longitude": 2.93133,
+        "latitude": 49.9346
+      },
+      "metadata": {
+        "address": " Place du Jeu de Paume, 80200 P\u00e9ronne",
+        "phone_number": "03 92 04 34 71 ",
+        "business_hours": {
+          "lundi": "08:30-12:30/13:30-17:30",
+          "mardi": "08:30-12:30/13:30-17:30",
+          "mercredi": "08:30-12:30/13:30-17:30",
+          "jeudi": "08:30-12:30/14:30-17:30",
+          "vendredi": "08:30-12:30/13:30-17:30",
+          "samedi": "08:30-12:30/13:30-17:30",
+          "dimanche": "08:30-12:30/13:30-17:30"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "214420[]",
+      "gid": "171"
     },
     {
       "departement": "80",

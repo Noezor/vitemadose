@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:56:10.887380+02:00",
+  "last_updated": "2021-04-10T18:59:31.749574+02:00",
   "centres_disponibles": [
     {
       "departement": "01",
@@ -92,34 +92,6 @@
     },
     {
       "departement": "01",
-      "nom": "Centre de vaccination de la Plaine de l'Ain - Espace 1500",
-      "url": "https://www.maiia.com/centre-de-vaccination/01500-amberieu-en-bugey/centre-de-vaccination-de-la-plaine-de-l-ain",
-      "location": {
-        "longitude": 5.34764,
-        "latitude": 45.961
-      },
-      "metadata": {
-        "address": "8 Rue du Savoir, 01500 Amb\u00e9rieu-en-Bugey",
-        "phone_number": "+33428640049",
-        "business_hours": {
-          "lundi": "08:30-12:30/14:00-18:00",
-          "mardi": "08:30-12:30/14:00-18:00",
-          "mercredi": "08:30-12:30/14:00-18:00",
-          "jeudi": "08:30-12:30/14:00-18:00",
-          "vendredi": "08:30-12:30/14:00-18:00",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": "2021-04-15T15:05:00.000000Z",
-      "plateforme": "Maiia",
-      "type": "vaccination-center",
-      "appointment_count": 207,
-      "internal_id": null,
-      "gid": "1216"
-    },
-    {
-      "departement": "01",
       "nom": "Centre de vaccination de Valserh\u00f4ne - Centre Jean Marinet",
       "url": "https://vaccination-covid.keldoc.com/cabinet-medical/valserhone-1200/jean-marinet/centre-de-vaccination-de-jean-marinet",
       "location": {
@@ -197,9 +169,37 @@
       "prochain_rdv": "2021-04-26T11:35:00.000+02:00",
       "plateforme": "Doctolib",
       "type": "vaccination-center",
-      "appointment_count": 343,
+      "appointment_count": 342,
       "internal_id": "241931[]",
       "gid": "797"
+    },
+    {
+      "departement": "01",
+      "nom": "Centre de vaccination de la Plaine de l'Ain - Espace 1500",
+      "url": "https://www.maiia.com/centre-de-vaccination/01500-amberieu-en-bugey/centre-de-vaccination-de-la-plaine-de-l-ain",
+      "location": {
+        "longitude": 5.34764,
+        "latitude": 45.961
+      },
+      "metadata": {
+        "address": "8 Rue du Savoir, 01500 Amb\u00e9rieu-en-Bugey",
+        "phone_number": "+33428640049",
+        "business_hours": {
+          "lundi": "08:30-12:30/14:00-18:00",
+          "mardi": "08:30-12:30/14:00-18:00",
+          "mercredi": "08:30-12:30/14:00-18:00",
+          "jeudi": "08:30-12:30/14:00-18:00",
+          "vendredi": "08:30-12:30/14:00-18:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-06T14:45:00.000000Z",
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 206,
+      "internal_id": null,
+      "gid": "1216"
     },
     {
       "departement": "01",
@@ -221,7 +221,7 @@
           "dimanche": "ferm\u00e9"
         }
       },
-      "prochain_rdv": "2021-05-07T11:35:00.000000Z",
+      "prochain_rdv": "2021-05-07T11:40:00.000000Z",
       "plateforme": "Maiia",
       "type": "vaccination-center",
       "appointment_count": 18,

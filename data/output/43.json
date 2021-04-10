@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:56:10.926631+02:00",
+  "last_updated": "2021-04-10T18:59:31.797287+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -33,34 +33,6 @@
     },
     {
       "departement": "43",
-      "nom": "Centre vaccination Craponne",
-      "url": "https://partners.doctolib.fr/hopital-public/espaly-saint-marcel/centre-de-vaccination-covid-19-ch-puy-en-velay?pid=practice-170088",
-      "location": {
-        "longitude": 3.84798,
-        "latitude": 45.3288
-      },
-      "metadata": {
-        "address": "4 Rue du Stade, 43500 Craponne-sur-Arzon",
-        "phone_number": "+33188889596",
-        "business_hours": {
-          "lundi": "",
-          "mardi": "",
-          "mercredi": "",
-          "jeudi": "",
-          "vendredi": "",
-          "samedi": "",
-          "dimanche": ""
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242975[170088]",
-      "gid": "1391"
-    },
-    {
-      "departement": "43",
       "nom": "Centre vaccination Monistrol",
       "url": "https://partners.doctolib.fr/hopital-public/yssingeaux/centre-de-vaccination-covid-19-ch-de-yssingeaux?pid=practice-170373",
       "location": {
@@ -86,6 +58,34 @@
       "appointment_count": 0,
       "internal_id": "244634[170373]",
       "gid": "1392"
+    },
+    {
+      "departement": "43",
+      "nom": "Centre vaccination Craponne",
+      "url": "https://partners.doctolib.fr/hopital-public/espaly-saint-marcel/centre-de-vaccination-covid-19-ch-puy-en-velay?pid=practice-170088",
+      "location": {
+        "longitude": 3.84798,
+        "latitude": 45.3288
+      },
+      "metadata": {
+        "address": "4 Rue du Stade, 43500 Craponne-sur-Arzon",
+        "phone_number": "+33188889596",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242975[170088]",
+      "gid": "1391"
     },
     {
       "departement": "43",

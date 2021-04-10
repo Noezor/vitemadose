@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:56:10.931632+02:00",
+  "last_updated": "2021-04-10T18:59:31.803326+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -396,34 +396,6 @@
     },
     {
       "departement": "51",
-      "nom": "Centre de vaccination de Sainte Menehould, salle polyvalente communale",
-      "url": "https://partners.doctolib.fr/hopital-public/sainte-menehould/centre-de-vaccination-argonne-marne",
-      "location": {
-        "longitude": 4.90593,
-        "latitude": 49.0937
-      },
-      "metadata": {
-        "address": " Rue du Quartier Valmy, 51800 Sainte-Menehould",
-        "phone_number": "+33352829786",
-        "business_hours": {
-          "lundi": "08:30-12:30/13:30-17:30",
-          "mardi": "08:30-12:30/13:30-17:30",
-          "mercredi": "08:30-12:30/13:30-17:30",
-          "jeudi": "08:30-12:30/13:30-17:30",
-          "vendredi": "08:30-12:30/13:30-17:30",
-          "samedi": "08:30-12:30",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "242949[]",
-      "gid": "1017"
-    },
-    {
-      "departement": "51",
       "nom": "Centre de vaccination de Cernay-les-Reims - Salle de La Marelle",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/reims/centres-de-vaccination-grand-reims?pid=practice-164806",
       "location": {
@@ -449,6 +421,34 @@
       "appointment_count": 0,
       "internal_id": "242954[164806]",
       "gid": "933"
+    },
+    {
+      "departement": "51",
+      "nom": "Centre de vaccination de Sainte Menehould, salle polyvalente communale",
+      "url": "https://partners.doctolib.fr/hopital-public/sainte-menehould/centre-de-vaccination-argonne-marne",
+      "location": {
+        "longitude": 4.90593,
+        "latitude": 49.0937
+      },
+      "metadata": {
+        "address": " Rue du Quartier Valmy, 51800 Sainte-Menehould",
+        "phone_number": "+33352829786",
+        "business_hours": {
+          "lundi": "08:30-12:30/13:30-17:30",
+          "mardi": "08:30-12:30/13:30-17:30",
+          "mercredi": "08:30-12:30/13:30-17:30",
+          "jeudi": "08:30-12:30/13:30-17:30",
+          "vendredi": "08:30-12:30/13:30-17:30",
+          "samedi": "08:30-12:30",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242949[]",
+      "gid": "1017"
     },
     {
       "departement": "51",

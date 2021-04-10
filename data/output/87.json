@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2021-04-10T18:56:10.972540+02:00",
+  "last_updated": "2021-04-10T18:59:31.852210+02:00",
   "centres_disponibles": [],
   "centres_indisponibles": [
     {
@@ -145,34 +145,6 @@
     },
     {
       "departement": "87",
-      "nom": "CH SAINT JUNIEN",
-      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante?pid=practice-162981",
-      "location": {
-        "longitude": 0.897567,
-        "latitude": 45.8886
-      },
-      "metadata": {
-        "address": "12 Rue Chateaubriand, 87200 Saint-Junien",
-        "phone_number": "+33555087533",
-        "business_hours": {
-          "lundi": "09:30-12:30  13:30-16:00",
-          "mardi": "09:30-12:30  13:30-16:00",
-          "mercredi": "09:30-12:30  13:30-16:00",
-          "jeudi": "09:30-12:30  13:30-16:00",
-          "vendredi": "",
-          "samedi": "ferm\u00e9",
-          "dimanche": "ferm\u00e9"
-        }
-      },
-      "prochain_rdv": null,
-      "plateforme": "Doctolib",
-      "type": "vaccination-center",
-      "appointment_count": 0,
-      "internal_id": "240406[162981]",
-      "gid": "217"
-    },
-    {
-      "departement": "87",
       "nom": "POLYCLINIQUE - SITE CHENIEUX",
       "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante?pid=practice-162986",
       "location": {
@@ -198,6 +170,34 @@
       "appointment_count": 0,
       "internal_id": "240406[162986]",
       "gid": "220"
+    },
+    {
+      "departement": "87",
+      "nom": "CH SAINT JUNIEN",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante?pid=practice-162981",
+      "location": {
+        "longitude": 0.897567,
+        "latitude": 45.8886
+      },
+      "metadata": {
+        "address": "12 Rue Chateaubriand, 87200 Saint-Junien",
+        "phone_number": "+33555087533",
+        "business_hours": {
+          "lundi": "09:30-12:30  13:30-16:00",
+          "mardi": "09:30-12:30  13:30-16:00",
+          "mercredi": "09:30-12:30  13:30-16:00",
+          "jeudi": "09:30-12:30  13:30-16:00",
+          "vendredi": "",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240406[162981]",
+      "gid": "217"
     },
     {
       "departement": "87",
